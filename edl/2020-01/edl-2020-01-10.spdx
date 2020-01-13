@@ -1,0 +1,1834 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_edl-2020-01-10.zip_1578937611.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-13T17:46:51Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: edl-2020-01-10.zip
+PackageFileName: edl-2020-01-10.zip
+SPDXID: SPDXRef-upload2106
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 21373d92828df0fafd4f631bd31246d183c74223
+PackageChecksum: SHA1: c867663182e0ef726e5f589429798714eb1b786a
+PackageChecksum: MD5: 9ed2ca0e63f08cf87abc71c730acc004
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2106
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: edl/README.md
+SPDXID: SPDXRef-item7994206
+FileChecksum: SHA1: 2d361500a4949f4e5063f81761c35bdaf80cc180
+FileChecksum: MD5: 8d5feb83d30960c4ea2548d562a1f296
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/collector.py
+SPDXID: SPDXRef-item7994099
+FileChecksum: SHA1: b07a493e23f41d33d2321fa43e42b99fb5685fc5
+FileChecksum: MD5: 70c47203b07200a00bd55621fb687f30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 PaddlePaddle Authors. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/train_ft.py
+SPDXID: SPDXRef-item7994111
+FileChecksum: SHA1: d6847bbdd3a24802e590606d0e64ac848ada97d2
+FileChecksum: MD5: a9802385ad7f9b84170bb45352c0e3af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 PaddlePaddle Authors. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/LICENSE
+SPDXID: SPDXRef-item7994214
+FileChecksum: SHA1: c4f83e3c86d18bb2bf3e636db2b65e30299b9eb1
+FileChecksum: MD5: b608538585abfcb0a436fc63c1568a42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors. All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/clientset.go
+SPDXID: SPDXRef-item7994219
+FileChecksum: SHA1: d0f2b073636ce5abadb5f8d22cb7d9014cc965fb
+FileChecksum: MD5: 8fb52e4e454188ae46cf5a6f795f268b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/fake/clientset_generated.go
+SPDXID: SPDXRef-item7994221
+FileChecksum: SHA1: b8e73ba0245500fa4c7dd62e64d55185bb4b7bee
+FileChecksum: MD5: be1b2a2c91b0f0fd223350e9825b8da5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/fake/register.go
+SPDXID: SPDXRef-item7994223
+FileChecksum: SHA1: 313d71bc37ce4484760391b15671c13ee3127758
+FileChecksum: MD5: b0e1dcbeb767776feab01c108ae0ed6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/fake/doc.go
+SPDXID: SPDXRef-item7994222
+FileChecksum: SHA1: 4d0ca197375046f28bbe66239183521735e8f048
+FileChecksum: MD5: df7a5b0b8e591d14f9f89bf153adca54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/trainingjob.go
+SPDXID: SPDXRef-item7994227
+FileChecksum: SHA1: ce17eda4f2263db10bc116ff6265064746af15d7
+FileChecksum: MD5: 80b10022d7ae52f09b134d005970ef8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/paddlepaddle_client.go
+SPDXID: SPDXRef-item7994228
+FileChecksum: SHA1: 6b5b47d7e88a95e56314080eec78b08c5e4d0380
+FileChecksum: MD5: 547a224d91344e1e5d389e81f4a2b59f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/generated_expansion.go
+SPDXID: SPDXRef-item7994229
+FileChecksum: SHA1: ca143a5c89d1a01131c10a1d58a87f49d1f89244
+FileChecksum: MD5: 78d08f63d18d6ba882f963cbf7e1ed94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/fake/fake_paddlepaddle_client.go
+SPDXID: SPDXRef-item7994232
+FileChecksum: SHA1: 6df5e977be05913db0e26f84e9197f66dba0f601
+FileChecksum: MD5: e9a43cf9cfff2bac18094769fc176776
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/fake/fake_trainingjob.go
+SPDXID: SPDXRef-item7994231
+FileChecksum: SHA1: 5329a03f7f9007043d4e23dc846f7b378695a12a
+FileChecksum: MD5: 54bb45630824e0aa86baf95df619ecab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/doc.go
+SPDXID: SPDXRef-item7994234
+FileChecksum: SHA1: 86ea41cfbb65e926e68c646608cd2092ecff8bd1
+FileChecksum: MD5: 81666d9a884ef351c2403b946496dc66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/typed/paddlepaddle/v1/fake/doc.go
+SPDXID: SPDXRef-item7994233
+FileChecksum: SHA1: 3f73926a49212a01605359697e36fe04c883aa37
+FileChecksum: MD5: 530e5958a90d3a824a910cdb2071d085
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/scheme/doc.go
+SPDXID: SPDXRef-item7994236
+FileChecksum: SHA1: fb3bbb1e9db29cbe2e2c95e1b9fc4abf77fc4611
+FileChecksum: MD5: cc99ccea48f613ee47b55ca62f862102
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/scheme/register.go
+SPDXID: SPDXRef-item7994237
+FileChecksum: SHA1: 6e210b20fda8a16e42d356ed6a4ec098c4f35f98
+FileChecksum: MD5: f54fa96ee3a2ba7b68e7ebb9fde418a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/clientset/versioned/doc.go
+SPDXID: SPDXRef-item7994238
+FileChecksum: SHA1: b542584b3623ae015e0863fac50d86f6ad9ebcc7
+FileChecksum: MD5: 19dc464d7b348d1364813951f41ae83b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/informers/externalversions/generic.go
+SPDXID: SPDXRef-item7994242
+FileChecksum: SHA1: a6b40a1206e02ca4cd4955a64198f60489b53126
+FileChecksum: MD5: 9f016822b4cb60088c0555afbbde1162
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/informers/externalversions/factory.go
+SPDXID: SPDXRef-item7994241
+FileChecksum: SHA1: 556f5cfc96b6e07088d1a93515080a472ed73481
+FileChecksum: MD5: 8d92053386f900edb45459b75c8476fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/informers/externalversions/paddlepaddle/v1/interface.go
+SPDXID: SPDXRef-item7994246
+FileChecksum: SHA1: 65735b4c6325349dfbf4c826e681b72a226e8e1d
+FileChecksum: MD5: 58e90486043480450451d67bd06920e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/informers/externalversions/paddlepaddle/interface.go
+SPDXID: SPDXRef-item7994247
+FileChecksum: SHA1: 2692c0b7d0e1fe5a55f1065019f255ae6433c8ca
+FileChecksum: MD5: 21520343a091d735f69218f19ae26f3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/informers/externalversions/paddlepaddle/v1/trainingjob.go
+SPDXID: SPDXRef-item7994245
+FileChecksum: SHA1: e223f68bd19cc4e41b3637d7d7cd98c323d02808
+FileChecksum: MD5: a8e85a71e16ad86ffca399ce36f0222d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/informers/externalversions/internalinterfaces/factory_interfaces.go
+SPDXID: SPDXRef-item7994249
+FileChecksum: SHA1: f97121d9935ae68681f325fa5b849dd657dc62f8
+FileChecksum: MD5: 80ce3617a4c5631cadfee53f239e4e7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/listers/paddlepaddle/v1/expansion_generated.go
+SPDXID: SPDXRef-item7994253
+FileChecksum: SHA1: 2de158784df55a4ec1937096451420d8c57f0d5f
+FileChecksum: MD5: 3339f9d51d551ac916d83cb855021d79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/client/listers/paddlepaddle/v1/trainingjob.go
+SPDXID: SPDXRef-item7994254
+FileChecksum: SHA1: 3195320d214ceca5988f8b24987b0ab6cbe349f5
+FileChecksum: MD5: 84225b46ba51350b7b528decdb9191ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/autoscaler_test.go
+SPDXID: SPDXRef-item7994257
+FileChecksum: SHA1: 7d2ed7d3e257efcf152169de95111a092b174d6c
+FileChecksum: MD5: 89b0dc83206aea75e18ec8049488cb92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/controller.go
+SPDXID: SPDXRef-item7994255
+FileChecksum: SHA1: a640d71d67ef39bc1847bea435bf9e434338d377
+FileChecksum: MD5: 7148d9789d8942411c4fd581f8164814
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/autoscaler_internal_test.go
+SPDXID: SPDXRef-item7994256
+FileChecksum: SHA1: 33275d57cafc203d6b6e1129cc585800e38073db
+FileChecksum: MD5: 97a056dc2b618585a617f98c4dca166d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/apis/paddlepaddle/v1/zz_generated.deepcopy.go
+SPDXID: SPDXRef-item7994262
+FileChecksum: SHA1: 306eef5e4a11e98578e6e0c04d7518e9b3c82510
+FileChecksum: MD5: 061f70e3ced2e5be0f138f69d8fbf270
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/apis/paddlepaddle/v1/doc.go
+SPDXID: SPDXRef-item7994264
+FileChecksum: SHA1: dd68b24a7a9ab3d2302d939309c87fa8d7141ddf
+FileChecksum: MD5: 8e063604f8fd0c7c7530e55f259cd1e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/apis/paddlepaddle/register.go
+SPDXID: SPDXRef-item7994266
+FileChecksum: SHA1: 1febbb1f63699e70fbaca78ea1ecffe1fe7dbd62
+FileChecksum: MD5: 65430b64bc2b724a5fcef3b05848c257
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/autoscaler.go
+SPDXID: SPDXRef-item7994267
+FileChecksum: SHA1: 725bab0a106ce4d8039f8ec816c80096c0aeb036
+FileChecksum: MD5: d793906edce503d5d387d476d5f916af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/utils_test.go
+SPDXID: SPDXRef-item7994269
+FileChecksum: SHA1: cc9305be7aa17d1e8369a8c3bc8eb930b9b18677
+FileChecksum: MD5: 7f01d68439043f8289afefc3086ccdad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/jobparser.go
+SPDXID: SPDXRef-item7994268
+FileChecksum: SHA1: 503d38a14d5e0566b992532ac3086e71dcccd961
+FileChecksum: MD5: 0e67b23bbef87ced99c95db2d8bf9898
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/updater/jobparser.go
+SPDXID: SPDXRef-item7994272
+FileChecksum: SHA1: 59ac4d7aa4533d5b1201fbcef8e810ed2eec2a77
+FileChecksum: MD5: c3b09d5be34b0aa7fb46d8c03fede087
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/pkg/utils.go
+SPDXID: SPDXRef-item7994274
+FileChecksum: SHA1: f57ff6d0d062703a7fda5dbda86ae646b3a31e15
+FileChecksum: MD5: f850cdcba0228e2f78cde07f1b0d9072
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/cluster.go
+SPDXID: SPDXRef-item7994275
+FileChecksum: SHA1: 6835a0bb353da1472336f300fd490ba298770cd4
+FileChecksum: MD5: 1eda824097b19e395b5231368a0d3fc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/resource/training_job.go
+SPDXID: SPDXRef-item7994277
+FileChecksum: SHA1: 50923813b480e100b8dd937d59832214ac76063c
+FileChecksum: MD5: 47d601010b7e7349930dd2b4baf75ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/resource/training_job_test.go
+SPDXID: SPDXRef-item7994279
+FileChecksum: SHA1: 1f75962a7a9b354928621f5618f559b2bffb5f89
+FileChecksum: MD5: 7b33e098508f664070a4f690a1de771c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserve. </text>
+ 
+
+##File
+
+FileName: edl/pkg/resource/zz_generated.deepcopy.go
+SPDXID: SPDXRef-item7994278
+FileChecksum: SHA1: e26070dace9a1fbbd91d84f7e5cd8078545dc815
+FileChecksum: MD5: 5ae4d876ab5e381e916ab924b639712c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 The Kubernetes Authors. </text>
+ 
+
+##File
+
+FileName: edl/scripts/update-codegen.sh
+SPDXID: SPDXRef-item7994289
+FileChecksum: SHA1: 3eb9d4cc31299835e70e5b2631c19c57321e6fd8
+FileChecksum: MD5: 1ac124ff4a64d02e498c7c5371ee7a68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 The Kubernetes Authors. </text>
+ 
+
+##File
+
+FileName: edl/scripts/verify-codegen.sh
+SPDXID: SPDXRef-item7994291
+FileChecksum: SHA1: 28083dd3b4fced608142087c3a6f72333a73d90f
+FileChecksum: MD5: 78e6cbe1d3c3f5cd46ab13b089854ba6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 The Kubernetes Authors. </text>
+ 
+
+##File
+
+FileName: edl/scripts/custom-boilerplate.go.txt
+SPDXID: SPDXRef-item7994290
+FileChecksum: SHA1: 1f7b1736af396459a6e8019dbad9308cf9b01301
+FileChecksum: MD5: e6f24133d830fb8090ea533c4c40e025
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016 PaddlePaddle Authors All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/docker/k8s_tools.py
+SPDXID: SPDXRef-item7994203
+FileChecksum: SHA1: 170beec005b27ae9357b8738841ce355a7cd8f4d
+FileChecksum: MD5: cc14ea85bcb115b561c8c9bbe61000f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 PaddlePaddle Authors. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/example/ctr/src/dist_train_demo.py
+SPDXID: SPDXRef-item7994179
+FileChecksum: SHA1: a895c4fe12777c3e13152c8188fbd71dc29fd6a1
+FileChecksum: MD5: e42a9187325683feff043d01e8e549fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 PaddlePaddle Authors. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/train_local.py
+SPDXID: SPDXRef-item7994098
+FileChecksum: SHA1: ebea965385c269168f8d2c8ceaaaf90c6bfb5991
+FileChecksum: MD5: 272b292aedce423c2958efbc78b8682b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/fluid/image/infer_3.png
+SPDXID: SPDXRef-item7994102
+FileChecksum: SHA1: 786ff6b254724c7f9dfbc3aea3aa752f6e2c335f
+FileChecksum: MD5: a581e4319ec1ce52177e006300d70450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2017 </text>
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/fluid/image/ranges.png
+SPDXID: SPDXRef-item7994103
+FileChecksum: SHA1: 55fbb9933fa744f6b7383793d012919c85d05d40
+FileChecksum: MD5: 8c6a114c758a1a8532c187ebf6d181ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/fluid/fit_a_line.py
+SPDXID: SPDXRef-item7994104
+FileChecksum: SHA1: 65ea4786066ecdd536129a6b3585bb91a2b960c8
+FileChecksum: MD5: 889cf2ad6b8d1f66f96a9fa04fc955f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/fluid/common.py
+SPDXID: SPDXRef-item7994105
+FileChecksum: SHA1: e60c16d59cbf2f7dd3ca70e8680f3424672aebd2
+FileChecksum: MD5: 63721c379f61829e5cd8e351fede6ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/fluid/recognize_digits.py
+SPDXID: SPDXRef-item7994106
+FileChecksum: SHA1: e012a678afb69e23cd0f72417d2743def4e75747
+FileChecksum: MD5: e213f0945cad8950261269db876c767d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/collector.pyc
+SPDXID: SPDXRef-item7994107
+FileChecksum: SHA1: 7ce373b744e0fe8f60bfdc7a45456ba62e331881
+FileChecksum: MD5: 3879dfe5c6396841486b2ccb0b59b432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/examplejob.yaml
+SPDXID: SPDXRef-item7994108
+FileChecksum: SHA1: 9c19f835dbf5e7041167b94aa064be7ad9495fdb
+FileChecksum: MD5: ecf6fb025ecbd4d7ba82f77f0aea7bd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/del_jobs.sh
+SPDXID: SPDXRef-item7994109
+FileChecksum: SHA1: d325894f2a6503d4a5f891a1064db21aa5181c79
+FileChecksum: MD5: ebaf82d9ee6f2ec85c638bba1ef01a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/nginx.yaml
+SPDXID: SPDXRef-item7994110
+FileChecksum: SHA1: 0df5cf312ccecc553fb96b01d7a2230fdba9fa02
+FileChecksum: MD5: d253706a9a264cb4bd4553fea99972c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/fit_a_line/Dockerfile
+SPDXID: SPDXRef-item7994112
+FileChecksum: SHA1: 60f05b2f5d843d140941307843f4f9340172184d
+FileChecksum: MD5: c2392372e2441556b59c098ca31d73ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/README
+SPDXID: SPDXRef-item7994114
+FileChecksum: SHA1: 92123c90651a6342557fc1c8fd47d9e2cdbfb82b
+FileChecksum: MD5: 413adc94c73421b42b3ed92a2a2372e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/paddle-suite.yaml
+SPDXID: SPDXRef-item7994116
+FileChecksum: SHA1: 5a2f7662f9670868b4e4b02a5d60e26589a4f588
+FileChecksum: MD5: e157a5514daf183a956f0307a7e663e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/README
+SPDXID: SPDXRef-item7994117
+FileChecksum: SHA1: 6b803d8218c0acf35fd766353b8e221a3895e053
+FileChecksum: MD5: 196e33939ca23e08713d6b97efb97381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/pdserving.yaml
+SPDXID: SPDXRef-item7994118
+FileChecksum: SHA1: bacd3c752da87eb08feee6869d7154a861a99cf5
+FileChecksum: MD5: 18bef824091e915d68a688afea1367a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/paddle-suite.sh
+SPDXID: SPDXRef-item7994119
+FileChecksum: SHA1: c27d0829557549c60e911d134648596d41ba53ba
+FileChecksum: MD5: c3647b1a29220e7b535183d1a6597582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/fileserver.yaml
+SPDXID: SPDXRef-item7994120
+FileChecksum: SHA1: 25b47d451e9c4d67f0a20313136581ad36747083
+FileChecksum: MD5: b6b207cec2e4a233a064f6a1120cc99c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/cube.yaml
+SPDXID: SPDXRef-item7994121
+FileChecksum: SHA1: 2af4e83dcb2c1d39a2908ffc9089da679a5e50eb
+FileChecksum: MD5: 205228e2f26dae9a42ff3499deb0ea50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/ctr.yaml
+SPDXID: SPDXRef-item7994122
+FileChecksum: SHA1: b83d5444b6ea79bccc376ec2fcab104d0301d1b5
+FileChecksum: MD5: 7b5180ba966c9deb58099f6a2fd02f8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/transfer.yaml
+SPDXID: SPDXRef-item7994123
+FileChecksum: SHA1: 33766e6c476282565bb9e4699487ccc71f20dcbc
+FileChecksum: MD5: 8a24ef9c3196b5690ac6e1720ec5bdbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/ftp.yaml
+SPDXID: SPDXRef-item7994124
+FileChecksum: SHA1: 66c97e9e25597fcc6a0acec81360f72875a41349
+FileChecksum: MD5: 5ffaeeb1760afb8c85e8d8a9af317694
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/defaultserviceaccountclusterrole.yaml
+SPDXID: SPDXRef-item7994125
+FileChecksum: SHA1: cd38953900f804f9189883d028c7cde2188d9a15
+FileChecksum: MD5: 74f74f6bd0cbb24942cc6a51de9ddc87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/script/pdclient.yaml
+SPDXID: SPDXRef-item7994126
+FileChecksum: SHA1: e6ca8c5efb1d7b7cf4c04cf78973f434117fcfba
+FileChecksum: MD5: 8027d3a0935ac8fb587f395c43ca5dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/dist_train_nccl2.png
+SPDXID: SPDXRef-item7994128
+FileChecksum: SHA1: 2d4243be18b7324ee1fcad69fd60e73ce05cac9a
+FileChecksum: MD5: c7ce569fdd2f4f2f4cc9efd787e66bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/ctr-models.png
+SPDXID: SPDXRef-item7994130
+FileChecksum: SHA1: 104b5f3c8081a030e311cbd97fcefed291cf3e49
+FileChecksum: MD5: 5f979aaa5a54ada8d79324d71e67dcb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/wget_example.png
+SPDXID: SPDXRef-item7994131
+FileChecksum: SHA1: 71c3f7881116f40641f5ee5117a941fa7d49fd52
+FileChecksum: MD5: 7cc8b61bacb2269c858aa84ae50b49ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/tiller.png
+SPDXID: SPDXRef-item7994132
+FileChecksum: SHA1: 5c6fd711c26a002177d84123746e094fb9895028
+FileChecksum: MD5: ca68b76966198d9fbe0107b47d03b885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/workload.png
+SPDXID: SPDXRef-item7994133
+FileChecksum: SHA1: e06da8774b2d6ed6e0a886167586331b013e5b33
+FileChecksum: MD5: e67774dc16ae2920ec3356da580a4094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/conf-download.png
+SPDXID: SPDXRef-item7994134
+FileChecksum: SHA1: 5892c6c5abc2f82e4da357b42fa793b7f7ff7ad9
+FileChecksum: MD5: a35b5f496aaeb8032a1cbc4baca286e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/eip.png
+SPDXID: SPDXRef-item7994135
+FileChecksum: SHA1: 49237ad1e55de7e411cba1f31326a75010d17679
+FileChecksum: MD5: 11da19b6db15c6cc1dcf998ad628a10e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/kubectl-version.png
+SPDXID: SPDXRef-item7994136
+FileChecksum: SHA1: 89545e72b75fba0dcbe020918d6ae03ab75da95a
+FileChecksum: MD5: 87dd2bbdea99552dd3335dd6422ff3d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/concole.png
+SPDXID: SPDXRef-item7994137
+FileChecksum: SHA1: 6a1febc9994faabf3e4e51ccd47fd925812ca72a
+FileChecksum: MD5: 9b51ac5cc99ec50540cc5aa9dc2fba58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/file_server.png
+SPDXID: SPDXRef-item7994138
+FileChecksum: SHA1: fb7380e8afb3ad924d236bb509d40da8d6c6a28a
+FileChecksum: MD5: febce88f80c0f7c3c9b3986f96f51c2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/pserver-log.png
+SPDXID: SPDXRef-item7994139
+FileChecksum: SHA1: f26cf26cb542e574425b9a0c86867c4ae4f05977
+FileChecksum: MD5: 340f5889d6f65f37d8c59a33c55ba700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/trainer-log.png
+SPDXID: SPDXRef-item7994140
+FileChecksum: SHA1: f4b115d7c2160e1704453ed6b2cbe3f12a9ccbd8
+FileChecksum: MD5: d2d6df4fa34fb3b880c6fe3ae98c4e33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/ctr-running.png
+SPDXID: SPDXRef-item7994141
+FileChecksum: SHA1: 6cee4ec9a86e13e27b3a5d8c0f208ddc218bb94d
+FileChecksum: MD5: 0052464d83d86fb14c63722b74afb894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/volcano.png
+SPDXID: SPDXRef-item7994142
+FileChecksum: SHA1: 0e826a9de4f0168aca97c31e138a5be57437c3fb
+FileChecksum: MD5: be6a9a6fa4842f757e015422e272d096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/load_balancer.png
+SPDXID: SPDXRef-item7994143
+FileChecksum: SHA1: 773a12b3b61a41b29aa24cf114f581b7e7578f36
+FileChecksum: MD5: 911490cafb4dfb73058d094efebd604f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/helm-version.png
+SPDXID: SPDXRef-item7994144
+FileChecksum: SHA1: cb70a4105259faae2b3d8551ecd89a3f705bb634
+FileChecksum: MD5: 84ab7e75d3ca7525c688273c9ead6fcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/ctr-prediction-end-to-end-deployment.png
+SPDXID: SPDXRef-item7994145
+FileChecksum: SHA1: e9c956a8aa58cf1a64658f7ec4c346971bedcdfb
+FileChecksum: MD5: 1a86a4b29ed1ebc73b5f492406e70414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/baidu_cloud/cluster-info.png
+SPDXID: SPDXRef-item7994146
+FileChecksum: SHA1: 1cbfae14c90e8962d63cf15c2d37de5faac0147b
+FileChecksum: MD5: ac058e8028dee11818d78f7d0e17a579
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/create_gpu_machine.png
+SPDXID: SPDXRef-item7994147
+FileChecksum: SHA1: 4b5a864f3681812b4775ebce4d8eddfc53446725
+FileChecksum: MD5: 89acd1dc1340e03d57c4242e3efb4aa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr_kubectl_download.png
+SPDXID: SPDXRef-item7994148
+FileChecksum: SHA1: b2576ec023dc90603f2ee9db55f6891eb75d3aa2
+FileChecksum: MD5: dd6db41b0cf4bfabf40b1b005d6057d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/file_server_svc.png
+SPDXID: SPDXRef-item7994149
+FileChecksum: SHA1: 0ede90e84cb861dd0d507532fc39c2cd880c6d83
+FileChecksum: MD5: 183887114cfa0bfa8ec74393126a3b18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/file_server_pod.png
+SPDXID: SPDXRef-item7994150
+FileChecksum: SHA1: f83e721f88bad69ec5e61d74170154f3b99bbe7a
+FileChecksum: MD5: e87d4f94b9126778817aad5002b64757
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/transfer.png
+SPDXID: SPDXRef-item7994151
+FileChecksum: SHA1: 9775253d74e71fee620559f09fc82c5ea359e657
+FileChecksum: MD5: eaa455c1a9532a5a1976453a6b1583fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/overview.png
+SPDXID: SPDXRef-item7994152
+FileChecksum: SHA1: 6e69b931c345dd4de5871ae9d93117c9531e9adb
+FileChecksum: MD5: 4cdfc3a5449e7c785986912874321854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr.png
+SPDXID: SPDXRef-item7994153
+FileChecksum: SHA1: e10c73967b600a2229caff31e0338ec998b46e29
+FileChecksum: MD5: e9fb2a4aa100bd5f9e755de356b952c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/pyreader.png
+SPDXID: SPDXRef-item7994154
+FileChecksum: SHA1: bafef3d8d382c73e42c9491dc368c1e62feef888
+FileChecksum: MD5: 61a8e62629c956e23ae51910cd992a4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctryaml3.png
+SPDXID: SPDXRef-item7994155
+FileChecksum: SHA1: 1dae547fbd87c0c03fc4cd583fb947a6031bff21
+FileChecksum: MD5: 89e367dcd596e1d7a998e860397c0c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/paddleserving_svc.png
+SPDXID: SPDXRef-item7994156
+FileChecksum: SHA1: 6d6fdaccd88da193d573face0948a50f1463df85
+FileChecksum: MD5: 273a72e1df4e86df1a84c6f652fdbb7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctryaml1.png
+SPDXID: SPDXRef-item7994157
+FileChecksum: SHA1: 81d7033ff9509846555887d2014f7d6eec9537ed
+FileChecksum: MD5: 860591676d1b7123d7534e72a702de80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr_pserver_log.png
+SPDXID: SPDXRef-item7994158
+FileChecksum: SHA1: 769cd0f78262907c50aafc476110bb67c2fe2939
+FileChecksum: MD5: 14ff877b22265f58c2c78928636e1a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/create_image.png
+SPDXID: SPDXRef-item7994159
+FileChecksum: SHA1: be6eece99303129ecff69169907af8020912f948
+FileChecksum: MD5: 18625237cbeb1ae0a4d5dbbde4ba145f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/dist_train_pserver.graffle/dist_train_pserver
+SPDXID: SPDXRef-item7994162
+FileChecksum: SHA1: 761c0d1295820c196d10ea6aec9d24d00cb8079a
+FileChecksum: MD5: 7e83c32648d14bfec4d8dbbfa1deb313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/dist_train_pserver.png
+SPDXID: SPDXRef-item7994163
+FileChecksum: SHA1: 16234da6f7d84035359e43409853de2b299a58ed
+FileChecksum: MD5: f378a217707ca2a80fb1c2f6ccb84bdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/parallelism.png
+SPDXID: SPDXRef-item7994164
+FileChecksum: SHA1: a9817b32b98155a7cc787f238e79affbd4b473ac
+FileChecksum: MD5: 5e99712e9a404a3ef5d7cec8f28dafc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/cube.png
+SPDXID: SPDXRef-item7994165
+FileChecksum: SHA1: ce3c32b2caa9b8ee2088442d72d0d90d0f9bad28
+FileChecksum: MD5: e5aa6f2a4f512e4323508f91ad0fd672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr_node.png
+SPDXID: SPDXRef-item7994166
+FileChecksum: SHA1: 2f7e81fb6324d997cf46f7c8242f559d82c09916
+FileChecksum: MD5: eb91fc39c7b87ecaf36c4b2d096599da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/cube_config2.png
+SPDXID: SPDXRef-item7994167
+FileChecksum: SHA1: 0faea7afb40feaa10a295746d594c0d8e5d1e042
+FileChecksum: MD5: 886e333309ad9c25989b3a462243833d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/dist_train_nccl2.graffle/dist_train_nccl2
+SPDXID: SPDXRef-item7994170
+FileChecksum: SHA1: 3825724c1c4d94d6fbc0f130b110422e882eaef8
+FileChecksum: MD5: f90b773cbc767b13c00a89d52fde4299
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/cube_config1.png
+SPDXID: SPDXRef-item7994171
+FileChecksum: SHA1: ca440d363dcd62c149fd6ec98dca4ac405bec631
+FileChecksum: MD5: 05a031acadefef61b0c5bf5b072b744a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/paddleserving_pod.png
+SPDXID: SPDXRef-item7994172
+FileChecksum: SHA1: a015bb867a3aeb9241f867ae1c21e49fcaeead69
+FileChecksum: MD5: 2a646abbec994ede6bd95654a77b2c48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/release.png
+SPDXID: SPDXRef-item7994173
+FileChecksum: SHA1: 88839160eb0ccb51e89944ff49d1ff57d4fac211
+FileChecksum: MD5: 0ae5e620c763ff0e28cff0dfccafce09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr_pods.png
+SPDXID: SPDXRef-item7994174
+FileChecksum: SHA1: b78be4247aa7b74bc7fcc0465520112cb807b1e7
+FileChecksum: MD5: cfa80dffbc7916fdfa3348f673ec5f7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr_trainer_log.png
+SPDXID: SPDXRef-item7994175
+FileChecksum: SHA1: 494971e33bc02bec0c541080b6b97ae044961cb6
+FileChecksum: MD5: dda71efd9a58c1e1ffd8d383dbd022b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctryaml2.png
+SPDXID: SPDXRef-item7994176
+FileChecksum: SHA1: c78b9d9ff01e9dcc700709ecaff93e4e07b85be1
+FileChecksum: MD5: 05bcc747598cbfe7dc14492fab160203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/create_more_nodes.png
+SPDXID: SPDXRef-item7994177
+FileChecksum: SHA1: bf260ced9275d16084393c5f475a8752c07f53d0
+FileChecksum: MD5: 12262a75400c473977794fd7a0c7dfb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/paddleclient.png
+SPDXID: SPDXRef-item7994178
+FileChecksum: SHA1: d504199cf6dd6053a3fbb3de2c6ca624c9094553
+FileChecksum: MD5: 02133f02a4f13f7aa70cdc41ec51ce36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/src/ctr_volcano_install.png
+SPDXID: SPDXRef-item7994180
+FileChecksum: SHA1: 64d0d478a09170cd7895e0993ee702559d77d203
+FileChecksum: MD5: e1ce48760ae09a280bdd85e4b69c532a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/deploy_ctr_on_baidu_cloud_cn.rst
+SPDXID: SPDXRef-item7994181
+FileChecksum: SHA1: 4d714eee4c9293891c08f7078e9854499825fbcc
+FileChecksum: MD5: ccdb0b4567dc2c4045c1d203dd99d7f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/ctr/train.py
+SPDXID: SPDXRef-item7994183
+FileChecksum: SHA1: e772ccc2e745a71481f2dd57d1fb025e19399624
+FileChecksum: MD5: 1dcad7df0b542c65352a0082ad005cab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/ctr/dumper.py
+SPDXID: SPDXRef-item7994184
+FileChecksum: SHA1: ebd88c9ced1b126d204567aa0319dc1e7426dea4
+FileChecksum: MD5: 43e518c17604dbf574336710fa99e4e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/ctr/save_program.py
+SPDXID: SPDXRef-item7994185
+FileChecksum: SHA1: 0a665f765c2c928ec064e808d565c1fec6cdd7d5
+FileChecksum: MD5: 63a00a0fb1791e76aee2af2b4f77a947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/ctr/kvtool.py
+SPDXID: SPDXRef-item7994186
+FileChecksum: SHA1: 2a8d36f2c13eca40e08d05a83b31786d8e8824a5
+FileChecksum: MD5: 6300085ec68fa940621bd0fe1376420a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/paddle-suite.yaml
+SPDXID: SPDXRef-item7994188
+FileChecksum: SHA1: 6046f17879fff5a80e3fe37073889c6baaf57c44
+FileChecksum: MD5: cfc67769cecd9739b52411b36712bacf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/pdserving.yaml
+SPDXID: SPDXRef-item7994189
+FileChecksum: SHA1: f3b5f793131709c01a40e995cbb5fd9c6f294e20
+FileChecksum: MD5: 756671404dafe003a6f4962fc85f0156
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/paddle-suite.sh
+SPDXID: SPDXRef-item7994190
+FileChecksum: SHA1: c27d0829557549c60e911d134648596d41ba53ba
+FileChecksum: MD5: c3647b1a29220e7b535183d1a6597582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/cube.yaml
+SPDXID: SPDXRef-item7994191
+FileChecksum: SHA1: fe3578b874b9d48c6d97d5f7ddc2540ad3ef3a3d
+FileChecksum: MD5: f0aabbd89064075c0f94b8670368a7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/ctr.yaml
+SPDXID: SPDXRef-item7994192
+FileChecksum: SHA1: b921da6018fcb802a8897362e975b88f9b750a6c
+FileChecksum: MD5: 82d2acdfa9eca35c365ea535d8b8c6bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/transfer.yaml
+SPDXID: SPDXRef-item7994193
+FileChecksum: SHA1: 36815ec4883b9af506be5ed41d772e4ad7e5f813
+FileChecksum: MD5: 4776c417ee8e718a52dcc7ea2a0296a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/ftp.yaml
+SPDXID: SPDXRef-item7994194
+FileChecksum: SHA1: 16ebecdc1d82f1493b52fdf75da42ae722c302d5
+FileChecksum: MD5: d5cc7f6dbe00179c83cd6bf23f6549c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/k8s/pdclient.yaml
+SPDXID: SPDXRef-item7994195
+FileChecksum: SHA1: b643942ccd6d624ed63ac5260a92a1299a0bb90f
+FileChecksum: MD5: 58931f2b0305549e4f87b55b9a7311c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/ps-train/pserver.yaml
+SPDXID: SPDXRef-item7994197
+FileChecksum: SHA1: c9d7ecaba42e6b6c76649e4fa1fa5bf022cc2d15
+FileChecksum: MD5: a5fd346d61d9825cdedee1401655dd4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/ps-train/trainer.yaml
+SPDXID: SPDXRef-item7994198
+FileChecksum: SHA1: c32e076c8ff1ffcdf775b0f3a34de90ebe52de72
+FileChecksum: MD5: 735d1d393bb0e8fbbf5132dc7f2c67cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/example/ctr/Dockerfile
+SPDXID: SPDXRef-item7994199
+FileChecksum: SHA1: e00d01b87d12dbd3d1a318e835428589ff7e5a7f
+FileChecksum: MD5: faedc3d8d9a86dfdbebd66051034e675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/docker/README.md
+SPDXID: SPDXRef-item7994201
+FileChecksum: SHA1: e5083bec84ecd43bdfac34ea5170db918ef598f9
+FileChecksum: MD5: e6b21caf723ed40edb02d23156cf2c0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/docker/paddle_k8s
+SPDXID: SPDXRef-item7994202
+FileChecksum: SHA1: 6b0f62b68194ffa55bc16ed5356ba49665d4625c
+FileChecksum: MD5: 4d03504b37b570cdc94430751e96511a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/docker/.gitignore
+SPDXID: SPDXRef-item7994204
+FileChecksum: SHA1: 6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+FileChecksum: MD5: 3254677a7917c6c01f55212f86c57fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/docker/build.sh
+SPDXID: SPDXRef-item7994205
+FileChecksum: SHA1: 987820bd40a560c279c2025d188e18161a400227
+FileChecksum: MD5: eead14edbef14b5bc12934c5b32a99fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/cmd/edl/edl.go
+SPDXID: SPDXRef-item7994209
+FileChecksum: SHA1: 0b56e28bd78bde30c4c737c598c011198bc72a6e
+FileChecksum: MD5: 563dac3038411825bf8b7f63576d3a43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/.tools/check_style.sh
+SPDXID: SPDXRef-item7994211
+FileChecksum: SHA1: 94d8ca85a1b191fbe7ec320277c779fa9b7d473b
+FileChecksum: MD5: abc8b1abf42cc7fb6a1892670b75ef99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/.pre-commit-config.yaml
+SPDXID: SPDXRef-item7994212
+FileChecksum: SHA1: f894d1e9f38b5abe507994fc10c4baac615bd7ef
+FileChecksum: MD5: 41b1b76cc82ca1adf1135c9b665347bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/glide.lock
+SPDXID: SPDXRef-item7994213
+FileChecksum: SHA1: 297deae46d52d883b8137c9056f34d503fd0e221
+FileChecksum: MD5: c14218d5ebcf676b127bb69fcbd8a4f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/pkg/apis/paddlepaddle/v1/training_job.go
+SPDXID: SPDXRef-item7994261
+FileChecksum: SHA1: 03a3e00268d4aa0c69c3dc116bf7f04bda7d471e
+FileChecksum: MD5: 230598945d4b003e20072c46fbb70490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/pkg/apis/paddlepaddle/v1/types.go
+SPDXID: SPDXRef-item7994263
+FileChecksum: SHA1: b2551598b35a3ca12b985daca555388a7290d82d
+FileChecksum: MD5: 25314c9a40938f38cae206b7797bdebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/pkg/apis/paddlepaddle/v1/register.go
+SPDXID: SPDXRef-item7994265
+FileChecksum: SHA1: 459f7ee40313dd7cfa4a890484111534c7aa1946
+FileChecksum: MD5: d0e0c895ca7799d6f35206cd5e38d4a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/pkg/updater/labels.go
+SPDXID: SPDXRef-item7994271
+FileChecksum: SHA1: dee8450d70b10f3070ee10218de5c4c52eebadda
+FileChecksum: MD5: 25191f26cf021782b7fb40c792a48143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/pkg/updater/trainingJobUpdater.go
+SPDXID: SPDXRef-item7994273
+FileChecksum: SHA1: 5dee0a9f6357b8fcffa67941fae7c2028060d72d
+FileChecksum: MD5: cfa1f3fae7c4183aa7e1a32d2ce78e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/pkg/resource/deepcopy_gen.sh
+SPDXID: SPDXRef-item7994280
+FileChecksum: SHA1: 18d56b4372f62f781163191f1d89eb227c958986
+FileChecksum: MD5: e4a956043d76f72a0e1e517a61a9213a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/.dockerignore
+SPDXID: SPDXRef-item7994281
+FileChecksum: SHA1: dca7880cdb7b8717d5f3acf9bf5a37abc724a251
+FileChecksum: MD5: 3f4c268fb628cfd0a3a3e48e81e9e251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/glide.yaml
+SPDXID: SPDXRef-item7994282
+FileChecksum: SHA1: 26112eed531c7d9e315f65013b3a9cabe4c968e1
+FileChecksum: MD5: 4144374f53eb5e4fee969e587e3b0492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/.travis.yml
+SPDXID: SPDXRef-item7994283
+FileChecksum: SHA1: af3577e9e2a94b504f17a71933d304f2ac790a4a
+FileChecksum: MD5: e2560cdb8077acb9ef61d4463d28c10f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/logo/edl.png
+SPDXID: SPDXRef-item7994285
+FileChecksum: SHA1: d5b3c0e509ca4773eb9c838866f45e8f26ed8af7
+FileChecksum: MD5: be9f22488c8044acff089235ab90780e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/logo/paddle.png
+SPDXID: SPDXRef-item7994286
+FileChecksum: SHA1: b528e30bf2c657991e2fd32523b2727ea15bf218
+FileChecksum: MD5: ff898190267e7c4c8623823c06f84666
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2018 </text>
+ 
+
+##File
+
+FileName: edl/.gitignore
+SPDXID: SPDXRef-item7994287
+FileChecksum: SHA1: f11894d238a4842661bf86bdca51daaf22d34b32
+FileChecksum: MD5: c1985357701ab724da8bc39da51542a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/doc/build.md
+SPDXID: SPDXRef-item7994293
+FileChecksum: SHA1: fec50e47bfc416270b73a2c59bcf7ea7d1e9f3a4
+FileChecksum: MD5: c8873a1d119b1e826803fbdda73c8d57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/doc/edl_design_doc.md
+SPDXID: SPDXRef-item7994294
+FileChecksum: SHA1: 2fe22bab3dcd37920940bd127d13f52c67290ca9
+FileChecksum: MD5: 48db4d34a761434c81ca098dcf911756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/doc/install.md
+SPDXID: SPDXRef-item7994295
+FileChecksum: SHA1: 6a9e6519e7e1032ac1a9a463e77550520a8b97b4
+FileChecksum: MD5: 00ee73e1cfbe42e593caab6e87439fdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/doc/usage.md
+SPDXID: SPDXRef-item7994296
+FileChecksum: SHA1: e7d60a28bd16517da1256093e0be13d6c5e1702a
+FileChecksum: MD5: 448d31bbda7162e4251300053a2fda49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/doc/boss_tutorial.md
+SPDXID: SPDXRef-item7994297
+FileChecksum: SHA1: 8e4a0c1f3ab0f7456c5c190db6ba3cb2c9808dd3
+FileChecksum: MD5: 655d35e868391a662beaef8c4db10b38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/k8s/rbac_admin.yaml
+SPDXID: SPDXRef-item7994299
+FileChecksum: SHA1: c3e589e523972b0cb5b366f763a50231ba90d721
+FileChecksum: MD5: fab6d54c562144ed8644cca690366751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/k8s/thirdpartyresource.yaml
+SPDXID: SPDXRef-item7994300
+FileChecksum: SHA1: 9ed6bfe32a752cf59bf70e743d7b76cb6e306a91
+FileChecksum: MD5: 85747a788fa155db0da04a8d44c8b263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/k8s/edl_controller.yaml
+SPDXID: SPDXRef-item7994301
+FileChecksum: SHA1: 44fe65fb4b4c01e4870614dd706270c528343b6f
+FileChecksum: MD5: 8969973a3a5c6c51a9ea7c9a032ce84b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: edl/Dockerfile
+SPDXID: SPDXRef-item7994302
+FileChecksum: SHA1: 5e3f685ab2b1f759a8046ce854d3d1f4f5d913a1
+FileChecksum: MD5: 76378ba8eb16c1ff5f028b2975f9046b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
