@@ -1,0 +1,5440 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_adlik-2020-01-10.zip_1578937641.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-13T17:47:22Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: adlik-2020-01-10.zip
+PackageFileName: adlik-2020-01-10.zip
+SPDXID: SPDXRef-upload2108
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: b787716e4f9725494a0d6966ce6d9c610cd8e4a5
+PackageChecksum: SHA1: a3608bed8e75d6626a0dc3701eb5bc84afdb10ac
+PackageChecksum: MD5: c3c09ad0e277b31c6ef5531a02434af1
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2108
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: Adlik/LICENSE
+SPDXID: SPDXRef-item7994738
+FileChecksum: SHA1: eded5ccd93c615001d3936c6ec1c17a9c870a542
+FileChecksum: MD5: 916a898f816c59d2d4092adbc772c55c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 The Adlik Authors </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/compressor.py
+SPDXID: SPDXRef-item7995045
+FileChecksum: SHA1: b035b58dd9cc812caee8117dcaa6365906be0938
+FileChecksum: MD5: a4ac7c108efd26cf39b61cd97fd162ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/third_party/eigen3/LICENSE
+SPDXID: SPDXRef-item7994708
+FileChecksum: SHA1: 51ac8469bb04ed1aec51ed413bf3955fba157e92
+FileChecksum: MD5: 9083d6aa4746ded5bf8535ecf11dfaf0
+LicenseConcluded: BSD-3-Clause AND GPL-3.0 AND LGPL-3.0 AND LicenseRef-Meta-List-of-Dependencies-1 AND LicenseRef-Minpack AND MPL-2.0
+LicenseInfoInFile: LGPL-3.0+
+LicenseInfoInFile: LGPL-3.0
+LicenseInfoInFile: GPL-3.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+Copyright (c) 2011, Intel Corporation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/third_party/eigen3/Eigen/Core.h
+SPDXID: SPDXRef-item7994711
+FileChecksum: SHA1: 3a3a360f3d67c10b8ca293ae16c84a97c705140a
+FileChecksum: MD5: 384c2a0e84db61fac53451859f8b5ada
+LicenseConcluded: Apache-2.0 AND LicenseRef-Meta-Wrong-License-Statement
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/third_party/eigen3/unsupported/Eigen/CXX11/ThreadPool.h
+SPDXID: SPDXRef-item7994707
+FileChecksum: SHA1: 8275833ff2371e732e3bb4a5b87569111a7795de
+FileChecksum: MD5: 278017f92c54903489b44f93664b6139
+LicenseConcluded: Apache-2.0 AND LicenseRef-Meta-Wrong-License-Statement
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/tools/build-compilation-database.py
+SPDXID: SPDXRef-item7994682
+FileChecksum: SHA1: da46a4aafb59fcbf75aba1d972f2782e08818fcc
+FileChecksum: MD5: 27c122daa4e6ad58080326c7e454137a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/tools/dump-cpp-compile-command.py
+SPDXID: SPDXRef-item7994681
+FileChecksum: SHA1: 6f5f285e1f7e1b62f296d9f9a90c5f422d635ed7
+FileChecksum: MD5: 5a42416532f65e39eb1a6c2147832027
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/clang-format.py
+SPDXID: SPDXRef-item7994693
+FileChecksum: SHA1: 1d61b75b722ef3c069a68ab3ef1549e526c6cfeb
+FileChecksum: MD5: fb6caee58b7c61201217424cb4259818
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/buildifier.py
+SPDXID: SPDXRef-item7994694
+FileChecksum: SHA1: ce93db2e3e902828f5c92ce8dacad67f840f59be
+FileChecksum: MD5: 2a08c2a18641cc3580053365af6d9b40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/clang-tidy.py
+SPDXID: SPDXRef-item7994695
+FileChecksum: SHA1: 27d23377342dcab90cf620826a36ca51720cf112
+FileChecksum: MD5: 5c772ea26f807f8cb9403873d683b703
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/copyright.py
+SPDXID: SPDXRef-item7994696
+FileChecksum: SHA1: 58ea2d834237b1c125bdb35a0049c42ad027a5e1
+FileChecksum: MD5: b515c1529776730c9f5ebc7beffb6a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/flake8.py
+SPDXID: SPDXRef-item7994697
+FileChecksum: SHA1: b57aa40a1eb83cf2b31e7895761d1671839a9d32
+FileChecksum: MD5: ab4e9531d8f7a089ffa2653dc62ce7d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/include-what-you-use.py
+SPDXID: SPDXRef-item7994698
+FileChecksum: SHA1: bf2c6ae534bba82d44b454683894385e527c7880
+FileChecksum: MD5: deb5bacdd12e07795adf36fc82011b21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/commit-message.py
+SPDXID: SPDXRef-item7994700
+FileChecksum: SHA1: bab46ea354027dfedf33a89265b45e3d5a1d7ebf
+FileChecksum: MD5: 03ca14810c6e2dfba712e427ced11ce7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/bazel-build-clients.py
+SPDXID: SPDXRef-item7994701
+FileChecksum: SHA1: 4679bb7f8d2badc6160eed46ca4023ef00839646
+FileChecksum: MD5: d50f273cbe7a873c1b6ba03a6d0bed9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/ci/checks/bazel-build-serving.py
+SPDXID: SPDXRef-item7994699
+FileChecksum: SHA1: f7a4a2791f4a7951635ad2a45be3f653c52a67d7
+FileChecksum: MD5: 7cb6f696c43343694c39974fb010d0da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/samples/simpleMNIST/compile_model.py
+SPDXID: SPDXRef-item7994728
+FileChecksum: SHA1: 532c852aa33fafe1123015d661b8cf92aa0e2558
+FileChecksum: MD5: 6956dbeed206185cb17d836ac810ba60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/samples/simpleMNIST/mnist_client.py
+SPDXID: SPDXRef-item7994729
+FileChecksum: SHA1: d29e593ab230f12e76b0521d8d43fe6e0b38f1f5
+FileChecksum: MD5: 7a5004e3fab3c46113ab448e88f5940a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/samples/simpleMNIST/train_model.py
+SPDXID: SPDXRef-item7994726
+FileChecksum: SHA1: 866eec3552ffdbb4fbe658dab5304a88a7030cf0
+FileChecksum: MD5: b33cf960accab84c0b34db1bcf4ea593
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/predict_impl.h
+SPDXID: SPDXRef-item7994743
+FileChecksum: SHA1: 5077bfaf6f0daf33b2b4381f97e29e3edab7bf4e
+FileChecksum: MD5: a48dd6267bf73345ba001c9f2a8a2801
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/get_model_meta_impl.cc
+SPDXID: SPDXRef-item7994745
+FileChecksum: SHA1: 01eb4302743e787c4e3087b865e77d653dafe3c9
+FileChecksum: MD5: fb1ef2878e6efb2aa22e612a38295201
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/get_model_meta_impl.h
+SPDXID: SPDXRef-item7994747
+FileChecksum: SHA1: 87e6b5db9fa0fa0c200a105f2d73ae7dfb623a95
+FileChecksum: MD5: c3e449a38c4b543b3d038a15d4855627
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/predict_impl.cc
+SPDXID: SPDXRef-item7994748
+FileChecksum: SHA1: e010cb7c2af23d7e1b727be5b60d5f315924c589
+FileChecksum: MD5: 315f3670cca10128bed13f056b82d278
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_plan_model_config.cc
+SPDXID: SPDXRef-item7994753
+FileChecksum: SHA1: bd733ff7e7093545712c336fbbbbad52c822fc6e
+FileChecksum: MD5: 493bb9073648556b2ecde1ab1f8591c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_model_factory.cc
+SPDXID: SPDXRef-item7994754
+FileChecksum: SHA1: 9daa9c0cfa14f8bf64a16b5123e285abbf832b96
+FileChecksum: MD5: 89a7df6e70bc0b4e1c45ab1ebfc26958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_plan_model_options.cc
+SPDXID: SPDXRef-item7994756
+FileChecksum: SHA1: 6f3cc090753771dbbffbfaef62b719adf567052a
+FileChecksum: MD5: 98dd54ee4a06e1abd44be11bad8ef769
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_runtime.cc
+SPDXID: SPDXRef-item7994755
+FileChecksum: SHA1: da8354e5fddc42f3f2fa209defaae989b880655e
+FileChecksum: MD5: b6ed2e257f4f2dce9e47ae699516ff93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_model_factory.h
+SPDXID: SPDXRef-item7994757
+FileChecksum: SHA1: 5584ae0f45fed489d43e1bc975cabad5892247a9
+FileChecksum: MD5: c7a2c8edb1ce0b29ce0f707edf50f5b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_plan_model_options.h
+SPDXID: SPDXRef-item7994761
+FileChecksum: SHA1: adc45fcc2126550f715f6afcdef4d96b4ecd8e54
+FileChecksum: MD5: 15fcc62d836466925a6a39e35042d65c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_runtime.h
+SPDXID: SPDXRef-item7994758
+FileChecksum: SHA1: 1519214e02d6db4453dee5a31b2edc37fb8b182d
+FileChecksum: MD5: 123122be5981908eb354bb6a1e54ae1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_plan_model_config.h
+SPDXID: SPDXRef-item7994760
+FileChecksum: SHA1: cc4a0bf89521d35a177aa9d948309331e1482b3e
+FileChecksum: MD5: 5c70772aa5fdb3d1149d60f27b682f84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/serving_session.cc
+SPDXID: SPDXRef-item7994764
+FileChecksum: SHA1: d3211a2e9fa51dc99936c61f260c16c8d9fab54e
+FileChecksum: MD5: 6382bd113318846ca10df157bc03f258
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_parameters.h
+SPDXID: SPDXRef-item7994765
+FileChecksum: SHA1: 179965980119f446f7042da3e1f3ea2869b5c12a
+FileChecksum: MD5: e723558d6546dda4c85c6170a883529d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/tensor_dimension.cc
+SPDXID: SPDXRef-item7994766
+FileChecksum: SHA1: f5822de4081e00c99b8555db5145136b766f5b8d
+FileChecksum: MD5: a801d9d1f54d1eed50177dea83b18e3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_scheduler.cc
+SPDXID: SPDXRef-item7994767
+FileChecksum: SHA1: 2447e50cad98c8e510fa5378d78ae5157ca642ea
+FileChecksum: MD5: 0c27a954aecbae0a0dd08f00bd6fc666
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/inferential_batch.h
+SPDXID: SPDXRef-item7994768
+FileChecksum: SHA1: a3e30e87e330cd00fef33468114f41d88ab0ee48
+FileChecksum: MD5: 56aa75d410384128360c153fab8e5bce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_inputs.cc
+SPDXID: SPDXRef-item7994769
+FileChecksum: SHA1: d1ccd1b15bbef94d46d72bcaa7c20f59d6d3ed4d
+FileChecksum: MD5: 9ce2f422f9abda823b65a8ce7f97224c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/merged_dimensions.cc
+SPDXID: SPDXRef-item7994771
+FileChecksum: SHA1: 7dc1a4b31c0b217daa95f002becda49551eed07d
+FileChecksum: MD5: 4aa7fc12770f658e37effef1ab2e0763
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/merged_tensors.h
+SPDXID: SPDXRef-item7994770
+FileChecksum: SHA1: bbfc2e2c2c281bea991f9d6dadb9882e9285cb53
+FileChecksum: MD5: 438c10f882f333e00c5a79db1d707944
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/final_padding.cc
+SPDXID: SPDXRef-item7994772
+FileChecksum: SHA1: e72dedc7de0ea6659d35a83914c978524c851539
+FileChecksum: MD5: 828669386ce2ee002b59f2abf05d4299
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/shared_batcher.h
+SPDXID: SPDXRef-item7994773
+FileChecksum: SHA1: e77e6ad49759625234c67f9a4c6652cdcfc1f779
+FileChecksum: MD5: 776d9fdd185357b0cc26d47eacd7f9d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_processor.h
+SPDXID: SPDXRef-item7994775
+FileChecksum: SHA1: 842ff37caa4550a9cf8277332ee809cd0e35c31e
+FileChecksum: MD5: 3787e873be1c379eeb1de365dbbd125f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/splited_sizes.cc
+SPDXID: SPDXRef-item7994774
+FileChecksum: SHA1: d134aa81cfef2c13c77de24dda16f3ad324989dc
+FileChecksum: MD5: 1d8bdcbc0bd140b96b3027db8827730a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/splited_outputs.h
+SPDXID: SPDXRef-item7994776
+FileChecksum: SHA1: cf239330fbdeabf4946cea6ae626b4db057df451
+FileChecksum: MD5: e65255ad5041a9e6b0ede7b379483e71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/merged_dimensions.h
+SPDXID: SPDXRef-item7994778
+FileChecksum: SHA1: e61dd4375a217951d33b1d8557d7534162261f9d
+FileChecksum: MD5: bb51f9cceaa8570ec2bb22dfce6056df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_session.cc
+SPDXID: SPDXRef-item7994777
+FileChecksum: SHA1: 0b85105348b92f2fa9f48021a68ffb2bbaee45c0
+FileChecksum: MD5: b794d32243fa229a9ec9ff608dd9c4ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_inputs.h
+SPDXID: SPDXRef-item7994779
+FileChecksum: SHA1: 4c3e636ac8526ed0f58564649b3854e25e52c152
+FileChecksum: MD5: 46dfae2506af01761991db92c7e80d34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/inferential_batch.cc
+SPDXID: SPDXRef-item7994780
+FileChecksum: SHA1: 6dbd5d6689158da9b6e4addc048a6ba180d3bda5
+FileChecksum: MD5: 0f0d10026e2c07c4072997bf18bac373
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/merged_inputs.h
+SPDXID: SPDXRef-item7994781
+FileChecksum: SHA1: ef2007e5f7cd760a80bd8d26aa30b847f05fc5ef
+FileChecksum: MD5: 376dd9f29300f85680f7356df2b11147
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/merged_inputs.cc
+SPDXID: SPDXRef-item7994782
+FileChecksum: SHA1: 27a42ac680e503888fbc0911cecac33583c7c188
+FileChecksum: MD5: 1686a3e0e6e6d62be1bc600228350c3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/tensor_dimension.h
+SPDXID: SPDXRef-item7994784
+FileChecksum: SHA1: 640839f4ccd46298ff29faecdf6794f67eccbe6f
+FileChecksum: MD5: d637c0e60ec4f2bf425d15ac2cf7109c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_parameters.cc
+SPDXID: SPDXRef-item7994785
+FileChecksum: SHA1: fa6af2de6afe07da9929931ef44091b2bcbbc101
+FileChecksum: MD5: d5e783a46ead04e016bb641e532cd892
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_scheduler.h
+SPDXID: SPDXRef-item7994786
+FileChecksum: SHA1: f8cc8739267431681c93f82554ab72618f99e12b
+FileChecksum: MD5: 3535b8d0efd3f308db419e2a1d5b21a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/serving_session.h
+SPDXID: SPDXRef-item7994787
+FileChecksum: SHA1: 302f3d8bf7c6ec24e9af4e4334a873d21a111512
+FileChecksum: MD5: af9a5d218ba7c555270334f0142ae6c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/atomic_batcher.h
+SPDXID: SPDXRef-item7994788
+FileChecksum: SHA1: 26c37f0af4b9584d99c462fa1a0bd6541dd836be
+FileChecksum: MD5: c073634102e6948c241f898210b78b9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/inferential_task.h
+SPDXID: SPDXRef-item7994789
+FileChecksum: SHA1: dfeeb6043142fd49d7cd4334eb597b9be437e9ed
+FileChecksum: MD5: d8b9b84d7760c0248a03b7e54d63f2ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/batching_session.h
+SPDXID: SPDXRef-item7994791
+FileChecksum: SHA1: ed81ba73708c3120434b28d0ad14b4c0610b5196
+FileChecksum: MD5: 77707ef7a8e235019515b5fb9a02c341
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/splited_tensors.h
+SPDXID: SPDXRef-item7994790
+FileChecksum: SHA1: 89b8235ccc9a7f047934a871d998c66ec93c69ee
+FileChecksum: MD5: bcd4c90dbf915cf4593f2412e2150d70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/merged_tensors.cc
+SPDXID: SPDXRef-item7994793
+FileChecksum: SHA1: c8d4e48b8ea9f433ff2148f7bacb819aef76e763
+FileChecksum: MD5: a2c469e5d3c268b0e790d4a9aa2a3c82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/inferential_task.cc
+SPDXID: SPDXRef-item7994794
+FileChecksum: SHA1: 69d36777423b73e54519b52296fdf9aff06b0a56
+FileChecksum: MD5: 7755cb0aba2fff04ca153b68b420ac72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/final_padding.h
+SPDXID: SPDXRef-item7994792
+FileChecksum: SHA1: bd066883332107b4595887c8466e3d7ecda7027e
+FileChecksum: MD5: dc2e397936aac23805b0ba9bebebdd9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/splited_sizes.h
+SPDXID: SPDXRef-item7994795
+FileChecksum: SHA1: cd5f66d41ac049a76f0202ed073f90bbaf195935
+FileChecksum: MD5: 06668b2b00145550e0c1ad6da217bb36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/splited_outputs.cc
+SPDXID: SPDXRef-item7994796
+FileChecksum: SHA1: f2a1af0befe8bcdecacc30e414b2fd20a30f0ff8
+FileChecksum: MD5: cc92f74513d3b231334f04a1f1ce2fc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/plan_model_loader.cc
+SPDXID: SPDXRef-item7994799
+FileChecksum: SHA1: 85f31f3336fcfcaf29426cb334de81d57518202f
+FileChecksum: MD5: a6c8a75a5796e256810d06900ff612e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/errors.h
+SPDXID: SPDXRef-item7994798
+FileChecksum: SHA1: ce43d96ba50939af8ac78f54a45e8ce2bfea922f
+FileChecksum: MD5: adc81e0b69956c43027b977c6cdce36c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/plan_model.h
+SPDXID: SPDXRef-item7994800
+FileChecksum: SHA1: 51ceeb32728339ff75879a158955113857c0161a
+FileChecksum: MD5: 35cbc000431d2435b310b5240e0db2c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/model_outputs.h
+SPDXID: SPDXRef-item7994801
+FileChecksum: SHA1: 4e7d0190f9e823a9eac5bf816e5b3df69f44397c
+FileChecksum: MD5: 372f30197e57a7aa610986f46d91575a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/meta_graph.h
+SPDXID: SPDXRef-item7994802
+FileChecksum: SHA1: 584940478264f9d138a1c2a2498293b1358b70f0
+FileChecksum: MD5: 8da97866d0138ed5902abd8eab4153f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/model_signature.cc
+SPDXID: SPDXRef-item7994805
+FileChecksum: SHA1: 03f6aed98d45a039c7300bda00b4699dcff0090f
+FileChecksum: MD5: 60a0d74f787931d4b31db24a5575b42d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/model_inputs.h
+SPDXID: SPDXRef-item7994803
+FileChecksum: SHA1: a3933659023c9f627b2d8f38392416d9c1627364
+FileChecksum: MD5: 9260df6bf17ebee879f757ea17d3f080
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/model_signature.h
+SPDXID: SPDXRef-item7994806
+FileChecksum: SHA1: 29d039985f43f95294663b6b3927922d2b81fba3
+FileChecksum: MD5: 8cf165cfb84bc5ea88c5394fde8d4884
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/plan_model_loader.h
+SPDXID: SPDXRef-item7994808
+FileChecksum: SHA1: fa2c5b9e0a064e989465e38cb23492eb97c8d72a
+FileChecksum: MD5: 4dab6b158766bfc0f18e132f425f8085
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/plan_model_factory.h
+SPDXID: SPDXRef-item7994807
+FileChecksum: SHA1: aee8d745422f6458917a614144f16115058ebf2e
+FileChecksum: MD5: 87bb340853d80cefd91d991fc41cf88b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/meta_graph.cc
+SPDXID: SPDXRef-item7994809
+FileChecksum: SHA1: 5b723e530f7e667399a9af758c54b487121ef06f
+FileChecksum: MD5: bdc091e47c732daf18308f5439c9e469
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/sample/shared_scheduler_runtime.cc
+SPDXID: SPDXRef-item7994812
+FileChecksum: SHA1: 3627d00e18da4fd0a0a038f8e2e61f8511ca1b4b
+FileChecksum: MD5: 09c15ddfb88fb0d3b1a8ef8a8ab39afa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/plan_model_factory.cc
+SPDXID: SPDXRef-item7994810
+FileChecksum: SHA1: 621861427eb850e49547fbabaf5ed37864ea97cd
+FileChecksum: MD5: 2750eddd838da36ee7585fce8536add1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/sample/unique_scheduler_runtime.cc
+SPDXID: SPDXRef-item7994813
+FileChecksum: SHA1: e3fc63129ae111b5bf64214689ed18d8800f52f2
+FileChecksum: MD5: b589917eb6767bb16c73f812b1ec77e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/sample/no_scheduler_runtime.cc
+SPDXID: SPDXRef-item7994815
+FileChecksum: SHA1: c655cee3ed6867565ad5401baac07f17b148672c
+FileChecksum: MD5: 4bd3d4b067477e76c251cec89271733c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/composite_batch_processor.h
+SPDXID: SPDXRef-item7994817
+FileChecksum: SHA1: 36e2404e7089a901f43dc963909f1d08bb4f4e23
+FileChecksum: MD5: 1c8b602bfc55887d88a87124253eeecd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/cleanup.h
+SPDXID: SPDXRef-item7994819
+FileChecksum: SHA1: 596c92dce943dad93a0a7eb28959b4fac9b1b7a9
+FileChecksum: MD5: 36158664c9d62dde5b2a90357c3ca2ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/batch_processor.h
+SPDXID: SPDXRef-item7994820
+FileChecksum: SHA1: efeafaccc60c33ceb312bb899ed02516624f4988
+FileChecksum: MD5: bd7d7d8acf495e7aba13006c457ac51a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/basic_batch_scheduler.h
+SPDXID: SPDXRef-item7994818
+FileChecksum: SHA1: ef3ab92533152b8aa75a24eb600477efa1c21eb6
+FileChecksum: MD5: 00c4214db7f149b48d1d8c74d9ccace1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/batching_message_task.h
+SPDXID: SPDXRef-item7994821
+FileChecksum: SHA1: dd99550b60db07bd72e1e5a2d839a22ce6acdad1
+FileChecksum: MD5: d28e0db621a276639ac983b46d568d85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/batching_model.h
+SPDXID: SPDXRef-item7994824
+FileChecksum: SHA1: 6fe90678e78c3fe68a7118b7239f0f3b7698215e
+FileChecksum: MD5: d112a0e90a1d4651cc3a53b8a1e62c5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/shared_batch_scheduler.h
+SPDXID: SPDXRef-item7994822
+FileChecksum: SHA1: 6d7e3cc7f41099d1a6adea0b83f49cdb37dbe89e
+FileChecksum: MD5: 3f47920c5f600780558ceb8d8432e32f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/batching_model.cc
+SPDXID: SPDXRef-item7994825
+FileChecksum: SHA1: 1ac360775ed4a20a210386b9153c3141072ffb99
+FileChecksum: MD5: 31d94840a069ded1390918f0f0f0b3ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/batch_scheduler.h
+SPDXID: SPDXRef-item7994827
+FileChecksum: SHA1: d8192ef7b6bd8e75d4cf711afc278b1550f598a6
+FileChecksum: MD5: 31b27d8ddb491f256d967739afdf7f82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/composite_batch_processor.cc
+SPDXID: SPDXRef-item7994826
+FileChecksum: SHA1: 3efe15ea78eb9572fbd35af5213056f2c4d21826
+FileChecksum: MD5: 76290fa988b7d7a25f9276b3b00182a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/factory/openvino_runtime.cc
+SPDXID: SPDXRef-item7994830
+FileChecksum: SHA1: d3ee2507ac65d4690257e86082bed6c9630e73ea
+FileChecksum: MD5: 2429c198b915350be6ddb46d2d482edb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/model/ir_model.cc
+SPDXID: SPDXRef-item7994837
+FileChecksum: SHA1: 0b8f9e8bd24c30ff5624498baf5eb83393d2078d
+FileChecksum: MD5: 5d0d790b4a969376964bc5fbc2d9c794
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/model/openvino_util.cc
+SPDXID: SPDXRef-item7994839
+FileChecksum: SHA1: f28a8604d4533886f2019a71d9660e9e457393d6
+FileChecksum: MD5: 9af28922ab3dc053e031a7d1d5b43ada
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/model/openvino_util.h
+SPDXID: SPDXRef-item7994840
+FileChecksum: SHA1: 40baa2d59c4001e7a092846bdf8c6432eb0dca8f
+FileChecksum: MD5: e7df5bdb1e3ceea684449ed8399c8e02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/model/ir_model.h
+SPDXID: SPDXRef-item7994841
+FileChecksum: SHA1: 99dd2ff27088da3e9db4ef27b34dde970d6c867f
+FileChecksum: MD5: 9bac9f7c4b5db41fa9c7da3b3fd6c984
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/predict_response_provider.h
+SPDXID: SPDXRef-item7994844
+FileChecksum: SHA1: bb1868ae43db0d595ee74bc12b086c9fcdbd34b0
+FileChecksum: MD5: 37f9cc8810e46d1eaf6f1128e9dfc2c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/predict_util.h
+SPDXID: SPDXRef-item7994846
+FileChecksum: SHA1: 64568266cc93f1f131ecd9b2e009dc655a61c565
+FileChecksum: MD5: b5f37b49b7cce35dbede42b4788dd6e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/openvino.h
+SPDXID: SPDXRef-item7994842
+FileChecksum: SHA1: 3a26ab77328558bdd27016a6f1f7c10f4d3a8944
+FileChecksum: MD5: 5e65e0e9ecda7313c0046e28d0a00e0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/grpc_predict_request_provider.h
+SPDXID: SPDXRef-item7994845
+FileChecksum: SHA1: 8410ee53607d8d494e35df6578c9d8a69929c2e6
+FileChecksum: MD5: fab58d9344aa203d761d97deedcfb9a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/grpc_predict_request_provider.cc
+SPDXID: SPDXRef-item7994848
+FileChecksum: SHA1: 1c74ea8793a8d489a8306395161e4ed26706900d
+FileChecksum: MD5: 9045bc9e88976980c95945220c4edffd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/predict_util.cc
+SPDXID: SPDXRef-item7994849
+FileChecksum: SHA1: bf67908936a4a9ca7e775862036642ff2f0dcde2
+FileChecksum: MD5: dc14c98195dd91754121e864caeb734a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/grpc_predict_response_provider.h
+SPDXID: SPDXRef-item7994851
+FileChecksum: SHA1: 2b41682d491b63a428aeed0f93a3c5644b331658
+FileChecksum: MD5: 90ce65e0d5ecc2801fa05a88b7291122
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/predict_request_provider.h
+SPDXID: SPDXRef-item7994850
+FileChecksum: SHA1: 0b28a3c8364f8b273f4f8082cad1fd4c1e0a56b1
+FileChecksum: MD5: 32d870ad8ef05c3a1da08372494310f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/factory/trt_model_options.cc
+SPDXID: SPDXRef-item7994855
+FileChecksum: SHA1: 0cee92a24a7ac41cdde49ce1bda73da25644be89
+FileChecksum: MD5: 56a0e8e9db30f9866d20ba007a9c241f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/grpc_predict_response_provider.cc
+SPDXID: SPDXRef-item7994852
+FileChecksum: SHA1: 7531b8cb747d9605736947ffda8365cf58df2a64
+FileChecksum: MD5: 9b1e1086f7c2923eee947ab0c8633e7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/factory/trt_runtime.cc
+SPDXID: SPDXRef-item7994856
+FileChecksum: SHA1: c795efc5f9b43a2acb7b006814e58b92e5efbfd9
+FileChecksum: MD5: ffe679c2d8f4eaf3abb4b9bbeb0c3da9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/factory/trt_model_options.h
+SPDXID: SPDXRef-item7994858
+FileChecksum: SHA1: 43c81bce0806f4a0a30bbee801bb5596ffea3912
+FileChecksum: MD5: fd05fa2d42dd0f1e197ec2584d367319
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/trt_util.h
+SPDXID: SPDXRef-item7994865
+FileChecksum: SHA1: adfffd53aca16d9e31448766e48f0368346c1ad5
+FileChecksum: MD5: ea016461ea6e5f0c56b84177134c5494
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/trt_model.cc
+SPDXID: SPDXRef-item7994866
+FileChecksum: SHA1: 3f90b51f74787b2c5939b6c3e71689b046549423
+FileChecksum: MD5: 3376e3548358cff76d666f53ec8e2f08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/trt_instance.cc
+SPDXID: SPDXRef-item7994864
+FileChecksum: SHA1: dfb5584360801073208469b77b1f521e33370e0a
+FileChecksum: MD5: 1dc64f9f1bb7a0a00ccb45007e5dc777
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/trt_util.cc
+SPDXID: SPDXRef-item7994870
+FileChecksum: SHA1: ca7c4df0d08645e3a2bda4f848be65e43b822de3
+FileChecksum: MD5: b94b231016fb2dbb8cb87857ca97b0c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/trt_model.h
+SPDXID: SPDXRef-item7994868
+FileChecksum: SHA1: 65fafd635fd5a64bc4a224a69d8aaaf27e3ec1ec
+FileChecksum: MD5: c7cb53641ccd587e862fa6c75d5733b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/trt_instance.h
+SPDXID: SPDXRef-item7994869
+FileChecksum: SHA1: c00ce5f955ec13c89efe2a24b1fb0871d857b073
+FileChecksum: MD5: 9ea1df8461bf2385bb822567b115cfc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/default_model_factory.h
+SPDXID: SPDXRef-item7994875
+FileChecksum: SHA1: 196acb6d96929487b093c8c4f7ae96e8e788891a
+FileChecksum: MD5: 7bb36ce893033fc7a7b7379e01f676f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/default_model_wrapper.h
+SPDXID: SPDXRef-item7994873
+FileChecksum: SHA1: 9246c5d108da23067423eeae9e75632815a97768
+FileChecksum: MD5: b72ee04c5ed10a03f66316a77621594b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/shared_batcher_wrapper.h
+SPDXID: SPDXRef-item7994874
+FileChecksum: SHA1: 3de3932637b1aba1c68d0fee268e0c7bdc457a68
+FileChecksum: MD5: 47ce49b3d41998b1cd69c0f1b1c11d3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/shared_batcher_runtime_helper.h
+SPDXID: SPDXRef-item7994872
+FileChecksum: SHA1: 45c9476d277b533b989bc83fecdcddde02386648
+FileChecksum: MD5: c6e9f6e701f90afd222087e80b80eb03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/default_runtime_helper.h
+SPDXID: SPDXRef-item7994876
+FileChecksum: SHA1: fcb71fce159e0d0dfc8d5bbbd7c1c0bde0c9a492
+FileChecksum: MD5: fb49597b004c757f3f94f5d5a7af4047
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/queue_options.h
+SPDXID: SPDXRef-item7994877
+FileChecksum: SHA1: 6080a673b49f1ce69b5cd7d9768065e5a401231e
+FileChecksum: MD5: c9ed45db4e0c34140a7d8570c70df0c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/shared_batcher_wrapper.cc
+SPDXID: SPDXRef-item7994878
+FileChecksum: SHA1: 5b80f4d37c0cadff49b8dcc95372030a68cb1c08
+FileChecksum: MD5: 2bbbd549c1a074631645de0356514eea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/shared_batcher_model_factory.h
+SPDXID: SPDXRef-item7994880
+FileChecksum: SHA1: dd2ff4a325d50bd97545cd8c8058bad441037028
+FileChecksum: MD5: b749b0353d0c57a39f45bf0296583ee5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/unique_batcher_runtime_helper.h
+SPDXID: SPDXRef-item7994882
+FileChecksum: SHA1: 83cbb3c96daebfcc15ef405ff61392937f699617
+FileChecksum: MD5: e8b30d36d30199c8ffc071e5be73ef37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/unique_batcher_model_wrapper.h
+SPDXID: SPDXRef-item7994881
+FileChecksum: SHA1: 2372839b5989fe467857338d38de67eb95a9cfd5
+FileChecksum: MD5: d20cb1b1b71458759ca898cd4bc82613
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/sdk/sdk_api.h
+SPDXID: SPDXRef-item7994888
+FileChecksum: SHA1: 1f741be66eeb68f6c2209aa4a50ef3b48b985d47
+FileChecksum: MD5: 51e9870ea79ac0d0b40031eb7f3b983b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/shared_batcher_model_wrapper.h
+SPDXID: SPDXRef-item7994884
+FileChecksum: SHA1: 1823eb547249a43fa3c7bd373d0c3b7826d3fd0a
+FileChecksum: MD5: 49b2b095b3afe514690518b0e1546204
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/setup.py
+SPDXID: SPDXRef-item7994891
+FileChecksum: SHA1: f055308447c1ad58b32dc58a38c355cd370c69b7
+FileChecksum: MD5: adf16b364baa55601e9a1adeaf780c25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/name_def.h
+SPDXID: SPDXRef-item7994883
+FileChecksum: SHA1: a0ff8151b684e7dceca4b2d99d51f864068bda82
+FileChecksum: MD5: 7d2e82b8d9957fd893515cb054d3d2c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/simple_client.py
+SPDXID: SPDXRef-item7994894
+FileChecksum: SHA1: 17e6baa0f48d6335c813233b123b43f815fdafef
+FileChecksum: MD5: f0b27f98aea47c2c7abe14e10df5dbdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/__init__.py
+SPDXID: SPDXRef-item7994895
+FileChecksum: SHA1: 13b62168e5297c4a968d496249054f3aae49e72d
+FileChecksum: MD5: e8ba181aa7374224be24cd9c5e215401
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/image_client.py
+SPDXID: SPDXRef-item7994897
+FileChecksum: SHA1: 1108c07e003ae414a7c9aaea133a1b573c2a9dc4
+FileChecksum: MD5: 06c28d10d1a89bf1a150c582d52f49f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/grpc_service.cc
+SPDXID: SPDXRef-item7994900
+FileChecksum: SHA1: 84983c17af545b77bcf0e58c7686b899ee89e9c6
+FileChecksum: MD5: cf2a97e7c3efbe2729bab2a36bc67ace
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/grpc_options.h
+SPDXID: SPDXRef-item7994901
+FileChecksum: SHA1: 6357f13db0081a07265b0bac9b39673d416d2fe8
+FileChecksum: MD5: b0f37a6d1f042b11576f8b29601882ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/grpc_service.h
+SPDXID: SPDXRef-item7994902
+FileChecksum: SHA1: 7cf030003b8eb744c82df1ec7fb4a331927552f8
+FileChecksum: MD5: 3c2ee2f01d5887377dcec9745335f07e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/grpc_server.h
+SPDXID: SPDXRef-item7994905
+FileChecksum: SHA1: 73b9c9ae386453fd0122ffa115bb42b957abcb10
+FileChecksum: MD5: 295569b89acc65ff1db0a8fa57ea5380
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/grpc_server.cc
+SPDXID: SPDXRef-item7994907
+FileChecksum: SHA1: 2d28d5556ccda9cb95777f39fa671eab429a210f
+FileChecksum: MD5: 2c330887c2357ae0857a53daf0e4da7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/main.cc
+SPDXID: SPDXRef-item7994908
+FileChecksum: SHA1: f734187b37279d4913ec300c1a2f9c3136e4396d
+FileChecksum: MD5: 4c7b3da7c08a33ae142212efe39f6062
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/grpc_options.cc
+SPDXID: SPDXRef-item7994906
+FileChecksum: SHA1: 7f287389455f7d6393820963c26ea84b49988d7a
+FileChecksum: MD5: 7eac70059a65ff0f2c37663b6d79968d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/core/server_core.h
+SPDXID: SPDXRef-item7994911
+FileChecksum: SHA1: 8c34e2cfe15cf2b0a066ae9887a4c033da8d66bb
+FileChecksum: MD5: 59cb815c45fd18dc4aeaa5f03a983337
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/core/version.h
+SPDXID: SPDXRef-item7994910
+FileChecksum: SHA1: 95684f66c1f472a1e9ee00e4b168d998b779be82
+FileChecksum: MD5: b7ba4dbe9191694fa1887099b4cb3a26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/simple_http.py
+SPDXID: SPDXRef-item7994896
+FileChecksum: SHA1: 93b7bc8e13c8deffecd1ca723d4c33bdf4a54142
+FileChecksum: MD5: 6749dbb120c4a5baedde6c324eb3635d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/core/server_core.cc
+SPDXID: SPDXRef-item7994914
+FileChecksum: SHA1: ba8cf47b12603383df1e0916a000ff6f75d0a599
+FileChecksum: MD5: 05e2c99c94e12c3c1e3a97bc3d135579
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/http_request.cc
+SPDXID: SPDXRef-item7994917
+FileChecksum: SHA1: ab22f316c3b33ed192f32e9ac6221d8525756e0f
+FileChecksum: MD5: 5da769f3341d1435c70060c9104f93ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/core/version.cc
+SPDXID: SPDXRef-item7994912
+FileChecksum: SHA1: a65db586d5c6e53373d553d59674156f6bd2b752
+FileChecksum: MD5: 7462a1944d794d5b115967fd0dfa5f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/http_request.h
+SPDXID: SPDXRef-item7994919
+FileChecksum: SHA1: e66b186136d17941a46a992394bf859fb674201f
+FileChecksum: MD5: a53e000d48337888e6b814f68188024f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/event_loop_scheduler.h
+SPDXID: SPDXRef-item7994918
+FileChecksum: SHA1: 0858f5bf3fccd884070a3b97fb977a4f3f9508ff
+FileChecksum: MD5: d1a13545a2b48fa6a1c4972eede3af77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/operation_tracker.cc
+SPDXID: SPDXRef-item7994920
+FileChecksum: SHA1: a5e3c8222f93abf88937ee9559e76bf3da699492
+FileChecksum: MD5: b63569bd077a3003b1fcf7691c2fd973
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/server_interface.cc
+SPDXID: SPDXRef-item7994921
+FileChecksum: SHA1: 6eef55ffa773ed6b9ee07fb60f0d3c49b1db6bad
+FileChecksum: MD5: ba5d41bcd5a4d8f321f9995bf9692df7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/request_handler_options.h
+SPDXID: SPDXRef-item7994923
+FileChecksum: SHA1: 8d13c7028c7c8d69d609736d5c24e117c537a164
+FileChecksum: MD5: 823018df81d8a8b30aa31924187ffdc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/server_interface.h
+SPDXID: SPDXRef-item7994926
+FileChecksum: SHA1: 4965f8df19c55444dc9a42cee672f083382dca82
+FileChecksum: MD5: 4b0b60b41b07b225cfded0e0cb31449a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/operation_tracker.h
+SPDXID: SPDXRef-item7994922
+FileChecksum: SHA1: 1f9e97c5ce34d58dc1058c291468f3bb0de2b0fd
+FileChecksum: MD5: 5da09bdf5c915bf1c7ea8c7360d1180a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/event_executor.h
+SPDXID: SPDXRef-item7994925
+FileChecksum: SHA1: 2d0e8ccb3f3daa2d3a62c8738f5d99128efe5dd9
+FileChecksum: MD5: 42f8930d9667a76235a1309db5693d09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/event_executor_impl.cc
+SPDXID: SPDXRef-item7994928
+FileChecksum: SHA1: b66f6cf23cbc0b504d6d57c6d3fcf58c758df9c8
+FileChecksum: MD5: c98c8b5e5f2f7f2f9393818d72966f53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/http_rest_api_handler.cc
+SPDXID: SPDXRef-item7994930
+FileChecksum: SHA1: 2b4646e4ae34513fd9049edc8a5f2813fc2073a4
+FileChecksum: MD5: b1e6aa1fa7cb1fe61fd4d6d0b8fda363
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/http_options.cc
+SPDXID: SPDXRef-item7994929
+FileChecksum: SHA1: ba4aca36aa42c659061d0e1a2759a5bc9fa58561
+FileChecksum: MD5: df78b6ba918e0b3e6c3b9d7c91bca780
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/http_status_code.h
+SPDXID: SPDXRef-item7994927
+FileChecksum: SHA1: e10cd7f9374a67a501adff9fac02556d5435d900
+FileChecksum: MD5: 4fbe2d027fff761cacf470093b71398b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/http_server.h
+SPDXID: SPDXRef-item7994931
+FileChecksum: SHA1: a5220801085e32b9ba531307277a9aa992c89574
+FileChecksum: MD5: 1cd7a35714df1d448efb3ca623932c6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/http_server.cc
+SPDXID: SPDXRef-item7994934
+FileChecksum: SHA1: f8def5679be45e42a0b8df4548fdc0fddba3d41d
+FileChecksum: MD5: e6d1e8cb8d9ea45c71f914545209ba22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/http_rest_api_handler.h
+SPDXID: SPDXRef-item7994933
+FileChecksum: SHA1: 007c46b7dfa0b388ae76b21ef4241896021d2139
+FileChecksum: MD5: 1790cb66c2b68b686fd339fa330d6f69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_stream.h
+SPDXID: SPDXRef-item7994938
+FileChecksum: SHA1: 6be84ac18b7ae897b090f83439063c59f79fb99a
+FileChecksum: MD5: 33cd75e2bbc62195539f2103177d4edc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_probe.cc
+SPDXID: SPDXRef-item7994939
+FileChecksum: SHA1: 70f393e07dbff2f4f2666172ec334df4836ebe70
+FileChecksum: MD5: eb4f428c1d5d88b8b0a6681f8f74cbc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/http_options.h
+SPDXID: SPDXRef-item7994935
+FileChecksum: SHA1: 27d9f539529b3f4051229445636a07f149266091
+FileChecksum: MD5: b7f3ee2bf775b26c440a0f33c9b50464
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/event_bus.h
+SPDXID: SPDXRef-item7994942
+FileChecksum: SHA1: 93644a39076ca3a04fa53d5842b1fe0f68a0e12a
+FileChecksum: MD5: 8a9441a4194d92d2c87916962c5b54bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_path.cc
+SPDXID: SPDXRef-item7994941
+FileChecksum: SHA1: bc1926e86338f829fbbdb40481005ee078bd9c40
+FileChecksum: MD5: 163f93f96a963a528bf29899e79c85d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_path.h
+SPDXID: SPDXRef-item7994940
+FileChecksum: SHA1: 4737cb564f319aa92203d05716cbb95301927823
+FileChecksum: MD5: 73691e172a23915add84be5d87f456c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/dims_list.h
+SPDXID: SPDXRef-item7994944
+FileChecksum: SHA1: a9782dd06bc96da8b85262c919729a2da8d4c371
+FileChecksum: MD5: 12a555f6ce975355c2c8f4b17d9c4c90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_id.cc
+SPDXID: SPDXRef-item7994943
+FileChecksum: SHA1: e2c2a27966a834a2a9772dd4ebae3448c924d180
+FileChecksum: MD5: d0091b89237004108cafb946d0d1f43d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_stream.cc
+SPDXID: SPDXRef-item7994945
+FileChecksum: SHA1: 5b080e7e6b9a47e477f2ceb3d7fbf2f41a82b78e
+FileChecksum: MD5: de85bddf100ece42c1057e8aa7c534c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/aspired_state.h
+SPDXID: SPDXRef-item7994946
+FileChecksum: SHA1: f3d27ae40e63140e897ffe30972d88189efa32cc
+FileChecksum: MD5: 2d3f58b413be578df2f0b268d793c9eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/version_list.h
+SPDXID: SPDXRef-item7994947
+FileChecksum: SHA1: e55c394f493431ec5c82a60e3bb0ebfa22b8d997
+FileChecksum: MD5: 5091a793fbf251fad7aa218f635f52b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_config.h
+SPDXID: SPDXRef-item7994948
+FileChecksum: SHA1: ac3f8fdf9cf8b2e4a1fda3b6baa040caeba9c1d6
+FileChecksum: MD5: 91a48264ffeb116fdc9e8ca19d5f1788
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_model.h
+SPDXID: SPDXRef-item7994949
+FileChecksum: SHA1: 4d1f8460194c63fc29644083c4ba4172b172035f
+FileChecksum: MD5: 672f0320f54f2505ca62dc4b87648b28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_predicate.h
+SPDXID: SPDXRef-item7994954
+FileChecksum: SHA1: 2882f79f4763b0880ac63beb6f9ed82d3d752893
+FileChecksum: MD5: d87089a23bf692e3d25932e734616584
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/shared_model_handle.cc
+SPDXID: SPDXRef-item7994952
+FileChecksum: SHA1: 5d06b353bea9837608e7ec0baafd8490f4fcdd35
+FileChecksum: MD5: ae450730945d0b87a3b362fcb348a2c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_request.h
+SPDXID: SPDXRef-item7994953
+FileChecksum: SHA1: e3d20c437ec7d4abda081898ab877350c4a5088a
+FileChecksum: MD5: 635e2548c728e99d970970391ff6f2a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_store.cc
+SPDXID: SPDXRef-item7994957
+FileChecksum: SHA1: 62544f3b8945492b2bdc1024d4257c2d64c3e292
+FileChecksum: MD5: f026e5ca6399917d4ca529b90ea3bd29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_request.cc
+SPDXID: SPDXRef-item7994955
+FileChecksum: SHA1: 9ddabb1d9cd7390ca5e23e56ed600a004569b6df
+FileChecksum: MD5: e97126fa4e8d35fee2d4659420d2aff9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_loader.cc
+SPDXID: SPDXRef-item7994958
+FileChecksum: SHA1: e49978f45a558d1a44f7de70ce0292ce872a7f90
+FileChecksum: MD5: daf185529155578d396a541bd5988f30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_handle.h
+SPDXID: SPDXRef-item7994956
+FileChecksum: SHA1: 8081a48447389e894fd656b70ea525306e6ac2cf
+FileChecksum: MD5: d2d15b608e9ec64e5364df16166dc6f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_state.h
+SPDXID: SPDXRef-item7994960
+FileChecksum: SHA1: 42c807ef02a025a85a74a500bb5a33ed9e324a88
+FileChecksum: MD5: d4f9f24bd05b550ca899eb4debbf28b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/event_handler.h
+SPDXID: SPDXRef-item7994959
+FileChecksum: SHA1: 899242574744f038a9f2c53a7a3046b7a7d67dea
+FileChecksum: MD5: 78c551ab4b053ee9b8172083e0450813
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_probe.h
+SPDXID: SPDXRef-item7994962
+FileChecksum: SHA1: 08d6fc007cb32a29c7cfbcef3d6f1d6189d03f98
+FileChecksum: MD5: de0d40e4be2d4d2f3f204337b8737161
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_target.h
+SPDXID: SPDXRef-item7994963
+FileChecksum: SHA1: c8a4a791ace7d028e8715988ac360eda53b75da7
+FileChecksum: MD5: ba55979ead202c424369972fd1bf3811
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model.h
+SPDXID: SPDXRef-item7994961
+FileChecksum: SHA1: 4ab2981a148a0900d390ba5ae2746827862d23e6
+FileChecksum: MD5: bcf677dabc9404166b14745e11a9787a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_id.h
+SPDXID: SPDXRef-item7994964
+FileChecksum: SHA1: 3ef514067f6267f46f071d4f1b9bb5f3618ced79
+FileChecksum: MD5: c8f5b7b71f9b43e68e1e40d712c7fe29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_options.cc
+SPDXID: SPDXRef-item7994966
+FileChecksum: SHA1: 1026b6f6be12f05b4d523261a205d7b25b3c63bf
+FileChecksum: MD5: 366ac4a71d6aa7cb37833ac1d568a900
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_config.cc
+SPDXID: SPDXRef-item7994967
+FileChecksum: SHA1: dd50833a506762af9d5cafed77a88766b9a1aba6
+FileChecksum: MD5: 9a6b362b4c75b9b6347c275cbafc26a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_loader.h
+SPDXID: SPDXRef-item7994969
+FileChecksum: SHA1: fa5014bd57d90a56a5b9ebc445678fb9009ac00a
+FileChecksum: MD5: 1b1b2a47223ab517f17c92e2f7f414fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_state.cc
+SPDXID: SPDXRef-item7994968
+FileChecksum: SHA1: f666d1521989611f9f9cdef04ee72ffbd6927ced
+FileChecksum: MD5: cc234544f169e742fda3f3f2d80e31d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_config_helper.cc
+SPDXID: SPDXRef-item7994970
+FileChecksum: SHA1: 4767482465b90804a63a44ce33baf1190284cc0c
+FileChecksum: MD5: 99c1bf684f3b74028a3f27cc92b15f21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_notifier.h
+SPDXID: SPDXRef-item7994971
+FileChecksum: SHA1: 2f58f2eed984916b0b510ea7988ee86e0189b9ff
+FileChecksum: MD5: d493b6b2432b628397c6ec9e85e6385d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_model.cc
+SPDXID: SPDXRef-item7994972
+FileChecksum: SHA1: 24144821a5f0bbe4ba32e70f9571aac40d50fa49
+FileChecksum: MD5: b02300a7485b70f52d15607db9a74373
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_source.h
+SPDXID: SPDXRef-item7994973
+FileChecksum: SHA1: 0fc0bd69bcfffa0dd66df836b73d0410cab5b63e
+FileChecksum: MD5: 105d897bb24d91ab22bbe310fac2dac5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_options.h
+SPDXID: SPDXRef-item7994974
+FileChecksum: SHA1: a246ea46f088bf15ecd74bea95d1db32e96f6a4e
+FileChecksum: MD5: 1c695186e637b46965f3cf19af169f3b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_store.cc
+SPDXID: SPDXRef-item7994975
+FileChecksum: SHA1: f73767b5a1de458cbdf989516cf0230bb3b04193
+FileChecksum: MD5: 68440a23b3b6560bc28ecd11c9180d8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_store.h
+SPDXID: SPDXRef-item7994977
+FileChecksum: SHA1: ba411e5a7b8122bfa92afd32a8df216201d54dca
+FileChecksum: MD5: 33c03732dbcfc945ea05d6e6d70ef8e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_event.cc
+SPDXID: SPDXRef-item7994976
+FileChecksum: SHA1: bb6b45c966940fd9330da4b481f6d19a078a5248
+FileChecksum: MD5: 8887ff3b67566a56ef3b62c5d28d5503
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/state_monitor.h
+SPDXID: SPDXRef-item7994978
+FileChecksum: SHA1: 5cac875334a74def19150bc5ecb5c4d869b59c70
+FileChecksum: MD5: 7139946aec426eecf91b0c0b643cf0e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/label_provider.cc
+SPDXID: SPDXRef-item7994980
+FileChecksum: SHA1: 13c6acac29ced3ad277a10d62f6fc2146b61652f
+FileChecksum: MD5: 44a9b43aa58781a0a1e6584b39c749b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/auto_model_handle.h
+SPDXID: SPDXRef-item7994979
+FileChecksum: SHA1: 9f5327b671e258883dd356b5e6f2a884ed87eb9c
+FileChecksum: MD5: 0f9e16c1e27a8cb9a7f2721198a355ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_config_helper.h
+SPDXID: SPDXRef-item7994981
+FileChecksum: SHA1: 95e85f8d934d48d1208e0d220be66afe29f5f85d
+FileChecksum: MD5: 1b53c329849c0862472874b662f63635
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/event_bus.cc
+SPDXID: SPDXRef-item7994983
+FileChecksum: SHA1: 8a6bb705bfca23268bf9d1d89e7137e4384d782b
+FileChecksum: MD5: c0d7eb677944944bab37e5515a092524
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/shared_model.h
+SPDXID: SPDXRef-item7994982
+FileChecksum: SHA1: ebbcdb7a02ef0043e03a14594f79c799e8e801db
+FileChecksum: MD5: 1fd969658babe07628f56293aa2db97c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/monitored_event.h
+SPDXID: SPDXRef-item7994984
+FileChecksum: SHA1: 664e3539908bd78ae55d1469479c0b747a97bda9
+FileChecksum: MD5: 37f66703945624bf801997fdb3dd845d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_store.h
+SPDXID: SPDXRef-item7994985
+FileChecksum: SHA1: 79ce999f8c06205a6269444589fe9ffd28e20993
+FileChecksum: MD5: 322f46495d9cf0ba47e8b80f3a41ca6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/label_provider.h
+SPDXID: SPDXRef-item7994986
+FileChecksum: SHA1: f0dcaebde008f3994a96893db81b3cde4e475e03
+FileChecksum: MD5: 2c3396faf561db63f63a15f214e0e01d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/state_monitor.cc
+SPDXID: SPDXRef-item7994988
+FileChecksum: SHA1: 5ba59ad75a4b0e7549110e17d8e585d492f9f59a
+FileChecksum: MD5: f64d5bee824b8ce9861ec0a5a0be67c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/bare_model_loader.h
+SPDXID: SPDXRef-item7994990
+FileChecksum: SHA1: 43494cddcd516e5275b7386de87ad8bc77db6da1
+FileChecksum: MD5: 1a42bf7483f72e4f833fbc63dede1049
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/shared_model_handle.h
+SPDXID: SPDXRef-item7994991
+FileChecksum: SHA1: 71fec457c90fd09faf078fea38a77d56ca5209f0
+FileChecksum: MD5: 75ac9ced6fcb6170e573c59dc9ccd03a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/aspired_state.cc
+SPDXID: SPDXRef-item7994989
+FileChecksum: SHA1: 9d6a9f378267dc95829578131f793805f961e3d9
+FileChecksum: MD5: 89587604fb0e9cf8d3f754d215e16f53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/boarding_functor.h
+SPDXID: SPDXRef-item7994994
+FileChecksum: SHA1: d021c5b8dd297fcd2fb072e9258abe4f49d7eae0
+FileChecksum: MD5: 021aa9cadac8de33ad7d29e37c4f402f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/version_list.cc
+SPDXID: SPDXRef-item7994992
+FileChecksum: SHA1: 5780551e33921cb894628effecb492878618be09
+FileChecksum: MD5: 8fbe02854a93d5c82f6416e8da222ca4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/runtime.h
+SPDXID: SPDXRef-item7994995
+FileChecksum: SHA1: 4c6678c1c3c33dc6e5cb5dc3567d64ad574b6f0a
+FileChecksum: MD5: 2b88ded25f5d233fe2ae52b227ce1724
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/storage_loop.cc
+SPDXID: SPDXRef-item7994996
+FileChecksum: SHA1: cc82fb8d5f87e11e91624945729c637206f720fd
+FileChecksum: MD5: aa318f4286cdc0a39176ba2b73da22d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/runtime_context.h
+SPDXID: SPDXRef-item7994998
+FileChecksum: SHA1: 5855b7c220ba8177b080716d5c4ab84beee7367c
+FileChecksum: MD5: dbb8d5aed78eb264611bbc4e18809b00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/boarding_loop.cc
+SPDXID: SPDXRef-item7994997
+FileChecksum: SHA1: 5aadfcaadfc954efdfd35a46740920b69756452a
+FileChecksum: MD5: fbae5126a8cf16ce86e7e34561a69837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/model_factory.h
+SPDXID: SPDXRef-item7994999
+FileChecksum: SHA1: 540924eef44b222b8753d35cb3af0df3e5a1ceff
+FileChecksum: MD5: c50cdc563ead65178ae4ba3c8d3e8ec8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/runtime.cc
+SPDXID: SPDXRef-item7995000
+FileChecksum: SHA1: d8be243b94b083b477dfa2fca30fb6bd461c1abf
+FileChecksum: MD5: c4862f5da79965ec81616e1a648a862e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/runtime_suite.cc
+SPDXID: SPDXRef-item7995002
+FileChecksum: SHA1: c81832867196aab9302cf56e72b88ce9df283ce7
+FileChecksum: MD5: d7c34ffc6248d3ed40210ea67aa50c34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/time_stats.h
+SPDXID: SPDXRef-item7995005
+FileChecksum: SHA1: 5a6a7f973f122cfb5f3adb391420fa5707bf3003
+FileChecksum: MD5: 06b17aaecfa617957c48265541fe7b4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/run_options.h
+SPDXID: SPDXRef-item7995003
+FileChecksum: SHA1: 529d8d22b21b552ffabb628a93efca02c8ce9ceb
+FileChecksum: MD5: 062f1435164d3c3cf662e04319504d5f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/auto_runtime_register.h
+SPDXID: SPDXRef-item7995001
+FileChecksum: SHA1: 5ccd12b7b703f07efe024b4077cc6374986c0e76
+FileChecksum: MD5: 72bcfefacfa48586f49255a91cb2aa0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/managed_store.h
+SPDXID: SPDXRef-item7995006
+FileChecksum: SHA1: 962b498a8e284919b96488ad06225aad78ec5a1f
+FileChecksum: MD5: 39220199fad5407df3dd02b59861e9f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/time_stats.cc
+SPDXID: SPDXRef-item7995007
+FileChecksum: SHA1: d7db9a0da169d91b753d971d4d32b344db4a34dc
+FileChecksum: MD5: 5e708b04501a29f0045504fd22e268d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/model_map.h
+SPDXID: SPDXRef-item7995008
+FileChecksum: SHA1: 01d8fe2843805cddcf7ce02b9fc01f509e74655d
+FileChecksum: MD5: cb46091a872c9209495916c946f5c1a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/serving_store.cc
+SPDXID: SPDXRef-item7995009
+FileChecksum: SHA1: dc6e06435e00aaf2050cb03ecfdd6931ae39420b
+FileChecksum: MD5: d2fc431c9a46358c91d91d167a183e79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/serving_store.h
+SPDXID: SPDXRef-item7995011
+FileChecksum: SHA1: 0b342b1555a8d00251571e7ee3aab26ad63bc8c3
+FileChecksum: MD5: 48c84c38afab30487e3a64bbe2973970
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/storage_loop.h
+SPDXID: SPDXRef-item7995010
+FileChecksum: SHA1: 7fe8886f1a147db774d8c8bd5870a6a04e3c60d9
+FileChecksum: MD5: 49a39dde88043f524507382962313647
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/runtime_suite.h
+SPDXID: SPDXRef-item7995012
+FileChecksum: SHA1: 0cd03fa807c55cbcc960e7f2fb6dd92db3de997f
+FileChecksum: MD5: 68506e8c9fb46584f34d9e25cac989aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/boarding_loop.h
+SPDXID: SPDXRef-item7995013
+FileChecksum: SHA1: ef03e803a82219058c76a3d6b9c5e72dc7d3eebf
+FileChecksum: MD5: 1c088150d8e3d7370ba538e40ef993c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/boarding_functor.cc
+SPDXID: SPDXRef-item7995014
+FileChecksum: SHA1: 64b1ad77202c06d6b969be3cd74317f43ff563ec
+FileChecksum: MD5: 7dcd221b7bed021ff8124d666fac54ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/managed_store.cc
+SPDXID: SPDXRef-item7995015
+FileChecksum: SHA1: 3537db3f3729682d02fa38d214440a2032d608f2
+FileChecksum: MD5: 40776e22fe21e32631a9b31865b864ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/model_factory_suite.cc
+SPDXID: SPDXRef-item7995016
+FileChecksum: SHA1: 5a995bc4b5fa0d7a906c1698b5ac061d6e087eb3
+FileChecksum: MD5: 51d6d5b8308dee6473e5b55a65e921bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/model_factory_suite.h
+SPDXID: SPDXRef-item7995017
+FileChecksum: SHA1: 3dcaaa9bd6cfc53acbd5788e9e6c56a81bc489e1
+FileChecksum: MD5: d78aa3ddb4b9d953b3d6b01f7070b029
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/main.py
+SPDXID: SPDXRef-item7995027
+FileChecksum: SHA1: 12503f910156b710c6c1fe6318800c2dae49e38e
+FileChecksum: MD5: d8cbf205387b20e5899910b66e2ccd5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/config.py
+SPDXID: SPDXRef-item7995029
+FileChecksum: SHA1: 99b1d2eaf019eacb06a9770dcff5e622aef6dca0
+FileChecksum: MD5: a93d9e72fc95472595e65d7fc5ee945f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/model_loader.py
+SPDXID: SPDXRef-item7995031
+FileChecksum: SHA1: 1a6f76cf2bdf83a37d52cf4a3c5d40cfd57ae767
+FileChecksum: MD5: 28facba031f96ba7a656e1ba7dc86e4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/model_proto_exporter.py
+SPDXID: SPDXRef-item7995032
+FileChecksum: SHA1: 59376bb413a3af718d1e11a8009c1fdc0b182308
+FileChecksum: MD5: 6878fd1f35950e535987592db7bcf7f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/tf/compiler.py
+SPDXID: SPDXRef-item7995034
+FileChecksum: SHA1: 7b4b9a0a241b6a06c30c6dbc10948a7e4a8e99d2
+FileChecksum: MD5: ef1a2fc051f48d0841ad3a206abe1606
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/compiler_base.py
+SPDXID: SPDXRef-item7995036
+FileChecksum: SHA1: e9389fbe9abb67fe0bde75c0c6facdc1289e034c
+FileChecksum: MD5: 5ec6ae3de38254532e6e9bdd521775a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/openvino/__init__.py
+SPDXID: SPDXRef-item7995040
+FileChecksum: SHA1: 5862c6803937dd5990edd0100ce8bb1f867d5416
+FileChecksum: MD5: b2250c3e69d546cde3b4c100ff35fc78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/tensorrt/__init__.py
+SPDXID: SPDXRef-item7995044
+FileChecksum: SHA1: 5862c6803937dd5990edd0100ce8bb1f867d5416
+FileChecksum: MD5: b2250c3e69d546cde3b4c100ff35fc78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/tf/__init__.py
+SPDXID: SPDXRef-item7995035
+FileChecksum: SHA1: 5862c6803937dd5990edd0100ce8bb1f867d5416
+FileChecksum: MD5: b2250c3e69d546cde3b4c100ff35fc78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/openvino/compiler.py
+SPDXID: SPDXRef-item7995039
+FileChecksum: SHA1: bb643cba8a1e8a37aa118cf39941333dfa6e683f
+FileChecksum: MD5: 8438cec5df3898ea13fb2ee08c3c6e8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/model_info.py
+SPDXID: SPDXRef-item7995037
+FileChecksum: SHA1: ea07500358ffa8a3490bad91bb4b187d418f2e7c
+FileChecksum: MD5: 01965eceddc3d1fddabd02c1b047d7ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/tensorrt/compiler.py
+SPDXID: SPDXRef-item7995043
+FileChecksum: SHA1: 51ee9878084abf029b83e5eeb0cbe6b5a113981c
+FileChecksum: MD5: 0db9b3f3417908ba27fce206eeb2dbf4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/message.py
+SPDXID: SPDXRef-item7995047
+FileChecksum: SHA1: b15782c36a9b456a26213a0006f386bb67ff781e
+FileChecksum: MD5: f41970bbc60b737e8c6bf5de8265c48d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/__init__.py
+SPDXID: SPDXRef-item7995048
+FileChecksum: SHA1: e2c998f1ddd6668b705e347bace531614a05f731
+FileChecksum: MD5: 7ed71c3e06030b367eeb7ad1633f2c86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/importer.py
+SPDXID: SPDXRef-item7995046
+FileChecksum: SHA1: ff28f997a438f83e79a47c22ecff8289c99d8ddc
+FileChecksum: MD5: d4780342d9af98399067c2fd32d98a4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/mo.py
+SPDXID: SPDXRef-item7995049
+FileChecksum: SHA1: 0d64fc3d74fba8a633e21abe41ce59281e863fdc
+FileChecksum: MD5: e12549c2a8767cf87e2b1d2bec996d24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/setup.py
+SPDXID: SPDXRef-item7995051
+FileChecksum: SHA1: 891e969acf8b7de95424c6026318469147073654
+FileChecksum: MD5: 12bdd2e4c62574f7c14f6fea71f4a385
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/runtime/__init__.py
+SPDXID: SPDXRef-item7995041
+FileChecksum: SHA1: 26b21b7ad838b67c5c542b03b862c37c6d4f5264
+FileChecksum: MD5: c4cc35274a1af32b6ebe8fec53e764d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/scoped_unref.cc
+SPDXID: SPDXRef-item7995058
+FileChecksum: SHA1: 5c42cbe32b425edb4a850d993fdffe1c025cd92c
+FileChecksum: MD5: 2ebb9f1a1b695a41810d8d5de72d12d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/struct_wrapper_test.cc
+SPDXID: SPDXRef-item7995059
+FileChecksum: SHA1: f73cdaf17e55fcdd61ce868665c5d1e1de5122c1
+FileChecksum: MD5: d803c8d01cb248edbfb5f8cf45c8a2ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/keywords.h
+SPDXID: SPDXRef-item7995061
+FileChecksum: SHA1: df0fed60635cd51fb472acd4ce27562b4964b3b7
+FileChecksum: MD5: bcbbeac7f080fba1c424ea21feb1c82b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/optional_test.cc
+SPDXID: SPDXRef-item7995060
+FileChecksum: SHA1: 1882fae62a0c09ed5e803858866f70653d24b6c3
+FileChecksum: MD5: 559285a5b75405b07096aafa59efc678
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/inplace.cc
+SPDXID: SPDXRef-item7995063
+FileChecksum: SHA1: 7aab60692ef24a8ce2ca581d66891241f9473e51
+FileChecksum: MD5: 25532031f087b3cd1889b8cea8fe865a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/fwddecl.h
+SPDXID: SPDXRef-item7995062
+FileChecksum: SHA1: b0523026baad664dc02e0f38f7cca3fad34e8873
+FileChecksum: MD5: f83e587a2cd078d887fba0515519858b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/status.h
+SPDXID: SPDXRef-item7995064
+FileChecksum: SHA1: 33d213b8ed1be5ae4f7113f81b1488590b46c3c8
+FileChecksum: MD5: 877f9f371014d6018efd16c2ec704b69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/log_util.py
+SPDXID: SPDXRef-item7995050
+FileChecksum: SHA1: 255ee760d181ca2843e10d265d6cf8d726bb8f8d
+FileChecksum: MD5: 891977be5f15b7431bf7c25a802c311b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/struct_wrapper.h
+SPDXID: SPDXRef-item7995066
+FileChecksum: SHA1: 31f131f9e8076d02bf4389c87139c48117c64894
+FileChecksum: MD5: aa2f11cc993724343fa457f36f8266b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/placement_test.cc
+SPDXID: SPDXRef-item7995065
+FileChecksum: SHA1: 6cd6ad567cf96d604612b613abfefefcb37bd517
+FileChecksum: MD5: 8c828615808a43e27eaa3c0adf4de705
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/scoped_unref.h
+SPDXID: SPDXRef-item7995068
+FileChecksum: SHA1: e87f0bfadeb853c03e86be548a4e003976e30491
+FileChecksum: MD5: 13e37bb6a3113a6faa065dc3fd20c0d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/scoped_exit.h
+SPDXID: SPDXRef-item7995067
+FileChecksum: SHA1: ac52a9a03f7e424065c11652a2a6981a6035d549
+FileChecksum: MD5: 984b738a68bab9c96fc0c2177a40f38f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/ref_counter.h
+SPDXID: SPDXRef-item7995070
+FileChecksum: SHA1: 886a358b5557a3a559cd955706d8e8f2dfa65910
+FileChecksum: MD5: 775e3f03555d81544f2e40567adf5eef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/inplace.h
+SPDXID: SPDXRef-item7995069
+FileChecksum: SHA1: a0202db4300fef2d29774be8e073cb0f995aec05
+FileChecksum: MD5: 7cfce3e092c2ed89f8a6a1ed8c69caf6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/placement.h
+SPDXID: SPDXRef-item7995071
+FileChecksum: SHA1: 9ad04093826af2083bc9bb12bc21b172e0028373
+FileChecksum: MD5: 4aa26ba077b653ef0a9f2da83aff60c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/ref_counter_test.cc
+SPDXID: SPDXRef-item7995074
+FileChecksum: SHA1: 60f1aac3b4488cf7eb53bedc2abecb07eeb42281
+FileChecksum: MD5: 227669a46e51ca82b3051ff55c47335d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/optional.cc
+SPDXID: SPDXRef-item7995075
+FileChecksum: SHA1: 3cb996596e251fa6adf2274e4d02b8e87218926c
+FileChecksum: MD5: 46e121a61c9c1a5e0ca6897e3f972786
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/hash.h
+SPDXID: SPDXRef-item7995076
+FileChecksum: SHA1: aa14c0ad5b60096157552742f51b7e10fe345f16
+FileChecksum: MD5: 827bfbc4cffebbeaac38d5ee523f28bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/static_assert.h
+SPDXID: SPDXRef-item7995077
+FileChecksum: SHA1: 4355a9482b6c681009bfca3febb81cc42b3c6a5a
+FileChecksum: MD5: 6b505d257220d0bd5549803eba0326a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/default.h
+SPDXID: SPDXRef-item7995079
+FileChecksum: SHA1: a182ce33900959ed3ff9dd38de925227388f53ad
+FileChecksum: MD5: 9abf32404aea00d4ecd91c1722dbfef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/uncloneable.h
+SPDXID: SPDXRef-item7995080
+FileChecksum: SHA1: 621021a9fa488f3c5b1b855739f3665af5aba051
+FileChecksum: MD5: 4cbae1ecc7925f5af893651181092cf6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/ref_counter.cc
+SPDXID: SPDXRef-item7995081
+FileChecksum: SHA1: bccfd1bc3a3b8b7ef3c560bbc0c904efe8d3e54b
+FileChecksum: MD5: b14f614ca2b09b717919b756d9b48619
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/assertions.h
+SPDXID: SPDXRef-item7995082
+FileChecksum: SHA1: d01ce7d62234ef6b7c86b508e68db9ae5cc7f263
+FileChecksum: MD5: 2df05927b656d1f6191e3554fefc69ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/symbol.h
+SPDXID: SPDXRef-item7995073
+FileChecksum: SHA1: 8050a3b10128d8016bb51c5d36d6897748485735
+FileChecksum: MD5: 0fa5c624aa29ffb4fdef9d4909a4f9a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/optional.h
+SPDXID: SPDXRef-item7995083
+FileChecksum: SHA1: cdf9aeb111ed6d5062a6ac59d4c7b42e07e8d853
+FileChecksum: MD5: 668edc68eda414f75db4ad126069c990
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/base/comparator.h
+SPDXID: SPDXRef-item7995078
+FileChecksum: SHA1: fccabb31f60be95f00775bd028a4e7cb131a439c
+FileChecksum: MD5: aedc324b7182cf0ad81fdc9ae09d8937
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/interp/impl_role_interp.h
+SPDXID: SPDXRef-item7995087
+FileChecksum: SHA1: 1fbd45265311c1f740054eca9fc2c2479906a881
+FileChecksum: MD5: 3f98faafb1bf27132b8b2c6d541e4003
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/interp/decl_role_interp.h
+SPDXID: SPDXRef-item7995088
+FileChecksum: SHA1: 304c45179803eeb83f0b3655a9cf3c639dcc1a01
+FileChecksum: MD5: e86fab47b5b400a91b866c4a9efe8d0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/interp/has_role_interp.h
+SPDXID: SPDXRef-item7995086
+FileChecksum: SHA1: 4319439ee3caf932296d1034309788dd02c988fe
+FileChecksum: MD5: e1d953de01f4149f90ac84ceac84385b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/unknown.h
+SPDXID: SPDXRef-item7995091
+FileChecksum: SHA1: e7e573114add1a943607a987a0f5c90699b57d84
+FileChecksum: MD5: d6b2221c3e3d466c862d746c691366e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/has_role_test.cc
+SPDXID: SPDXRef-item7995093
+FileChecksum: SHA1: 9bd2c1a8f803ff6fe553afc0b34fdd555b0b06b2
+FileChecksum: MD5: a4bf6807dae40d602d12340b1275508a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/interp/roles_undef.h
+SPDXID: SPDXRef-item7995089
+FileChecksum: SHA1: 7cf0174c2e121acdb2e6d9ddd5b9f10e8ea55b9d
+FileChecksum: MD5: 1eff4eb6038e3a90646c59a1fe9988e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/role_test.cc
+SPDXID: SPDXRef-item7995092
+FileChecksum: SHA1: 6b0c22a1a9197c31719b22cf26c37b9a03b2003f
+FileChecksum: MD5: 870d2e42d7f89ad6116e827811e0c2e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/interface_def.h
+SPDXID: SPDXRef-item7995095
+FileChecksum: SHA1: 81ff97a3ab51111dc674e5dd989b1e3bd79817e7
+FileChecksum: MD5: aed792d9ce33b0aa2ca9f3e4d8d2552f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/log/color.h
+SPDXID: SPDXRef-item7995097
+FileChecksum: SHA1: 02245d677b84e523b1ceef84f478bbfe4b15f95e
+FileChecksum: MD5: 13cb9bd39038d13cdf9408855716e6b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/dci/role.h
+SPDXID: SPDXRef-item7995094
+FileChecksum: SHA1: 433e8d23b1238abb29b8633bf3b989b99c05e16c
+FileChecksum: MD5: df8bcc7905aa1125429736434802970c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/log/log.h
+SPDXID: SPDXRef-item7995098
+FileChecksum: SHA1: 7aa364e5d5f16146bf26dd81b02d5fa347f07f6d
+FileChecksum: MD5: c6e3884e9f36e037922d3af80c24726a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/log/color.cc
+SPDXID: SPDXRef-item7995099
+FileChecksum: SHA1: b1de3b250ccf85262e50a09b18ddccc8d936197a
+FileChecksum: MD5: 239b609de5d510d8bbb15e40ae2227e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/option.cc
+SPDXID: SPDXRef-item7995103
+FileChecksum: SHA1: f0b8db92dac8241def80288b173e395bd34e7f89
+FileChecksum: MD5: 2e695a3fab98097cf8d157bcde6669ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/log/log.cc
+SPDXID: SPDXRef-item7995101
+FileChecksum: SHA1: ff12ac5da2d7d03eb80f2e0cc1bc9937538ab055
+FileChecksum: MD5: 950512e1a8cfc997ecffd219ffa2a963
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/option_set.cc
+SPDXID: SPDXRef-item7995104
+FileChecksum: SHA1: 516b0d09e418601724077a02a755e6cf65c71252
+FileChecksum: MD5: 0ca39828c02cd236bbd5f01455ce1654
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/option_subscriber.h
+SPDXID: SPDXRef-item7995105
+FileChecksum: SHA1: 4aee52413c6dda286e747f89a8dac896eebf9764
+FileChecksum: MD5: b0c7b5192f219d155bbfc06a7e12dba9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/option_set.h
+SPDXID: SPDXRef-item7995109
+FileChecksum: SHA1: 78fe6b50a35e4b21168cb47ea779c4f4c62e908f
+FileChecksum: MD5: 99d9ebc214924a30a10adf6269de1329
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/option_set_test.cc
+SPDXID: SPDXRef-item7995108
+FileChecksum: SHA1: 2a9a4e08e142d16dfa51520e52bf57227501bb82
+FileChecksum: MD5: 54b424c82bde7b040044dcdee734f4c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/option.h
+SPDXID: SPDXRef-item7995107
+FileChecksum: SHA1: 53735ceb67e8b7c162977d600804cb8ba34783a6
+FileChecksum: MD5: f928dfee29ab7ea8002d7cc0c5aec5e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/program_options.h
+SPDXID: SPDXRef-item7995110
+FileChecksum: SHA1: 6dc6c35d93c5cc67f7a5cbeb3363e84d5fbeefe8
+FileChecksum: MD5: 30166536ad844fb8a9e58640fe66ba33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/cli/program_options.cc
+SPDXID: SPDXRef-item7995111
+FileChecksum: SHA1: 713606f925b7910e85a4d809e6903c9183bef493
+FileChecksum: MD5: a7404421584d853815d4fd6ec86299bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/search.h
+SPDXID: SPDXRef-item7995113
+FileChecksum: SHA1: 19ba6b82a3fd7f8dfbfca63b3ed11ee1fcd451fd
+FileChecksum: MD5: 2d4f82b074df4264a5eed9623a5e6ad1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/bits.h
+SPDXID: SPDXRef-item7995116
+FileChecksum: SHA1: a176a3758a03af106f5ccd37bd9e58a7d4af45f8
+FileChecksum: MD5: c1a28364e42d8209144b985463aec1f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/range_test.cc
+SPDXID: SPDXRef-item7995114
+FileChecksum: SHA1: cc94e8e5eeb0160d1ba826e7051c3d12326d6a8d
+FileChecksum: MD5: 9d1598de40069fdae8b8431f820c241f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/bits_test.cc
+SPDXID: SPDXRef-item7995115
+FileChecksum: SHA1: 1f9fbf26c332ff460495f855a45d5ccb5a9c583d
+FileChecksum: MD5: bc682b223f3de364cd0114d659931a52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/bound_test.cc
+SPDXID: SPDXRef-item7995119
+FileChecksum: SHA1: b2f5b35f46b083ca188696f0736d5ac1d7607c88
+FileChecksum: MD5: 1a9a6691c34dc169723140720206647f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/bound.h
+SPDXID: SPDXRef-item7995117
+FileChecksum: SHA1: c8396103ab99f8c381d060c84a6958be4dba84e9
+FileChecksum: MD5: 122ccfa0dbfcbc514d39e639c46fcdaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/max_min.h
+SPDXID: SPDXRef-item7995121
+FileChecksum: SHA1: 144b32b04e3457ed734bcef555bc65de082c40ab
+FileChecksum: MD5: adf56c0a5ccc43b38576cbfbec620c21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/range.h
+SPDXID: SPDXRef-item7995122
+FileChecksum: SHA1: 359979a5059bf07c4588cbb4146569db916c3454
+FileChecksum: MD5: 1c5ec341e0a57d6e537d49a1bb58d3ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/list/list_elem.h
+SPDXID: SPDXRef-item7995126
+FileChecksum: SHA1: 45c0ddffa3040e2fb72a6f7e4ddaa8e0490bb7a8
+FileChecksum: MD5: 87f2d3ef31e5fe55f0b11a98ba83ef98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/search_test.cc
+SPDXID: SPDXRef-item7995123
+FileChecksum: SHA1: 644fd103d871e25c155c3c8126f0b4d2908c7941
+FileChecksum: MD5: 65dfec60ce46888bc40c6c1e6bfe1319
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/list/apr_ring.h
+SPDXID: SPDXRef-item7995125
+FileChecksum: SHA1: df92300003cf2afe09fa99461c94198ace944807
+FileChecksum: MD5: dcc0b7265f5b4e2e1b50c966b92b6d0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/list/list_test.cc
+SPDXID: SPDXRef-item7995128
+FileChecksum: SHA1: 28c175ae6f5623ccaf133960a80b9d4dedb25958
+FileChecksum: MD5: f1d5db68a48656bcf55426c563d3b12c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/gof/observer_test.cc
+SPDXID: SPDXRef-item7995133
+FileChecksum: SHA1: 201f8fa93acbeb450ee2ec527c3a930370f33cfd
+FileChecksum: MD5: 324cebaee0e60662cc52817eb695c841
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/algo/loop.h
+SPDXID: SPDXRef-item7995120
+FileChecksum: SHA1: dcf701393b7cd2f67706cd7be2d7a94dfffdcaef
+FileChecksum: MD5: ace466935b6bb386f539cf692631673b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/list/list.h
+SPDXID: SPDXRef-item7995129
+FileChecksum: SHA1: 6b33ed83fc6dbfc7ae4c201840bd441894af080b
+FileChecksum: MD5: 823652055f1049cb378237f20fa426b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/gof/retrier.cc
+SPDXID: SPDXRef-item7995132
+FileChecksum: SHA1: 4bacfd41afe60a290d5c78184d8a8fe0cba409b9
+FileChecksum: MD5: d6180d61d29a68e000013f5a7ee24bd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/gof/retrier.h
+SPDXID: SPDXRef-item7995134
+FileChecksum: SHA1: 4ea15c28f36d63d60a09808cc629d2cf4bd250b2
+FileChecksum: MD5: 365693631a42cb82abf8b5cc385313ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/gof/observer.h
+SPDXID: SPDXRef-item7995136
+FileChecksum: SHA1: 4f47f9dc52f39a08fdbecbf3f965a5050370f7cf
+FileChecksum: MD5: 8bb468ff36b2156ff6726e2f5b8ac50a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/gof/singleton.h
+SPDXID: SPDXRef-item7995137
+FileChecksum: SHA1: 785b846b1e0edda68b3080398bba609c903e5f3b
+FileChecksum: MD5: 68f13f58b92b750d137b41a188d699ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/str_utils.cc
+SPDXID: SPDXRef-item7995139
+FileChecksum: SHA1: 7f1bfe33dd5ee216652f82341cd275d9c99af03b
+FileChecksum: MD5: a7e896701b654c171b88c03b18c22e49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/str_printf_test.cc
+SPDXID: SPDXRef-item7995140
+FileChecksum: SHA1: 03b1222c3879f319aaf52518b41e13579744f687
+FileChecksum: MD5: b5ff1dc89c8b1de440425ca69f79af23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/string_view.h
+SPDXID: SPDXRef-item7995142
+FileChecksum: SHA1: f5dcfc0ea41267f68bdaa1fb8c2c35da00995ad4
+FileChecksum: MD5: d0243403a88e72f4d347ee60ae297556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/scanner_test.cc
+SPDXID: SPDXRef-item7995141
+FileChecksum: SHA1: 6a17189113b31455de8bb108a1ec69e486f36755
+FileChecksum: MD5: 8523fa17a5f9bf6c32705115332c6594
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/str_utils.h
+SPDXID: SPDXRef-item7995143
+FileChecksum: SHA1: 4537973a2e56e76793b0fca66ad5ee49c32e5ff1
+FileChecksum: MD5: ab9f7a6c60f57cface9b6d013f826f76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/string_view_test.cc
+SPDXID: SPDXRef-item7995144
+FileChecksum: SHA1: 5f93f60e94f735137829eb9d5b3db2d252551be5
+FileChecksum: MD5: 959991a8d15e7f0b9967125ebf3df98c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/char_spec.h
+SPDXID: SPDXRef-item7995145
+FileChecksum: SHA1: f4c59e54c0e7a67d429a39f106c7e4b1e30da834
+FileChecksum: MD5: 0f7be4d1e2daa410c795d4b21843c058
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/str_utils_test.cc
+SPDXID: SPDXRef-item7995148
+FileChecksum: SHA1: f7dce964f3549541a8931f4dcaeca095453f2b0b
+FileChecksum: MD5: 9f24eed4020b3fe213045f45b4934dfe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/scanner.cc
+SPDXID: SPDXRef-item7995147
+FileChecksum: SHA1: 51bb2b9222858009547220865eced0657b07fbfa
+FileChecksum: MD5: 0f8e58b84c8a4338e61d42e8d48e1576
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/char_spec.cc
+SPDXID: SPDXRef-item7995150
+FileChecksum: SHA1: a61fa154bbd894067a70bcc11bd2a432041ebbec
+FileChecksum: MD5: a6b163f545e4c6ae8c717e9a321b656e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/scanner.h
+SPDXID: SPDXRef-item7995149
+FileChecksum: SHA1: f08f44c747acca97e0f81b2c42aeaa9a69445364
+FileChecksum: MD5: acaf2ef349e59b60daef01feb75c06c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/str_printf.h
+SPDXID: SPDXRef-item7995152
+FileChecksum: SHA1: c18acb64ff786c5731ca7150f58a24412fe5b192
+FileChecksum: MD5: 9b311e3c0b647668d7c75fad8ced6b6d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/str_printf.cc
+SPDXID: SPDXRef-item7995151
+FileChecksum: SHA1: 357099ea1c586f103cef7cdd76f5b371cc981276
+FileChecksum: MD5: c0fb77b36d126d99284d827dfe493f30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/string/string_view.cc
+SPDXID: SPDXRef-item7995153
+FileChecksum: SHA1: b0bf77172c0121fce2b6e431798cbbffbff1d9b0
+FileChecksum: MD5: 0cf79b7a126990810cb6f9b3bcb03f66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/array/array_test.cc
+SPDXID: SPDXRef-item7995156
+FileChecksum: SHA1: cd611be73351a17a14cd02cf70bb40daee0333cf
+FileChecksum: MD5: cf57d987b70708ccb35251066056091b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/mem/read_write_ptr.h
+SPDXID: SPDXRef-item7995160
+FileChecksum: SHA1: 7b67f19b173ef44d22dd707fd9ef3347ee0011cb
+FileChecksum: MD5: 3364251a4c12a2c2126c0942f6b3785d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/array/array.h
+SPDXID: SPDXRef-item7995158
+FileChecksum: SHA1: 24f7d700263143fa407c31e8616b5f9d06ec93e2
+FileChecksum: MD5: f3998a834d1c57629ea8ee5788ce18ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/mem/read_write_ptr_test.cc
+SPDXID: SPDXRef-item7995161
+FileChecksum: SHA1: 7e7c43ac202e0832d351a47016933233a9beaf51
+FileChecksum: MD5: c958cdae583b17625afc0e187eda7f1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/mem/any_ptr_test.cc
+SPDXID: SPDXRef-item7995162
+FileChecksum: SHA1: cbfd4878144ef1441ed6abb413d85dedbb6ed802
+FileChecksum: MD5: 219296dc203fcf1e6e27aa9b18250d6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/mem/unique_any_ptr_test.cc
+SPDXID: SPDXRef-item7995165
+FileChecksum: SHA1: 1096e328003acf523a6dcd1413ff57c80763f260
+FileChecksum: MD5: deb8c36dc06db2eb66d15d54e5abeac7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/mem/unique_any_ptr.h
+SPDXID: SPDXRef-item7995163
+FileChecksum: SHA1: 7b8aa849457d467dc85f0be4ecf3032241141e9a
+FileChecksum: MD5: 8d643fa398897851693b136df683dc0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/mem/any_ptr.h
+SPDXID: SPDXRef-item7995166
+FileChecksum: SHA1: 7f99468e7e203e896b64d282f06e2f2926d10aa8
+FileChecksum: MD5: 4077d5be5fac9e5fe48c26aa66061d5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/windows/env.cc
+SPDXID: SPDXRef-item7995169
+FileChecksum: SHA1: 75724aecd4d4efe3aae667f731097408dfbf533d
+FileChecksum: MD5: 0059715e28ad1b177931311743604327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/array/array_size.h
+SPDXID: SPDXRef-item7995155
+FileChecksum: SHA1: 632c9eb3ae4c5e83f9e12840cc692fa91bb5396e
+FileChecksum: MD5: ef75e9d281e5476a0cb88be3fb391e4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/time/time.h
+SPDXID: SPDXRef-item7995172
+FileChecksum: SHA1: 6d91349fe5329d8211096bdbbf7ae9c6168dcada
+FileChecksum: MD5: 69ec5a696dc21869aedfca69cdbb96bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/thread.h
+SPDXID: SPDXRef-item7995176
+FileChecksum: SHA1: f8fdcb86a00a0432e4356b2eca411f4aae96b452
+FileChecksum: MD5: 8dd7099b731ea4a0c0faa3e810412ebf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/time/time.cc
+SPDXID: SPDXRef-item7995174
+FileChecksum: SHA1: f6e69a03251cde2bf72f6c5e3fb1cabfab5dd219
+FileChecksum: MD5: 29d1157177b0aeca06c611d56507933c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/condition_variable.cc
+SPDXID: SPDXRef-item7995178
+FileChecksum: SHA1: ad1d1e4f08fe60cbc001ef0bf6d482447cc8f701
+FileChecksum: MD5: debc3ac82eec7b4bbed35554d4a1a571
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/loop_thread.cc
+SPDXID: SPDXRef-item7995177
+FileChecksum: SHA1: fe9015a435fb033550c985b8e195d96ce391aa49
+FileChecksum: MD5: 66a90c090dadbb96cbc1799a7be528d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/auto_lock.h
+SPDXID: SPDXRef-item7995180
+FileChecksum: SHA1: 1a9e05a16f5e159a947344e4fbd9257000a30ddf
+FileChecksum: MD5: a8601449bdf0ac0397f703f599ebf066
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/loop_thread.h
+SPDXID: SPDXRef-item7995179
+FileChecksum: SHA1: 4f7ccc8504c317d3dd4d240d671a7bab0aeb6fa3
+FileChecksum: MD5: 12f698bbc1e8e14f1f625bdc479668ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/notification.h
+SPDXID: SPDXRef-item7995181
+FileChecksum: SHA1: f59c46db1852d47cf73b7f3f72eabf869d9f5cdd
+FileChecksum: MD5: d62364416c96084e2a4f2ea23f0a893b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/mutex.h
+SPDXID: SPDXRef-item7995185
+FileChecksum: SHA1: cadbdfd84fe223d07e2f646d45e5711d810158b7
+FileChecksum: MD5: 7c98a04e0bb06c07e0b00f95be56647f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/thread_pool.h
+SPDXID: SPDXRef-item7995183
+FileChecksum: SHA1: 0d88c513291ca2bebc62281d6c3d37f81556760d
+FileChecksum: MD5: a8a2864ad5ef83b287261ae782cf82a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/shared_lock.h
+SPDXID: SPDXRef-item7995182
+FileChecksum: SHA1: e9f8490a5ea74ff7c6b4791a8d122c1b1c8bed3f
+FileChecksum: MD5: 5e2bf8aed2a9683ff3c2bfaa13b06f83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/notification.cc
+SPDXID: SPDXRef-item7995187
+FileChecksum: SHA1: 4c41c3fd345f9787e1e18894373ab20cf8d615ca
+FileChecksum: MD5: d5a8aa8932da81dd9ea79af64e7a79fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/mutex.cc
+SPDXID: SPDXRef-item7995186
+FileChecksum: SHA1: 8655a47fdc409b4b5d8be9df5303ec15987f3e36
+FileChecksum: MD5: 700c57542904ff66b5901c32057c0e1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/concurrent.h
+SPDXID: SPDXRef-item7995189
+FileChecksum: SHA1: e77f9e363420bd1e7e1efdc7855719711ed94cd7
+FileChecksum: MD5: 7db26eacbec9230fb7a04a07c1855af4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/condition_variable.h
+SPDXID: SPDXRef-item7995188
+FileChecksum: SHA1: 3aeef639bf9816f4cf3940e2adf97f2c72341002
+FileChecksum: MD5: ed84c3a667b4ecc60a26231fb3da0b66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/loop_thread_test.cc
+SPDXID: SPDXRef-item7995190
+FileChecksum: SHA1: fde53ea15e3d7b881696f9d153d2e1e626cfc1ce
+FileChecksum: MD5: 9f3a096bd8fdfb7bc4d297ca4e15dbd6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/thread.cc
+SPDXID: SPDXRef-item7995192
+FileChecksum: SHA1: 53b5db13b949d1b55422980ca4d3fcce0981768d
+FileChecksum: MD5: 35f634263cfa40996fab7371b6f68014
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/path.h
+SPDXID: SPDXRef-item7995194
+FileChecksum: SHA1: 811adb54aeb50105ef2dcce0fe49e1d7f6929189
+FileChecksum: MD5: 4325e2d0d94e3bc7d8bfbd7576d9d728
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/thread_pool.cc
+SPDXID: SPDXRef-item7995191
+FileChecksum: SHA1: ba1b9fa94ec8efd418e643bcd9097be4d92f1653
+FileChecksum: MD5: edc951ffa34ad9e4f00abd6bba85b2c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/uri.h
+SPDXID: SPDXRef-item7995195
+FileChecksum: SHA1: 50430c22fe5d32d33b6d6160821be99aeaea4115
+FileChecksum: MD5: 7ec7192cca0c81376c79e80abb07bae1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/uri_test.cc
+SPDXID: SPDXRef-item7995196
+FileChecksum: SHA1: 4a78d18fb1ee14a4dc15a09df9f348f9b3bd42ea
+FileChecksum: MD5: e24cc9b0f253ce06c38995039dbb68af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/path.cc
+SPDXID: SPDXRef-item7995197
+FileChecksum: SHA1: a2e1dd195f797830de515c2b0b9d36c46f5ba869
+FileChecksum: MD5: bec8fab195d58d6e0b455f3b7c8b24bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/file_system.h
+SPDXID: SPDXRef-item7995199
+FileChecksum: SHA1: 1a078c874f81acaf8277f5a21bff965c4d3e45a8
+FileChecksum: MD5: 94d97378c4435c981690ccccb9dc6ffb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/uri.cc
+SPDXID: SPDXRef-item7995201
+FileChecksum: SHA1: e637b67905add527abeb6b0161216484370cfc01
+FileChecksum: MD5: 29458f38f9a68e8a7bcd4908bd3da28e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/path_test.cc
+SPDXID: SPDXRef-item7995198
+FileChecksum: SHA1: 2b4a26406dd66f6b6fe735ab7981fc51ced6b87d
+FileChecksum: MD5: 021d4319ffe94d14ada25fc52fa9f6d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/env.h
+SPDXID: SPDXRef-item7995202
+FileChecksum: SHA1: 80eaa28a234ae255730c96fc5a4a2f8abab79bea
+FileChecksum: MD5: 4d0759e1800ba1e432aaebc06e4d4457
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/type_name.cc
+SPDXID: SPDXRef-item7995205
+FileChecksum: SHA1: da51bac31b1212cdf8f30a7f1b4db5973b5e33e0
+FileChecksum: MD5: 76b0696fbdeb4ffd81838943d67ee3f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/env.cc
+SPDXID: SPDXRef-item7995206
+FileChecksum: SHA1: 93a76ec3c2d18d4738012dd345e688e430e22288
+FileChecksum: MD5: fbb60d0c5ff78652af3dfac3c8ca4d6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/posix_time.h
+SPDXID: SPDXRef-item7995207
+FileChecksum: SHA1: 56084d2c2888d471a00734c7c55ea2d2a09f2f52
+FileChecksum: MD5: 1e4c88d5e0f0ffcb8b623c6fc1035395
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/posix_time.cc
+SPDXID: SPDXRef-item7995208
+FileChecksum: SHA1: 5581c5463d294bbd6094c64cb39cf5b3dc7defd0
+FileChecksum: MD5: 3847d9eb2222b5bc2014ca6a46349fdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/posix_concurrent.h
+SPDXID: SPDXRef-item7995212
+FileChecksum: SHA1: 5b4b183387ac7d89c0d1f3e1f8c4a20be12cdb8c
+FileChecksum: MD5: 507ee5fa5d09dec4b8ff78507f1613f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/library_loader.h
+SPDXID: SPDXRef-item7995209
+FileChecksum: SHA1: cab144b1890495d4c0f77b55c6f6e2217257e4cf
+FileChecksum: MD5: c8c772d31453db475497c3dd0e16d391
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/type_name.h
+SPDXID: SPDXRef-item7995214
+FileChecksum: SHA1: e064e5d6552e64e9500f398d4ea537a7937295c1
+FileChecksum: MD5: f8e457a95bf9147e930c15e84daa7fab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/posix_filesystem.cc
+SPDXID: SPDXRef-item7995215
+FileChecksum: SHA1: f36070846d237d1dd53f1e4e36064a0a99d41375
+FileChecksum: MD5: 43e5e49723980cf8306ccbd907dc651f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/type_name_test.cc
+SPDXID: SPDXRef-item7995213
+FileChecksum: SHA1: 783faed04d17c9e8c58cd81df3e233d131131cad
+FileChecksum: MD5: eea0e37b418d75afdcbf31bd25802329
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/posix_concurrent.cc
+SPDXID: SPDXRef-item7995216
+FileChecksum: SHA1: 842955e56f6ed1dac46eec81deb2d31359b4bfb2
+FileChecksum: MD5: 74b7446ba45a48beb59f37d69764f45c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/library_loader.cc
+SPDXID: SPDXRef-item7995217
+FileChecksum: SHA1: 4af39d20da07e0335730d25ec3e1aa92bce3ff7e
+FileChecksum: MD5: 5af17497b1d0bb6fea66bc322f070cab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/protobuf/text_protobuf.h
+SPDXID: SPDXRef-item7995220
+FileChecksum: SHA1: 7c1b18aed04001a0e0c2680acb078f3b4027872a
+FileChecksum: MD5: 888abd2f1586d1520fc8d30d0952a0fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/posix_filesystem.h
+SPDXID: SPDXRef-item7995218
+FileChecksum: SHA1: 025599ea31584f17b78f3265c73254be65ed9755
+FileChecksum: MD5: ac0e7fd19208c88df14e7da327403df5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/byte_order.h
+SPDXID: SPDXRef-item7995210
+FileChecksum: SHA1: c315f617c5295ce050eeeb847b5b7b38a6dcf37a
+FileChecksum: MD5: a66f73be7b52c50fec14b2d24ae825dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/protobuf/text_protobuf.cc
+SPDXID: SPDXRef-item7995221
+FileChecksum: SHA1: 4c7914bd38b79e699047017419a3d7250a1070e8
+FileChecksum: MD5: a5086f5d7bf8c6ed84c0f51d0ba1359c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/task/concurrent_executor.cc
+SPDXID: SPDXRef-item7995224
+FileChecksum: SHA1: 3fd8cda3bb8c4228204883c1168deb12b7ae9af3
+FileChecksum: MD5: 2d968934f5a71fc366528855f28db93b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/task/simple_executor.cc
+SPDXID: SPDXRef-item7995227
+FileChecksum: SHA1: 84f6f761fffb6a9acdf32d037db5e2bfd4c893fa
+FileChecksum: MD5: 914a23ea0a48d034767151b42933ba25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/task/concurrent_executor.h
+SPDXID: SPDXRef-item7995226
+FileChecksum: SHA1: 58167f8e9e37a8b2c2c9fd85b201916f9c70c78b
+FileChecksum: MD5: 9f0400f94724e7613ac6be10d5a0aed7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/task/executor.h
+SPDXID: SPDXRef-item7995229
+FileChecksum: SHA1: 2a282fa456a01a30f70dc535d844ad632ebba1d3
+FileChecksum: MD5: 840f5cdae94252a6075009e9a934ab0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/cub/task/simple_executor.h
+SPDXID: SPDXRef-item7995228
+FileChecksum: SHA1: 52b464c23937a012e526740c6c4f0cdea3e27055
+FileChecksum: MD5: 9fb577908a95ce78508b193007a636d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 ZTE corporation. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: Adlik/CONTRIBUTING.md
+SPDXID: SPDXRef-item7994675
+FileChecksum: SHA1: 16ae23bad752e0014329ef92ee39c5d80bc95022
+FileChecksum: MD5: c22119db9a3006af26e554f591a9533a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/docker/build.sh
+SPDXID: SPDXRef-item7994678
+FileChecksum: SHA1: a2e45b77b39ccb1fe8d1a1cf2b318d565dbe8f22
+FileChecksum: MD5: b5435a1a819515b19afe377183898ab6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/docker/Dockerfile
+SPDXID: SPDXRef-item7994679
+FileChecksum: SHA1: d0ac87d00c63b437d7f8acfca0c252fa03f87fd1
+FileChecksum: MD5: c8ade6edc9c9dfd16548908a8f246caa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/use-build-cache.yml
+SPDXID: SPDXRef-item7994684
+FileChecksum: SHA1: 8d12b73461421260132745f654784f56af1c9b4e
+FileChecksum: MD5: 05a161127d5f5582017be6d4b3dad35a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/install-openvino.yml
+SPDXID: SPDXRef-item7994685
+FileChecksum: SHA1: 38c975201bb7340c392a74a497408970c65c41a1
+FileChecksum: MD5: 19d2a5c7f397d254f1315a5bd07646ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/install-clang-format.yml
+SPDXID: SPDXRef-item7994686
+FileChecksum: SHA1: 96bb6f6edc8061ea33c9009c0860502e7ae3b92e
+FileChecksum: MD5: 8d29e6cc33d0978960ba2c497de72457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/install-cuda.yml
+SPDXID: SPDXRef-item7994687
+FileChecksum: SHA1: 16cd34939bcea4e4b59a427d1d7af1041b98f2fa
+FileChecksum: MD5: 2cf8e8fd0c95879e0325fa139f35e9b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/install-bazel.yml
+SPDXID: SPDXRef-item7994688
+FileChecksum: SHA1: 2cbd3c16b40fdfaf5f58073c11cd7c208a0fceca
+FileChecksum: MD5: f308f4b4e57f4b002782948580470655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/install-tensorrt.yml
+SPDXID: SPDXRef-item7994689
+FileChecksum: SHA1: 1f60dfbc6d6975e6640fff652d0f21974c8500b1
+FileChecksum: MD5: 4c6fd9df7a681fe6292dd87a364ac69f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/azure-pipelines/install-buildifier.yml
+SPDXID: SPDXRef-item7994690
+FileChecksum: SHA1: 6a1872039aa6a99d79b177747bf59c17c6f027cc
+FileChecksum: MD5: c866d81fa99d470458ec86a620e43a02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ci/BUILD
+SPDXID: SPDXRef-item7994691
+FileChecksum: SHA1: f69e95a37ab1eb76acf398c9f2c96a02dee8f84d
+FileChecksum: MD5: 58aec399d473ade948497f001ac54f15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/eigen3/BUILD
+SPDXID: SPDXRef-item7994709
+FileChecksum: SHA1: 00daf7b82e92b8ca0e1c22acdc7eac2a83e39a9a
+FileChecksum: MD5: 6479aafa2064963f06303e37b7a2c7ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/openvino/BUILD
+SPDXID: SPDXRef-item7994713
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/openvino/build_defs.bzl.tpl
+SPDXID: SPDXRef-item7994714
+FileChecksum: SHA1: 739e868df82d84a05d2791e43f0ea87c45b9aa0f
+FileChecksum: MD5: 088009d1286226ee8716e40695d2825b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/openvino/openvino_configure.bzl
+SPDXID: SPDXRef-item7994715
+FileChecksum: SHA1: 435db8fe865542e4ea86245bae24ec8cecd0e4ed
+FileChecksum: MD5: 7e44bf38c84ea724371d31bff70bb89b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/cub.BUILD
+SPDXID: SPDXRef-item7994716
+FileChecksum: SHA1: 82194e8a218e9216b530fb5119974c16c0821ae6
+FileChecksum: MD5: 5ac36d14321c893ac85b21b8d9e5a015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/aarch64_compiler/BUILD
+SPDXID: SPDXRef-item7994718
+FileChecksum: SHA1: e0ab2d898b972338094419d3030ce46afb5ae479
+FileChecksum: MD5: 864d40deba1c79817032f7a4c2e6dcd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/aarch64_compiler/cc_toolchain_config.bzl
+SPDXID: SPDXRef-item7994719
+FileChecksum: SHA1: 7115ff691b2843b976b556ce2431fc31787fbde2
+FileChecksum: MD5: 981a7047d8603e028b646554c178097b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/third_party/libevent/BUILD
+SPDXID: SPDXRef-item7994721
+FileChecksum: SHA1: 26a72af603484b5965d22e8f344fb2d671a6402f
+FileChecksum: MD5: 9840f2ca40e3c5b6104b7ff0a52d19ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/README.md
+SPDXID: SPDXRef-item7994722
+FileChecksum: SHA1: a217f973ac74eefd033fe14a95144954a62cd0fb
+FileChecksum: MD5: f2dbe554996b494deb2d8ca73061cb75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/WORKSPACE
+SPDXID: SPDXRef-item7994723
+FileChecksum: SHA1: fc4f4ac6b8b1933e983054332382f4f2e29a6d48
+FileChecksum: MD5: 19ccaab4ceeea168cbb329706fee6657
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/samples/simpleMNIST/README.md
+SPDXID: SPDXRef-item7994727
+FileChecksum: SHA1: 4701e7414faf330e16260b16b08557f7e4932077
+FileChecksum: MD5: 6026cdbaa0def44249fb669c3b7d7723
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/samples/simpleMNIST/.gitignore
+SPDXID: SPDXRef-item7994730
+FileChecksum: SHA1: 1a9b6c1355abd9e38270e1d8774e27e644d6b4e2
+FileChecksum: MD5: 4c1a74a7aa0fc6615694a2b866aef567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/samples/simpleMNIST/data/0.png
+SPDXID: SPDXRef-item7994732
+FileChecksum: SHA1: 70265eadb9e7316e7a2597ea6153f60b0f235a9f
+FileChecksum: MD5: ac779883552e4090c671beaeaebc3926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/CONTRIBUTORS.md
+SPDXID: SPDXRef-item7994733
+FileChecksum: SHA1: d53c868bc9aec640000e5c6339a893a276f71b53
+FileChecksum: MD5: 4cf332498f70c7a8ce7574162ee3e27d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/resources/serving-engine.png
+SPDXID: SPDXRef-item7994735
+FileChecksum: SHA1: 8e7f72fe4c6112403edea8ff122e68b7ce0c2993
+FileChecksum: MD5: 15ee033efd7c7c8ab762170d40ebe459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/resources/adlik.png
+SPDXID: SPDXRef-item7994736
+FileChecksum: SHA1: 13b299a348301270afc954b93d3e77a8ad276f46
+FileChecksum: MD5: b34145baf4df8a1b31980117231b5f7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/resources/model-compiler.png
+SPDXID: SPDXRef-item7994737
+FileChecksum: SHA1: 316f605f7aa16b71df14c2bbb82e94042be9ba80
+FileChecksum: MD5: ebb0f438db973366cb6a0d300f2aec30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/workspace.bzl
+SPDXID: SPDXRef-item7994740
+FileChecksum: SHA1: 4137d95eaea8d491700be078a9f304c03e7ef28e
+FileChecksum: MD5: 486b7f13221507a40b87ee0a2d1ba00a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/predict.proto
+SPDXID: SPDXRef-item7994742
+FileChecksum: SHA1: d66cfcf17ff064a5fb734345d7aff5ce05e22007
+FileChecksum: MD5: 9aae05fe2ccfd3a09ecf84ed82ce67c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/get_model_meta.proto
+SPDXID: SPDXRef-item7994744
+FileChecksum: SHA1: 4ab7fd3e22ac3b524e7156e8d1339733508137dd
+FileChecksum: MD5: be5fb87132c826e8cd9656f480957d13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/BUILD
+SPDXID: SPDXRef-item7994746
+FileChecksum: SHA1: 6162b5d94c9743b595647f30fb8cf7f37a5623c0
+FileChecksum: MD5: 90117dfbab812640f3bcca81b7324b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/apis/predict_service.proto
+SPDXID: SPDXRef-item7994749
+FileChecksum: SHA1: 2c1c53fbc9e8b391e465385e30c2ca53ff3c2c5d
+FileChecksum: MD5: 6509533765f0e2448206bc6c21012393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/BUILD
+SPDXID: SPDXRef-item7994759
+FileChecksum: SHA1: 5b8fb168dc472fea2b53a48fbac6b43425be4530
+FileChecksum: MD5: 4979680e1111975ea8bab15148bf84e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/factory/tf_plan_model_config.proto
+SPDXID: SPDXRef-item7994762
+FileChecksum: SHA1: 6df02c5e1fa6157180bb63f6ce64ce5aedd58e2b
+FileChecksum: MD5: 58bf998d58834b9f08131196c5385a14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/batch/BUILD
+SPDXID: SPDXRef-item7994783
+FileChecksum: SHA1: 05cf92fe9018ae36554f07c9a8ceffd2ab942ca4
+FileChecksum: MD5: 3691031434debc49273a7c031ec38265
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorflow/model/BUILD
+SPDXID: SPDXRef-item7994804
+FileChecksum: SHA1: a840cfd6966198b95eaa8e422af51e29b9813144
+FileChecksum: MD5: 48070d02cdb8dcd1bba650fb80332d1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/sample/BUILD
+SPDXID: SPDXRef-item7994814
+FileChecksum: SHA1: 27947d85868a5a7bf42baf11a00bd0d99952bd89
+FileChecksum: MD5: 18c4284161e80edf8e9b1b3367829284
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/batching/BUILD
+SPDXID: SPDXRef-item7994823
+FileChecksum: SHA1: aa6e002249f826ee7ff28681e006a387c24c358c
+FileChecksum: MD5: 883f07a9d121847839b6c925dcf40260
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/factory/BUILD
+SPDXID: SPDXRef-item7994831
+FileChecksum: SHA1: d40725870919268e34d38928fcf4dfe21a29aff9
+FileChecksum: MD5: e6dbc56460f904dbc908e2d48a8c431d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/testdata/resnet_v1_50/config.pbtxt
+SPDXID: SPDXRef-item7994834
+FileChecksum: SHA1: 93ea9e56bca29f4668061baa6bc25648a7b00694
+FileChecksum: MD5: 8a8e1ba90f03b05bf07e60a6cfda2afd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/BUILD
+SPDXID: SPDXRef-item7994835
+FileChecksum: SHA1: a6c0550f13ef681be69f14d8c2cb46f7c8ceecaa
+FileChecksum: MD5: e5f28305983ddb7a0d00a1baedb9cca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/openvino/model/BUILD
+SPDXID: SPDXRef-item7994838
+FileChecksum: SHA1: 7d6315cee5c1ea9019affa76653d21e8c6be1780
+FileChecksum: MD5: f59c56cffdf64bc5ded89ccff869441b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/provider/BUILD
+SPDXID: SPDXRef-item7994847
+FileChecksum: SHA1: e0ce3a33219c0c25e9df123e07a2c1908c7e0e10
+FileChecksum: MD5: 14fd4a82fa0c1dfa1030b1fe35007406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/factory/BUILD
+SPDXID: SPDXRef-item7994857
+FileChecksum: SHA1: cc7850ed39f50109f19f43f721db327eff857bfd
+FileChecksum: MD5: 2be1d54b5318864cb27f2521acb39b8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/testdata/model/config.pbtxt
+SPDXID: SPDXRef-item7994861
+FileChecksum: SHA1: 86dbb6a5d67090223b3a14a842ff2880bda28210
+FileChecksum: MD5: 763ff5033d04753d9c57159f7f1b22bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/testdata/model/expected
+SPDXID: SPDXRef-item7994862
+FileChecksum: SHA1: 1a46e8ad3ee0c7f44d655dc0fc0478cc15865f29
+FileChecksum: MD5: f741b54787857db24e88c6cbbf709007
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/tensorrt/model/BUILD
+SPDXID: SPDXRef-item7994867
+FileChecksum: SHA1: 08c601e6eb9a6da3ba4bbbe8011c5ef0de122170
+FileChecksum: MD5: a4d5dda95ee172a78a2cd1639ee9fda4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/runtime/util/BUILD
+SPDXID: SPDXRef-item7994879
+FileChecksum: SHA1: ffbd5d9c4e53a648cd05b676de1a05aa81879d1c
+FileChecksum: MD5: 45eb7b6565bd72d6642b7bdd3f07fb47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/BUILD
+SPDXID: SPDXRef-item7994885
+FileChecksum: SHA1: 5c2af58884ad4e6ebd8373c4ce9c5b07ed15bb78
+FileChecksum: MD5: f29ff3261be582cdb7328f9d371751f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/sdk/BUILD
+SPDXID: SPDXRef-item7994887
+FileChecksum: SHA1: dc066afb4d7e07ec721c5cc537bc93bf6a984d77
+FileChecksum: MD5: b4cdb8f357fb3c8bb3cb9d08736e62bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/BUILD
+SPDXID: SPDXRef-item7994892
+FileChecksum: SHA1: 3199bb6bc373747ed871f30febf08e0345d9f8aa
+FileChecksum: MD5: 1c45ced72d1e7876cb0de8e78b91794d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/clients/python/build_pip_package.sh
+SPDXID: SPDXRef-item7994893
+FileChecksum: SHA1: cbe6e505d34b2fac08572c243d437e30bc9c119f
+FileChecksum: MD5: f826a11c77ea8c7507a5ee6ef065a7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/ssl_config.proto
+SPDXID: SPDXRef-item7994903
+FileChecksum: SHA1: 817a744227a35fbbedffbe8b7b71bee4a54cb8d4
+FileChecksum: MD5: b3d5ff6bdf0d5bc97f94f6b8170552f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/grpc/BUILD
+SPDXID: SPDXRef-item7994904
+FileChecksum: SHA1: b238a5a39fdff04025dec1595608c12bd95835ea
+FileChecksum: MD5: d9b75e40ea809b497b5bf87f3297c1d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/core/BUILD
+SPDXID: SPDXRef-item7994913
+FileChecksum: SHA1: dac6d407445523803dbdadaf4bf7e75a10876e52
+FileChecksum: MD5: d6bbc5dccdd91b0115c1795e69190141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/internal/BUILD
+SPDXID: SPDXRef-item7994924
+FileChecksum: SHA1: 70ec8b1630b008361c864260667efe763130d853
+FileChecksum: MD5: 5000daf65a3d5cc1ce585ac70f8fc9d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/server/http/BUILD
+SPDXID: SPDXRef-item7994932
+FileChecksum: SHA1: 2aa985cbf93b35590e56c19771ffd88e811b13c0
+FileChecksum: MD5: 816c0d0d7225be494cffa77779dbf4cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_spec.proto
+SPDXID: SPDXRef-item7994950
+FileChecksum: SHA1: 356a696c8729ef3833634a1c13380c2713cfbe71
+FileChecksum: MD5: bb1ede1f34f3a2d2fd9a2f14550a74c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/model_config.proto
+SPDXID: SPDXRef-item7994951
+FileChecksum: SHA1: 83c67abd112e3061294c733d164aae2a2e33b46a
+FileChecksum: MD5: 63882b0ba90d1d1e9c2399fda662f1fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/BUILD
+SPDXID: SPDXRef-item7994965
+FileChecksum: SHA1: a6dada80b34458d442a0d85ae9da15556e0b2ee8
+FileChecksum: MD5: f0d2860d86a6d238841ee0d1b0037f66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/domain/version_policy.proto
+SPDXID: SPDXRef-item7994987
+FileChecksum: SHA1: b59ad25d46c3e6ca24b289d78570d7b9430a5afb
+FileChecksum: MD5: c42b7e28ccaf5cc9f44667aedccc0648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/framework/manager/BUILD
+SPDXID: SPDXRef-item7995004
+FileChecksum: SHA1: f7f30c341553730e33310f2c9db365470625be36
+FileChecksum: MD5: a9c5b7febfe1249eda3f57202a732907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/adlik_serving/serving.bzl
+SPDXID: SPDXRef-item7995018
+FileChecksum: SHA1: 86e66df9f7d25a905d93ccaa2fa13ae759059a9f
+FileChecksum: MD5: 08d4b65dfbf166078cff8bb7990dfc78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/azure-pipelines.yml
+SPDXID: SPDXRef-item7995019
+FileChecksum: SHA1: 742651cfa22563a47836ccfa9f731de157edb245
+FileChecksum: MD5: 08ebd828b21d322a98f75c3e1944d0f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/.bazelrc
+SPDXID: SPDXRef-item7995020
+FileChecksum: SHA1: 2b1dd0d4886b85b8bc9f4f9960e7ff7df7b68f1d
+FileChecksum: MD5: 3f91cfd27a9cc8fcb80ce2dbc369d997
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/bors.toml
+SPDXID: SPDXRef-item7995021
+FileChecksum: SHA1: 5f0e7abafeb0ec72772a02861c0029eba887ccef
+FileChecksum: MD5: a91796cdaf34a5c7a7aec843ef198e56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/.flake8
+SPDXID: SPDXRef-item7995022
+FileChecksum: SHA1: 7be5107e6f29bac4419606d14324cebc1aec15a2
+FileChecksum: MD5: 8e8f81519f61a47f823221005a3ad013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/model_compiler/.pylintrc
+SPDXID: SPDXRef-item7995024
+FileChecksum: SHA1: 51100418b0331dedb641874fb1e72f7c4002af8a
+FileChecksum: MD5: cf770d0cc333b24b147e23a055dfe813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/model_compiler/src/model_compiler/config_schema.json
+SPDXID: SPDXRef-item7995028
+FileChecksum: SHA1: 533da6bea8ea8af5dd01e0c63f547837494d7bf1
+FileChecksum: MD5: 112b3530d41dbc723c7f060e3583227a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/model_compiler/tox.ini
+SPDXID: SPDXRef-item7995052
+FileChecksum: SHA1: 2e0d3630ee60a5f054419542df3823ad568929a8
+FileChecksum: MD5: 60173e63ddae5197818a0b665d85b3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/model_compiler/.flake8
+SPDXID: SPDXRef-item7995053
+FileChecksum: SHA1: 7be5107e6f29bac4419606d14324cebc1aec15a2
+FileChecksum: MD5: 8e8f81519f61a47f823221005a3ad013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/model_compiler/bandit.yaml
+SPDXID: SPDXRef-item7995054
+FileChecksum: SHA1: 965ed7646679bd257f5d560f78f2843a5d1c4692
+FileChecksum: MD5: 622d7b0da2f577896df22921e0ea6279
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/ROADMAP.md
+SPDXID: SPDXRef-item7995055
+FileChecksum: SHA1: c7f5d7b718194812991ff3549e90a974939b6c31
+FileChecksum: MD5: d6d0ff3a8f18ae1ddc338417ead2fdc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/base/BUILD
+SPDXID: SPDXRef-item7995072
+FileChecksum: SHA1: 54526c10828dd5e5bbe90519e5c23983098b262d
+FileChecksum: MD5: ea12d2192d69015f394541242171324b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/dci/BUILD
+SPDXID: SPDXRef-item7995090
+FileChecksum: SHA1: 32823e7378026e2980215224226f7952d777deec
+FileChecksum: MD5: 967aecb236aea04ac81f47bfe18b8c56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/log/BUILD
+SPDXID: SPDXRef-item7995100
+FileChecksum: SHA1: 4e95827fbcc3dfd4b632e3f68765f2fa6ecb23f6
+FileChecksum: MD5: a99a41b7fed2c2bf55b9f1321e3e0e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/cli/BUILD
+SPDXID: SPDXRef-item7995106
+FileChecksum: SHA1: 1ce6c1549763d2eedc8354bbb5a305a173f49e1b
+FileChecksum: MD5: cc057314b0630164e4446bc744f4ea09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/algo/BUILD
+SPDXID: SPDXRef-item7995118
+FileChecksum: SHA1: e88e769a00a91a071223ecad8b509f2dd85a62e5
+FileChecksum: MD5: faeba4851234add29847cf2d7afbadce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/list/BUILD
+SPDXID: SPDXRef-item7995127
+FileChecksum: SHA1: 7a51350546f5b74ac8783f574f256da436a2376b
+FileChecksum: MD5: 29990105f599d9d70b8f8e12a797abd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/BUILD
+SPDXID: SPDXRef-item7995130
+FileChecksum: SHA1: f15e514bfc560cf0eda555a2d333212f41ccb0f8
+FileChecksum: MD5: 42d85be10eef10067367710f1665b084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/gof/BUILD
+SPDXID: SPDXRef-item7995135
+FileChecksum: SHA1: 4f6aeb8f83491cedae7ec4c87a0262d9b2c4ce8a
+FileChecksum: MD5: 397ab2a119c94c97768821f8f249b090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/string/BUILD
+SPDXID: SPDXRef-item7995146
+FileChecksum: SHA1: 61bffa87cbb7a349e157ad8d17f9a103f0afbab8
+FileChecksum: MD5: 12b392eccab038774ecd6f34b00af3c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/array/BUILD
+SPDXID: SPDXRef-item7995157
+FileChecksum: SHA1: 9efe466fc6c2df0c36cf448ea105477ad8d014b4
+FileChecksum: MD5: b8d2ac5b95f4f275f00bb3a53e05b834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/mem/BUILD
+SPDXID: SPDXRef-item7995164
+FileChecksum: SHA1: 62f21b5bbcfb1675b38a1ae3f78d1420c83543d6
+FileChecksum: MD5: 5f5f56f9b2d81a44b2d9f943446917ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/env/windows/BUILD
+SPDXID: SPDXRef-item7995170
+FileChecksum: SHA1: 2f8db5781f4554a36b0cd92fd5ef102038f28839
+FileChecksum: MD5: 9593b30329cbe83374272e809c2d6267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/env/time/BUILD
+SPDXID: SPDXRef-item7995173
+FileChecksum: SHA1: 61dd3ecded46cf7c1764004016dbcbc92e1d9059
+FileChecksum: MD5: 10ab8289b6ab7ad85e377b976b92bcac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/env/concurrent/BUILD
+SPDXID: SPDXRef-item7995184
+FileChecksum: SHA1: 8f2b31666696f6097052ecbc3a2100d1959f6781
+FileChecksum: MD5: 01aa99aae058a93e04966cf338837edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/env/fs/BUILD
+SPDXID: SPDXRef-item7995200
+FileChecksum: SHA1: e175a0c3ec3a7afede1a2b06fdfe81e0babbd84c
+FileChecksum: MD5: 42989328fe2583f9201eacacf52caf42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/env/BUILD
+SPDXID: SPDXRef-item7995203
+FileChecksum: SHA1: 66c4f624d55790ed82305ec3cd06ad171eca36d4
+FileChecksum: MD5: e870b4ad99af016fec2b1d27cd5375b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/env/posix/BUILD
+SPDXID: SPDXRef-item7995211
+FileChecksum: SHA1: 77cac0eae9194396b2b9ba1fd7ad4774cbe4d2eb
+FileChecksum: MD5: 8cb3a5fd9e909bbce551460d00f5df54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/protobuf/BUILD
+SPDXID: SPDXRef-item7995222
+FileChecksum: SHA1: 24f67b15cd2d5297a1f774db54b94e3cefdf3076
+FileChecksum: MD5: 8baa0d4ad9d691bbe87d68e784f5c972
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/cub/task/BUILD
+SPDXID: SPDXRef-item7995225
+FileChecksum: SHA1: c26ffb813c050e69cfa0d5cc97757e2b676d201d
+FileChecksum: MD5: 595164b4db3fda2a5b3f34e98d349fe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7995230
+FileChecksum: SHA1: 19acbe69e9a3bde40dd51622e4cd24a66addd4c4
+FileChecksum: MD5: 7dda17ae106c690e25f2f798cd319e43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/.clang-tidy
+SPDXID: SPDXRef-item7995231
+FileChecksum: SHA1: a6d4a052d529911ff9fcc46e7c673310f7329479
+FileChecksum: MD5: 050a6d231e94582ad25e0e296347d4b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/.gitignore
+SPDXID: SPDXRef-item7995232
+FileChecksum: SHA1: 4fa0cdb80e34c84190a06d0886a87f2a8bb1296d
+FileChecksum: MD5: 2b8b4410eb542de8a562c08f17d5bc1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Adlik/.clang-format
+SPDXID: SPDXRef-item7995233
+FileChecksum: SHA1: f3c9269e145a2f2ee028d5fbb56f5825d650b077
+FileChecksum: MD5: 360120837d449dfca391cc01e53fe5d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Meta-Wrong-License-Statement
+LicenseName: Meta-Wrong-License-Statement
+ExtractedText: <text> Meta flag: Indicates an incorrect license statement, typically in package metadata where it differs from the stated license in the source code headers or documentation. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Minpack
+LicenseName: Minpack
+ExtractedText: <text> Minpack Copyright Notice (1999) University of Chicago. All rights
+reserved
+
+Redistribution and use in source and binary forms, with or
+without modification, are permitted provided that the
+following conditions are met:
+
+1. Redistributions of source code must retain the above
+copyright notice, this list of conditions and the following
+disclaimer.
+
+2. Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following
+disclaimer in the documentation and/or other materials
+provided with the distribution.
+
+3. The end-user documentation included with the
+redistribution, if any, must include the following
+acknowledgment:
+
+"This product includes software developed by the
+University of Chicago, as Operator of Argonne National
+Laboratory.
+
+Alternately, this acknowledgment may appear in the software
+itself, if and wherever such third-party acknowledgments
+normally appear.
+
+4. WARRANTY DISCLAIMER. THE SOFTWARE IS SUPPLIED "AS IS"
+WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT HOLDER, THE
+UNITED STATES, THE UNITED STATES DEPARTMENT OF ENERGY, AND
+THEIR EMPLOYEES: (1) DISCLAIM ANY WARRANTIES, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE
+OR NON-INFRINGEMENT, (2) DO NOT ASSUME ANY LEGAL LIABILITY
+OR RESPONSIBILITY FOR THE ACCURACY, COMPLETENESS, OR
+USEFULNESS OF THE SOFTWARE, (3) DO NOT REPRESENT THAT USE OF
+THE SOFTWARE WOULD NOT INFRINGE PRIVATELY OWNED RIGHTS, (4)
+DO NOT WARRANT THAT THE SOFTWARE WILL FUNCTION
+UNINTERRUPTED, THAT IT IS ERROR-FREE OR THAT ANY ERRORS WILL
+BE CORRECTED.
+
+5. LIMITATION OF LIABILITY. IN NO EVENT WILL THE COPYRIGHT
+HOLDER, THE UNITED STATES, THE UNITED STATES DEPARTMENT OF
+ENERGY, OR THEIR EMPLOYEES: BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES OF
+ANY KIND OR NATURE, INCLUDING BUT NOT LIMITED TO LOSS OF
+PROFITS OR LOSS OF DATA, FOR ANY REASON WHATSOEVER, WHETHER
+SUCH LIABILITY IS ASSERTED ON THE BASIS OF CONTRACT, TORT
+(INCLUDING NEGLIGENCE OR STRICT LIABILITY), OR OTHERWISE,
+EVEN IF ANY OF SAID PARTIES HAS BEEN WARNED OF THE
+POSSIBILITY OF SUCH LOSS OR DAMAGES. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Meta-List-of-Dependencies-1
+LicenseName: Meta-List-of-Dependencies-1
+ExtractedText: <text> Meta flag: Indicates a list of dependencies, which may or may not be incorporated into or used with the software being scanned. </text>
+
