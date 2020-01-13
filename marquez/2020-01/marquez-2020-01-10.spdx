@@ -1,0 +1,6592 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_marquez-2020-01-10.zip_1578937662.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-01-13T17:47:42Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: marquez-2020-01-10.zip
+PackageFileName: marquez-2020-01-10.zip
+SPDXID: SPDXRef-upload2110
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: aa3aae03b5159a81b853c389b9a726e3d885e912
+PackageChecksum: SHA1: b47b96c7bbd304a22f91ed9262c9530c38a84d65
+PackageChecksum: MD5: 2679065d4047f2b461443e5fc9f68c04
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2110
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: marquez-web/README.md
+SPDXID: SPDXRef-item7998393
+FileChecksum: SHA1: 7ea10d4f4d9f1e83647ec470f3acfb3467ed588e
+FileChecksum: MD5: f1b74e8bae875dea85aab03c7b007652
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/package.json
+SPDXID: SPDXRef-item7998518
+FileChecksum: SHA1: 97ec92ec03cb9100c65a3aed662fcdd2e3e27a79
+FileChecksum: MD5: 9a5bfbce95856c720f00385ad8117176
+LicenseConcluded: LicenseRef-Meta-Wrong-License-Statement AND MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/fonts/Karla/OFL.txt
+SPDXID: SPDXRef-item7998484
+FileChecksum: SHA1: 0c63ce44ac335ff9fab43f701affbb85475d9dda
+FileChecksum: MD5: 3d5e39a5ebfae60885cd14a8effd63f7
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla' </text>
+ 
+
+##File
+
+FileName: marquez-web/src/fonts/Karla/Karla-Regular.ttf
+SPDXID: SPDXRef-item7998486
+FileChecksum: SHA1: bf625e46311c6b71174dffced388ec963ddceacf
+FileChecksum: MD5: fd3f938a23d57da8894c8aa0e85adf3f
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla' </text>
+ 
+
+##File
+
+FileName: marquez-web/src/fonts/Karla/Karla-Italic.ttf
+SPDXID: SPDXRef-item7998485
+FileChecksum: SHA1: e75b9b09097b4122068844291b9c220a1ef53612
+FileChecksum: MD5: 363d3c4ec8cb40d863cdacfc0049eb12
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names "Karla" and "Karla Tamil" </text>
+ 
+
+##File
+
+FileName: marquez-web/src/fonts/Karla/Karla-Bold.ttf
+SPDXID: SPDXRef-item7998482
+FileChecksum: SHA1: 487058030d1b878884eb61ae0d0fd8ec5d506f99
+FileChecksum: MD5: b45be274b8b65fc9c72b038d72486edd
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla' </text>
+ 
+
+##File
+
+FileName: marquez-web/src/fonts/Karla/Karla-BoldItalic.ttf
+SPDXID: SPDXRef-item7998483
+FileChecksum: SHA1: e3e3ccb6fb1f80e7a3a730fe7d0ea1b900fd97b4
+FileChecksum: MD5: 17f8a645015756768592e12b12219220
+LicenseConcluded: OFL-1.1
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text> Copyright (c) 2011-2012, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla' </text>
+ 
+
+##File
+
+FileName: marquez-python/release.sh
+SPDXID: SPDXRef-item7998270
+FileChecksum: SHA1: e819c8fa30720495c38bf9e15ad2fa50a94373f8
+FileChecksum: MD5: cac0d2f4ff6a95939ffdd39bb8cc0977
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/README.md
+SPDXID: SPDXRef-item7998268
+FileChecksum: SHA1: 2d06b3c21c0a2512df3f61b6579c33a7820aaa58
+FileChecksum: MD5: 6026ef9b337be20db1ad129d4e3b1824
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/.circleci/release_check.sh
+SPDXID: SPDXRef-item7998266
+FileChecksum: SHA1: 2b7ceef02f2a1c5e0b555ae2bb19f557cdc9ff76
+FileChecksum: MD5: 3c2614d39f79249662061af43137352c
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/README.md
+SPDXID: SPDXRef-item7997809
+FileChecksum: SHA1: 80fe26ec3937a9ff20dfe1cd3d2252ec37487a24
+FileChecksum: MD5: c4028ee4b8bae6f49e18aa24b19a95e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradlew.bat
+SPDXID: SPDXRef-item7997865
+FileChecksum: SHA1: cd72f2aed5f5606de8346b91cbf265d4702a4a4d
+FileChecksum: MD5: 506d9a14c3be2d719f49deb659b12007
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. </text>
+ 
+
+##File
+
+FileName: marquez-java/gradlew
+SPDXID: SPDXRef-item7997866
+FileChecksum: SHA1: 9cc3dcd05d18a1779bbef0aa64ea8099251ee044
+FileChecksum: MD5: e807a8c4846c87b2dd83add62253bfad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. </text>
+ 
+
+##File
+
+FileName: marquez-chart/README.md
+SPDXID: SPDXRef-item7997930
+FileChecksum: SHA1: 3b1d1ca93ba42b94a53ed69c7119f77f70d55494
+FileChecksum: MD5: e8f91a0ac1568202d9e5096f007873d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/README.md
+SPDXID: SPDXRef-item7997938
+FileChecksum: SHA1: e30a4bfa2e959daf7c78c1ad2ca01283c527c7fe
+FileChecksum: MD5: f8e9331daf0595febd27cd9d66c6f5aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/README.md
+SPDXID: SPDXRef-item7997978
+FileChecksum: SHA1: 67f0cc3c41af1348e9bad8fa03ddb7a4cf24e147
+FileChecksum: MD5: 8f8572232bed905058055024cb6b56a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradlew.bat
+SPDXID: SPDXRef-item7998173
+FileChecksum: SHA1: cd72f2aed5f5606de8346b91cbf265d4702a4a4d
+FileChecksum: MD5: 506d9a14c3be2d719f49deb659b12007
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. </text>
+ 
+
+##File
+
+FileName: marquez/docs/openapi.html
+SPDXID: SPDXRef-item7998258
+FileChecksum: SHA1: 573775bcf407731ca2ecc9762279a841e68a5730
+FileChecksum: MD5: 1a283f8a4ac3ff180a7766eb36f5cf04
+LicenseConcluded: Apache-2.0 AND BSD-3-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> © 2019 Denis Pushkarev (zloirock.ru)
+(c) 2018 Hyunje Jun
+Copyright (c) 2014–2018, Julian Kühnel
+Copyright (c) 2017 Jed Watson.
+Copyright (C) 2019 Oliver Nightingale
+Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright Oleg Korsunsky | http://wd.dizaina.net/
+(c) Sindre Sorhus license MIT </text>
+ 
+
+##File
+
+FileName: marquez/docs/openapi.yml
+SPDXID: SPDXRef-item7998259
+FileChecksum: SHA1: 13ab55f9ac515efda9e02049bb1cbb09f8f47396
+FileChecksum: MD5: 6adc092a4d9e4765abd86a581c98f014
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradlew
+SPDXID: SPDXRef-item7998175
+FileChecksum: SHA1: cd7a9d1df758042b6313da29d33d7eeeef7b67cd
+FileChecksum: MD5: 1b8ae77c6fad405e526b39fd72fc40f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. </text>
+ 
+
+##File
+
+FileName: marquez/LICENSE
+SPDXID: SPDXRef-item7998169
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/LICENSE
+SPDXID: SPDXRef-item7997939
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/LICENSE
+SPDXID: SPDXRef-item7998359
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-chart/LICENSE
+SPDXID: SPDXRef-item7997931
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/LICENSE
+SPDXID: SPDXRef-item7997862
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/LICENSE
+SPDXID: SPDXRef-item7998269
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker/build-and-push.sh
+SPDXID: SPDXRef-item7997967
+FileChecksum: SHA1: 4118ccfeefd37fee5ac3119b3d4d21903f4086e0
+FileChecksum: MD5: 77163c038da81bb6eaca0d1a67a23fb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker/init-db.sh
+SPDXID: SPDXRef-item7997969
+FileChecksum: SHA1: b5fe0a49be7e0d0a7128bc3d998d3d7746e2de5a
+FileChecksum: MD5: 75b96192a1420ef283bd9efcab96c7d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/docker/init-db.sh
+SPDXID: SPDXRef-item7998356
+FileChecksum: SHA1: b5fe0a49be7e0d0a7128bc3d998d3d7746e2de5a
+FileChecksum: MD5: 75b96192a1420ef283bd9efcab96c7d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/init-db.sh
+SPDXID: SPDXRef-item7998379
+FileChecksum: SHA1: b5fe0a49be7e0d0a7128bc3d998d3d7746e2de5a
+FileChecksum: MD5: 75b96192a1420ef283bd9efcab96c7d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker/login.sh
+SPDXID: SPDXRef-item7997972
+FileChecksum: SHA1: a71acb7a40cf31b02ceac3e207e4c141a0f06404
+FileChecksum: MD5: 959a3854d89e1365481d29d351252449
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/login.sh
+SPDXID: SPDXRef-item7998387
+FileChecksum: SHA1: a71acb7a40cf31b02ceac3e207e4c141a0f06404
+FileChecksum: MD5: 959a3854d89e1365481d29d351252449
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/.circleci/get-jdk8.sh
+SPDXID: SPDXRef-item7997975
+FileChecksum: SHA1: 75c54d3d4f54bd1df8443a4ef9321f153ca07266
+FileChecksum: MD5: 90127b8f82f2c15751f9f588b23766cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/.circleci/get-docker.sh
+SPDXID: SPDXRef-item7997977
+FileChecksum: SHA1: c8b9823898b1be8582dcfef8d1fb91db1c1bb188
+FileChecksum: MD5: a00b36791889db51e442a5aec2b58ede
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.circleci/get-docker.sh
+SPDXID: SPDXRef-item7998390
+FileChecksum: SHA1: c8b9823898b1be8582dcfef8d1fb91db1c1bb188
+FileChecksum: MD5: a00b36791889db51e442a5aec2b58ede
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/DataAccessTests.java
+SPDXID: SPDXRef-item7997985
+FileChecksum: SHA1: 187892f15c9fc52d1c7b8ff6696f91c6a4c02627
+FileChecksum: MD5: 187e7bb7bc171fe7fe77ab1935e50e01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/UnitTests.java
+SPDXID: SPDXRef-item7997986
+FileChecksum: SHA1: 219f03df472228f8405e238ab82dbe2b660ec35c
+FileChecksum: MD5: d01f10f03438ee92cc1cd714ed6e91b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/IntegrationTests.java
+SPDXID: SPDXRef-item7997987
+FileChecksum: SHA1: 2712def6bf37cae56784789760af3ccc3b2b95c3
+FileChecksum: MD5: fd536ded29fe8e0283139ea647e1c2e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/MarquezDb.java
+SPDXID: SPDXRef-item7997994
+FileChecksum: SHA1: 60a0e0a34760bb71fd4880c849adb5ac52ce22ae
+FileChecksum: MD5: 51d2e8c2d63a4e475053f8b83efb0569
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/common/base/MorePreconditionsTest.java
+SPDXID: SPDXRef-item7997990
+FileChecksum: SHA1: fadd7156f40e9ed5c24eb39de7067c6971f0ef45
+FileChecksum: MD5: 138c54f6531e1733fb3e5a6a423992ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/Generator.java
+SPDXID: SPDXRef-item7998010
+FileChecksum: SHA1: 78b34d77d90ce8b6bf972f091eb3af46e65b1e9c
+FileChecksum: MD5: 43fbca5abfeb684530ff47e18333d223
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/FlywayFactoryTest.java
+SPDXID: SPDXRef-item7997996
+FileChecksum: SHA1: 02adf72d8ca66f2cdf95e0af7e771ef26cf539f4
+FileChecksum: MD5: 2b82f9b5ac5ab8cbeb7bccf9f2fb7cab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/api/mappers/MapperTest.java
+SPDXID: SPDXRef-item7998009
+FileChecksum: SHA1: 614c96153a8e8b909608cd1c00e64b7356dbf484
+FileChecksum: MD5: d89539f6aa2bf944e8af7c193fac1cb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/ColumnsTest.java
+SPDXID: SPDXRef-item7998001
+FileChecksum: SHA1: 1b03ce1d1f470e86f72d7e91a0f69bb701075ce2
+FileChecksum: MD5: 902c4fa02b917131ccc208575e71863f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/RunMeta.java
+SPDXID: SPDXRef-item7998033
+FileChecksum: SHA1: 2344e1c42fcc6e27c410e0adbe114d57ec1afff7
+FileChecksum: MD5: e42900dfb866d4449fd99a411986e289
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Namespace.java
+SPDXID: SPDXRef-item7998035
+FileChecksum: SHA1: 42e0c4d3b9ef72ba9a4904727bcf3be78eda2899
+FileChecksum: MD5: 00e8ff075c8dad2110fe535d49170ee4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/SourceMeta.java
+SPDXID: SPDXRef-item7998037
+FileChecksum: SHA1: 4e471563a121378a87cae54a2c4281147fe12a59
+FileChecksum: MD5: 8cf3de4bca973ab8098ec542abd671c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Run.java
+SPDXID: SPDXRef-item7998036
+FileChecksum: SHA1: 35dccddd4f93eab1c53d07ed7bddd5ecd14308c9
+FileChecksum: MD5: b5c491411faa55004632d411ac0de2b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Source.java
+SPDXID: SPDXRef-item7998039
+FileChecksum: SHA1: e85d5b2cd672bd28a6416ce60f47515f6f521e81
+FileChecksum: MD5: 5af47483a9979467982e21a5573126fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/NamespaceMeta.java
+SPDXID: SPDXRef-item7998038
+FileChecksum: SHA1: fc2895665945aef8f058d55b979e46fd0019849e
+FileChecksum: MD5: cb927c3fdcf3b3995d477b876394af2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/base/MorePreconditions.java
+SPDXID: SPDXRef-item7998059
+FileChecksum: SHA1: 1e1a0a48495e384aade8528afe16a5fd3158cabc
+FileChecksum: MD5: f513a73afc37ba0b9b9045943b5975c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Job.java
+SPDXID: SPDXRef-item7998043
+FileChecksum: SHA1: 047ba4a4bb01ce6de793c4db70f4ee87e48f0df9
+FileChecksum: MD5: 973344956e9db5922df0f11b526a1d39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/JobMeta.java
+SPDXID: SPDXRef-item7998044
+FileChecksum: SHA1: 1560fb9746796f95f4b0e1799e55e8659eae8c77
+FileChecksum: MD5: 6d0968cf9254b352ee3afaa409f80f27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/OwnerName.java
+SPDXID: SPDXRef-item7998063
+FileChecksum: SHA1: 3ace496541e1ef0b5c4f3ff5c0c60d9bb0e02026
+FileChecksum: MD5: e912d017d1a2e4a4b5ef524c5a58b707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/JobName.java
+SPDXID: SPDXRef-item7998064
+FileChecksum: SHA1: 625b6fcf7f34c9919fed853b0d8e892c814f5003
+FileChecksum: MD5: 73e694e5dfad6c234359a4d4f8284ca7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/NamespaceName.java
+SPDXID: SPDXRef-item7998066
+FileChecksum: SHA1: fdbdf203741d08f606bbcf883cc53d8cd262c140
+FileChecksum: MD5: ef88f73c8220f0b9d14f443295fed270
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/SourceName.java
+SPDXID: SPDXRef-item7998067
+FileChecksum: SHA1: b70420f93b44f351ea40e90e42daeb91de91aefd
+FileChecksum: MD5: 1ac377b3973cc2adc090abdd3fe4929c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/DatasetName.java
+SPDXID: SPDXRef-item7998069
+FileChecksum: SHA1: 7f30e9527be5ed6a65184080dd345f9e41d67cfb
+FileChecksum: MD5: b0c65a234a22916c55cbfa3a8d787121
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/JobType.java
+SPDXID: SPDXRef-item7998068
+FileChecksum: SHA1: 80a18108a2517c832ea5535b86f0f38c7a56efbf
+FileChecksum: MD5: bb05aed2067b65dbd88c6f7234aca856
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/SourceType.java
+SPDXID: SPDXRef-item7998070
+FileChecksum: SHA1: 1e3ef3b9506ae32b5448ba5570447401c3f3bec1
+FileChecksum: MD5: e721518905e33de4d7e24f3fcb2c4d7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/SourceRow.java
+SPDXID: SPDXRef-item7998074
+FileChecksum: SHA1: 12b4bd81719d808f88f9d68c705dcc93c2539f4b
+FileChecksum: MD5: d96ca031eaf16d34666e550005cb1da0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/NamespaceRow.java
+SPDXID: SPDXRef-item7998075
+FileChecksum: SHA1: bd72b362d072813472c30ef27c2c80499749ef27
+FileChecksum: MD5: 9cbbc8edce5ee459d49ccb17622a8f77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/JobVersionRow.java
+SPDXID: SPDXRef-item7998077
+FileChecksum: SHA1: 8fffaadf7e2278121062742d35306b54b582a7d9
+FileChecksum: MD5: c197d7abf88d31404cfdbb707ee3388d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/JobContextRow.java
+SPDXID: SPDXRef-item7998078
+FileChecksum: SHA1: 23a92ba1d6fed7668893a3d2583d49a7495b8fd1
+FileChecksum: MD5: 0df66626345f203784d0717dee9db41d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/JobRow.java
+SPDXID: SPDXRef-item7998081
+FileChecksum: SHA1: 0c2ca4fb92cdde6a396928b4907afca4558e2035
+FileChecksum: MD5: d7f5286e37b7566d409cbe0248c7ec53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/StreamVersionRow.java
+SPDXID: SPDXRef-item7998079
+FileChecksum: SHA1: b34295cf482971e8e8d1e44e6ad7296d4c5066cf
+FileChecksum: MD5: fbc74a64e56fcf295d5862abbb0c9bf8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/OwnerRow.java
+SPDXID: SPDXRef-item7998083
+FileChecksum: SHA1: 3a24cff3efb2b9efd0d9a77ee1eefe7b10297313
+FileChecksum: MD5: 6f34cc268a109729883752b92bfed542
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/RunArgsRow.java
+SPDXID: SPDXRef-item7998087
+FileChecksum: SHA1: d4b837dd45235c00268c75ebb2729b5476fceff9
+FileChecksum: MD5: dccd1a21c0ae92a2807f747297a49fc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/DatasetVersionRow.java
+SPDXID: SPDXRef-item7998085
+FileChecksum: SHA1: fb09ba728d644480cd5e9c237fedc09c0415cd33
+FileChecksum: MD5: 9bf52b3a25b6e2ecb3ad30e62b3e2f19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/RunStateRow.java
+SPDXID: SPDXRef-item7998088
+FileChecksum: SHA1: 6d510cea9aad81b2cc3e7f67ac53178e7a11d22e
+FileChecksum: MD5: 59fcab96a7467f795b45991f24b2664d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/NamespaceOwnershipRow.java
+SPDXID: SPDXRef-item7998091
+FileChecksum: SHA1: 49bb3118a6ca5753fa2037e203b859a3e78ab274
+FileChecksum: MD5: 6ce47ab7dd443e57ca6fa831ce9b4353
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/ExtendedJobVersionRow.java
+SPDXID: SPDXRef-item7998089
+FileChecksum: SHA1: 0cb846ea20131a6af11884e2dd2a51b28713225f
+FileChecksum: MD5: 79c9a884239631a72cd3a1aa591f1395
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/NamespaceOwnershipDao.java
+SPDXID: SPDXRef-item7998093
+FileChecksum: SHA1: e10f8741d06c8e6e7fbba9643021764aaca6a8b9
+FileChecksum: MD5: c77f3ec705de6fa0f5d9f88fb0ade878
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/JobContextDao.java
+SPDXID: SPDXRef-item7998094
+FileChecksum: SHA1: bcd366e95bbcd47a3eb33e7019b4f5aa9252e4aa
+FileChecksum: MD5: 901464ae13aae621e960dc141338d51d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/NamespaceDao.java
+SPDXID: SPDXRef-item7998095
+FileChecksum: SHA1: 3f522d18e5af01afab5afe51c9db01956ad7021f
+FileChecksum: MD5: 511837be9d8257f4a3b2a1a92a542d74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/RunArgsDao.java
+SPDXID: SPDXRef-item7998101
+FileChecksum: SHA1: 093b32e4126f772ae0523f9f3eb82453a0e857a8
+FileChecksum: MD5: 9e92e703966b9151c519cee885258672
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/StreamVersionDao.java
+SPDXID: SPDXRef-item7998099
+FileChecksum: SHA1: 1380e138a374de454c718ec9ab15ec96babc65e3
+FileChecksum: MD5: 68241732b4c86fcd8bdd33a4678863a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/SourceRowMapper.java
+SPDXID: SPDXRef-item7998109
+FileChecksum: SHA1: 6a9d005f37ab5df595f02c06142b5448bb3c0ef8
+FileChecksum: MD5: 31cb5e235bad3bf4020d6711c8d7833b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/RunArgsRowMapper.java
+SPDXID: SPDXRef-item7998110
+FileChecksum: SHA1: 5da18c6861e3f86926cc59f911466fa6671a99f2
+FileChecksum: MD5: eeaed2e121170b28dbe90b1f0937a190
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/StreamVersionRowMapper.java
+SPDXID: SPDXRef-item7998112
+FileChecksum: SHA1: d8de4a8f0886f0aab83cfbf38185bb692f4c5ca3
+FileChecksum: MD5: 640904feb12e2b4a87bfe3e9191d3134
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/JobContextRowMapper.java
+SPDXID: SPDXRef-item7998111
+FileChecksum: SHA1: dbdf09c2f4b8e016ec1031f682120449a4027446
+FileChecksum: MD5: 3057551e935e84ee116af9b5ffa8c387
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/DatasetVersionRowMapper.java
+SPDXID: SPDXRef-item7998116
+FileChecksum: SHA1: 03c45c413004bc8653e147e7ff8551bb8802f04f
+FileChecksum: MD5: bbd204cbbfe2e0402d35be12526cf018
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/OwnerRowMapper.java
+SPDXID: SPDXRef-item7998114
+FileChecksum: SHA1: ffa2966d6ce7b9819b1dfa200cb9eeed1addec24
+FileChecksum: MD5: bdaf8417b766a91adc288f1766c8b88b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/NamespaceRowMapper.java
+SPDXID: SPDXRef-item7998121
+FileChecksum: SHA1: 587d98499a691214962946eca11a63b871d62e65
+FileChecksum: MD5: f009dcc942b5bbdb693ddfc8347e135e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/JobRowMapper.java
+SPDXID: SPDXRef-item7998119
+FileChecksum: SHA1: 9ab7c6168cadef83490e4f1c2bccaa0835dd26e8
+FileChecksum: MD5: 343f1a83906abb6b41da31020b007bda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/ExtendedJobVersionRowMapper.java
+SPDXID: SPDXRef-item7998120
+FileChecksum: SHA1: 8ed0819ed964ce7d2c73f851f8b6519cdc2e6651
+FileChecksum: MD5: b8ecc439114d8e29ed8e4041ca318cca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/RunStateRowMapper.java
+SPDXID: SPDXRef-item7998122
+FileChecksum: SHA1: 59ade2bf6931f2a5ffdabb936e6ae61e497faffb
+FileChecksum: MD5: cbfe72bbd7edba217dcefce1d593c545
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/SourceRequest.java
+SPDXID: SPDXRef-item7998131
+FileChecksum: SHA1: 4ddaa0bb7d6e960c48c89c190f939ea0500d524d
+FileChecksum: MD5: 72f7ba8c57b6fa00284f413666a8149f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/SourceResponse.java
+SPDXID: SPDXRef-item7998133
+FileChecksum: SHA1: 0b84e7939b858347bb8c243793b859ca569c957b
+FileChecksum: MD5: 9f21576093236a38696339921ff983d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/OwnerDao.java
+SPDXID: SPDXRef-item7998126
+FileChecksum: SHA1: 8dfdf8c076df7535f4f7f3f4c38c6d1fcba35f2b
+FileChecksum: MD5: c79beb092161dbf868f89702a482c4a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/JobsResponse.java
+SPDXID: SPDXRef-item7998138
+FileChecksum: SHA1: 8d5ecd21c1824c02e9099ba535959e400dea64e4
+FileChecksum: MD5: 24b6152745b8a313e1c489d2e2102fac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/NamespaceRequest.java
+SPDXID: SPDXRef-item7998136
+FileChecksum: SHA1: 2f738eaa0136a0091dd19386405eb46a3ebd4e3e
+FileChecksum: MD5: 0a8a44413838e48466a1519a5ed81008
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/RunRequest.java
+SPDXID: SPDXRef-item7998137
+FileChecksum: SHA1: 99c69ca2a41eddf6573c49e4264063b735630171
+FileChecksum: MD5: 8f3d6a2c61c350e020071e2790700508
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/JobResponse.java
+SPDXID: SPDXRef-item7998139
+FileChecksum: SHA1: 3bbf24911d5496b05c533adbce6a474142e84c29
+FileChecksum: MD5: 892b5975b74e7f1c7285f749df45361e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/DatasetsResponse.java
+SPDXID: SPDXRef-item7998141
+FileChecksum: SHA1: bc8babe9a31f8faadb17f0e948cce18528d333df
+FileChecksum: MD5: 0a5ded447c07f84224f45472b850b933
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/NamespacesResponse.java
+SPDXID: SPDXRef-item7998142
+FileChecksum: SHA1: 2f8079ece4bbb066908a2510ad1a2e597a2fd963
+FileChecksum: MD5: 93010591c785d0cb8f8eafa179214a90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/SourcesResponse.java
+SPDXID: SPDXRef-item7998144
+FileChecksum: SHA1: a964105c46fe969e849ac47bf0504143467ac896
+FileChecksum: MD5: 850bf7ad93f2db041b9fffe88685b3bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/RunsResponse.java
+SPDXID: SPDXRef-item7998147
+FileChecksum: SHA1: 3daf27a5683fed6c41e94d9fffa0925b1c46aa88
+FileChecksum: MD5: be8b207593cc6072a3540b18abd23918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/NamespaceResponse.java
+SPDXID: SPDXRef-item7998149
+FileChecksum: SHA1: 6e46200d4ee0f7c5d1237a1823033e0c07dd6212
+FileChecksum: MD5: 319e51d49c8245bb212b80e3c0e93ca8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/RunResponse.java
+SPDXID: SPDXRef-item7998151
+FileChecksum: SHA1: ce1116de8cbd5c078c165b9485c3cc71834853f7
+FileChecksum: MD5: 77cf2bca9c84af7b62b43e1ab234958a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/JobNotFoundException.java
+SPDXID: SPDXRef-item7998156
+FileChecksum: SHA1: d66934e0a0d09de9ed773c48a0ea29ffad8c94ee
+FileChecksum: MD5: cb1e24b0190d065a9260f8b69515f7f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/SourceResource.java
+SPDXID: SPDXRef-item7998153
+FileChecksum: SHA1: 379a90496dad7df0140559c1a0fdc23f50566a4a
+FileChecksum: MD5: 0072bbda375037dbccc125d8bbb2ef7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/RunNotFoundException.java
+SPDXID: SPDXRef-item7998157
+FileChecksum: SHA1: af4aa970d4c19e9964b0284db6cc35cec4c5d482
+FileChecksum: MD5: c0a4f8c81aeb4421c7f3edcbd382ff4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/MarquezServiceExceptionMapper.java
+SPDXID: SPDXRef-item7998159
+FileChecksum: SHA1: 636f421240d2df826a31b514321bc672cb342e1e
+FileChecksum: MD5: 58139fab2dffc0db5d6f8c93fd3e3456
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/NamespaceNotFoundException.java
+SPDXID: SPDXRef-item7998160
+FileChecksum: SHA1: ff38c4b5765765739da5d52c59d78bfa61be0940
+FileChecksum: MD5: 85b957adefe6e6c3342555f76c72c548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/SourceNotFoundException.java
+SPDXID: SPDXRef-item7998161
+FileChecksum: SHA1: 1e826e264fbf9511bd85f5706935378e6c1f401c
+FileChecksum: MD5: 914ff06870bcb26738786e649e7aca2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/MarquezException.java
+SPDXID: SPDXRef-item7998168
+FileChecksum: SHA1: f6569b05218227c4866999b1dade29d8df1380a9
+FileChecksum: MD5: 5cf96f68ab9e20362608930c01b64dae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/DatasetNotFoundException.java
+SPDXID: SPDXRef-item7998163
+FileChecksum: SHA1: 254d5cb1a9162d59498b171ca5e9142ea743951e
+FileChecksum: MD5: 03db1c7b9b027924df7bc603d22e000b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/NamespaceResource.java
+SPDXID: SPDXRef-item7998167
+FileChecksum: SHA1: 34d365caa9ae55f712b356a4bb1ed47920dfe830
+FileChecksum: MD5: 918223b36695d8edd65c3774d1b7d6ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/RunMetaTest.java
+SPDXID: SPDXRef-item7997816
+FileChecksum: SHA1: 0e1ee2c94ab1bfb2004f5045daab0dcd0e9407a1
+FileChecksum: MD5: e4fc7130c19f4918fb0128ce6dcfb8b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/StreamMetaTest.java
+SPDXID: SPDXRef-item7997817
+FileChecksum: SHA1: fabdc419f28ea464cecd0439b3d061fe7d246be5
+FileChecksum: MD5: a3f733be234bb5b8be9f0f4b91efe90a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/DbTableMetaTest.java
+SPDXID: SPDXRef-item7997818
+FileChecksum: SHA1: 80a2e5d0d35a26a636b5d2da69273728c1c0e147
+FileChecksum: MD5: 8731322e1c7cb21c10233de400bb449d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/NamespaceMetaTest.java
+SPDXID: SPDXRef-item7997820
+FileChecksum: SHA1: a11eaa7fe45c06cb2817da22f1ada8290c83d757
+FileChecksum: MD5: 4669809f08ee93b72b0cf37a0f6b3a53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/JobTest.java
+SPDXID: SPDXRef-item7997819
+FileChecksum: SHA1: a8804967c7badb315ce2f4fb84a62544b6711108
+FileChecksum: MD5: 80878195bbad5694afe6cf7757ff6e6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/SourceMetaTest.java
+SPDXID: SPDXRef-item7997821
+FileChecksum: SHA1: d316821e6da1e57c420d88d071d170d9cc5e78be
+FileChecksum: MD5: f4e479d3afdb0cbf82892659d730e3e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/DbTableTest.java
+SPDXID: SPDXRef-item7997822
+FileChecksum: SHA1: ec51798264c4909d42768641693f0aaa65556973
+FileChecksum: MD5: 7a0a15d01d2b64c88714266104143328
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/JobMetaTest.java
+SPDXID: SPDXRef-item7997826
+FileChecksum: SHA1: 33120a45509309fd2fc31b2be4c2d6d2b35631fa
+FileChecksum: MD5: 6ba6eff57434589fc0e56bde5a3d23c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/NamespaceTest.java
+SPDXID: SPDXRef-item7997825
+FileChecksum: SHA1: 92b476b461db2bec073f5d69b6832f96aee59a91
+FileChecksum: MD5: bd6c1e2476773cf707df7e52f9bb03e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/SourceTest.java
+SPDXID: SPDXRef-item7997823
+FileChecksum: SHA1: 0a52e3bcb21fa69767c3e9cc17e2bf933ee9145c
+FileChecksum: MD5: b89a369d03187661c49e04f4555e3897
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/StreamTest.java
+SPDXID: SPDXRef-item7997824
+FileChecksum: SHA1: 02fa85c78ddbc00c9a0057f3d9eaa9e6e622b4d2
+FileChecksum: MD5: dc1b7fd346905f4f6cdf969a90e5f7a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/RunTest.java
+SPDXID: SPDXRef-item7997827
+FileChecksum: SHA1: 7b81b0ac9b43f2d814bce59a203dd5f3b4f6d1f4
+FileChecksum: MD5: 6455249747bbaf6b64540e0100b2729a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/JsonGenerator.java
+SPDXID: SPDXRef-item7997828
+FileChecksum: SHA1: b1657fea9f858116a1f3ca00199572bbb8b8e4d1
+FileChecksum: MD5: 60cd82ee37adb35971241ddbe44a5c3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/models/ModelGenerator.java
+SPDXID: SPDXRef-item7997829
+FileChecksum: SHA1: 29022121fe37784afd9f889969a46b2eef7c775b
+FileChecksum: MD5: cd5fae3536e6491cbd64f03d524cc111
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/MarquezHttpTest.java
+SPDXID: SPDXRef-item7997830
+FileChecksum: SHA1: f15aeef21d97fef3de9edcb04e416f4fc628a92a
+FileChecksum: MD5: 85e5d27d4c57e86ce4aeb95ef532be64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/UnitTests.java
+SPDXID: SPDXRef-item7997831
+FileChecksum: SHA1: 42fd5e5eeaa0846342160d7d280a4a6557b541e2
+FileChecksum: MD5: d94b1ba8cbb8845d6ed7bd6eb1f13264
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/UtilsTest.java
+SPDXID: SPDXRef-item7997832
+FileChecksum: SHA1: a69a84a7baab81899350635d67ec16df176a3c98
+FileChecksum: MD5: c6f4f16ce8eedd87dc29485a9bb7f928
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/test/java/marquez/client/MarquezClientTest.java
+SPDXID: SPDXRef-item7997833
+FileChecksum: SHA1: 84d784c4ede35497c3d960237ce09c24a14e17e1
+FileChecksum: MD5: fa575978c7c2d0f188107900ac2c3373
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/DbTableMeta.java
+SPDXID: SPDXRef-item7997841
+FileChecksum: SHA1: c9396a0df2e2fe99f8b43fa97ddd7f70daf753a7
+FileChecksum: MD5: 98dd6d86538bcbee6c1af44c5599bf8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/RunMeta.java
+SPDXID: SPDXRef-item7997842
+FileChecksum: SHA1: 9ae7893324ac6a739237fbad6fd0d55f6758deb0
+FileChecksum: MD5: cffbda6ed624a78055af8fc312c3510a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/DatasetMeta.java
+SPDXID: SPDXRef-item7997843
+FileChecksum: SHA1: 4e1a847f41e04c6e6ac21e58c694cb33fe7420a0
+FileChecksum: MD5: 1f6687fd69eaeca5a1c60b47752791ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/Namespace.java
+SPDXID: SPDXRef-item7997844
+FileChecksum: SHA1: d94bf25d0010a9f24d39e6489232bcc1492f2ac9
+FileChecksum: MD5: 375897dd9713c060f0c5ff0766e0726d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/SourceMeta.java
+SPDXID: SPDXRef-item7997846
+FileChecksum: SHA1: ec7b7533a6aa8c935abb8cbcbb71ec035aa4c75f
+FileChecksum: MD5: f05381c00b6b018d0050bcbc157fbc42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/Run.java
+SPDXID: SPDXRef-item7997845
+FileChecksum: SHA1: 1427acaf716054ea195e29f4441d74c4916800cf
+FileChecksum: MD5: 174b1967d3f313c12d34ac829bd5d27e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/NamespaceMeta.java
+SPDXID: SPDXRef-item7997847
+FileChecksum: SHA1: 0142c639e6062a66c0bf577037bd7a053a991ad1
+FileChecksum: MD5: 484013a143a0f4248a6bbc56b0dc2470
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/Source.java
+SPDXID: SPDXRef-item7997848
+FileChecksum: SHA1: 09b0155af6f3e7cd46580b291e043bd97cb80aee
+FileChecksum: MD5: 737277cfd63fa47b535e8e8684c9ca5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/DbTable.java
+SPDXID: SPDXRef-item7997850
+FileChecksum: SHA1: 6c3dac7561256c72e870ed1b2c83a130e24adc2a
+FileChecksum: MD5: 408a3b1d8607bb7af91d67743e462eb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/Stream.java
+SPDXID: SPDXRef-item7997849
+FileChecksum: SHA1: 3b10b612ae2632fe5b880a56353887c93e945889
+FileChecksum: MD5: eb577a8c3a353a4deae1a39451c6668e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/Job.java
+SPDXID: SPDXRef-item7997851
+FileChecksum: SHA1: 871dacd0b011f0d59db68b6c584a84914f7a1309
+FileChecksum: MD5: 3e91a80434c4736c927a9477b92b333b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/JobMeta.java
+SPDXID: SPDXRef-item7997852
+FileChecksum: SHA1: 8f9894f51eab629e94cfa8bd9389e499e126d8fa
+FileChecksum: MD5: dc5b12b50a835c9e5f3446112fdc01e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/StreamMeta.java
+SPDXID: SPDXRef-item7997853
+FileChecksum: SHA1: 2317159da5d6840cda2162e78f613fa2753f2312
+FileChecksum: MD5: eb4239f52ecc147a5f5913b18629a5f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/JobType.java
+SPDXID: SPDXRef-item7997854
+FileChecksum: SHA1: 4ded0c96d3f311183aa83eb3bd840df357e42696
+FileChecksum: MD5: 8b944f4af9a1ede019f7aed284a3d408
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/Dataset.java
+SPDXID: SPDXRef-item7997855
+FileChecksum: SHA1: 0145fd118d53f638a44b61a166ea8bae91e46518
+FileChecksum: MD5: 4711e68d32647993a04eccb40ceac5b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/MarquezHttpException.java
+SPDXID: SPDXRef-item7997857
+FileChecksum: SHA1: 79cf285c00fa4cff31fc2f231b893d2cd111e2ec
+FileChecksum: MD5: 6607c479d4582ebc658da2213ff029fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/Utils.java
+SPDXID: SPDXRef-item7997858
+FileChecksum: SHA1: 1917546f65fa4eb49992b487ffd5d607e028cbff
+FileChecksum: MD5: d7d08d8f502b55402c79f458259857f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/MarquezHttp.java
+SPDXID: SPDXRef-item7997859
+FileChecksum: SHA1: 4338a5edf155c04d4714151216811a9f8b2e1025
+FileChecksum: MD5: 1ab7093f29dbfca8beef5d1e8644de39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/models/SourceType.java
+SPDXID: SPDXRef-item7997856
+FileChecksum: SHA1: b94e8db439a1e214892d8ddf2bb486c7863a5187
+FileChecksum: MD5: 7bab305f81a0ee3568bbe6b1d30734b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/MarquezClientException.java
+SPDXID: SPDXRef-item7997861
+FileChecksum: SHA1: 5680e9aa4a7493f6df5c2f84004060148bfcdb37
+FileChecksum: MD5: c33c8ce7b4ca8477624e02f9155b1145
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/java/marquez/client/MarquezClient.java
+SPDXID: SPDXRef-item7997860
+FileChecksum: SHA1: 8360bc606849d1a74c269a9e5ad7fd8b87e14f74
+FileChecksum: MD5: 35c2699b2c751a316bca89b91d9a56fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/.circleci/release_check.sh
+SPDXID: SPDXRef-item7997936
+FileChecksum: SHA1: 3bd3dcdfe9c357e9dbe2b0b0f33db87faf000599
+FileChecksum: MD5: 5d8df9b3284cb6507a46598d0ae9d17b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/release.sh
+SPDXID: SPDXRef-item7997942
+FileChecksum: SHA1: 47ac6b365a6c2183c3a578cb9e6be05f72ce8f0f
+FileChecksum: MD5: 2d95fcda7e8ef2cd8441a712fa138ee7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/build.gradle
+SPDXID: SPDXRef-item7997863
+FileChecksum: SHA1: b719b635999134db7064ee86650211aae6c040c3
+FileChecksum: MD5: dd297d7eb68aa7badbefb93665d8993f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/marquez_airflow/dag.py
+SPDXID: SPDXRef-item7997945
+FileChecksum: SHA1: d4ea0a0079bc5661ce8be9ef52649f72fb5d1673
+FileChecksum: MD5: da98c4712bb39310b0a4f75fa15fe7d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/marquez_airflow/__init__.py
+SPDXID: SPDXRef-item7997946
+FileChecksum: SHA1: 8f229e553a80b3f6d235ceb80fb1d10299771684
+FileChecksum: MD5: 15e399934551bbb701789080638d210a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/marquez_airflow/utils.py
+SPDXID: SPDXRef-item7997948
+FileChecksum: SHA1: c5d38a22c023038349f9d9370e82b66081977dfc
+FileChecksum: MD5: 3e9426662c6c933d376fb833ed791c09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/test_dag_extension.py
+SPDXID: SPDXRef-item7997951
+FileChecksum: SHA1: bf92af8b24cd43ac80d30ed7caee79954efb0ac3
+FileChecksum: MD5: 4d260dfe87a8c0e024cc94513762a188
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/setup.py
+SPDXID: SPDXRef-item7997943
+FileChecksum: SHA1: 3a02f57274bdf723d7186bb1e9a37b6f57da1808
+FileChecksum: MD5: 2a6d7590e8747231ec6a672cf110e3a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/integration_test.py
+SPDXID: SPDXRef-item7997956
+FileChecksum: SHA1: 85ea1fe6ba305b73ac61b3285ce1917ac114a55e
+FileChecksum: MD5: a4b06bd5ad02c86760899ea8e1dd0393
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/marquez/init-db.sh
+SPDXID: SPDXRef-item7997958
+FileChecksum: SHA1: 31927e19c263bb77b477072aca624e8701d7b1cf
+FileChecksum: MD5: 6e728296227cd8caba2e2c05b46aec1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/run.sh
+SPDXID: SPDXRef-item7997960
+FileChecksum: SHA1: 6ee4636e12adc6b6eabc8dfeb525c58aaedd9440
+FileChecksum: MD5: 9a9b7b345ff85f362dc55a9e183ca640
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/marquez_airflow/log.py
+SPDXID: SPDXRef-item7997947
+FileChecksum: SHA1: e3d49c4d5183f28a65718aefcc259bd01f7411f1
+FileChecksum: MD5: 4ea93664b92ccc6dbc6e56c262e141c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker/entrypoint.sh
+SPDXID: SPDXRef-item7997970
+FileChecksum: SHA1: 3e89e97ddb4862ce6be2b8de4c24ad6ba89800b5
+FileChecksum: MD5: 9d20ced397c6201899688a5f81c03736
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/common/models/ModelGenerator.java
+SPDXID: SPDXRef-item7997992
+FileChecksum: SHA1: bfd2edc89fd2b17e53b5ef16da04c8ea2a3ad709
+FileChecksum: MD5: 72c389ea6c9b0ccf05530d319868d3b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/models/ModelGenerator.java
+SPDXID: SPDXRef-item7997999
+FileChecksum: SHA1: 8a082e60e3a4683b432455b87462b20fe378ea7c
+FileChecksum: MD5: 6e7b8b91ad5496e3cbc4e09076994a2e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/common/UtilsTest.java
+SPDXID: SPDXRef-item7997993
+FileChecksum: SHA1: 8b29dd9284c578305db8deb7d730cddfc03ee9f0
+FileChecksum: MD5: b207be4e715da790a3b467dbba6c6a8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/DatasetDaoTest.java
+SPDXID: SPDXRef-item7998000
+FileChecksum: SHA1: 40740b71f2b86c8fa1f1c6cf06141265e57f68a4
+FileChecksum: MD5: 1eb95ca5b446bb0fa23e1151a5ea8b48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/TagDaoTest.java
+SPDXID: SPDXRef-item7997997
+FileChecksum: SHA1: 192b459623d920854352e6a4331c2218e568b19d
+FileChecksum: MD5: 6a5396b2eaf2e3ea4980bfd538808394
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/MarquezAppIntegrationTest.java
+SPDXID: SPDXRef-item7998004
+FileChecksum: SHA1: 5e576e4fd11e298301b73ee37037b3ff5ad6339c
+FileChecksum: MD5: 2e441a1511eb88b240cc2300e76503d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/SourceDaoTest.java
+SPDXID: SPDXRef-item7998002
+FileChecksum: SHA1: 34430cc9f52f65f443bf93f5740aaf54f834fc09
+FileChecksum: MD5: c3e650c6acfe41aaed43a5f7c7a6b66c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/db/JobContextDaoTest.java
+SPDXID: SPDXRef-item7998003
+FileChecksum: SHA1: 198480760862b919900948f6339599c7dc745213
+FileChecksum: MD5: 18214405a8810ba7bb99630e2925fe3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/MarquezApp.java
+SPDXID: SPDXRef-item7998029
+FileChecksum: SHA1: 0d53eb5a27e0c8ab2bd0a3bda873499b359e529a
+FileChecksum: MD5: e2a5b168e122e2f2a0c9e57ddd7db793
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/java/marquez/api/models/ModelGenerator.java
+SPDXID: SPDXRef-item7998007
+FileChecksum: SHA1: d3deb64073092b738f972a1f558d6e1c015a9ab9
+FileChecksum: MD5: a371544d3758c67c6885e0e88739aa49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/DbTableMeta.java
+SPDXID: SPDXRef-item7998032
+FileChecksum: SHA1: ca2704bd3653aed3843d0cd2173811128203239f
+FileChecksum: MD5: e01791a9b6a33b91f227761132ce1e26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/DatasetMeta.java
+SPDXID: SPDXRef-item7998034
+FileChecksum: SHA1: 7dc9e211f88cf673951e5124e4554aff00114a50
+FileChecksum: MD5: 96b057837d0e27e70d534ec16e446b16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Stream.java
+SPDXID: SPDXRef-item7998040
+FileChecksum: SHA1: 925c5f6b9265600f6ea19bcd969dba7959fad4d3
+FileChecksum: MD5: 774c74c1990bde7dda7df0d5bf3d5f1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Tag.java
+SPDXID: SPDXRef-item7998041
+FileChecksum: SHA1: 6c05d788d62a92fb04831af9c4f05b6109518626
+FileChecksum: MD5: 5b1e69c516e85819c30ac0b4fcd21b4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/StreamMeta.java
+SPDXID: SPDXRef-item7998045
+FileChecksum: SHA1: 5c9e63ca0d7dc8ece0452118a4fa45230b883e80
+FileChecksum: MD5: bddd17aa9299cf99f548eb711a84f643
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/DbTable.java
+SPDXID: SPDXRef-item7998042
+FileChecksum: SHA1: fdd74eb2247885b284a47bb99175fdcaba57acae
+FileChecksum: MD5: 686f465c8e3cc526cfc0291301c2ba37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/models/Dataset.java
+SPDXID: SPDXRef-item7998046
+FileChecksum: SHA1: aaed49e7942a061617ee5c30be4002e25a18c06d
+FileChecksum: MD5: 1648a9da30c5d192f89117d21c28d46e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/TagService.java
+SPDXID: SPDXRef-item7998047
+FileChecksum: SHA1: de8db7782ad93a060668d1d07e3f7127fff0a212
+FileChecksum: MD5: ea728c550f74a8e23c87c5f188acfab6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/DatasetService.java
+SPDXID: SPDXRef-item7998048
+FileChecksum: SHA1: ddc4a044ac6de2701715179663c010709d0be3fc
+FileChecksum: MD5: 142b5b9e76fc2453d5718cba043868b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/exceptions/MarquezServiceException.java
+SPDXID: SPDXRef-item7998052
+FileChecksum: SHA1: 98fefbb3e93fd23fe986e2559fbb475d05cfe82e
+FileChecksum: MD5: f9d657409020d2eb39c70602dc3d4326
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/NamespaceService.java
+SPDXID: SPDXRef-item7998050
+FileChecksum: SHA1: 0540bfa279b1c12a4358688781d7f74ec1941df8
+FileChecksum: MD5: ab0d094d200a8a1e6c9d6fc368c6db0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/SourceService.java
+SPDXID: SPDXRef-item7998049
+FileChecksum: SHA1: 2f68734fce417da859c535c270b72b3eb564fd6f
+FileChecksum: MD5: e159897470395179c1fb5b4d69d165bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/MarquezConfig.java
+SPDXID: SPDXRef-item7998056
+FileChecksum: SHA1: e3bdb30ebc969c66f32d866a4ff396e187e3c351
+FileChecksum: MD5: d7a7ebc4712c50c7ff1c2bd672533241
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/DatasetType.java
+SPDXID: SPDXRef-item7998061
+FileChecksum: SHA1: 6f3ba5a27359ff10eea70edec7b048aaa520d30c
+FileChecksum: MD5: f2cdea0de345b3e2b6c14c980d0bd6a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/mappers/Mapper.java
+SPDXID: SPDXRef-item7998055
+FileChecksum: SHA1: 25a05984615be276e86a27e02a1f11e9f9524682
+FileChecksum: MD5: c49d7280268e6971f04606e63b55c5ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/FieldType.java
+SPDXID: SPDXRef-item7998062
+FileChecksum: SHA1: 928793f0dc819db796b670b5f12e10ba5719eb57
+FileChecksum: MD5: 86a2923f2219dfa7c73ccf45ab03c832
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/service/JobService.java
+SPDXID: SPDXRef-item7998053
+FileChecksum: SHA1: 30125819c005fae2c948ff72a053bc6623a879c4
+FileChecksum: MD5: e636fa2f2bbe53b635d5460587a58df0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/Utils.java
+SPDXID: SPDXRef-item7998071
+FileChecksum: SHA1: ed49402b7de8c91f7fb81333eddcb6cd4f7769c6
+FileChecksum: MD5: e7d7634019351551de98fa0934d59c87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/common/models/Field.java
+SPDXID: SPDXRef-item7998065
+FileChecksum: SHA1: bba60514ff4b71fcdcd08ad10a28cabd8d63e9c1
+FileChecksum: MD5: 3446b359a3bcc89ebd2dafbbdbde8958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/TagRow.java
+SPDXID: SPDXRef-item7998080
+FileChecksum: SHA1: 1df6764adff7c12aeb44dc5ebaa8818aa496cbe0
+FileChecksum: MD5: 3bcc99bdad5d9b21c072b2348a5232fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/ExtendedRunRow.java
+SPDXID: SPDXRef-item7998076
+FileChecksum: SHA1: 09557589d234119e6ff6e999f7fd66d4c6afae36
+FileChecksum: MD5: 731cb0e1cb9ace35c7dd606fd4fbf5b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/RunRow.java
+SPDXID: SPDXRef-item7998082
+FileChecksum: SHA1: 231746bdd07a1ea68979d4a8fee6c03b7744faa0
+FileChecksum: MD5: c03425f7027ca89c447909dc55f277f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/DatasetFieldRow.java
+SPDXID: SPDXRef-item7998086
+FileChecksum: SHA1: 674b773c3144ee7405c411d00f36f87707c8929a
+FileChecksum: MD5: d2c71cf39ee05cc3bb34dd6650d53b8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/DatasetRow.java
+SPDXID: SPDXRef-item7998084
+FileChecksum: SHA1: c75811e2d62eff008b08bd1edc2bcb2eb48075da
+FileChecksum: MD5: f8b79e44ee9879d50785d469aa361025
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/models/ExtendedDatasetRow.java
+SPDXID: SPDXRef-item7998090
+FileChecksum: SHA1: 4b3621b84e3b466943e2923a2397f2e443b852f1
+FileChecksum: MD5: c4e336c9d47a7c10893433436abe0703
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/RunStateDao.java
+SPDXID: SPDXRef-item7998092
+FileChecksum: SHA1: e04796c04941e80835de79f4dc9f2db0b919f9f5
+FileChecksum: MD5: 9374f9d431b15f1df6f6beb478b8dca5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/Columns.java
+SPDXID: SPDXRef-item7998097
+FileChecksum: SHA1: bdd33bc1cae28791ec7494aed2eb403165033b12
+FileChecksum: MD5: 516cbb3cc50a52fdbb87212f94ff01aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/DatasetDao.java
+SPDXID: SPDXRef-item7998096
+FileChecksum: SHA1: a7aa8f720a1ce9ca7491232252f254a6d80dc74b
+FileChecksum: MD5: 122f60ad8d603321e5a93c4185d7a958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/DatasetVersionDao.java
+SPDXID: SPDXRef-item7998098
+FileChecksum: SHA1: c417f0645fe60a13c4620bf9c5f808b8c3952124
+FileChecksum: MD5: afd4051c02d725a88810a7c789bab902
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/JobDao.java
+SPDXID: SPDXRef-item7998100
+FileChecksum: SHA1: 4b20858190561b171d091b6fd17e32bf7316a2ba
+FileChecksum: MD5: d195522d745ec0b9b218680aa3019e29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/exceptions/NoRowFoundException.java
+SPDXID: SPDXRef-item7998105
+FileChecksum: SHA1: 90bd711fe19bcd5f0db7ba032482999206518575
+FileChecksum: MD5: 47d5b08557d0683730d6c0c2663faa93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/TagDao.java
+SPDXID: SPDXRef-item7998106
+FileChecksum: SHA1: 02fde6e9ec24a39b500d045abd2f38f7bb8c833d
+FileChecksum: MD5: 28162037b06b4068e75863f58d604aa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/exceptions/DbException.java
+SPDXID: SPDXRef-item7998104
+FileChecksum: SHA1: b019f1cd15b6ece9ed608044203cee3d81a63ff8
+FileChecksum: MD5: a43fe54755181d20cbd71829dbfaee50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/FlywayFactory.java
+SPDXID: SPDXRef-item7998102
+FileChecksum: SHA1: de15a76d3b29076b45e043ce06c70e4abda26984
+FileChecksum: MD5: a2909142bd3ecad281074a4fbcab8151
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/DatasetRowMapper.java
+SPDXID: SPDXRef-item7998113
+FileChecksum: SHA1: 85b7c6f8754e981c66e97f3cf239d5bc633209d7
+FileChecksum: MD5: f466e8ac404fedb3e20d33de8efdd208
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/DatasetFieldDao.java
+SPDXID: SPDXRef-item7998107
+FileChecksum: SHA1: d7de0e93f10a9692c1e588b6a799e3f97bc2655b
+FileChecksum: MD5: 15186fe7959e845cc3c498c2fa28f329
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/ExtendedRunRowMapper.java
+SPDXID: SPDXRef-item7998115
+FileChecksum: SHA1: 606dda6b1723f86f490c7d7244a59443def03c23
+FileChecksum: MD5: 62ed8a5d3489e752a7751974399ccc9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/DatasetFieldRowMapper.java
+SPDXID: SPDXRef-item7998117
+FileChecksum: SHA1: 716d21b890807afdec78024ff2de6273f526f495
+FileChecksum: MD5: c0e0b42191c4937fd0cedbf1cae78ef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/ExtendedDatasetRowMapper.java
+SPDXID: SPDXRef-item7998118
+FileChecksum: SHA1: fa241d6c250748a4df4c2634f931174da0018160
+FileChecksum: MD5: 6f74dc0d3e48afc73474efc5dcbbc075
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/mappers/TagRowMapper.java
+SPDXID: SPDXRef-item7998123
+FileChecksum: SHA1: 511ddfe989c7b82c06d3e22c54416a2aa925bde0
+FileChecksum: MD5: add75aeab87a5705cb2ef2f4e1e69e9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/SourceDao.java
+SPDXID: SPDXRef-item7998125
+FileChecksum: SHA1: 86165e12100d58893f746b9812d7cd0926e17879
+FileChecksum: MD5: b0d74f797281e08ca1bd91e68fea7802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/RunDao.java
+SPDXID: SPDXRef-item7998124
+FileChecksum: SHA1: f1d81deade0f57cd953bb8dc20388f8ed312f6ab
+FileChecksum: MD5: cfb2a7a6e053bc24da8e518fb0fec1c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/JobResource.java
+SPDXID: SPDXRef-item7998129
+FileChecksum: SHA1: c53fb033d399bb5a4eb9e37550406a73c37dbd21
+FileChecksum: MD5: b46902e499131b9eaf54877a90b736c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/db/JobVersionDao.java
+SPDXID: SPDXRef-item7998127
+FileChecksum: SHA1: e434006cc533d66b6edecb5c8a3f3ebe87745c83
+FileChecksum: MD5: 61551151b3cade1acf3f2b50c5ef2e23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/DatasetRequest.java
+SPDXID: SPDXRef-item7998134
+FileChecksum: SHA1: ebf886c6e2f07dca45d72e2b863863e7280a453c
+FileChecksum: MD5: 18392c99e3003eddcc859db440cf8c0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/DatasetResponse.java
+SPDXID: SPDXRef-item7998132
+FileChecksum: SHA1: 6e254fc6ac563c03092d861d78fa51105f8280bf
+FileChecksum: MD5: cc7ba189afd42d5f5dbc123800063e0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/TagResponse.java
+SPDXID: SPDXRef-item7998143
+FileChecksum: SHA1: 802328dd88a4c88d5d59bf4ca8a8d308d26cf1dd
+FileChecksum: MD5: 19110626bb5becfc42cabd7804f7c26c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/DbTableResponse.java
+SPDXID: SPDXRef-item7998140
+FileChecksum: SHA1: 0681c37f51cade526619ef3dc8b50511c793cdba
+FileChecksum: MD5: 695dfc37b7c87b1a1f12186726c1effe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/StreamRequest.java
+SPDXID: SPDXRef-item7998148
+FileChecksum: SHA1: 63417c35c05c1c4a06bff8a12d7aa95e272a01f7
+FileChecksum: MD5: bb1cb99556b68ff4bfa39d69889c78b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/StreamResponse.java
+SPDXID: SPDXRef-item7998150
+FileChecksum: SHA1: 746c0c93f0a34ad117aa9cd77d5d9f70c54503d7
+FileChecksum: MD5: 6ef2f9595a09dba06965193e90ce5510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/TagsResponse.java
+SPDXID: SPDXRef-item7998146
+FileChecksum: SHA1: 70b915a2526473abcc3e5116e55284a3e7d63698
+FileChecksum: MD5: 45f7d5f0f0a99cd97b4621b5e77fd243
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/DbTableRequest.java
+SPDXID: SPDXRef-item7998145
+FileChecksum: SHA1: 0695d20104f27308f9170096bd683d5834f71242
+FileChecksum: MD5: 1a382c04c0f165cfa09e1b966bed318e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/TagResource.java
+SPDXID: SPDXRef-item7998152
+FileChecksum: SHA1: e52e13d1bb47af7a0832ef807718bd757e79ecb6
+FileChecksum: MD5: 7041c60bb63324d0cf1b1c0dbb1f3517
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/DatasetResource.java
+SPDXID: SPDXRef-item7998154
+FileChecksum: SHA1: 1f82d5bbf90201e328fa427e3869198977050083
+FileChecksum: MD5: 9c2a254533454495ff48bfb0b2570c9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/TagNotFoundException.java
+SPDXID: SPDXRef-item7998162
+FileChecksum: SHA1: 8e8038e516c819d4255ff95d1af8261afcf8b57d
+FileChecksum: MD5: a118b3f596bc7544da32ad476100a74b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/FieldNotFoundException.java
+SPDXID: SPDXRef-item7998158
+FileChecksum: SHA1: 949de9daf3c5811fe1500a081785001f64da2cbf
+FileChecksum: MD5: 8063cae0cb8a95025637f55bbd8ff113
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/exceptions/RunNotValidException.java
+SPDXID: SPDXRef-item7998164
+FileChecksum: SHA1: fd144a6a8aaabea496f2b4122f5b40bb60b1b128
+FileChecksum: MD5: ba1ea9bf32eb2f595f89f419b8225381
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/mappers/Mapper.java
+SPDXID: SPDXRef-item7998166
+FileChecksum: SHA1: 3c977d530d112175b10028068781e7609b96f67a
+FileChecksum: MD5: 8a94a6b4ebe879448a3b8847a00cf75b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/config.example.yml
+SPDXID: SPDXRef-item7998178
+FileChecksum: SHA1: 2d93ee6762ec7c60ebee4e04762f3147a142ff7a
+FileChecksum: MD5: 77dc9bc97cab1fa410c0ccf4aa354f0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/setup.py
+SPDXID: SPDXRef-item7998271
+FileChecksum: SHA1: 2bedfabfb589bbce614897e716385445b6f933fa
+FileChecksum: MD5: a818e18a206f02c08c252621142213f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/__init__.py
+SPDXID: SPDXRef-item7998330
+FileChecksum: SHA1: 74ca89c64891511a22d8119e15895460dfb43743
+FileChecksum: MD5: 8f6a2d2e19981a0d574e83c669f17eb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/__init__.py
+SPDXID: SPDXRef-item7998274
+FileChecksum: SHA1: 74ca89c64891511a22d8119e15895460dfb43743
+FileChecksum: MD5: 8f6a2d2e19981a0d574e83c669f17eb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/test_configuration.py
+SPDXID: SPDXRef-item7998331
+FileChecksum: SHA1: 492a447840b2f29efe1dcb092d186d24029cf08d
+FileChecksum: MD5: 95cc29a65a2f5853b8776735143cc816
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/test_jobs.py
+SPDXID: SPDXRef-item7998329
+FileChecksum: SHA1: 782a5d588653d9869e734ea44f8b3f3c8debe151
+FileChecksum: MD5: 2542fcbdc38a6681653f6f08163dd38b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/test_jobruns.py
+SPDXID: SPDXRef-item7998332
+FileChecksum: SHA1: a709ce6f8ae5524d00e76822fa2346e7ca4d82e0
+FileChecksum: MD5: 486b034253dca727d0c9badedbb0dcf9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/test_datasources.py
+SPDXID: SPDXRef-item7998333
+FileChecksum: SHA1: dcbf9a305d0cba536df04a81d098b013fdea4e29
+FileChecksum: MD5: 636e85deac1af099439f5307e8fbd068
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/integration/marquez/init-db.sh
+SPDXID: SPDXRef-item7998338
+FileChecksum: SHA1: ffbb5d3ad838f4bce190adf8456d20fd87303792
+FileChecksum: MD5: 523857c0a856d52153645a0bb0088400
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/test_datasets.py
+SPDXID: SPDXRef-item7998334
+FileChecksum: SHA1: c0c7862740f28fe671f104ba3eec485fdb9ae2aa
+FileChecksum: MD5: 00d4d7e14cca49dcd12e5d1bafc0f543
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/integration/integration_test.py
+SPDXID: SPDXRef-item7998336
+FileChecksum: SHA1: 583cd4e44fd7be1807e7f24783786d0e337b4022
+FileChecksum: MD5: 7a41d097aa8db77ce243cc6d95f24c9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/integration/run.sh
+SPDXID: SPDXRef-item7998340
+FileChecksum: SHA1: 1ea521b1f1316bf269d3f2841b0774c98235b0ff
+FileChecksum: MD5: 495758c6486caab8f785b42fb18dcd23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/test_namespaces.py
+SPDXID: SPDXRef-item7998343
+FileChecksum: SHA1: 26b8317d38778a5293feb44e0e8b3c70200f1c9c
+FileChecksum: MD5: 094c32cec3faec9389180f08b30e9e3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/models.py
+SPDXID: SPDXRef-item7998348
+FileChecksum: SHA1: 1b0cefae8d359d2efce64c02a42608c675c596eb
+FileChecksum: MD5: 48153d8b2960596307a5541628be0e5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/client.py
+SPDXID: SPDXRef-item7998347
+FileChecksum: SHA1: f0ea9bc5d4a7712ec81e2e85ade7339bd0f11335
+FileChecksum: MD5: 03bccdb99902ef38b4f77c27ca61c22f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/__init__.py
+SPDXID: SPDXRef-item7998350
+FileChecksum: SHA1: 12b37c020fc7b3216b9853ac9860418742c8cd7a
+FileChecksum: MD5: 11db15792bc224633853a18e07d57ad8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/errors.py
+SPDXID: SPDXRef-item7998352
+FileChecksum: SHA1: 41abcfe1d5dd5f71c453302f7cff97ba375deb4a
+FileChecksum: MD5: de4886e749a3b9572663db52f61f851d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/version.py
+SPDXID: SPDXRef-item7998349
+FileChecksum: SHA1: 14fbdf0f2c6f2a71b38727127b788d8a27030a16
+FileChecksum: MD5: 41a88e13e8f9bd3eba72ae44e1821a0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/constants.py
+SPDXID: SPDXRef-item7998351
+FileChecksum: SHA1: 17e4bb2427df25af9020b37af877e8019cbad61e
+FileChecksum: MD5: 2d4fbab318bd32fa6eb2ab701aa696eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/marquez_client/log.py
+SPDXID: SPDXRef-item7998353
+FileChecksum: SHA1: 02fff69057b1a3bd5e11f7ed738e7110a67116e6
+FileChecksum: MD5: f003450a4e1daca45825d0092bc6904f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/build-and-push.sh
+SPDXID: SPDXRef-item7998373
+FileChecksum: SHA1: bd878684ec15ec50720bde83b3c940da3eb773c0
+FileChecksum: MD5: 3c1657c0418d92755d3227143b7e5865
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/entrypoint.sh
+SPDXID: SPDXRef-item7998375
+FileChecksum: SHA1: 94573417f014cd95079ea3c827e950764967c53a
+FileChecksum: MD5: 64daf2ac5c5af10d936bee3cdd013a02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/entrypoint.sh
+SPDXID: SPDXRef-item7998380
+FileChecksum: SHA1: 7c3a2eccbc036a6fab61d1e9494dccf033957805
+FileChecksum: MD5: 8b668e90dfd5417041b7c93c8d9eade4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/wait-for-marquez.sh
+SPDXID: SPDXRef-item7998378
+FileChecksum: SHA1: 6bbc1c5b2a3f1319d44ea15172448e6a354dbd67
+FileChecksum: MD5: 3cb8b74fb0e783c7081b27ef4e612365
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/CONTRIBUTING.md
+SPDXID: SPDXRef-item7997806
+FileChecksum: SHA1: edd498b153f53393d0804c3cc3c5b6de7c3aafe9
+FileChecksum: MD5: 0b23df5a327816965e4d084a48a823f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/.circleci/config.yml
+SPDXID: SPDXRef-item7997808
+FileChecksum: SHA1: 9518854516283f9c172adcbe297a616117d560af
+FileChecksum: MD5: cacf38ef19c6cf2f5391ceff08066c47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/src/main/resources/config.properties
+SPDXID: SPDXRef-item7997836
+FileChecksum: SHA1: 5c7a0a7a2df1b15b984441a6c597cba76989e653
+FileChecksum: MD5: 4654fc8d41e5e61b2a8858f3ca6a2e32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/RELEASING.md
+SPDXID: SPDXRef-item7997864
+FileChecksum: SHA1: 7891d815d401719a44f644ded9d5821d262206f6
+FileChecksum: MD5: a5d14343c10f8d0f4a9a38fc4c5ad01c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle.properties
+SPDXID: SPDXRef-item7997867
+FileChecksum: SHA1: c7d8ce4c077f8276184d9de273a4e2d1fe9b2c1d
+FileChecksum: MD5: 9286378b9db15d4750b27256063ec040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7997868
+FileChecksum: SHA1: 6702eea05836e3716766f5fd5178535738eb36bf
+FileChecksum: MD5: 40d92b31be48477f22249602239ddfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/checkstyle.xml
+SPDXID: SPDXRef-item7997869
+FileChecksum: SHA1: 6e9de7963e689f641ffcb8fd49f4f262b2068555
+FileChecksum: MD5: 201fa368ca0b69e65f6c3ea33b7507ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item7997872
+FileChecksum: SHA1: 0858b49cfbfc0e85ad3dab3daf3153114073a4ef
+FileChecksum: MD5: a804d426a34338d8244192f7f4a2cfc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-parameter-names.properties
+SPDXID: SPDXRef-item7997876
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item7997880
+FileChecksum: SHA1: 9c060f1d1f3b0f50c165941fa8edd76a8d33e99f
+FileChecksum: MD5: 2db0851759c0768b579efa3b7b1571b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item7997881
+FileChecksum: SHA1: 4b5690e4b73a127789dc83bbc8e1bc3e499030a8
+FileChecksum: MD5: 834adc5447f38f639031d436f3b06289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item7997882
+FileChecksum: SHA1: 2fc9039aef600c275a3d475880ae1375c1b123cf
+FileChecksum: MD5: f181213b3a8822e4667875ded438f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item7997883
+FileChecksum: SHA1: eef7086a2a9b1b3cb706ec4a10cc99f106d7b503
+FileChecksum: MD5: 775df20b44e30b76a25d53958324e8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item7997884
+FileChecksum: SHA1: 45487f361ab0110b37735e69284b2aeeeba607bc
+FileChecksum: MD5: 9be8fb4c6c6eac2ef91ecfff677ecaed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item7997885
+FileChecksum: SHA1: d8506a68a45dba9af8efc55da300a27c2c418236
+FileChecksum: MD5: 8a97f545c713dd4daac45f1e4a79118a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item7997886
+FileChecksum: SHA1: 48aab8f051e59c88de5da04d5150e669fca1f59c
+FileChecksum: MD5: afdc5481bcf52e6c9ad0cfb57e862b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item7997887
+FileChecksum: SHA1: 1ea6a99b8c28a407394f169333e0b6cccc36088f
+FileChecksum: MD5: d747befd22991a2d8276805c83db1311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item7997888
+FileChecksum: SHA1: 2ca0219cde04346481cf07d0e2c422d2ac8bcc61
+FileChecksum: MD5: f66787a5e12f59cbee75076dd2db8f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item7997889
+FileChecksum: SHA1: 0db5902c567c07d61c0f78001e418f6a5f776929
+FileChecksum: MD5: 277fa532899a703d8b2ea74d55f00c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item7997890
+FileChecksum: SHA1: 1deec7e8fe37d85a00cc9f5f53f047574fbf1e06
+FileChecksum: MD5: 487c06f6dbf506daef9d0c44ea677396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item7997891
+FileChecksum: SHA1: d374dfd77fa05c103c35e2e3a3bb931c71c87e1c
+FileChecksum: MD5: d002054aea31ddfc9d50cef4947fd537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item7997892
+FileChecksum: SHA1: baa3ae6c352ac19e4c0c844cb7e02bdf3d205df5
+FileChecksum: MD5: a63cb16cedfb493c78aebfe7ecd6101f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item7997893
+FileChecksum: SHA1: b8d615c5283ce6868ced7f7f900e0836c3df197d
+FileChecksum: MD5: 48e7b9c3210c2b8acad1e52401c52cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item7997894
+FileChecksum: SHA1: 0bf2e049008ddbe43018dd2bac05fe49d992d538
+FileChecksum: MD5: aca5ffc46110fc6573074cd31b2d81d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item7997895
+FileChecksum: SHA1: d8ff9633b52fd5989b8b14bd76d1ac80328ed776
+FileChecksum: MD5: dec104c8dc8b5208246968f45b20d31b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item7997896
+FileChecksum: SHA1: 9d5990da93ab9814779988771d0eb7bcca5ad0ef
+FileChecksum: MD5: 4ba2bcfffc0dbefa9a95515825d9590f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item7997897
+FileChecksum: SHA1: c04ea6d0c78b28c1d2308fb88069114a3c1be7ef
+FileChecksum: MD5: fbc3a02fcdd1c21bbaf3ee0344667ac0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item7997898
+FileChecksum: SHA1: 10b209cc840edb3515115724b942bf28c0f4a500
+FileChecksum: MD5: 83634fe3358cddf6241f3cc9322cdc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item7997899
+FileChecksum: SHA1: e5da8c788f9e0d04f6a8b59c83b5d681c1572530
+FileChecksum: MD5: e25f7a5df2eb640fe4487df8b182b110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item7997900
+FileChecksum: SHA1: bdaec56bc5a96e3b7b07dc907ce419135ad6038c
+FileChecksum: MD5: fd4f17a502ae81fcf379cb79e2598704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item7997901
+FileChecksum: SHA1: 7d6badb90a9947d2479239faec3a1fc4ae89a684
+FileChecksum: MD5: d70e201190db0ecc7626b82621c902ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item7997902
+FileChecksum: SHA1: a3483e79d06ac6cc758cd833dee965fda7ea0a89
+FileChecksum: MD5: bac2d45857b386fc92687856d0950dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item7997903
+FileChecksum: SHA1: 54d1134b153d9199aa60bde18b129ba166588c7e
+FileChecksum: MD5: 843a3cda7eda915d393397b5adc310e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item7997905
+FileChecksum: SHA1: d8b3b27086297ccd16232f345cdaa39976b67c69
+FileChecksum: MD5: 9d8e7ef338fd267ad55020655229ae12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item7997906
+FileChecksum: SHA1: 6cef1e45bafbcd24a1b1107e2e04bdb8fcac70f8
+FileChecksum: MD5: 34b549a44feb946c4b06e90cbcdf053b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item7997907
+FileChecksum: SHA1: 16d52de7c21cde5e10a3ccb56bd4bb8f31b6cccf
+FileChecksum: MD5: 3659aa20fb4d874e17680a5bfc6452dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item7997908
+FileChecksum: SHA1: 982163a7ffa7162ef52ddc95456818729d7546c0
+FileChecksum: MD5: f5083aae06c9422366d780f85331649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item7997909
+FileChecksum: SHA1: d4570292af481a04e279f69e10d1d302705f4ac3
+FileChecksum: MD5: 80f779580dd51fca7c5c68d0f6e3a2b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item7997910
+FileChecksum: SHA1: fd4611788dd0fccfb96c6e39d82d698baecace47
+FileChecksum: MD5: 3cb3fc270160c81c675f57f84e30b8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item7997911
+FileChecksum: SHA1: 3414639f7980269c422d73433ffe5443cd207e8f
+FileChecksum: MD5: 606c9d4d9392ce9f08a0bd9f7f82d1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item7997912
+FileChecksum: SHA1: 1376cffcdf45a6eaf25cd7a51dc4defc4ed74086
+FileChecksum: MD5: b8bed11a856a8621b62f46716dc0b9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item7997913
+FileChecksum: SHA1: 145fdf78f6bd6406e636d4df6cc1c9526b1dbe99
+FileChecksum: MD5: 077645cbc899b604e27bde232ab1c456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item7997914
+FileChecksum: SHA1: 776a90e23fbc500d8105e1d3c0a31050eeae45de
+FileChecksum: MD5: 865b1e447d36ebf6cfb81738016b0cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item7997915
+FileChecksum: SHA1: 69cfcb1953956226a0993da777f81ef208e58a25
+FileChecksum: MD5: 1f35a5ec6d325a3e1f25e13be345aadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item7997916
+FileChecksum: SHA1: ff841ad48aa653c40377466147fdb68e3273d6f6
+FileChecksum: MD5: 308a71c67be3301d4be511199a29df58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item7997917
+FileChecksum: SHA1: 5f4b6a77444fdc276bd3fc6f6bd5bb40fe4afc75
+FileChecksum: MD5: 7a345abd2c992345194cf1e500f4e06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item7997918
+FileChecksum: SHA1: 74a71a86bb418333d8dddc738fa3ee6c1cde84ca
+FileChecksum: MD5: 88eb80c462eefcb609718ffa6eaac32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item7997919
+FileChecksum: SHA1: 399adab73d34700613b77225452f18ee6c5a34bf
+FileChecksum: MD5: 3397f9e0b07f88189c877cd321bb67fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item7997920
+FileChecksum: SHA1: 75c8b11e97185375a6168a4dc40bee79c98f50d7
+FileChecksum: MD5: 6b67665fd165d12c6315b31a64d2a2e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item7997921
+FileChecksum: SHA1: 2bc5f382fbc7de2b713c3b2c1c2fda10b3cbf7c5
+FileChecksum: MD5: f6d8a0f33f481d6e6870808eee025197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item7997922
+FileChecksum: SHA1: 96ce60b4ff011a1607d435d3c494c64c38f15574
+FileChecksum: MD5: af4589871a681c9e2d05bf70b08052be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/gradle-cli-parameter-names.properties
+SPDXID: SPDXRef-item7997923
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item7997925
+FileChecksum: SHA1: 240e3bcf966c65534fc2d9fbf9502bb36f843f89
+FileChecksum: MD5: 0d3a8708bdea53bc771745759d5dbf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item7997926
+FileChecksum: SHA1: 7cd25e28b1f4b5024d5026b7c572760d47ce7e10
+FileChecksum: MD5: d64d3518bd04e47f2fce0fd9e7e755fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/.gitignore
+SPDXID: SPDXRef-item7997927
+FileChecksum: SHA1: cc3681244aafbd2bade2555b2d6e6aa3efbcc983
+FileChecksum: MD5: 2b95bed6ff2497cab260ab038fdaa9fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-java/CHANGELOG.md
+SPDXID: SPDXRef-item7997928
+FileChecksum: SHA1: 073a19905864a93de8517df549deea26633b6305
+FileChecksum: MD5: 009eeacdaf3bf277f3b17c8e98427d36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/CONTRIBUTING.md
+SPDXID: SPDXRef-item7997933
+FileChecksum: SHA1: d22bf59b629509bd5806c5c1c64c5fbd8719cf6d
+FileChecksum: MD5: 66b375e564411c52fd24522c6b24f434
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/.circleci/config.yml
+SPDXID: SPDXRef-item7997935
+FileChecksum: SHA1: e45e802270248250d2278e3632eb5fc86b682e22
+FileChecksum: MD5: 96674ff440148d6d9d803684ed9b883c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/test-requirements.txt
+SPDXID: SPDXRef-item7997937
+FileChecksum: SHA1: fbeb238da65708d3df4c4b948b0c5b94ab30a352
+FileChecksum: MD5: f2339d72cd1e855d3e1498065c6e88c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/examples/demo_dag.py
+SPDXID: SPDXRef-item7997941
+FileChecksum: SHA1: b801a22e0deef331b4ffcf40a990eb6b09502978
+FileChecksum: MD5: 1c0822af2cdcab717ddfbcd793f9e131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7997949
+FileChecksum: SHA1: 6702eea05836e3716766f5fd5178535738eb36bf
+FileChecksum: MD5: 40d92b31be48477f22249602239ddfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/airflow/dags/demo_dag.py
+SPDXID: SPDXRef-item7997955
+FileChecksum: SHA1: 6695d5136fb599108b0efd9e2da7734c309f9698
+FileChecksum: MD5: f82c8c649d14b4db938484c50bbee8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/marquez/config.yml
+SPDXID: SPDXRef-item7997959
+FileChecksum: SHA1: 8e8e3cdf80560080efcc0e337a138a320944db6a
+FileChecksum: MD5: 65b5b3a07bfdb6907d5f46e98864b479
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/docker-compose.yml
+SPDXID: SPDXRef-item7997961
+FileChecksum: SHA1: f43e5378a9229c23246541bf43b7be00d9ec8abc
+FileChecksum: MD5: 6f7e71590940aa05d7ccbe8f5c907773
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/tests/integration/Dockerfile
+SPDXID: SPDXRef-item7997962
+FileChecksum: SHA1: 14944a6a8ed42da64c4a7186e774df35a65b901b
+FileChecksum: MD5: 2dddeb77f76ff9c5e73982e463f01c50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow/.gitignore
+SPDXID: SPDXRef-item7997963
+FileChecksum: SHA1: e84fd43c3e1e26a85b829d3f8b43e4e2c6255848
+FileChecksum: MD5: 0937730bbc1bb3f0157ebad751a94ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/CONTRIBUTING.md
+SPDXID: SPDXRef-item7997965
+FileChecksum: SHA1: 604cd50fd4ab3125d32ae6c68ea238d5a8117117
+FileChecksum: MD5: 5dfc29833b3de9c915e3d2e8ac1299a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker/config.dev.yml
+SPDXID: SPDXRef-item7997968
+FileChecksum: SHA1: 96a9670b5c5b2290055491c839d174d425eb6ece
+FileChecksum: MD5: dd14357175d811e6ad5c2fca21db9106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker/wait-for-it.sh
+SPDXID: SPDXRef-item7997971
+FileChecksum: SHA1: 951a54c76dcf87f8f483f5bb76691b2bdb42e4be
+FileChecksum: MD5: 396be4024265aef1e2c65695c771b1a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/lombok.config
+SPDXID: SPDXRef-item7997973
+FileChecksum: SHA1: 1856df6b4cb86257b89df5c526e45f615b0450c8
+FileChecksum: MD5: f98d8f35a0aaf998804e0d94c93edd99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/.circleci/config.yml
+SPDXID: SPDXRef-item7997976
+FileChecksum: SHA1: 13fa94fd12cb004d3631e8febd5b4d9701e6ea9a
+FileChecksum: MD5: 1b6766bd34c1e465acd34cbfbdd7cbd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/test/resources/config.test.yml
+SPDXID: SPDXRef-item7997982
+FileChecksum: SHA1: 4e6e119aed764271c3b1b751e183dab5efefc0cb
+FileChecksum: MD5: c1bea8fe69666278343a820ac90409bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/banner.txt
+SPDXID: SPDXRef-item7998013
+FileChecksum: SHA1: f7af9fd7a2583f1695d947620c066facb6f6736f
+FileChecksum: MD5: 66d4c36f77d9f981b1e9a7372d1a308e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V4__add_dataset_fields.sql
+SPDXID: SPDXRef-item7998016
+FileChecksum: SHA1: f8444a0bfc89c2a1f2847eb476e1e37c3e055f98
+FileChecksum: MD5: 9a3d00da97ee300285d568b379f2c26b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V9__alter_sources_to_drop_composite_unique_constraint.sql
+SPDXID: SPDXRef-item7998017
+FileChecksum: SHA1: 340045e3b6fbfa629d4c0523fd44cd252ce7a68e
+FileChecksum: MD5: 76f775b475f15d66af47b1c64c7fb9d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V7__alter_run_args_to_change_args.sql
+SPDXID: SPDXRef-item7998018
+FileChecksum: SHA1: c3645b8025d82375d136832ffff4927293496053
+FileChecksum: MD5: ecef110c9bedc803d05f725923003010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V10__drop_unique_constraint_on_job_name.sql
+SPDXID: SPDXRef-item7998019
+FileChecksum: SHA1: a0d5b17d2cdf0c3387dd15519835f1bdeb955f25
+FileChecksum: MD5: 911e5f7e7a4ab60b87f1a40a3f6efc11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V6__alter_datasets_to_add_last_modified.sql
+SPDXID: SPDXRef-item7998020
+FileChecksum: SHA1: 5ef58fd454b4297bd70d003debf041b7c2a2101b
+FileChecksum: MD5: 4562dda288885b8747ed6e2d708480b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V2__add_job_contexts.sql
+SPDXID: SPDXRef-item7998021
+FileChecksum: SHA1: eb3c6b163db39f3526caafa50f5f8e6d78379278
+FileChecksum: MD5: 7628926d2d127cfdb795cd55dc484f51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V2.1__alter_job_versions_to_add_job_context_uuid.sql
+SPDXID: SPDXRef-item7998022
+FileChecksum: SHA1: b3b0fc609ef74d8d59878e811caad97904c9b95e
+FileChecksum: MD5: add9a7901619d841629aaee395fb94f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V5__add_tags.sql
+SPDXID: SPDXRef-item7998023
+FileChecksum: SHA1: 8c5c9cfd173c2dd608ba2dbf701561ebb3acb1c5
+FileChecksum: MD5: c4c4d349b4e3b259df7b44c1cd1abd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V1__initial_schema.sql
+SPDXID: SPDXRef-item7998024
+FileChecksum: SHA1: e782ef8c7aa29170b21b619385d19b5571ebc267
+FileChecksum: MD5: 4699ca04325a2cae28d8cc2045a11dfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V8__alter_datasets_to_change_unique_constraint.sql
+SPDXID: SPDXRef-item7998025
+FileChecksum: SHA1: 4510818c7e2b09cd3ce1286b659f7fcae98c5803
+FileChecksum: MD5: 692e3893ed213d13ed0dd6347cfef9bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/resources/db/migration/V3__drop_not_null_constraint_on_job_location.sql
+SPDXID: SPDXRef-item7998026
+FileChecksum: SHA1: 3ad37c440156ce5c9595a68e39b8b71c3b5478c2
+FileChecksum: MD5: e442246bf6c37cd24c76b28386e0c857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/src/main/java/marquez/api/models/JobRequest.java
+SPDXID: SPDXRef-item7998135
+FileChecksum: SHA1: f94d518d0d340b11ff410d243238a76cd14c0bc0
+FileChecksum: MD5: 1336fd8a91ff25a697d346c1146aca87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/build.gradle
+SPDXID: SPDXRef-item7998170
+FileChecksum: SHA1: 34ec90c19caa4502598d8b6c29e8216f7a531920
+FileChecksum: MD5: 728104ef6ba70d30f75d64d6cfdbae04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/.dockerignore
+SPDXID: SPDXRef-item7998171
+FileChecksum: SHA1: 5f557cc2bc58ffccd56d4b96eec232f249e2bb6e
+FileChecksum: MD5: 455d5d58c3a60ad26b9b8088a92a8763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/RELEASING.md
+SPDXID: SPDXRef-item7998172
+FileChecksum: SHA1: 153fd9b9e2b97060a245848ef9ada5cfb746af73
+FileChecksum: MD5: b7cbfba0a0339b95754da252cee4c482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/settings.gradle
+SPDXID: SPDXRef-item7998174
+FileChecksum: SHA1: d5a92719c9e08191e1e80de88f39a1d056df31fb
+FileChecksum: MD5: d836444f1214956b7f7f6c476e6ec782
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/METRICS.md
+SPDXID: SPDXRef-item7998176
+FileChecksum: SHA1: 4ab09d63d13db7d55888ff1a3bc7cb78793685ea
+FileChecksum: MD5: 030d4c3353becdea6f5a45aaf6bfe99a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle.properties
+SPDXID: SPDXRef-item7998177
+FileChecksum: SHA1: a3e5da66e94ea2f877e73d6528bc0deffd588f12
+FileChecksum: MD5: 47364cfeaed0db893fc302f57894dc56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7998179
+FileChecksum: SHA1: 6702eea05836e3716766f5fd5178535738eb36bf
+FileChecksum: MD5: 40d92b31be48477f22249602239ddfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/checkstyle.xml
+SPDXID: SPDXRef-item7998180
+FileChecksum: SHA1: feb38b8716f858c848ba64ddecb9a0e31c449199
+FileChecksum: MD5: fc806a6babac66bf221628631a51a3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item7998183
+FileChecksum: SHA1: 9d8aa77a6d1abba220ec33eb07a470bc9a1352da
+FileChecksum: MD5: a9a4b95eda38234d680dd9a3469265c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-parameter-names.properties
+SPDXID: SPDXRef-item7998187
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item7998191
+FileChecksum: SHA1: 9c060f1d1f3b0f50c165941fa8edd76a8d33e99f
+FileChecksum: MD5: 2db0851759c0768b579efa3b7b1571b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item7998192
+FileChecksum: SHA1: 4b5690e4b73a127789dc83bbc8e1bc3e499030a8
+FileChecksum: MD5: 834adc5447f38f639031d436f3b06289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item7998193
+FileChecksum: SHA1: 2fc9039aef600c275a3d475880ae1375c1b123cf
+FileChecksum: MD5: f181213b3a8822e4667875ded438f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item7998194
+FileChecksum: SHA1: eef7086a2a9b1b3cb706ec4a10cc99f106d7b503
+FileChecksum: MD5: 775df20b44e30b76a25d53958324e8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item7998195
+FileChecksum: SHA1: 45487f361ab0110b37735e69284b2aeeeba607bc
+FileChecksum: MD5: 9be8fb4c6c6eac2ef91ecfff677ecaed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item7998196
+FileChecksum: SHA1: d8506a68a45dba9af8efc55da300a27c2c418236
+FileChecksum: MD5: 8a97f545c713dd4daac45f1e4a79118a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item7998197
+FileChecksum: SHA1: 48aab8f051e59c88de5da04d5150e669fca1f59c
+FileChecksum: MD5: afdc5481bcf52e6c9ad0cfb57e862b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item7998198
+FileChecksum: SHA1: 1ea6a99b8c28a407394f169333e0b6cccc36088f
+FileChecksum: MD5: d747befd22991a2d8276805c83db1311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item7998199
+FileChecksum: SHA1: 2ca0219cde04346481cf07d0e2c422d2ac8bcc61
+FileChecksum: MD5: f66787a5e12f59cbee75076dd2db8f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item7998200
+FileChecksum: SHA1: 0db5902c567c07d61c0f78001e418f6a5f776929
+FileChecksum: MD5: 277fa532899a703d8b2ea74d55f00c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item7998201
+FileChecksum: SHA1: 1deec7e8fe37d85a00cc9f5f53f047574fbf1e06
+FileChecksum: MD5: 487c06f6dbf506daef9d0c44ea677396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item7998202
+FileChecksum: SHA1: d374dfd77fa05c103c35e2e3a3bb931c71c87e1c
+FileChecksum: MD5: d002054aea31ddfc9d50cef4947fd537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item7998203
+FileChecksum: SHA1: baa3ae6c352ac19e4c0c844cb7e02bdf3d205df5
+FileChecksum: MD5: a63cb16cedfb493c78aebfe7ecd6101f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item7998204
+FileChecksum: SHA1: b8d615c5283ce6868ced7f7f900e0836c3df197d
+FileChecksum: MD5: 48e7b9c3210c2b8acad1e52401c52cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item7998205
+FileChecksum: SHA1: 0bf2e049008ddbe43018dd2bac05fe49d992d538
+FileChecksum: MD5: aca5ffc46110fc6573074cd31b2d81d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item7998206
+FileChecksum: SHA1: d8ff9633b52fd5989b8b14bd76d1ac80328ed776
+FileChecksum: MD5: dec104c8dc8b5208246968f45b20d31b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item7998207
+FileChecksum: SHA1: 9d5990da93ab9814779988771d0eb7bcca5ad0ef
+FileChecksum: MD5: 4ba2bcfffc0dbefa9a95515825d9590f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item7998208
+FileChecksum: SHA1: c04ea6d0c78b28c1d2308fb88069114a3c1be7ef
+FileChecksum: MD5: fbc3a02fcdd1c21bbaf3ee0344667ac0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item7998209
+FileChecksum: SHA1: 10b209cc840edb3515115724b942bf28c0f4a500
+FileChecksum: MD5: 83634fe3358cddf6241f3cc9322cdc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item7998210
+FileChecksum: SHA1: e5da8c788f9e0d04f6a8b59c83b5d681c1572530
+FileChecksum: MD5: e25f7a5df2eb640fe4487df8b182b110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item7998211
+FileChecksum: SHA1: bdaec56bc5a96e3b7b07dc907ce419135ad6038c
+FileChecksum: MD5: fd4f17a502ae81fcf379cb79e2598704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item7998212
+FileChecksum: SHA1: 7d6badb90a9947d2479239faec3a1fc4ae89a684
+FileChecksum: MD5: d70e201190db0ecc7626b82621c902ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item7998213
+FileChecksum: SHA1: a3483e79d06ac6cc758cd833dee965fda7ea0a89
+FileChecksum: MD5: bac2d45857b386fc92687856d0950dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item7998214
+FileChecksum: SHA1: 54d1134b153d9199aa60bde18b129ba166588c7e
+FileChecksum: MD5: 843a3cda7eda915d393397b5adc310e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item7998216
+FileChecksum: SHA1: d8b3b27086297ccd16232f345cdaa39976b67c69
+FileChecksum: MD5: 9d8e7ef338fd267ad55020655229ae12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter$1.class
+SPDXID: SPDXRef-item7998217
+FileChecksum: SHA1: 2968b54251cb8defda1b732c901b3fceebc68716
+FileChecksum: MD5: 2bd853acbe0555391a6dbe0728e450e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item7998218
+FileChecksum: SHA1: f8ad64c2a48fada25909485920df9b4b9b6cd1a8
+FileChecksum: MD5: 02658ab96e87ac9f6bbdd9c749715fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item7998219
+FileChecksum: SHA1: 16d52de7c21cde5e10a3ccb56bd4bb8f31b6cccf
+FileChecksum: MD5: 3659aa20fb4d874e17680a5bfc6452dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item7998220
+FileChecksum: SHA1: 982163a7ffa7162ef52ddc95456818729d7546c0
+FileChecksum: MD5: f5083aae06c9422366d780f85331649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item7998221
+FileChecksum: SHA1: d4570292af481a04e279f69e10d1d302705f4ac3
+FileChecksum: MD5: 80f779580dd51fca7c5c68d0f6e3a2b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item7998222
+FileChecksum: SHA1: fd4611788dd0fccfb96c6e39d82d698baecace47
+FileChecksum: MD5: 3cb3fc270160c81c675f57f84e30b8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item7998223
+FileChecksum: SHA1: 3414639f7980269c422d73433ffe5443cd207e8f
+FileChecksum: MD5: 606c9d4d9392ce9f08a0bd9f7f82d1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item7998224
+FileChecksum: SHA1: 1376cffcdf45a6eaf25cd7a51dc4defc4ed74086
+FileChecksum: MD5: b8bed11a856a8621b62f46716dc0b9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item7998225
+FileChecksum: SHA1: 145fdf78f6bd6406e636d4df6cc1c9526b1dbe99
+FileChecksum: MD5: 077645cbc899b604e27bde232ab1c456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item7998226
+FileChecksum: SHA1: f2947e18cb0dcda8415c566e56195e3605c0e346
+FileChecksum: MD5: a59b56d540759e634fda141a235c84d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item7998227
+FileChecksum: SHA1: 69cfcb1953956226a0993da777f81ef208e58a25
+FileChecksum: MD5: 1f35a5ec6d325a3e1f25e13be345aadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item7998228
+FileChecksum: SHA1: 620bae39e98fa2cd69f99880d6ec649a1874a3e5
+FileChecksum: MD5: 1b01fd28fc454620df79c859bc039750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item7998229
+FileChecksum: SHA1: 5f4b6a77444fdc276bd3fc6f6bd5bb40fe4afc75
+FileChecksum: MD5: 7a345abd2c992345194cf1e500f4e06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item7998230
+FileChecksum: SHA1: 74a71a86bb418333d8dddc738fa3ee6c1cde84ca
+FileChecksum: MD5: 88eb80c462eefcb609718ffa6eaac32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$InstallCheck.class
+SPDXID: SPDXRef-item7998231
+FileChecksum: SHA1: f526ac2a5bea3bbb1a0540d6cac6ca1fd06ce43c
+FileChecksum: MD5: a6066511369c41d26e24704a92e0a8d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$DefaultDownloadProgressListener.class
+SPDXID: SPDXRef-item7998232
+FileChecksum: SHA1: 27e8cb61fc0be2452622bf845a9e3f6b4c5b9749
+FileChecksum: MD5: 3d62f1c025ef0dc4f84efd07fd8cf041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item7998233
+FileChecksum: SHA1: 399adab73d34700613b77225452f18ee6c5a34bf
+FileChecksum: MD5: 3397f9e0b07f88189c877cd321bb67fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item7998234
+FileChecksum: SHA1: 1a147b2f2ee8c7e33befbd30e78e572ed9b28271
+FileChecksum: MD5: 6da6fd0e2137239e4665a37175421ba8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item7998235
+FileChecksum: SHA1: 5725a89acfea1294b3f10cf6490413eb67fedada
+FileChecksum: MD5: e7f062e753f4705f2926806f775d47bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item7998236
+FileChecksum: SHA1: 96ce60b4ff011a1607d435d3c494c64c38f15574
+FileChecksum: MD5: af4589871a681c9e2d05bf70b08052be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/gradle-cli-parameter-names.properties
+SPDXID: SPDXRef-item7998237
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item7998239
+FileChecksum: SHA1: 240e3bcf966c65534fc2d9fbf9502bb36f843f89
+FileChecksum: MD5: 0d3a8708bdea53bc771745759d5dbf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item7998240
+FileChecksum: SHA1: 7cd25e28b1f4b5024d5026b7c572760d47ce7e10
+FileChecksum: MD5: d64d3518bd04e47f2fce0fd9e7e755fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/.gitignore
+SPDXID: SPDXRef-item7998241
+FileChecksum: SHA1: b9efa92396d37ed97cd9b884d701b407d5bdd895
+FileChecksum: MD5: a8b0c0e06712e5f353c9af9c64c6a762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docker-compose.yml
+SPDXID: SPDXRef-item7998242
+FileChecksum: SHA1: 2fa372b8d83002f6e99c0cca6c192fac555edab5
+FileChecksum: MD5: 908a340eb71640f68296bf15954af5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/assets/css/style.scss
+SPDXID: SPDXRef-item7998246
+FileChecksum: SHA1: 9d9d1a8e2184875e08beab24df54468cf4c5ae57
+FileChecksum: MD5: 11bc50b730eaeebc662cf564fec739a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/assets/images/lineage.png
+SPDXID: SPDXRef-item7998248
+FileChecksum: SHA1: 01d520b6761325f7f018a2e1da6a707dd90bbd93
+FileChecksum: MD5: 170075d14345e0f633cd49ee3b3aeef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/assets/images/design.png
+SPDXID: SPDXRef-item7998249
+FileChecksum: SHA1: d8b5f1459ce9eafac3a94c539e5401875b8a07fa
+FileChecksum: MD5: 98626b0bdcfe230ebc6240cf7646ecde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/assets/images/ecosystem.png
+SPDXID: SPDXRef-item7998250
+FileChecksum: SHA1: 8a3b3aa2c3d23528c1d799adc491a34053fa01b0
+FileChecksum: MD5: 81c6babb90436315b6af65aff86698ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/assets/images/model.png
+SPDXID: SPDXRef-item7998251
+FileChecksum: SHA1: 6c9958e4f5f73d331f0d056464b75e6c91a708c8
+FileChecksum: MD5: ef89858bc59a7f7ffc4951185e4912d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/index.md
+SPDXID: SPDXRef-item7998252
+FileChecksum: SHA1: bd84d48c4876ac3818239ed2dc6cceb4e4ff524b
+FileChecksum: MD5: 18819b22cb65d37bf36cce6af4eeea4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/quickstart.md
+SPDXID: SPDXRef-item7998253
+FileChecksum: SHA1: 06142ac46c91adc8a69e84c7a361c6d6984f9176
+FileChecksum: MD5: c7a96052fe4e62fd20d24e70f169c1f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/_config.yml
+SPDXID: SPDXRef-item7998254
+FileChecksum: SHA1: 1c70927efa8c2422c83ce873c746ccb4decf1f2e
+FileChecksum: MD5: 51b9de1dad2ce10581ce3cd6ce06193e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/_layouts/index.html
+SPDXID: SPDXRef-item7998256
+FileChecksum: SHA1: 108580effd05f96de9153e1ed05b0f692f4a513c
+FileChecksum: MD5: 9c790e78e53ff712d855ee8dd885a6b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/docs/_layouts/quickstart.html
+SPDXID: SPDXRef-item7998257
+FileChecksum: SHA1: 49917b77a3f729787bb2d88609241d1b0552fcab
+FileChecksum: MD5: 4c31d8fef3faa1580b38203a17af9c6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/CHANGELOG.md
+SPDXID: SPDXRef-item7998260
+FileChecksum: SHA1: 0d13b9da79da34bd8bf240a57fe144dbd5aa3ba4
+FileChecksum: MD5: 49ad761da681423c80459ad53a03226f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez/Dockerfile
+SPDXID: SPDXRef-item7998261
+FileChecksum: SHA1: 485be41a1c820da10a38f353259ed49e65ec38f9
+FileChecksum: MD5: f328dee87c8ab19fab825a9549716cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/CONTRIBUTING.md
+SPDXID: SPDXRef-item7998263
+FileChecksum: SHA1: 4fb4e9265fc3809af5dc7f8a1661c2acb1469610
+FileChecksum: MD5: 6c8f416b9fd955ee03ac250085f71f7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/.circleci/config.yml
+SPDXID: SPDXRef-item7998265
+FileChecksum: SHA1: da0707828a0ce428464515e2569806a400a999d2
+FileChecksum: MD5: 03218c5a574db2885b8499f31c772801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/test-requirements.txt
+SPDXID: SPDXRef-item7998267
+FileChecksum: SHA1: 78fccda077ea0e7ae6f550a6208911ac174ad026
+FileChecksum: MD5: 2b4a788df81081fafbc9aa2ca4a96f04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/RELEASING.md
+SPDXID: SPDXRef-item7998272
+FileChecksum: SHA1: 28a4d4c5e7e8cd09883fa520877feafd5a1d0bc8
+FileChecksum: MD5: 3d40b5f08da50bc5a0451818a6706dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tox.ini
+SPDXID: SPDXRef-item7998273
+FileChecksum: SHA1: df48024cb3322c659c3eddfd31882b14a7418155
+FileChecksum: MD5: b11471eaddcaa02e10a541dd5bd6ea75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7998275
+FileChecksum: SHA1: 6702eea05836e3716766f5fd5178535738eb36bf
+FileChecksum: MD5: 40d92b31be48477f22249602239ddfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/datasource_for_datasource_tests.yaml
+SPDXID: SPDXRef-item7998280
+FileChecksum: SHA1: 75e1e44945274a2925f0474613cef97979ef0780
+FileChecksum: MD5: 3f7c91977ec5f1dd64d4c446d1a949d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_get_datasources_with_limit_and_offset.yaml
+SPDXID: SPDXRef-item7998281
+FileChecksum: SHA1: 7ca06fcf963ba08a10ec2e121e21b7235dc32593
+FileChecksum: MD5: 1834c89fd07981e6d9f5b064dd1084b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_get_datasource.yaml
+SPDXID: SPDXRef-item7998282
+FileChecksum: SHA1: 43fc62874b052fc4e7efd268c952795cdb67dab0
+FileChecksum: MD5: 1e46553ca8ba9b6edf991cdc36108dc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_get_datasources_with_timeout.yaml
+SPDXID: SPDXRef-item7998283
+FileChecksum: SHA1: 65922584ebed4255db26a84852f61860741dcdf9
+FileChecksum: MD5: c94c90dffce394feacc5e50a4c2988cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_get_datasources_with_limit.yaml
+SPDXID: SPDXRef-item7998284
+FileChecksum: SHA1: ad01f8c6d35fff6444adb762bc9184edd8a5791d
+FileChecksum: MD5: a61409abd13f3f325001e8cbe8dd084e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_get_datasources_with_offset.yaml
+SPDXID: SPDXRef-item7998285
+FileChecksum: SHA1: aabfa2ff140814eebea6f9cbf621d719c78c0055
+FileChecksum: MD5: e74d6819b983491797b510713baa5e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_get_datasources.yaml
+SPDXID: SPDXRef-item7998286
+FileChecksum: SHA1: 65922584ebed4255db26a84852f61860741dcdf9
+FileChecksum: MD5: c94c90dffce394feacc5e50a4c2988cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasources/test_create_datasource.yaml
+SPDXID: SPDXRef-item7998287
+FileChecksum: SHA1: 8ec803eb0caa475eb20e5fa7e973a710436c74be
+FileChecksum: MD5: f2f885a7608fc794d5699750f65b5dc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/test_jobrun_can_be_marked_aborted.yaml
+SPDXID: SPDXRef-item7998289
+FileChecksum: SHA1: 9742ac27d29d6b92c90b57d2b0af570eeb98bf3c
+FileChecksum: MD5: 9785e69f5f178efdebafd9746bf578de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/test_get_jobrun.yaml
+SPDXID: SPDXRef-item7998290
+FileChecksum: SHA1: ee0fdb813783c98c308a6b570eb5ba3bea71b621
+FileChecksum: MD5: e52b6e7997206fb5b57dee4095cb11e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/test_jobrun_can_be_marked_completed.yaml
+SPDXID: SPDXRef-item7998291
+FileChecksum: SHA1: d93299200b4f9a98bd4a77b536218b651464eec7
+FileChecksum: MD5: 2d3ff3f266ac14865bf77878244bff7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/jobrun_for_jobruns_tests.yaml
+SPDXID: SPDXRef-item7998292
+FileChecksum: SHA1: 541d617398e10f21dbb5633399ac6b98ccf579a2
+FileChecksum: MD5: 1191dfbc55668b9fcfa423e9b9312147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/namespace_for_jobruns_tests.yaml
+SPDXID: SPDXRef-item7998293
+FileChecksum: SHA1: 8944991c367a34041553f43f087b1f2555cefe39
+FileChecksum: MD5: 9ddecb4186d2c2e4ddfd7fe26f5f006d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/test_jobrun_can_be_marked_failed.yaml
+SPDXID: SPDXRef-item7998294
+FileChecksum: SHA1: 1e1f4e7e251ce4add5e225d6f64458bcd6228a01
+FileChecksum: MD5: 7ba6b04d1ebea891264c4cdfbd14b45f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/job_for_jobruns_tests.yaml
+SPDXID: SPDXRef-item7998295
+FileChecksum: SHA1: db88038ce7dc3340640ce30073a06bec8c9ed214
+FileChecksum: MD5: f6443bbcdd4889c12e18999fa6b09e0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobruns/test_create_jobrun.yaml
+SPDXID: SPDXRef-item7998296
+FileChecksum: SHA1: f5d8514cb111f591f19414f0a429f1652501ac0e
+FileChecksum: MD5: c4664e546e0d78767df0d6e8069db2ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_list_datsets.yaml
+SPDXID: SPDXRef-item7998298
+FileChecksum: SHA1: cf22bd0e3baa6918e4c456d62404d42a085824a9
+FileChecksum: MD5: 8606c0daba302244f95b4d071b1f2758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/dataset_for_datasets_test.yaml
+SPDXID: SPDXRef-item7998299
+FileChecksum: SHA1: db17d8a812fffede1fab07e390d05ee4efb5cbad
+FileChecksum: MD5: 61f990a42433ad036f39818465b30f26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_get_dataset.yaml
+SPDXID: SPDXRef-item7998300
+FileChecksum: SHA1: faf2f391babad33cb87a75d0cdedc7685213ddb1
+FileChecksum: MD5: a01d94e5085feee0f56013901a060681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_create_dataset.yaml
+SPDXID: SPDXRef-item7998301
+FileChecksum: SHA1: cab84e59da502ab1d8a0ff928147e1dd5592fd4c
+FileChecksum: MD5: 30f4126fdd5b9c8a6e350ea8bf60d8de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_list_datsets_default_ns.yaml
+SPDXID: SPDXRef-item7998302
+FileChecksum: SHA1: 2f3147d4bbb20f6e662fe4b8ed4da2a481ac8f9b
+FileChecksum: MD5: 6333f4efc075bce89b423295da38e475
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_get_dataset_specify_ns.yaml
+SPDXID: SPDXRef-item7998303
+FileChecksum: SHA1: faf2f391babad33cb87a75d0cdedc7685213ddb1
+FileChecksum: MD5: a01d94e5085feee0f56013901a060681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_get_dataset_default_ns.yaml
+SPDXID: SPDXRef-item7998304
+FileChecksum: SHA1: 221eb770d3dfbe1deb04f235a734b6a77c8f0e14
+FileChecksum: MD5: b1b0b49bde5332a19b0ed50d6ae6881f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/dataset_default_ns_for_datasets_test.yaml
+SPDXID: SPDXRef-item7998305
+FileChecksum: SHA1: 9b49f3a1474d812b8a211e00df21e18133b0d476
+FileChecksum: MD5: 6c339fa038d5dff08afa3b941892d840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/namespace_for_datasets.yaml
+SPDXID: SPDXRef-item7998306
+FileChecksum: SHA1: 57aa12fc563e0e7727a333df60ca0da4bd743feb
+FileChecksum: MD5: 624feffc64e058553a432db9ec580fe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/datasource_for_datasets_tests.yaml
+SPDXID: SPDXRef-item7998307
+FileChecksum: SHA1: 4f0994efbe651795ede65702f1bc5d3cf5e86e9f
+FileChecksum: MD5: 8a165626e65656082806ea3079a2e8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_datasets/test_get_dataset_malformed_name.yaml
+SPDXID: SPDXRef-item7998308
+FileChecksum: SHA1: 61bddc52680494087a5b18dd4f803ec505ad8108
+FileChecksum: MD5: 9ebe34a728283ef2e3953f08aee95be4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_create_job.yaml
+SPDXID: SPDXRef-item7998310
+FileChecksum: SHA1: fc9e24ee617d6c8fbd0fa99f04f19a195ac57821
+FileChecksum: MD5: c98531bd60a33fbbc7039b8727e31e06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_create_job_with_forward_slashes_and_space.yaml
+SPDXID: SPDXRef-item7998311
+FileChecksum: SHA1: f75c55310e894cf8d920c6d5b69095aa6518293d
+FileChecksum: MD5: 8544efb1406e3d8eb301d6cf31acbd47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_list_jobs_no_such_namespace.yaml
+SPDXID: SPDXRef-item7998312
+FileChecksum: SHA1: 154e656be6cfc0fc91397e7fa72f48621420a5f2
+FileChecksum: MD5: 29480be30471f275af165c88bb59ed1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_create_job_with_special_chars_with_spaces.yaml
+SPDXID: SPDXRef-item7998313
+FileChecksum: SHA1: 14b546216f3bfd743fd811de1ad861683c2eed31
+FileChecksum: MD5: 7081c2329aa3e6715dd4fabc84833dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/job_default_ns_for_jobs_test.yaml
+SPDXID: SPDXRef-item7998314
+FileChecksum: SHA1: dfc58929cefe52907f61dc572cdf0342003d486f
+FileChecksum: MD5: 81ae3311bb8eefd65af02c27579a6e05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_create_job_with_forward_slash.yaml
+SPDXID: SPDXRef-item7998315
+FileChecksum: SHA1: 6f2321813d28dd63f88de302dce607fb9a28f0af
+FileChecksum: MD5: d4b5ce959e6b39a9275096311758474e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_create_job_with_special_chars_no_spaces.yaml
+SPDXID: SPDXRef-item7998316
+FileChecksum: SHA1: 365a6994e4caa0e7e6274cbd925f8fc5fc11a10f
+FileChecksum: MD5: 7db0c87ba644a767d3e60ee84798071a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_list_jobs.yaml
+SPDXID: SPDXRef-item7998317
+FileChecksum: SHA1: 08c3936f2cd52126896f7ca55e560b02ce925ece
+FileChecksum: MD5: 0daed5b046a6e609c2a98d9cbe092bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/job_for_jobs_test.yaml
+SPDXID: SPDXRef-item7998318
+FileChecksum: SHA1: dfc58929cefe52907f61dc572cdf0342003d486f
+FileChecksum: MD5: 81ae3311bb8eefd65af02c27579a6e05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_get_job.yaml
+SPDXID: SPDXRef-item7998319
+FileChecksum: SHA1: 822df20cfbecda953dee3f12fe10248d5307a07d
+FileChecksum: MD5: 07fffeadc1c4baf3f229dd22c25d8be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_list_jobs_with_ns.yaml
+SPDXID: SPDXRef-item7998320
+FileChecksum: SHA1: 08c3936f2cd52126896f7ca55e560b02ce925ece
+FileChecksum: MD5: 0daed5b046a6e609c2a98d9cbe092bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_jobs/test_create_job_with_forward_slashes.yaml
+SPDXID: SPDXRef-item7998321
+FileChecksum: SHA1: b7cd62134391de45cc5b68615e3eec7702e68b19
+FileChecksum: MD5: e7fe11fbe4731be61d625efa37dad9b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_namespaces/test_namespaces_not_set.yaml
+SPDXID: SPDXRef-item7998323
+FileChecksum: SHA1: 8f6cec04e552dbe2230390d524ad02f269094e00
+FileChecksum: MD5: 1211a77b93bdbf9bea5e3539f335e390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_namespaces/test_list_namespaces.yaml
+SPDXID: SPDXRef-item7998324
+FileChecksum: SHA1: f51a12b8689b6ff0c295c93e825997c77c348ff2
+FileChecksum: MD5: fea1b439ed876552f24882cdebc9a8e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_namespaces/test_get_no_such_namespace.yaml
+SPDXID: SPDXRef-item7998325
+FileChecksum: SHA1: 492443044bb539a33faa5cb109f420ec4bfa049d
+FileChecksum: MD5: 6e1913dfca5a55fa82a499d99bf53426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_namespaces/namespace_for_namespace_tests.yaml
+SPDXID: SPDXRef-item7998326
+FileChecksum: SHA1: 5e9709b5e22a28cf27d195378982f55df827453c
+FileChecksum: MD5: ccecc79168ca0254b08af98e421a0d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_namespaces/test_get_namespace.yaml
+SPDXID: SPDXRef-item7998327
+FileChecksum: SHA1: 306dddee165fa629ded6a3a775cbdca18d4d67c5
+FileChecksum: MD5: 3454c336cf4163854170350f44e7f5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/fixtures/vcr/test_namespaces/test_create_namespace.yaml
+SPDXID: SPDXRef-item7998328
+FileChecksum: SHA1: 9ac3952993f07f628636eff49ba61c0c86935eec
+FileChecksum: MD5: 31b381f93c53535c08e34c851f49a284
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/integration/marquez/config.yml
+SPDXID: SPDXRef-item7998339
+FileChecksum: SHA1: 8e8e3cdf80560080efcc0e337a138a320944db6a
+FileChecksum: MD5: 65b5b3a07bfdb6907d5f46e98864b479
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/integration/docker-compose.yml
+SPDXID: SPDXRef-item7998341
+FileChecksum: SHA1: f69c71db24e5d5dc140e18de2fa96f5ad3436824
+FileChecksum: MD5: 86ac5422b7e2cee9551b37eecf8307e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/tests/integration/Dockerfile
+SPDXID: SPDXRef-item7998342
+FileChecksum: SHA1: 198c74817cbc71c91902b97681ec978f660943a6
+FileChecksum: MD5: 490497ae9f43320b48e843e98e28241a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/.gitignore
+SPDXID: SPDXRef-item7998344
+FileChecksum: SHA1: f2b820e32173798c196720b03251ae603ce975e3
+FileChecksum: MD5: 61c97ba7e1d4a20f06cd6d2818fb947e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-python/setup.cfg
+SPDXID: SPDXRef-item7998345
+FileChecksum: SHA1: 2a0d49690f3c10fb6bc26458fe8758ba3bfc6d4d
+FileChecksum: MD5: 98e9993f1dbf197919425b0d0c3dd4d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/docker/wait-for-it.sh
+SPDXID: SPDXRef-item7998357
+FileChecksum: SHA1: 37fec924356b641b0ac4d0a91a73ec7af00982cd
+FileChecksum: MD5: 8c4df7b09e2a25ca3e64acdc4bc58ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/README.md
+SPDXID: SPDXRef-item7998358
+FileChecksum: SHA1: 62be8353ce5b15cb97d7da21ce4042473c7d8774
+FileChecksum: MD5: abbb8ee113e93f90d3d7e33614c12dfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/marquez-config.yml
+SPDXID: SPDXRef-item7998360
+FileChecksum: SHA1: ba1f6f46f5526c8d105728a189b98b1ec62086ed
+FileChecksum: MD5: 8fc9b8b41cebc5680e449964b03e8d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/dags/templated_bash_example.py
+SPDXID: SPDXRef-item7998362
+FileChecksum: SHA1: 22d9e081026619bade796f3092fa4a6db7544de0
+FileChecksum: MD5: 2735e4915c3f660113a3083f38f5699e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/dags/dummy_example.py
+SPDXID: SPDXRef-item7998363
+FileChecksum: SHA1: fa921345899e846cadd937f63f7fc7fa65735ed0
+FileChecksum: MD5: c02f6acbb089730e6996ec959d10d85d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/.gitignore
+SPDXID: SPDXRef-item7998364
+FileChecksum: SHA1: f2b820e32173798c196720b03251ae603ce975e3
+FileChecksum: MD5: 61c97ba7e1d4a20f06cd6d2818fb947e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/docker-compose.yml
+SPDXID: SPDXRef-item7998365
+FileChecksum: SHA1: ada697d90347bad4edbd12acc4070e69706f41a7
+FileChecksum: MD5: b699750b4d498eea9bc28e48ae76e0f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-airflow-quickstart/Dockerfile
+SPDXID: SPDXRef-item7998366
+FileChecksum: SHA1: 5ebf36f817cbf6be4e4279cd2e87afb5dc7449bc
+FileChecksum: MD5: 4f16e1125431da93416f127e6bfd8b16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/styles.d.ts
+SPDXID: SPDXRef-item7998368
+FileChecksum: SHA1: 5e4773ad31c356966b45b10e551d41cdd895ae67
+FileChecksum: MD5: d6847ab48a6d48b58beb887eb09a96c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/webpack.prod.js
+SPDXID: SPDXRef-item7998369
+FileChecksum: SHA1: fc6e32cc71e27f6a92aaf753ae78229b123cb66c
+FileChecksum: MD5: b7313764c3b793c1fafd2726bd363cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/CONTRIBUTING.md
+SPDXID: SPDXRef-item7998370
+FileChecksum: SHA1: 48ec3579299296ed6b74aa8f7bfca9ef02967bad
+FileChecksum: MD5: 7fcaddef919953acde24277d27c5caa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/setupEnzyme.ts
+SPDXID: SPDXRef-item7998371
+FileChecksum: SHA1: f5cd2069ec7fa558ebc5921df90cec26381cd136
+FileChecksum: MD5: 0ae3b20ccd888c97de80b9099b97bcd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/marquez.yml
+SPDXID: SPDXRef-item7998374
+FileChecksum: SHA1: 16c1058d7d4a7f5b81ebe5566ba84ba4c812dbfe
+FileChecksum: MD5: 6293a98fb552e73b5137251dcbd6bb20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/seed-db.sh
+SPDXID: SPDXRef-item7998377
+FileChecksum: SHA1: 06ffcca6b284e0bf8aa01c221228472fbed90ed5
+FileChecksum: MD5: 637b1b72eb5eec6693a7e616e30e2a22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/data/datasets.json
+SPDXID: SPDXRef-item7998382
+FileChecksum: SHA1: 82a2131311c8692814ec72f1739bd184d3f1ca5f
+FileChecksum: MD5: 04f224fdd86b2c30f2a403b7578ed364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/data/jobs.json
+SPDXID: SPDXRef-item7998383
+FileChecksum: SHA1: 440be61f957e9c298496e651cf7b2b6298440d95
+FileChecksum: MD5: d06320630d9aec2b31a86d660b1b046a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/data/namespaces.json
+SPDXID: SPDXRef-item7998384
+FileChecksum: SHA1: 1a0913d9f367f774fb5c31c6b2f7d4dbe07f6f5a
+FileChecksum: MD5: 4ea2a60f697fb11d2950a7835bcb6e39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/data/sources.json
+SPDXID: SPDXRef-item7998385
+FileChecksum: SHA1: 9a603dd7db8b4e1e8066320f01c17cd5ce2629b4
+FileChecksum: MD5: 5ec31d97d2acfc44f60b592b564c7e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker/db/Dockerfile
+SPDXID: SPDXRef-item7998386
+FileChecksum: SHA1: b6ed50b5ed8d6eaf6476150a257af493f48f20e1
+FileChecksum: MD5: bfca38eb273431429d34bce7929b9168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.circleci/config.yml
+SPDXID: SPDXRef-item7998389
+FileChecksum: SHA1: 57eafd3543958e28f53846b591e97f65e8585d05
+FileChecksum: MD5: ee34fa2ba469ceb3494c67346ae496e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/yarn.lock
+SPDXID: SPDXRef-item7998391
+FileChecksum: SHA1: 06ad44041272b52c4baa66196850197c38ba90ee
+FileChecksum: MD5: 5c42a889a07e78ce5439e2a19dd68110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/tsconfig.json
+SPDXID: SPDXRef-item7998392
+FileChecksum: SHA1: 9a22dd860b61171a4a0c69b71a2d38a81de28e1d
+FileChecksum: MD5: 4cd099e781761d0a4645112be82b6c54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/logo.svg
+SPDXID: SPDXRef-item7998395
+FileChecksum: SHA1: aff68d3eb65414ecd2fa6e0e9d43cd7485a935c9
+FileChecksum: MD5: 5d5d9eefa31e5e13a6610d9fa7a283bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/sagas/index.ts
+SPDXID: SPDXRef-item7998397
+FileChecksum: SHA1: fda39dbb9173ccc1806227c7f34fe7ea31e26565
+FileChecksum: MD5: 3fa0ac9bdc6f425db2f74c32583eb7c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/react-vis.d.ts
+SPDXID: SPDXRef-item7998398
+FileChecksum: SHA1: d3ed1c2f50ac78ffe994240b87edef3248657f50
+FileChecksum: MD5: 6edf7ca42d3f85b6b58c59a043bb453b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/sagas/index.test.ts
+SPDXID: SPDXRef-item7998401
+FileChecksum: SHA1: ea42f3ebffd8c8136b8c8e13c205b4ba44bf9cca
+FileChecksum: MD5: 1eb4ed67cd5aa4efaf8154dafef1caff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/__mocks__/fileMock.js
+SPDXID: SPDXRef-item7998403
+FileChecksum: SHA1: 1d78f46bb4bb459f3056dba7dea97581648c265b
+FileChecksum: MD5: 2cb8996914cd0cf795b5a36a0b6c974b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/Toast.test.tsx
+SPDXID: SPDXRef-item7998405
+FileChecksum: SHA1: 88b650f94c152078c743dd570560518e23dd02c6
+FileChecksum: MD5: 72d242fbe94ee1c5a58ef600cc760cea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/JobDetailPage.test.tsx
+SPDXID: SPDXRef-item7998406
+FileChecksum: SHA1: 8ca30cd516efc418f04432b63137aa5ffdcd668f
+FileChecksum: MD5: 82a3364bac18da28e4edf5d96460793e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/Legend.test.tsx
+SPDXID: SPDXRef-item7998407
+FileChecksum: SHA1: fb4bc611f91489104e3d0b7a2c8bca3d980a4b46
+FileChecksum: MD5: 78d43c3fedb4e337cd080e9588528f99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/Loader.test.tsx
+SPDXID: SPDXRef-item7998408
+FileChecksum: SHA1: c838ea1d40b80f94fd71b309f7e0fa56a63477b8
+FileChecksum: MD5: 68043e6da7af0eb60dae537bb535a523
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/Dialog.test.tsx
+SPDXID: SPDXRef-item7998409
+FileChecksum: SHA1: 25dc0788df7952e546b3fdf8a50b06ce063c21dd
+FileChecksum: MD5: 8e7872bf8501bc83e2831aa94558e8d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/AppBar.test.tsx
+SPDXID: SPDXRef-item7998410
+FileChecksum: SHA1: 2127b52a8c18bd9f99bd6f0c88f9dd27e1f1666f
+FileChecksum: MD5: d1ac9febaf65fa52d893bdd0b9c45182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/JobPreviewCard.test.tsx
+SPDXID: SPDXRef-item7998411
+FileChecksum: SHA1: b92af36e75a1bce94ea4b3baea6958ded9da58c1
+FileChecksum: MD5: e0c0bf10269155092d8e22d0847a0180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/Loader.test.tsx.snap
+SPDXID: SPDXRef-item7998413
+FileChecksum: SHA1: 8fa0d9ab410028b2002440ad84acf3a4af935398
+FileChecksum: MD5: f4a6b1e02251eedbfe0620edb95e76ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/CustomSearchBar.test.tsx.snap
+SPDXID: SPDXRef-item7998414
+FileChecksum: SHA1: 72a887b3386c38d9407bcc4a2bae0fd1cbf33e5b
+FileChecksum: MD5: 14f2f03803656c1504ab2d0252b38422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/JobDetailPage.test.tsx.snap
+SPDXID: SPDXRef-item7998415
+FileChecksum: SHA1: 6959ac21a8da8e5a7849b4c6be627207cc2ca723
+FileChecksum: MD5: b71eaab67e8051884983e4d56e90ea40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/JobPreviewCard.test.tsx.snap
+SPDXID: SPDXRef-item7998416
+FileChecksum: SHA1: 146407eae7787ad80d0602c0f4c0dd7565993b85
+FileChecksum: MD5: a88e34b0f2ed0312240fa14fb32e38bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/Toast.test.tsx.snap
+SPDXID: SPDXRef-item7998417
+FileChecksum: SHA1: 4edc44692c3308dcc13205f2502bd101d5ad68ae
+FileChecksum: MD5: 1be32dcdb73c2967e08d0c5893a5ae20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/DatasetDetailPage.test.tsx.snap
+SPDXID: SPDXRef-item7998418
+FileChecksum: SHA1: 34da3cb5d4ff1439bdee512ff11e2fe5e9510d88
+FileChecksum: MD5: 9cfaffa4acfa18c6972ca71d9d3f0f2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/Filters.test.tsx.snap
+SPDXID: SPDXRef-item7998419
+FileChecksum: SHA1: 26591cf5ee0da53f08f05b61abea38e8acd44d8c
+FileChecksum: MD5: a65043b9aa3d4284612b8144f39d9743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/NetworkGraph.test.tsx.snap
+SPDXID: SPDXRef-item7998420
+FileChecksum: SHA1: 9ef5ec21b6ff43fa5532af67def022aa683b7e44
+FileChecksum: MD5: 3c3d8c6cf71ceb3e16712e3304eddcc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/DatasetPreviewCard.test.tsx.snap
+SPDXID: SPDXRef-item7998421
+FileChecksum: SHA1: 8de9426baff408d04dde59663f2036097186cc6a
+FileChecksum: MD5: 33d42c98fc222e42febad4c733db7036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/__snapshots__/Dialog.test.tsx.snap
+SPDXID: SPDXRef-item7998422
+FileChecksum: SHA1: 8093b118a5170207e0e30780a23998a54e621a92
+FileChecksum: MD5: ba59c4f6a28b25ee513ac4c063df281a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/DatasetPreviewCard.test.tsx
+SPDXID: SPDXRef-item7998423
+FileChecksum: SHA1: e77ae41f268dbfb59755e776e86f9ff9a65230ae
+FileChecksum: MD5: ecae025b88c353b840e5c63d9c2472f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/CustomSearchBar.test.tsx
+SPDXID: SPDXRef-item7998424
+FileChecksum: SHA1: 1a7dc50716899f6f9e6dfa65e610111b21f357f9
+FileChecksum: MD5: 5f3cd777ba045473aa117922d55e9fa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/NetworkGraph.test.tsx
+SPDXID: SPDXRef-item7998425
+FileChecksum: SHA1: 05d228fd0ce79acb86e707c6e98e5efa4ec8f626
+FileChecksum: MD5: 112a576d002633eac89ec7fe3da79f61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/DatasetDetailPage.test.tsx
+SPDXID: SPDXRef-item7998426
+FileChecksum: SHA1: 926dcaf904463b321ffa8d42427eafe4ef860e74
+FileChecksum: MD5: e6a26200ccf6037b60b85518116aa038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/components/Filters.test.tsx
+SPDXID: SPDXRef-item7998427
+FileChecksum: SHA1: c2364b89f3eb25c6a07a9327213868ec6ddde74f
+FileChecksum: MD5: 94ce4a39286040239650a060cc1e5a77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/reducers/datasets.test.ts
+SPDXID: SPDXRef-item7998429
+FileChecksum: SHA1: 249ebbdcaa5817512eb1c8ea8ca8ef239941c701
+FileChecksum: MD5: 0ba10a14a86d7c3b37b57318903df065
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/reducers/jobs.test.ts
+SPDXID: SPDXRef-item7998430
+FileChecksum: SHA1: 9171395815d6cb4e7cca22ab1155569eab834e06
+FileChecksum: MD5: 0bf0804139df9d397231f5d22a38c395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/reducers/index.test.ts
+SPDXID: SPDXRef-item7998431
+FileChecksum: SHA1: 805890bddeddf497f3e814415b9a8cb100194c6d
+FileChecksum: MD5: f362e5a75a11a8e2ddf282ead3d80e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/requests/index.test.ts
+SPDXID: SPDXRef-item7998433
+FileChecksum: SHA1: 9198eb4fddb47509f2540836fd34c0de9baf5cec
+FileChecksum: MD5: b5efaeaf8abc4b920817988ffdd497e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/__tests__/helpers/index.test.ts
+SPDXID: SPDXRef-item7998435
+FileChecksum: SHA1: 5d97eced5a3880db531cc3a690aa9e929b92654c
+FileChecksum: MD5: 201d9ca9bae5cebf8299de0c13234d44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Toast.css
+SPDXID: SPDXRef-item7998437
+FileChecksum: SHA1: df5fcba98b0ce1d8f93db42bd0ad6b91c051383b
+FileChecksum: MD5: 41c05ab941ffc48a7a9365267b8e64b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/JobDetailPage.tsx
+SPDXID: SPDXRef-item7998438
+FileChecksum: SHA1: 6b9b206c4066bf70b3dce4d19a1a2196a7ef0838
+FileChecksum: MD5: 019e93aba419695fbcc34b3775eae47b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/AppBar.tsx
+SPDXID: SPDXRef-item7998439
+FileChecksum: SHA1: bb1d9b15e9004d9861af972daf2223959067dee5
+FileChecksum: MD5: 75036b88f043d12c6b36ad93146acac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Legend.tsx
+SPDXID: SPDXRef-item7998440
+FileChecksum: SHA1: e78277752ca8c93315af16019a2053c679d9f3b0
+FileChecksum: MD5: 8e3d21abd73d1eb57779635daddfd860
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Toast.tsx
+SPDXID: SPDXRef-item7998441
+FileChecksum: SHA1: 00584194e27fd52e5acd4d77999ee72fd55bfe64
+FileChecksum: MD5: bbfd48aa7b8715df70fc1c5663411dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Filters.tsx
+SPDXID: SPDXRef-item7998442
+FileChecksum: SHA1: 0709152e3fa4985a01ca281493f822c9dfbe4d07
+FileChecksum: MD5: b34f0bf83d29ab6df2c8500be90e293f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Loader.tsx
+SPDXID: SPDXRef-item7998443
+FileChecksum: SHA1: 3ec0aed0560019628017bdbd1fccc90c3ab9f7ac
+FileChecksum: MD5: 64bc78f4be935cd541caa81aa5cb6559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/CustomSearchBar.tsx
+SPDXID: SPDXRef-item7998444
+FileChecksum: SHA1: 31c6910d44092747d48d5be3fe247e7e0526280e
+FileChecksum: MD5: 3049d667d5d519b776f11324540229ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/App.tsx
+SPDXID: SPDXRef-item7998445
+FileChecksum: SHA1: 3aa23c8cda3acb8e21b4fcf12650f80c4e064553
+FileChecksum: MD5: 1d04227c64ebae1c76d6704f1eb86f6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Dialog.tsx
+SPDXID: SPDXRef-item7998446
+FileChecksum: SHA1: 4dfe674ab7a8287c2a512234f20d5a11b1fe3496
+FileChecksum: MD5: 8b5f2ad5b671b1ef3c8c78ee167e28cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/NetworkGraph.tsx
+SPDXID: SPDXRef-item7998447
+FileChecksum: SHA1: 6d876c96d51cd34b726f9734206d71652048c134
+FileChecksum: MD5: 32176bfc3248b961c77b56ca86f6dcd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Menu.tsx
+SPDXID: SPDXRef-item7998448
+FileChecksum: SHA1: a200fd2138fe39ff056011d5fa0e30e47cb4d4c4
+FileChecksum: MD5: 6a5aac5778f71fee7dad72a2c8a76df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/JobPreviewCard.tsx
+SPDXID: SPDXRef-item7998449
+FileChecksum: SHA1: 2ffdfec7d93b74801ddb42c32c88f9c9cc394246
+FileChecksum: MD5: 7f4f7f081daf8ce077d7f2281210dceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/DatasetDetailPage.tsx
+SPDXID: SPDXRef-item7998450
+FileChecksum: SHA1: 77db0d9ffd08f08968ac22e5e9bc9137d13938c6
+FileChecksum: MD5: 96ac00de238f86bf5681903c60ee13ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/Home.tsx
+SPDXID: SPDXRef-item7998451
+FileChecksum: SHA1: 3bbc0c75ecc293e823844ac1ed2cac8ac35f8ed2
+FileChecksum: MD5: 9afc066140bb0315fe6163b397db2479
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/components/DatasetPreviewCard.tsx
+SPDXID: SPDXRef-item7998452
+FileChecksum: SHA1: dfec702a940ab6dfb225fea9d10f9f49335c66ef
+FileChecksum: MD5: 2025e7e04b317dfe91fd5ffdf7bd7b90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/global_styles.css
+SPDXID: SPDXRef-item7998453
+FileChecksum: SHA1: 82773def646122671bc051c3c334fa632d48bee7
+FileChecksum: MD5: 27d73f8e3955e6c78ad428335f090f81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/config/__mocks__/tag-to-badge.tsx
+SPDXID: SPDXRef-item7998456
+FileChecksum: SHA1: d1624c6d24768f1e2509d7eb6be06a629a418071
+FileChecksum: MD5: 5e2c2560d8802bf91f23880650db7c0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/config/tag-to-badge.tsx
+SPDXID: SPDXRef-item7998457
+FileChecksum: SHA1: 3f7e16f40f7bd064b7bfcceb11fd99dea3114d33
+FileChecksum: MD5: 998616371f27fec58f999199e06dcfd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/types/api.ts
+SPDXID: SPDXRef-item7998459
+FileChecksum: SHA1: df1249db70abaeb7d6193e404c1c752d0052c515
+FileChecksum: MD5: 983727466b80c6eb4f04c4bdc6dc863f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/types/index.ts
+SPDXID: SPDXRef-item7998460
+FileChecksum: SHA1: 2343c60a9db0ec82f7a3876e5627bf1362073202
+FileChecksum: MD5: c38ea14fc5c74205fc71b55245e71981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/DatasetDetailContainer.ts
+SPDXID: SPDXRef-item7998462
+FileChecksum: SHA1: 654a4c1aa4fbe4883af40ceb034b50cb2ef82245
+FileChecksum: MD5: cce85d747b7781a26bff8e7e6e839599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/CustomSearchBarContainer.ts
+SPDXID: SPDXRef-item7998463
+FileChecksum: SHA1: f87f6b0cb4b973e910f5795b18c7fd4edc9e7912
+FileChecksum: MD5: bc7ad36b4724461ca0b5840d9007e555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/JobDetailContainer.ts
+SPDXID: SPDXRef-item7998464
+FileChecksum: SHA1: 0da5c78e63bf8e94315fbe6a4abf7b43d8e05300
+FileChecksum: MD5: 228b6e94648d53c342cb99100dc7826f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/HomeContainer.ts
+SPDXID: SPDXRef-item7998465
+FileChecksum: SHA1: 80dae83e6fb3a34e26dac7e3a9427d4412102876
+FileChecksum: MD5: 67508934f2867ad2cba5825fe86d942e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/ToastContainer.ts
+SPDXID: SPDXRef-item7998466
+FileChecksum: SHA1: 0293e9d6063ca95040927b6a1a7a7294d165ab11
+FileChecksum: MD5: b4e5e45bb116220ed8c01b7abb966b31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/FilterContainer.tsx
+SPDXID: SPDXRef-item7998467
+FileChecksum: SHA1: a6af2dab86e502a5188613cf63a90427f71bdeb2
+FileChecksum: MD5: 759791cc50972021d5c314017f849ec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/JobDetailContainer.ts~merged
+SPDXID: SPDXRef-item7998468
+FileChecksum: SHA1: b89f42a7d8e05ad43f6c62452a182f82d794a9a1
+FileChecksum: MD5: cd735b25ba512a754cf8cfda46a9e76f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/containers/NetworkGraphContainer.tsx
+SPDXID: SPDXRef-item7998469
+FileChecksum: SHA1: 64f725221a8103aa3a7917a0e32bdb9a7ca2c2d1
+FileChecksum: MD5: fb1163ccda27a48780a42416551ed910
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/reducers/namespaces.ts
+SPDXID: SPDXRef-item7998471
+FileChecksum: SHA1: f5868eae9878bc0423de91138fcecc448f4e407e
+FileChecksum: MD5: ce680af7740d2bbff7c195b71f24c07a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/reducers/display.ts
+SPDXID: SPDXRef-item7998472
+FileChecksum: SHA1: 0e6c3126d39142071bda514ff4724c502c810099
+FileChecksum: MD5: a98bba46887ed4e5f80ba393f6ec0cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/reducers/index.ts
+SPDXID: SPDXRef-item7998473
+FileChecksum: SHA1: 1f6417994c395e982ff148ccd702be493cc766af
+FileChecksum: MD5: 7fde25bcd7e81744ccce68fd3e225eb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/reducers/datasets.ts
+SPDXID: SPDXRef-item7998474
+FileChecksum: SHA1: 7966067f269a55bd5f3405966e69b3a41d384989
+FileChecksum: MD5: e3bd5915114e7d8cb669855f7f2d2aa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/reducers/jobs.ts
+SPDXID: SPDXRef-item7998475
+FileChecksum: SHA1: fe584f92f835a4a31e24c9199e0fd5b4607ecacc
+FileChecksum: MD5: 2c24c833544fd75f188b7ea59fc32453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/index.prod.html
+SPDXID: SPDXRef-item7998476
+FileChecksum: SHA1: dcd7c934ec3d8d246ecd6fbaee03ffaf0b99f1c6
+FileChecksum: MD5: 55e197a7da23ded38c937edffced8403
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/globals.d.ts
+SPDXID: SPDXRef-item7998477
+FileChecksum: SHA1: bdbad0983b512b786bbabbe5d2924aded4f72aee
+FileChecksum: MD5: 6e1599939a133f0e2439ede5fbdfc4bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/App.css
+SPDXID: SPDXRef-item7998478
+FileChecksum: SHA1: 697555262b0afaf6b90fdd62b7c1a9125f45b958
+FileChecksum: MD5: 8ab8631f2fd5df25beff068bc5b6b515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/index.css
+SPDXID: SPDXRef-item7998479
+FileChecksum: SHA1: ec8134bbc6c28dd7f47e12e2e7ea01f483c8fc3e
+FileChecksum: MD5: 88bbfb3170c5fac69c33d36290dbcd72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/img/we-logo.png
+SPDXID: SPDXRef-item7998488
+FileChecksum: SHA1: 34c093cd761083c82e3dd73b47540ccc89145ffd
+FileChecksum: MD5: 7844ec1664155524f5552c6fcf50fcaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/index.html
+SPDXID: SPDXRef-item7998489
+FileChecksum: SHA1: b7a6f648192e8fffebd4ee7441984d90df1a1487
+FileChecksum: MD5: 766077639bd8406e6395e5c1b78b5297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/constants/ActionTypes.ts
+SPDXID: SPDXRef-item7998491
+FileChecksum: SHA1: fc2e9ef0dd789d7e4b1c56a6da75811fc79dc1c5
+FileChecksum: MD5: 8e5348b127e5d6f4785ef00a436f8495
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/requests/namespaces.ts
+SPDXID: SPDXRef-item7998493
+FileChecksum: SHA1: c8c48a40b2229fbe00857a719c6f80bc6e7cf37f
+FileChecksum: MD5: b6a157b062afd442d3535f67095cf3e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/requests/index.ts
+SPDXID: SPDXRef-item7998494
+FileChecksum: SHA1: eb2062935e666e67c82c4adb8056220495006756
+FileChecksum: MD5: 13f5a684d273be6a959c5a37d2ac9fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/requests/datasets.ts
+SPDXID: SPDXRef-item7998495
+FileChecksum: SHA1: 63e95c69ece5fe69cfb3dcc4b1670fe882eaa1f5
+FileChecksum: MD5: 647f03f35f89d651f2362c225d8f9cfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/requests/jobs.ts
+SPDXID: SPDXRef-item7998496
+FileChecksum: SHA1: 79af45f4744baf2f8475b0acf6419a3e7f4b621c
+FileChecksum: MD5: 840c097104fb4eb9a96b3b660b2192cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/helpers/index.ts
+SPDXID: SPDXRef-item7998498
+FileChecksum: SHA1: 8e45f225a1094e3aa01c53f6f74fa6a0ceddb5fb
+FileChecksum: MD5: 126931abcb87032456dde7c4bb92d35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/serviceWorker.js
+SPDXID: SPDXRef-item7998499
+FileChecksum: SHA1: dec969a8616e0a958ce76101e5ab62e283fa3f30
+FileChecksum: MD5: 238842259766455a4b70e5a0459596f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/actionCreators/index.ts
+SPDXID: SPDXRef-item7998501
+FileChecksum: SHA1: 1c9e7c8411aaedab5820f2f0fc2f33b61e9325c0
+FileChecksum: MD5: b26e2f650fa9ef2d670631aa2eef79f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/index.tsx
+SPDXID: SPDXRef-item7998502
+FileChecksum: SHA1: efad71d7dff8037a267be94a79f583eb1c1b1f06
+FileChecksum: MD5: c6898ab0a727bdcb09802938a703f437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/src/App.test.js
+SPDXID: SPDXRef-item7998503
+FileChecksum: SHA1: 8bcbb8a0c47ea6131b5cac6bd2269cba1753705c
+FileChecksum: MD5: 076aa265faa2c720d7c3339398e14e1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/setupJest.ts
+SPDXID: SPDXRef-item7998504
+FileChecksum: SHA1: 3d11605b96efec45ef1317226a397686b9a83673
+FileChecksum: MD5: 9a8affeee03f0c96e62af0df7e2d09f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.eslintrc.js
+SPDXID: SPDXRef-item7998505
+FileChecksum: SHA1: 8617376d5c2bab6a6421e3dc27e823bd6701b893
+FileChecksum: MD5: 97342b6a3ea7855ddc2c9166da4e3d37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/packed-refs
+SPDXID: SPDXRef-item7998506
+FileChecksum: SHA1: 62e32a963f1a81bb0828dbef8bdc700e746a5bb5
+FileChecksum: MD5: 3e47b553dde881d546e2fd8a3dc1f983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/config/tag-to-badge.json
+SPDXID: SPDXRef-item7998508
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/setupProxy.js
+SPDXID: SPDXRef-item7998509
+FileChecksum: SHA1: 933f72d9cd4bb6bbb47b1391c2f16ff33d798386
+FileChecksum: MD5: a4ec71fd1e0b4f13edc7754625562b42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.dockerignore
+SPDXID: SPDXRef-item7998510
+FileChecksum: SHA1: 8b894ec0b3bbc33011392ad9bafeb1df2634db45
+FileChecksum: MD5: 3d10912d07e7bc8cd7d2faea51adb2d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/webpack.dev.js
+SPDXID: SPDXRef-item7998511
+FileChecksum: SHA1: cf8bdebe07d5cfecd1cd09038c81f842d4b6e68b
+FileChecksum: MD5: 3627d8db44aea2eae49c23fbabfcb6c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/jest.config.js
+SPDXID: SPDXRef-item7998512
+FileChecksum: SHA1: 3399752ea9a36110918015646c1aa28ba1d1ca03
+FileChecksum: MD5: 4664db12c7109b2e5ff5bc736b847bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.prettierrc.js
+SPDXID: SPDXRef-item7998513
+FileChecksum: SHA1: bee90d2865c590aa1c3aacc8867c4a5eee9f5085
+FileChecksum: MD5: 168f5af9607d4b7913486f9a797228b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/public/favicon.ico
+SPDXID: SPDXRef-item7998515
+FileChecksum: SHA1: 2dc8a9fcd1857d3602f4d4d3bb6ef94559997248
+FileChecksum: MD5: f434571ec08481de859935133e6dd69b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/public/manifest.json
+SPDXID: SPDXRef-item7998516
+FileChecksum: SHA1: c8ed12a2c9f2b7a3c30fca581cf1a9ebb64f85ba
+FileChecksum: MD5: 1bec2be617e37850e339e6ad8d48eb86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/public/index.html
+SPDXID: SPDXRef-item7998517
+FileChecksum: SHA1: e54ca416b133ec696c5ab6e435f7a4f8689ca4d6
+FileChecksum: MD5: c79c5e1a04482a0f43a1a0091e5de8e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item7998519
+FileChecksum: SHA1: 6702eea05836e3716766f5fd5178535738eb36bf
+FileChecksum: MD5: 40d92b31be48477f22249602239ddfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/webpack.common.js
+SPDXID: SPDXRef-item7998520
+FileChecksum: SHA1: 7d91c6fc57a52a9f366d83e094a37195a1f97604
+FileChecksum: MD5: 518abcf6b845bc8246dc5fdd60757ab7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.gitignore
+SPDXID: SPDXRef-item7998521
+FileChecksum: SHA1: 6b7e2a94928a495cd392f79f8bf13d129ceafaf6
+FileChecksum: MD5: 45ba5b437ad88b12c49acfe289836c25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docker-compose.yml
+SPDXID: SPDXRef-item7998522
+FileChecksum: SHA1: 27c1fb7d8173a58327cb2f4bccc3152b7f51122a
+FileChecksum: MD5: 49c12110b359cb525b8e1a20a2b05817
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/docs/images/preview.png
+SPDXID: SPDXRef-item7998525
+FileChecksum: SHA1: 63b2febeda43097bb25a550047723437cb5d7eac
+FileChecksum: MD5: e57a2bced00255d46ea77f8277f251fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/package-lock.json
+SPDXID: SPDXRef-item7998526
+FileChecksum: SHA1: a4a961a280f80b345ab6a49a8a7dbda325f7f80b
+FileChecksum: MD5: 8b9bf3a0a0cac95af72dae52c68ef10e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item7998528
+FileChecksum: SHA1: 198c2acd59cfce813d0926050bcb4fe1583a06da
+FileChecksum: MD5: 17d4e4c56f9468beba7291cd52c7c942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: marquez-web/Dockerfile
+SPDXID: SPDXRef-item7998529
+FileChecksum: SHA1: a07d19a0387faa80eb2c01dea8146aac37ce1593
+FileChecksum: MD5: ae0dde44b4a60e5447a338fe391f78e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Meta-Wrong-License-Statement
+LicenseName: Meta-Wrong-License-Statement
+ExtractedText: <text> Meta flag: Indicates an incorrect license statement, typically in package metadata where it differs from the stated license in the source code headers or documentation. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
