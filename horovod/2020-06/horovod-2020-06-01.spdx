@@ -1,0 +1,4466 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_horovod-2020-06-01.zip_1591124767.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-06-02T19:06:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: horovod-2020-06-01.zip
+PackageFileName: horovod-2020-06-01.zip
+SPDXID: SPDXRef-upload2512
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ed8b3d132d0063589dce5924f32066c2bc8ff397
+PackageChecksum: SHA1: d9a39797cb2c00d6b3f0ddc896133323b21a65d9
+PackageChecksum: MD5: c42b1b01a83690d7104d1bb34a585ed4
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2512
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: horovod/README.rst
+SPDXID: SPDXRef-item9501717
+FileChecksum: SHA1: fde04c181b25e8ccac815fea3589ace5ef8d2994
+FileChecksum: MD5: dc6438d4bb0a506bb408c39c972d4a91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/NOTICE
+SPDXID: SPDXRef-item9501714
+FileChecksum: SHA1: f1eb63ff3e447eeef87eb6aa92097f07450d3520
+FileChecksum: MD5: 1a10aec929836e7f7c40d0b89ca6c9ff
+LicenseConcluded: Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright 2017 onwards, fast.ai, Inc.
+Copyright 2018 Martin Krasser. All Rights Reserved.
+Copyright (c) 2001-2004 Idiap Research Institute (Ronan Collobert, Samy Bengio, Johnny Mariethoz)
+Copyright (c) 2006-2010 NEC Laboratories America (Ronan Collobert, Leon Bottou, Iain Melvin, Jason Weston)
+Copyright (c) 2006 Idiap Research Institute (Samy Bengio)
+Copyright (c) 2007–2018 The scikit-learn developers. All rights reserved.
+Copyright (c) 2011-2012 NEC Laboratories America (Koray Kavukcuoglu)
+Copyright (c) 2011-2013 NYU (Clement Farabet)
+Copyright (c) 2011-2014 Idiap Research Institute (Ronan Collobert)
+Copyright (c) 2012-2014 Deepmind Technologies (Koray Kavukcuoglu)
+Copyright(c) 2013, 2014, 2015, the respective contributors All rights reserved.
+Copyright (c) 2014- Facebook, Inc (Soumith Chintala)
+Copyright (c) 2014 Google Inc.
+Copyright(c) 2015, 2016 the respective contributors All rights reserved.
+Copyright (c) 2015 Google Inc. All rights reserved.
+Copyright (c) 2015, The TensorFlow Authors.
+Copyright (c) 2015 Yangqing Jia All rights reserved.
+Copyright (c) 2016 Facebook Inc.
+Copyright (c) 2016- Facebook, Inc (Adam Paszke)
+Copyright (c) 2016-present, Facebook Inc. All rights reserved.
+Copyright (c) 2017, Elviss Strazdiņš All rights reserved.
+Copyright (c) 2017, NVIDIA CORPORATION. All rights reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/runner.py
+SPDXID: SPDXRef-item9501519
+FileChecksum: SHA1: e424eeb7f4a0ce8c8f1d863c46b0e6a9241f4f79
+FileChecksum: MD5: e14b93b52101f008b0341bed81596d8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/util/network.py
+SPDXID: SPDXRef-item9501517
+FileChecksum: SHA1: 786c00181f48b5163a04ff2ca1d08311c7f99169
+FileChecksum: MD5: 607e9699dc74e1e7ea8994ea2fa914d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/config_parser.py
+SPDXID: SPDXRef-item9501506
+FileChecksum: SHA1: f08d76d08c29b43ae6810e9f5a74fe55ea167517
+FileChecksum: MD5: c329871e972c00600be8234ee60f3615
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/docs/summary.rst
+SPDXID: SPDXRef-item9501806
+FileChecksum: SHA1: 847e010decd44e7ba3f7ee05c092cae0ff65a733
+FileChecksum: MD5: 720d1ee46cca24932b2d31813d099d2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/get_gpu_resources.sh
+SPDXID: SPDXRef-item9501731
+FileChecksum: SHA1: 23196b3c59e48298e0efa27ef91ae411c77571c7
+FileChecksum: MD5: d902b72cf38efa8cec5ddaaf4b607537
+LicenseConcluded: Apache-2.0 AND LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-ASF-Header-1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/torch/handle_manager.cc
+SPDXID: SPDXRef-item9501542
+FileChecksum: SHA1: 0ea5c26e04022f896fa7b81eaacb528478700f37
+FileChecksum: MD5: 05c0efe3e5af473d68fe8ed1eef34796
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/handle_manager.h
+SPDXID: SPDXRef-item9501544
+FileChecksum: SHA1: f3fb67c7d2f7600a2a8ffad08a2eb89f149061c0
+FileChecksum: MD5: 88762b70280b858bea81ad1882bd5362
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/cuda_util.h
+SPDXID: SPDXRef-item9501560
+FileChecksum: SHA1: 536b8d565e8fa6acbee3c6b497bc25480cc095b2
+FileChecksum: MD5: e3546967d51419d396f184c7f310748d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/compression.py
+SPDXID: SPDXRef-item9501574
+FileChecksum: SHA1: ccd9219230213e5818f809ae1475fcccd23f8409
+FileChecksum: MD5: ec98ed74da4ef0ed5373bde06d5a80b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: tutorials/LICENSE
+SPDXID: SPDXRef-item9501884
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/torch/compression.py
+SPDXID: SPDXRef-item9501556
+FileChecksum: SHA1: 395e03739b5a71b32e6d07f09870d9a68192eda4
+FileChecksum: MD5: ee2507a245968309ce27f313a98a4b35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/util.h
+SPDXID: SPDXRef-item9501472
+FileChecksum: SHA1: 182bd74c65fadf8e089d1745ccc223570e07a2e3
+FileChecksum: MD5: fe23671af0e50d200f61685d552df322
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/cuda_util.cc
+SPDXID: SPDXRef-item9501476
+FileChecksum: SHA1: a7c99546d60b0c51f6dd44a3a5bece2d6bd3e2b7
+FileChecksum: MD5: a2f4f4900c160617b663ce23d7cefaf1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/cuda_util.h
+SPDXID: SPDXRef-item9501477
+FileChecksum: SHA1: 943bbf8e28c977240199f45953c9a2bbf2e79289
+FileChecksum: MD5: defdeef1e6626e1a62397cf78ed60a66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/optim/bayesian_optimization.h
+SPDXID: SPDXRef-item9501603
+FileChecksum: SHA1: a42fb2660b216f13d4618f8fb097194f3ddb17a2
+FileChecksum: MD5: aaab8665c5f551a4a7737703972ddd49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Martin Krasser. All Rights Reserved.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/secret.py
+SPDXID: SPDXRef-item9501498
+FileChecksum: SHA1: 02d3c8aa4d711b53c22367c3fe2461f01b79df04
+FileChecksum: MD5: a743505b7763b6863245feebf6e358cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/LICENSE
+SPDXID: SPDXRef-item9501718
+FileChecksum: SHA1: bbce9e5e2c16889a1fdf197556e6b052e337a895
+FileChecksum: MD5: ed89eb09ea9f2a9b9dd4bc666eaf1dea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/timeout.py
+SPDXID: SPDXRef-item9501502
+FileChecksum: SHA1: 5cabc6a80f3b2f3d6f80951bc423febb2cb0c24a
+FileChecksum: MD5: bd6939bb31a776dbdce51e3276a52f0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/mpi_lib/__init__.py
+SPDXID: SPDXRef-item9501536
+FileChecksum: SHA1: d32e6658524f2c2e295a895c8888ae369030541e
+FileChecksum: MD5: c5871074ca7aa2e21a25c1a1ff6bf5ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/driver/job_id.py
+SPDXID: SPDXRef-item9501691
+FileChecksum: SHA1: 0f9233d25155c634674ef886001e4f760b6bb1c5
+FileChecksum: MD5: eec638260b1e0a1bd86b191645ef1487
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/mpi_lib_impl/__init__.py
+SPDXID: SPDXRef-item9501541
+FileChecksum: SHA1: dc7961801dd8a0340f53e6d71e3a671c2e762d3d
+FileChecksum: MD5: e60eb20c283778caa2234a949372c6c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/stall_inspector.cc
+SPDXID: SPDXRef-item9501595
+FileChecksum: SHA1: 1b23d5c33bd0e7f0b6c3773cdaa177d9de21736c
+FileChecksum: MD5: 72a9a2250f2326606dc04b2633aaf884
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/hashes.h
+SPDXID: SPDXRef-item9501648
+FileChecksum: SHA1: af4302190bc80687f8526a24dc144995b7eecf66
+FileChecksum: MD5: 7e73063edafc7ff3d39734f7f46989bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/fusion_buffer_manager.cc
+SPDXID: SPDXRef-item9501660
+FileChecksum: SHA1: f8a875614a9d24a0eeb399156098e57432e62b39
+FileChecksum: MD5: 26c29e5773d57e79b628559b56207c15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/fusion_buffer_manager.h
+SPDXID: SPDXRef-item9501668
+FileChecksum: SHA1: a72c74c6e02b04a719893b82c07e95ad11b6c495
+FileChecksum: MD5: adba586631022149e006a7653b51f512
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/.readthedocs.yml
+SPDXID: SPDXRef-item9501719
+FileChecksum: SHA1: d6b049a496d6bee872426369eabb9b6ae11212a0
+FileChecksum: MD5: 60b735e22ab306f8e1eda12f143d3755
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow_mnist_eager.py
+SPDXID: SPDXRef-item9501723
+FileChecksum: SHA1: d7750c8215c6f7a45ff6774a523b96f2ded59c8a
+FileChecksum: MD5: 7957f16df012a614ca5d590e4f5f5891
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/memory_store.cc
+SPDXID: SPDXRef-item9501583
+FileChecksum: SHA1: fd243010f8113cdfea019cefc3dba6879f1138b3
+FileChecksum: MD5: 5e81aca9d9d862808be0839169d727a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/http_store.h
+SPDXID: SPDXRef-item9501584
+FileChecksum: SHA1: 15d5422e454bf0816a54a6911e3dedbcd28159e5
+FileChecksum: MD5: 2d01d6fb3bf8057fa9dbd4beafc0b70f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/http_store.cc
+SPDXID: SPDXRef-item9501590
+FileChecksum: SHA1: af482db856da953eb62a3cf2a44bef0f9c789b4b
+FileChecksum: MD5: 61e9014061651f22476d10b00327b4db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/gloo_store.h
+SPDXID: SPDXRef-item9501586
+FileChecksum: SHA1: 6fbe5cc7a84455ec5caba04b36be091fa30849b9
+FileChecksum: MD5: 2b3843e23ecd87f64df3b62ce8126ef6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/memory_store.h
+SPDXID: SPDXRef-item9501591
+FileChecksum: SHA1: 224044e7efc30c53f24102254ec2d7532fe9608b
+FileChecksum: MD5: 4a5f6b451b6a8555e091c91f0e912488
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/stall_inspector.h
+SPDXID: SPDXRef-item9501597
+FileChecksum: SHA1: c1132670123b1fc1bd5431b39bab7bf5580b4bbd
+FileChecksum: MD5: 7daabfb8cf572c76660e7f8ba507a7ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/optim/gaussian_process.h
+SPDXID: SPDXRef-item9501601
+FileChecksum: SHA1: 344a05f41b6d8ba60d41bb1853852cb0cb9f257c
+FileChecksum: MD5: 4c16fedfb718a4c761c4161f0ac8119f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Martin Krasser. All Rights Reserved.
+Copyright (c) 2007–2018 The scikit-learn developers. All rights reserved.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/gloo_operations.h
+SPDXID: SPDXRef-item9501617
+FileChecksum: SHA1: d2c54040728ff20b77a3b2d8f129c13a351cd305
+FileChecksum: MD5: d184f72a603b104583fada9032255b4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/optim/gaussian_process.cc
+SPDXID: SPDXRef-item9501602
+FileChecksum: SHA1: 51c94761fa1995a916f115fe7d982c5c6c63da4e
+FileChecksum: MD5: b833a333a6bda71f852fa88a71a2deae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Martin Krasser. All Rights Reserved.
+Copyright (c) 2007–2018 The scikit-learn developers. All rights reserved.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/optim/bayesian_optimization.cc
+SPDXID: SPDXRef-item9501600
+FileChecksum: SHA1: b09854fd542f43705db0f72d3b3bcfec789f4919
+FileChecksum: MD5: cf8b4494f59110e7c4c3b27c896f9bf5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Martin Krasser. All Rights Reserved.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/mpi_operations.h
+SPDXID: SPDXRef-item9501627
+FileChecksum: SHA1: 48a411ea834088b6658bfcb5e5f6c0abef7b8e20
+FileChecksum: MD5: f623494daf8a3d4b898828fd884b5a23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/mpi/mpi_context.h
+SPDXID: SPDXRef-item9501653
+FileChecksum: SHA1: 0675f2272de9fa68c6051bf5549944b24df0d31d
+FileChecksum: MD5: be6aa27f721f1ecef250a52ccb4d2433
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/half.cc
+SPDXID: SPDXRef-item9501635
+FileChecksum: SHA1: b052b258dda671f14c90272739625c5780908d76
+FileChecksum: MD5: 5919a885c6af3143a9a195fe73a31b40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/timeline.cc
+SPDXID: SPDXRef-item9501659
+FileChecksum: SHA1: 36de399a2f4218c211b596eb79da9f1d0dd37f42
+FileChecksum: MD5: f9303a762cb77f40f61b34d6c18e8fa5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/parameter_manager.cc
+SPDXID: SPDXRef-item9501645
+FileChecksum: SHA1: 77b100ddd820d440dc7096def2019845863dc4c9
+FileChecksum: MD5: e9a6b0c7f67664be0b96d89c978d9719
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/timeline.h
+SPDXID: SPDXRef-item9501666
+FileChecksum: SHA1: c47866d970a889704706e509f675ae93188de83d
+FileChecksum: MD5: d74d1ee91b47f7c9cfa0b6bba6eb13db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/parameter_manager.h
+SPDXID: SPDXRef-item9501661
+FileChecksum: SHA1: 9aeb4f5f8016737b49c5ef4830a43f7f6924be29
+FileChecksum: MD5: 6f4df8df3b4d03cc88a96caa8d1a18e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/tensor_util.cc
+SPDXID: SPDXRef-item9501467
+FileChecksum: SHA1: 1d678760391fd023b1cf09fe1967d1f08075c019
+FileChecksum: MD5: 20be91c2acb8708c2303677bb83b5ed2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow2_mnist.py
+SPDXID: SPDXRef-item9501741
+FileChecksum: SHA1: 2d0b36c0733790c53c91bc864a51216f8f81dd67
+FileChecksum: MD5: bfac922c47edf756e8709000706d72d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/tensor_util.h
+SPDXID: SPDXRef-item9501471
+FileChecksum: SHA1: 066fb2cb7345af97ab0446afad24cb3812c06df3
+FileChecksum: MD5: 441b1d8a9f9da151b17bd6fc6c6419ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/adapter.cc
+SPDXID: SPDXRef-item9501475
+FileChecksum: SHA1: 9646059cecfd6684ed6a010c165bbbd5b3efc9a5
+FileChecksum: MD5: b7ba376999106ec313fb9b2ba6194862
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/adapter.h
+SPDXID: SPDXRef-item9501474
+FileChecksum: SHA1: 34384c18276838ebf1f6f73b9e01cc7636fa8c02
+FileChecksum: MD5: c9db53376a5df71b14b411d0a5980c21
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/mpi_ops.h
+SPDXID: SPDXRef-item9501469
+FileChecksum: SHA1: 96b4325e4ac46a7be781311c0da45669e3128d07
+FileChecksum: MD5: 9859c69bfb1d0c701923a589dfb585ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/adapter_v2.h
+SPDXID: SPDXRef-item9501549
+FileChecksum: SHA1: 78463b856b943b0731f97e235979ae2b0ab573d4
+FileChecksum: MD5: 2d11e29409378aee18d26acf0edcd1db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/mpi_ops_v2.cc
+SPDXID: SPDXRef-item9501546
+FileChecksum: SHA1: 6e1d8bbaaf45f92685693ba55a7c65f980dec5d0
+FileChecksum: MD5: 39ec142e2f4c08cc4952b8320a3d1a06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/adapter.h
+SPDXID: SPDXRef-item9501555
+FileChecksum: SHA1: 9c7a971143b201d1242e38468937f12e01dd4a22
+FileChecksum: MD5: d85e3ccc8b227d2930a9fd95eaa847f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/adapter_v2.cc
+SPDXID: SPDXRef-item9501562
+FileChecksum: SHA1: d42e8adfeb2c678dfdbffdf12f6db97c2da4e25a
+FileChecksum: MD5: c6abbecaf433d50ea4eefe14184514f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/response_cache.h
+SPDXID: SPDXRef-item9501594
+FileChecksum: SHA1: b464f631338f4ede088c37db61cf32a5ce8a72e0
+FileChecksum: MD5: 100c5ad1f9069e341ba1d807941e05f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019, NVIDIA CORPORATION. All rights reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/interface.h
+SPDXID: SPDXRef-item9501554
+FileChecksum: SHA1: 3d2e8f82dc2cab37d94bd4557fce53f3766c8ce4
+FileChecksum: MD5: 21577905fb4efc8c1e194896bf45601b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum_mpi_operations.cc
+SPDXID: SPDXRef-item9501605
+FileChecksum: SHA1: 4a9f661d9d313d1476731b2597816d3895a3195b
+FileChecksum: MD5: 1c63f2e19b444ac6d6e6534669765287
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/collective_operations.cc
+SPDXID: SPDXRef-item9501613
+FileChecksum: SHA1: 1c3dbfcf01dfeb237bae08e4dfdfcc5f72e43987
+FileChecksum: MD5: 2510807474b569e6e7e7dc7086b81f87
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/collective_operations.h
+SPDXID: SPDXRef-item9501614
+FileChecksum: SHA1: 76c688080d483357f3ff0f80de6e99a68aaf413e
+FileChecksum: MD5: 763c269d65d73678c72c1e08f4f85a7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/ccl_operations.h
+SPDXID: SPDXRef-item9501616
+FileChecksum: SHA1: b5e5892816f2e2de3dd0100c67a91c7a473beefc
+FileChecksum: MD5: c03e875620fe71fbdce901161607a107
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Intel Corporation
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/operation_manager.cc
+SPDXID: SPDXRef-item9501619
+FileChecksum: SHA1: 16b487dde6c0ad468710d9bfde73b2ad45795c87
+FileChecksum: MD5: d4ab2529724e63e7265e80506caabf34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/operation_manager.h
+SPDXID: SPDXRef-item9501624
+FileChecksum: SHA1: 3aac7638452dc1eb6168642c73c6726bc360f6bd
+FileChecksum: MD5: bbabcaa5ba06c0e6ca3cf06cdee0e0d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum_mpi_operations.h
+SPDXID: SPDXRef-item9501625
+FileChecksum: SHA1: 13845a082834fdd76a11d8ebd8499e2fc9d04277
+FileChecksum: MD5: 7d20baba6a2ee88bc368a9867b1418d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum/adasum_mpi.h
+SPDXID: SPDXRef-item9501630
+FileChecksum: SHA1: 429252ec2d057e1d8a43a9a54f2b12b26838aa20
+FileChecksum: MD5: 08019182b747e7440f4a69b473922f83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum/adasum_mpi.cc
+SPDXID: SPDXRef-item9501632
+FileChecksum: SHA1: d5c34475e4cf6d1583548e01a533636415c9ec13
+FileChecksum: MD5: 93f771a46c2f5efab1bcd98c368a8e9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/host_hash.py
+SPDXID: SPDXRef-item9501504
+FileChecksum: SHA1: 5d0826526b0f91cf3b71cd077a16b1e345cd5182
+FileChecksum: MD5: c6bd89edb3a8714c69bba770f935e2a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/interface_cuda.h
+SPDXID: SPDXRef-item9501561
+FileChecksum: SHA1: 2fd710bdba3a7b3ca80883ba5afa0545a2d274f6
+FileChecksum: MD5: 611ea192f33b4ac364502f409c91b49b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/basics.py
+SPDXID: SPDXRef-item9501637
+FileChecksum: SHA1: d16b492e9b73fa679eb3226cf1c2a57026d5cb83
+FileChecksum: MD5: f2b39978afe04de953b99ed294db9bc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Uber Technologies, Inc.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/mpi/mpi_context.cc
+SPDXID: SPDXRef-item9501650
+FileChecksum: SHA1: 003832c6c30dbaef57bf4322c50efc0f74f2b072
+FileChecksum: MD5: b65ecc4cc39fb4165f2585b7d35f43ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/operations.h
+SPDXID: SPDXRef-item9501658
+FileChecksum: SHA1: 7790bed59e3a31c2f54ab3a672ecf51e601dd701
+FileChecksum: MD5: 581e0662957182b363fdd65f738bcfdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/wire/message_generated.h
+SPDXID: SPDXRef-item9501663
+FileChecksum: SHA1: 859e241eba1ecfd112446c65bc500e3130e9544c
+FileChecksum: MD5: 5423bdeb51239f47c054e5992a11baa1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow_mnist.py
+SPDXID: SPDXRef-item9501732
+FileChecksum: SHA1: b737293c15418408ecf5d7aa27ffb3f182c682c5
+FileChecksum: MD5: 52d094d2df8465132f4349a83e6f620f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/task/task_info.py
+SPDXID: SPDXRef-item9501711
+FileChecksum: SHA1: 3a3dd0c12fb5192ab36e152c13b45f29dddaf8d9
+FileChecksum: MD5: db2c7212dc0bd4563c9d01dc023a09b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/wire/message.fbs
+SPDXID: SPDXRef-item9501664
+FileChecksum: SHA1: 521bd366a2ef70134ad7929fe146e779f9fccb86
+FileChecksum: MD5: e712db3bad3be8096b1f7a425e0a61c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2017 Uber Technologies, Inc.
+Modifications copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/mpi_ops.cc
+SPDXID: SPDXRef-item9501470
+FileChecksum: SHA1: 86145402d57fc2bf3dc888055cf276b8bdef819e
+FileChecksum: MD5: 26a5d8f58b945f228c1ea0d0aea2c6d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/mpi_ops.py
+SPDXID: SPDXRef-item9501468
+FileChecksum: SHA1: 21d36d1a48ab2c52c7532677546ce3edabeb4b40
+FileChecksum: MD5: 079de349b493a9479e7724ca261f04c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/mxnet/__init__.py
+SPDXID: SPDXRef-item9501473
+FileChecksum: SHA1: 76094316617167a481934361fde41a88a2b06805
+FileChecksum: MD5: 059597576ae3ba40ad0f268adfda1f0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/keras/callbacks.py
+SPDXID: SPDXRef-item9501480
+FileChecksum: SHA1: 6ee708a7be38bcc3997222bf02db73d421c2686c
+FileChecksum: MD5: 2f060e37941a1b9634387cc46ccf97df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/keras/elastic.py
+SPDXID: SPDXRef-item9501479
+FileChecksum: SHA1: a049301d7a8e540e0dbacb9d31bf09563fdcbdc7
+FileChecksum: MD5: 2ddfe665ef7cb1c36a1715428abb2626
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/js_run.py
+SPDXID: SPDXRef-item9501483
+FileChecksum: SHA1: ffaa29786e6d2135f29ba51d5eecd10cb60f6ef4
+FileChecksum: MD5: 9fddb8736f944d6002f2c3a1f9e5172b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2020. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/keras/__init__.py
+SPDXID: SPDXRef-item9501481
+FileChecksum: SHA1: 2fd32b94e82a8c9754167613b078f5618bec2715
+FileChecksum: MD5: c0818f92aa4b62c263922efc1006cce9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/gloo_run.py
+SPDXID: SPDXRef-item9501484
+FileChecksum: SHA1: 987ad886f4f16a7d2d55a230d5756a32262f185a
+FileChecksum: MD5: 960b7873a4e3473cda9bf68e9b6324a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/driver/driver_service.py
+SPDXID: SPDXRef-item9501486
+FileChecksum: SHA1: 2e6b6fbf7fcdf79ea5579f2aeb3e88a89d49b3ab
+FileChecksum: MD5: 638fb179643e59af979bd8d7aea732ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/service/driver_service.py
+SPDXID: SPDXRef-item9501490
+FileChecksum: SHA1: ffdb7ee12d318f4b10dbbf51dd51e8fefd04257b
+FileChecksum: MD5: db64ef11c297641280ef7141f749bc51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/service/task_service.py
+SPDXID: SPDXRef-item9501492
+FileChecksum: SHA1: e709ea18d1d6a2642f263d4d55f64289c8919ecc
+FileChecksum: MD5: dc055c2f4d19d2b1f64acf58cfd4fc0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/safe_shell_exec.py
+SPDXID: SPDXRef-item9501496
+FileChecksum: SHA1: 81d87b0689db180d3332f72386cdc073bbc0da6f
+FileChecksum: MD5: 66a48ed8a13024a91f514a70888708f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/settings.py
+SPDXID: SPDXRef-item9501497
+FileChecksum: SHA1: bec5b4fbd716cc4c8aa6e7d4c87c55dc20efe177
+FileChecksum: MD5: 227bf7884d3b5bd61aeb74f41944bc82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/env.py
+SPDXID: SPDXRef-item9501500
+FileChecksum: SHA1: 42e2dcd2af8041e001c86a0a8469581b699fda13
+FileChecksum: MD5: 4e6bf815c2a7019345daee1aaf55e37a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/tiny_shell_exec.py
+SPDXID: SPDXRef-item9501501
+FileChecksum: SHA1: 26f3d494d71e2d91dfb317be2ff9ed43fde979d8
+FileChecksum: MD5: 8ba6c2051b40eff4cf661e98ab11d299
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/hosts.py
+SPDXID: SPDXRef-item9501499
+FileChecksum: SHA1: 00a3b1a86f4c66830b2a47e4387a30a5ca6b0b24
+FileChecksum: MD5: 71fe7e0dc822d7c3159cc548eb539015
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/network.py
+SPDXID: SPDXRef-item9501505
+FileChecksum: SHA1: 0370b5e0737eee76fa47aefc62d1824b82c529bd
+FileChecksum: MD5: 4edc5fe8b8724b1bca359ebb4b73a49e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/codec.py
+SPDXID: SPDXRef-item9501495
+FileChecksum: SHA1: 986d381274ff80cee2bda67d6de7bec2c1cf00f6
+FileChecksum: MD5: 945c1a0ee2b607d76a16239332b663c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/http/http_server.py
+SPDXID: SPDXRef-item9501509
+FileChecksum: SHA1: cf84ef17be77ce3fd591317ed677410004efff06
+FileChecksum: MD5: 96758aaec67a2b3f758b904010336426
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/http/http_client.py
+SPDXID: SPDXRef-item9501510
+FileChecksum: SHA1: 33f9e1c26a1e1e463d624b8650196980f79b8a36
+FileChecksum: MD5: 162ed3cf867db02691c5800098c24565
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/mpi_run.py
+SPDXID: SPDXRef-item9501507
+FileChecksum: SHA1: 1da95cc54e663715d33459fe45f74a110f383fed
+FileChecksum: MD5: a6fd59eb50babeac5573e7f10199053c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/__init__.py
+SPDXID: SPDXRef-item9501512
+FileChecksum: SHA1: cc8b5976b641d51035c2e5fd365cac89a50932d8
+FileChecksum: MD5: 6c4ca9b706a1f7f75db1397290be7b90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/util/cache.py
+SPDXID: SPDXRef-item9501515
+FileChecksum: SHA1: 79dd8ff981e4b350d519af51e9eaa7cc8d98450a
+FileChecksum: MD5: 2db18880636bac6cfaed5729cef70f7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/util/lsf.py
+SPDXID: SPDXRef-item9501518
+FileChecksum: SHA1: 93fe73968a711870cd0ef20ce7ba2677ecf8a5c0
+FileChecksum: MD5: c2d836c38e8648da4fea961365ac5c9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright IBM Corp. 2020. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/registration.py
+SPDXID: SPDXRef-item9501522
+FileChecksum: SHA1: 393407c7a7ee9cd9b59aee886177c5eeba619c50
+FileChecksum: MD5: 98d88e02f2425c8938f37d919f45b387
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/discovery.py
+SPDXID: SPDXRef-item9501523
+FileChecksum: SHA1: 701a361038796e6c2def0ec3d0d8dd277293aaaa
+FileChecksum: MD5: 0766d77a2904200b38fc46a9d2c8a30a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/task_fn.py
+SPDXID: SPDXRef-item9501520
+FileChecksum: SHA1: 45c6aed34aabd52ba0a6313bd193a490e8f36e4c
+FileChecksum: MD5: 28623cd5d6c1fc1addf4fc3ae7417383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/util/threads.py
+SPDXID: SPDXRef-item9501514
+FileChecksum: SHA1: c928b0071618421b66180cea3d4941cd13519378
+FileChecksum: MD5: 72aa8de7c4d3da0e29baa2e54181175b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/settings.py
+SPDXID: SPDXRef-item9501524
+FileChecksum: SHA1: 291fb8bd09ad519c553624c4ed6fa3ca4692b1a9
+FileChecksum: MD5: be8efeb472f01e7e6f4d238eca6db756
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/driver.py
+SPDXID: SPDXRef-item9501525
+FileChecksum: SHA1: d3dd49e2d66d22ec5b6a1717d30b16dbe40f742f
+FileChecksum: MD5: e603959c793236e173239bf1126375fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/rendezvous.py
+SPDXID: SPDXRef-item9501526
+FileChecksum: SHA1: 366227e27299df6b163d86e28cabf5ce224052f4
+FileChecksum: MD5: f590a84d46c10e0b1f0ca2715b8c7bed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/worker.py
+SPDXID: SPDXRef-item9501528
+FileChecksum: SHA1: 264deeffc54363310156b6dc48ead83170a5982e
+FileChecksum: MD5: f888ee2b1968e1e87d8e31ea19ade469
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/task/task_service.py
+SPDXID: SPDXRef-item9501531
+FileChecksum: SHA1: 2ae3f5934b914886d1292ebe64cc953b5a444670
+FileChecksum: MD5: 29be1e3910d6ab03743e48cd1fbfff12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/tensor_util.cc
+SPDXID: SPDXRef-item9501534
+FileChecksum: SHA1: cf97de70c8447ef3033021429e72c3a177b40e5f
+FileChecksum: MD5: f30d9a06b4fef04d6e8d1257ced9a4c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/run/run_task.py
+SPDXID: SPDXRef-item9501532
+FileChecksum: SHA1: 4c5439bfe6342137c21d90ae7ea7d900fd6ebf65
+FileChecksum: MD5: 5cd4eb6023c1487f861e9931cd0f25d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/ready_event.cc
+SPDXID: SPDXRef-item9501538
+FileChecksum: SHA1: 1bc83e5792c7f76100a01049bee63696f036920b
+FileChecksum: MD5: 85e891fee330890b6a9c8333109c0b9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/optimizer.py
+SPDXID: SPDXRef-item9501537
+FileChecksum: SHA1: cd26bfb15e11abb5da1a7e5b1060c9749f12b18a
+FileChecksum: MD5: 4fcbe86d0ce718a935cb1b73e7513b3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/ready_event.h
+SPDXID: SPDXRef-item9501543
+FileChecksum: SHA1: ff8eed48b0590cf4c7a3a47aaada9df6a0061b15
+FileChecksum: MD5: ec76869c6c834f26d63c12402c5b905a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/elastic.py
+SPDXID: SPDXRef-item9501539
+FileChecksum: SHA1: 650cfb161d0200e5d04208b8f6c6f80269503fd0
+FileChecksum: MD5: 4753be8dba949967f2846282e202d89a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/sync_batch_norm.py
+SPDXID: SPDXRef-item9501545
+FileChecksum: SHA1: 2173a3834454dfd812f47152ba157e629a00c27e
+FileChecksum: MD5: 4163232dbf4bab6e8e8288cfe7baefaa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright 2020 Maka Autonomous Robotic Systems </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/mpi_ops.h
+SPDXID: SPDXRef-item9501550
+FileChecksum: SHA1: af8568ebca207c4a843996fe22574aed7bbeca2d
+FileChecksum: MD5: a563c1da6e7c4e1080629cb14931df6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/mpi_ops.py
+SPDXID: SPDXRef-item9501547
+FileChecksum: SHA1: 1c5ec269b57a4327b2041b166db055c0150c96ca
+FileChecksum: MD5: d80116f8eff08bf70210e03b7e1c530b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/functions.py
+SPDXID: SPDXRef-item9501548
+FileChecksum: SHA1: ec89d0780d3407b3aebf0589d0dfbf401ab804ec
+FileChecksum: MD5: 107a0eae2219eab2de9b4023b3e6220e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/mpi_ops.cc
+SPDXID: SPDXRef-item9501551
+FileChecksum: SHA1: 17e45f5f1d45c2b04e3bfe165a16aafc093c104e
+FileChecksum: MD5: cb5ec1d1af9fec5581f4bd33b30fe1ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/tensor_util.h
+SPDXID: SPDXRef-item9501552
+FileChecksum: SHA1: 33dd8977374fef5b357630b4130cc51db30a922a
+FileChecksum: MD5: 8370754772636a49dd19dbbe14db5415
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/__init__.py
+SPDXID: SPDXRef-item9501553
+FileChecksum: SHA1: 09caf71dbba76ac1d680fef447dc3b3e66f2ee60
+FileChecksum: MD5: 3f5bd5af96f9b2e8a293b7bc28bf27ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/adapter.cc
+SPDXID: SPDXRef-item9501558
+FileChecksum: SHA1: 10508c2dc7ca3d219bbddcd34991a0d876a3c125
+FileChecksum: MD5: e7e5de3872886be89aa5d568bed4f40f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/torch/cuda_util.cc
+SPDXID: SPDXRef-item9501559
+FileChecksum: SHA1: 7fb6ce31b25265239327d3809ec01503df94e2cf
+FileChecksum: MD5: f0eb7f9b734c69d944b747b395295422
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/keras/__init__.py
+SPDXID: SPDXRef-item9501567
+FileChecksum: SHA1: b26e106c785e61b07886c7123ac5c86bd645911b
+FileChecksum: MD5: 44dc53f98110c4284abc88938a7ac2ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/util.py
+SPDXID: SPDXRef-item9501568
+FileChecksum: SHA1: 31f7ae004faca7974ec6502f0aa8f4fab92ac240
+FileChecksum: MD5: e5625ad3f47f0fde3d615a3a3e26fb91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/elastic.py
+SPDXID: SPDXRef-item9501569
+FileChecksum: SHA1: f9879001fb83a1075130914b809515774647b1e0
+FileChecksum: MD5: b168c3c282965506f18effa0966e4b02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/keras/elastic.py
+SPDXID: SPDXRef-item9501565
+FileChecksum: SHA1: c89a25e088ebea9859f144dd02372ffe95bc1bf8
+FileChecksum: MD5: 98b0f913a0139e1d4f7c6cb4aac7fd16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/keras/callbacks.py
+SPDXID: SPDXRef-item9501566
+FileChecksum: SHA1: 31acd76e9ed2a8cb5a31528ae9efb6bafe615ba6
+FileChecksum: MD5: 8263de7279f9ae8b04a453fe642ef5f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/mpi_ops.py
+SPDXID: SPDXRef-item9501570
+FileChecksum: SHA1: e13414792f9595b30912fa291141ea358f8ea50c
+FileChecksum: MD5: 04290d3211e5de7b285d1d99ed1f1d07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/functions.py
+SPDXID: SPDXRef-item9501571
+FileChecksum: SHA1: 4922c8550793e75cc9a3b5b55fc4027f7384ae39
+FileChecksum: MD5: 9030d6790879c5a6620d487dd6cc9fcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/mpi_ops.cc
+SPDXID: SPDXRef-item9501572
+FileChecksum: SHA1: 9cd3bdb81e52e36ba844e178776b0e4811163052
+FileChecksum: MD5: d1131271604da71f6cabb01ee352db8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2018 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/_keras/elastic.py
+SPDXID: SPDXRef-item9501576
+FileChecksum: SHA1: 224d8a3510fd4fd1440582c1582704deba83f868
+FileChecksum: MD5: 9469eef063bccab0dd80fc91d276f3e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/_keras/callbacks.py
+SPDXID: SPDXRef-item9501577
+FileChecksum: SHA1: 3da39b3d7d33f3a5ff21927e4b5f6d81a2f02fcd
+FileChecksum: MD5: 0dc6fca5e14da9fcca1a4dce3b3719b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/gloo_controller.cc
+SPDXID: SPDXRef-item9501585
+FileChecksum: SHA1: efc24d82a6dc70a96ba12e6afabcfba9c624c8dc
+FileChecksum: MD5: a0dc45d50004172f7a16ed54bffaa092
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/tensorflow/__init__.py
+SPDXID: SPDXRef-item9501573
+FileChecksum: SHA1: 7cce3f72716e2874ff23a23fee28f1fc8085f808
+FileChecksum: MD5: e903504ea2d2adf57e6b57af25ade33e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/_keras/__init__.py
+SPDXID: SPDXRef-item9501578
+FileChecksum: SHA1: 5118dde791042f360d4fbffa871a7b3c8dadb975
+FileChecksum: MD5: db84f9cd230482491a2f1a4ce8139b50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/gloo_context.cc
+SPDXID: SPDXRef-item9501588
+FileChecksum: SHA1: d1228dfa4a93be8658720d86d0f02cf289f93379
+FileChecksum: MD5: 0e47bd03d6ba2b8949cf6a15ce416f9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/gloo_controller.h
+SPDXID: SPDXRef-item9501587
+FileChecksum: SHA1: 64425161a9f8b895b418d3d4f46c4beef9343e0c
+FileChecksum: MD5: 921f7fe7260336ce3c133c54d5b5b895
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/gloo/gloo_context.h
+SPDXID: SPDXRef-item9501589
+FileChecksum: SHA1: 085486ac89ed60def87ad2e7fbf0d00ad6f182b1
+FileChecksum: MD5: 54124ea9abdba1858e67e3e3d408c59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/common.cc
+SPDXID: SPDXRef-item9501593
+FileChecksum: SHA1: 1e435c3d6d6e144a30d8ba11e2a387bbfd3fa220
+FileChecksum: MD5: 62497b06ce9354e658c17b560395def6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+copyright (C) 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/util.py
+SPDXID: SPDXRef-item9501592
+FileChecksum: SHA1: 1461aaad717cbf5bf4b19180ece3c8dcc32ddc6b
+FileChecksum: MD5: 7ec6ea362cf2493e3e38ba410bbc06ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/elastic.py
+SPDXID: SPDXRef-item9501596
+FileChecksum: SHA1: f611998e079572b4d48755bd59578a6efde39781
+FileChecksum: MD5: 2521d4b95bf4845c9b4187ee655f0871
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/message.h
+SPDXID: SPDXRef-item9501598
+FileChecksum: SHA1: 36ba788b828098c7ca37f8c4a6d5ede65978362c
+FileChecksum: MD5: 7bd4c05cb2cbd27840f6b765043442e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/mpi_gpu_operations.h
+SPDXID: SPDXRef-item9501606
+FileChecksum: SHA1: 84a1f4c9f14a24cee48b40130b30c2a2d720332c
+FileChecksum: MD5: 485a5089c53f11190432a265dc4685fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/hip_operations.cc
+SPDXID: SPDXRef-item9501607
+FileChecksum: SHA1: c2ae73a0451fd473cf07a74924ba5eba228437a0
+FileChecksum: MD5: 0273024cbec8c7b2092dd48918f8f86b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum_gpu_operations.h
+SPDXID: SPDXRef-item9501609
+FileChecksum: SHA1: 5a4cd9a9b5be2429dd6c3bd590b8eb7849838b97
+FileChecksum: MD5: efcc0e989b1864c2355fb45239d00b40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/gloo_operations.cc
+SPDXID: SPDXRef-item9501610
+FileChecksum: SHA1: 18f1dedc7efc71ed50b7d446c7c8e90163b12ebf
+FileChecksum: MD5: 6cd826cc183c8d9e6c6f1c8ce2222cd4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/mpi_gpu_operations.cc
+SPDXID: SPDXRef-item9501608
+FileChecksum: SHA1: a92c129d41f05270e21d5ca7adab0e2897ae6cc3
+FileChecksum: MD5: 8cb7eb80b2d65fb56b777df5b105906c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/ddl_operations.h
+SPDXID: SPDXRef-item9501611
+FileChecksum: SHA1: 221763add9df0a836536a6425295fbc59222a65e
+FileChecksum: MD5: 9c13d4e2c54f4bb9a559fa6b5a7c04a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/mpi_operations.cc
+SPDXID: SPDXRef-item9501612
+FileChecksum: SHA1: 7eea2bd952b2839352f878d99cf22b8d643d18a9
+FileChecksum: MD5: c306dd42ac1584b84f600fcf4b4ec42a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/cuda_operations.cc
+SPDXID: SPDXRef-item9501620
+FileChecksum: SHA1: 6c13fb80a27bba5439b158ae446bee6339f86123
+FileChecksum: MD5: a6c7f31fbcd3f325b456570c6e179a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum_gpu_operations.cc
+SPDXID: SPDXRef-item9501621
+FileChecksum: SHA1: 8311fe4d20d040df7bcd72bf1f8e685fb5c957bd
+FileChecksum: MD5: 336d82b61ee6d873f3b781b48d341c59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/gpu_operations.h
+SPDXID: SPDXRef-item9501622
+FileChecksum: SHA1: 1f2ae3a2be41009832fa87266d68d66b05f2da62
+FileChecksum: MD5: 9bb03d37e73aa3c2f804f5b320afc1c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/ddl_operations.cc
+SPDXID: SPDXRef-item9501618
+FileChecksum: SHA1: d6f995150337d00bbd7ae4fa0c3f436bc5e2ef16
+FileChecksum: MD5: 14db9ff8d5abe595e57eb669e8df6554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/nccl_operations.h
+SPDXID: SPDXRef-item9501623
+FileChecksum: SHA1: c0c8d275c4fa7598679295c216b7a8396ab22b6d
+FileChecksum: MD5: 44d492aaa057718c8be54d70f9e4c3db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/gpu_operations.cc
+SPDXID: SPDXRef-item9501626
+FileChecksum: SHA1: b5d0d36aa2da4b0423de6354d6baebe06d6f410c
+FileChecksum: MD5: 119c4048e5355ca7ad546c0dda45e572
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/nccl_operations.cc
+SPDXID: SPDXRef-item9501628
+FileChecksum: SHA1: 79924591c82f721a276447f88c5182164731d0ea
+FileChecksum: MD5: 83a5e074e7070b026b67f7020a47b5e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/adasum/adasum.h
+SPDXID: SPDXRef-item9501631
+FileChecksum: SHA1: 0e5bf6eb30ff8f2bf7678a326262abb352094f69
+FileChecksum: MD5: 33b7abb8e67207268b6a002b5c1a8fdd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/controller.h
+SPDXID: SPDXRef-item9501638
+FileChecksum: SHA1: c9ac1706eae22986c89b1bcf2a07721d95a17e5c
+FileChecksum: MD5: 15774ea58d8f99f7979bb565e87df429
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/global_state.h
+SPDXID: SPDXRef-item9501636
+FileChecksum: SHA1: 5357f63302699543890177e5f3c63e4ddc31592f
+FileChecksum: MD5: 8892fe49ebafdbdd06c86ec37543a517
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/ccl_operations.cc
+SPDXID: SPDXRef-item9501633
+FileChecksum: SHA1: e6265319019857ef5bea00cb290d808307419758
+FileChecksum: MD5: 0f04a29916cc00feaf243c7aeded2ccb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Intel Corporation
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/tensor_queue.h
+SPDXID: SPDXRef-item9501639
+FileChecksum: SHA1: e9aac30f6fe5be011ec8aab94d8b3789453698ec
+FileChecksum: MD5: 37a3072d3653830021195b551a2da0ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/utils/env_parser.cc
+SPDXID: SPDXRef-item9501641
+FileChecksum: SHA1: bd2775932bab2a06b6f2ca122fb319c6a44e773a
+FileChecksum: MD5: 802ff16f2d5a03754dbba8c05e37ea7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/common.h
+SPDXID: SPDXRef-item9501643
+FileChecksum: SHA1: 60238c1ae6d844fac7d1d060169a92ca6536dd23
+FileChecksum: MD5: e9e4cbf337e162e7d9b4dc3b203d6769
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+copyright (C) 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/utils/env_parser.h
+SPDXID: SPDXRef-item9501642
+FileChecksum: SHA1: 69fdac7bb0f44f8617b1705d9c4b043dc968a422
+FileChecksum: MD5: 241c3881e9af25562d5d834abd74c68e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/message.cc
+SPDXID: SPDXRef-item9501644
+FileChecksum: SHA1: 58ea4d1bf49a635021b81b6f2870303ef68c4d4f
+FileChecksum: MD5: ff63104998d6204473faa5c822007b30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/thread_pool.h
+SPDXID: SPDXRef-item9501647
+FileChecksum: SHA1: ca8927850fd6491a92ba72f7bc55e0cff0abe647
+FileChecksum: MD5: 04285a4737e9471a64c30540d2dd0573
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019, NVIDIA CORPORATION. All rights reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/mpi/mpi_controller.cc
+SPDXID: SPDXRef-item9501651
+FileChecksum: SHA1: 0403ef1b5e97c0b77870845b89a9611da1613bb5
+FileChecksum: MD5: 3372b2987f021699a3881d6a479b63e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/operations.cc
+SPDXID: SPDXRef-item9501646
+FileChecksum: SHA1: 177a525b7232d7cd98900ff08d5710156fac8c69
+FileChecksum: MD5: 6dc44c58324b85ad68b61732bb030491
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2019 Intel Corporation
+copyright (C) 2019, NVIDIA CORPORATION. All rights reserved.
+copyright (C) 2019 Uber Technologies, Inc.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/mpi/ddl_mpi_context_manager.cc
+SPDXID: SPDXRef-item9501652
+FileChecksum: SHA1: 8e2d185c41eabb3979e224309ace5ecd5a2a431c
+FileChecksum: MD5: 865c52b1b67d08b8d948ec2d23a9555b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/mpi/mpi_controller.h
+SPDXID: SPDXRef-item9501654
+FileChecksum: SHA1: 642c25452beb54ca8207743c651aa65368f75d18
+FileChecksum: MD5: 3fb9df960eaa01e32cd5649e830858a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/mpi/ddl_mpi_context_manager.h
+SPDXID: SPDXRef-item9501655
+FileChecksum: SHA1: c46712bfd381f4b72723dc065dbd154556d5f22c
+FileChecksum: MD5: 2c50939e84a01c5271e2a1265c480ba1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/response_cache.cc
+SPDXID: SPDXRef-item9501656
+FileChecksum: SHA1: f75fe62bfa55602fa4628cef5bb341d870a8ddf5
+FileChecksum: MD5: 59b2c3ae2880c9529e0e72a6bf9709de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019, NVIDIA CORPORATION. All rights reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/thread_pool.cc
+SPDXID: SPDXRef-item9501667
+FileChecksum: SHA1: 45f7a6e67a87822fb71e05060079659274fafcea
+FileChecksum: MD5: 8a31e4259111fba4a9c72c6e58e3c545
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019, NVIDIA CORPORATION. All rights reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/controller.cc
+SPDXID: SPDXRef-item9501669
+FileChecksum: SHA1: be6c7a1d4f63bfe2c01cdb745b826709ba506c61
+FileChecksum: MD5: bfe8d0ab3a49303b29d844a757127e56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/exceptions.py
+SPDXID: SPDXRef-item9501665
+FileChecksum: SHA1: eb19e390363d009f77b94606b1427d721332c305
+FileChecksum: MD5: d5fba45681a154020a6184d83bae8cd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/tensor_queue.cc
+SPDXID: SPDXRef-item9501670
+FileChecksum: SHA1: b3bcc39c1629ebc3491e5d193f4777a991635b61
+FileChecksum: MD5: b3d43ade852a4548292106e8b58e5335
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/util.py
+SPDXID: SPDXRef-item9501674
+FileChecksum: SHA1: c7dd8c2192635cf3a2bf319512658dbf660f57f6
+FileChecksum: MD5: e8e82e9d9743b7f7537061a1a66dc85e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/optimizer.py
+SPDXID: SPDXRef-item9501675
+FileChecksum: SHA1: 83ac9fe78bd3d1c4569bc2de77719c46b264a5ea
+FileChecksum: MD5: 55d5b85a54c90a57ff04f8270172daa8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/remote.py
+SPDXID: SPDXRef-item9501676
+FileChecksum: SHA1: 34e261016f2c186326f1c091d1ef4f44c2d66bf2
+FileChecksum: MD5: 54dd5436080955718fd5526e84620b23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/__init__.py
+SPDXID: SPDXRef-item9501679
+FileChecksum: SHA1: a0889514e992edafe7d21ec3e0d6091ce027f305
+FileChecksum: MD5: a5c824bb2b27f7bf9f426ee65d0ab360
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/bare.py
+SPDXID: SPDXRef-item9501677
+FileChecksum: SHA1: 12893ac93efc679c95953df4e3897f3bb01a29b4
+FileChecksum: MD5: ff2e9b770d36a4a0322e85c569154594
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/estimator.py
+SPDXID: SPDXRef-item9501678
+FileChecksum: SHA1: 069170a928713bb5058dde8e9b1b9b71b2963f21
+FileChecksum: MD5: bac6b14c46a9225faa8c2055c70c4a4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/torch/util.py
+SPDXID: SPDXRef-item9501682
+FileChecksum: SHA1: 38128b8a8fb2925dde41625f2b8d424bcba93fb9
+FileChecksum: MD5: e618282f840ef1e955ae3205286ac275
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/torch/estimator.py
+SPDXID: SPDXRef-item9501684
+FileChecksum: SHA1: 6476ec43ae1fa3a7751370b1b5311f83e92bf1b6
+FileChecksum: MD5: d8753fb378685a0ec02a188150205895
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/keras/tensorflow.py
+SPDXID: SPDXRef-item9501680
+FileChecksum: SHA1: ff716c5fce3fcb1a1d377ed07664533d73140aca
+FileChecksum: MD5: ed131ab1205f48d3a29e4451f3560360
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/torch/remote.py
+SPDXID: SPDXRef-item9501683
+FileChecksum: SHA1: 258bc2b7d45e9be5ed3c18dea84ea33806946834
+FileChecksum: MD5: 4d9f718970fe3484c68318f111ce1a3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/torch/__init__.py
+SPDXID: SPDXRef-item9501685
+FileChecksum: SHA1: 8967e56d7cbae26f4ae03e16e7ea60da8f1bd427
+FileChecksum: MD5: ba3318ee3d8edcc5303462b13d90affe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/driver/driver_service.py
+SPDXID: SPDXRef-item9501688
+FileChecksum: SHA1: d206a0c6d44598bd9d9d04d7263e0535a1fce5e3
+FileChecksum: MD5: 68feadd4ea0fe834e96b54caf90e3b0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/gloo_run.py
+SPDXID: SPDXRef-item9501686
+FileChecksum: SHA1: f44102569e06b4297afe05afde802d0613aaf88b
+FileChecksum: MD5: f708a5e1afd94cf3f377e9adebc4a183
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/driver/mpirun_rsh.py
+SPDXID: SPDXRef-item9501689
+FileChecksum: SHA1: 6b73dbb82ef8594c9f59902f159dcc0d75000f4b
+FileChecksum: MD5: 5385158515161e4ee581180f927f25d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/driver/rsh.py
+SPDXID: SPDXRef-item9501690
+FileChecksum: SHA1: 94d5efc6d276caa5e3c38b32f6e76260943b3007
+FileChecksum: MD5: b554a3235dfdf6e37e8d0cca929ef1b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/store.py
+SPDXID: SPDXRef-item9501694
+FileChecksum: SHA1: e94e6c7e5e31683418edc30dd118572982261e4e
+FileChecksum: MD5: 81b5d724b1def74636258977878ef389
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/util.py
+SPDXID: SPDXRef-item9501695
+FileChecksum: SHA1: 546f6812e9dca5a1bc29bc4dd06a3a78fb4fde44
+FileChecksum: MD5: 0fe00397f7fbc1a2b7346b56ad560a15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/estimator.py
+SPDXID: SPDXRef-item9501698
+FileChecksum: SHA1: b68f95755f404de5c51c3c819339aa727e71698c
+FileChecksum: MD5: f10eabfe6bca8189232adaf8b095a1b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/backend.py
+SPDXID: SPDXRef-item9501696
+FileChecksum: SHA1: 771f2fe13edc3d11ecc628a6280e979fee4061ac
+FileChecksum: MD5: a7f5001bd74df7bedc05aa54dec0f12e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/params.py
+SPDXID: SPDXRef-item9501700
+FileChecksum: SHA1: a5f487c7250771f15a49def158ace488a97dc317
+FileChecksum: MD5: a23b6a15f15b724ed45db10c8641ad99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/cache.py
+SPDXID: SPDXRef-item9501699
+FileChecksum: SHA1: 31054511c787ab662e70c652576074a9217b03ff
+FileChecksum: MD5: e1bff75fac5c21d4f9e470089968b603
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/serialization.py
+SPDXID: SPDXRef-item9501703
+FileChecksum: SHA1: 6a6e0c64b9119e95ce4474f189c8dbe59ab29138
+FileChecksum: MD5: 1d70a81145fb80339f771eac7e657146
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/mpi_run.py
+SPDXID: SPDXRef-item9501704
+FileChecksum: SHA1: 1fe76c1cda1c6eb0f103631c416ade6efa4cff61
+FileChecksum: MD5: 0e976e026b35ea12f12ecd2c587ce9bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/__init__.py
+SPDXID: SPDXRef-item9501705
+FileChecksum: SHA1: bce8b1f90de9df04116e8600679653e71f353982
+FileChecksum: MD5: 5a74c3595a0b026347aa8b5fc7532871
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/runner.py
+SPDXID: SPDXRef-item9501706
+FileChecksum: SHA1: 65c9ca86295259a8ae2f2e3d6aa5e5e0bc2f19c2
+FileChecksum: MD5: d71ba51903de6b54c51f5bcd843754e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/_namedtuple_fix.py
+SPDXID: SPDXRef-item9501697
+FileChecksum: SHA1: 28b84a8e6b0064e032ae82a8e1ac980f0da0c8fa
+FileChecksum: MD5: 1555b2736a238cd0633a4eb275f40d8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/constants.py
+SPDXID: SPDXRef-item9501702
+FileChecksum: SHA1: 356bafbabfbf7db43f613a217d4dd56fa7546736
+FileChecksum: MD5: 42292924c340bd71a18a59930fbe7014
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/task/gloo_exec_fn.py
+SPDXID: SPDXRef-item9501708
+FileChecksum: SHA1: cd7bd7362dca0088182e7d49eba1f2e1d6eef3e3
+FileChecksum: MD5: ae32f4ed05fb567b4b212a8f523a76be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/task/mpirun_exec_fn.py
+SPDXID: SPDXRef-item9501712
+FileChecksum: SHA1: 282dd93ec04c08faaac3e055fd779567ab453803
+FileChecksum: MD5: 3f260a1abd01abfd11101392c9add455
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/task/task_service.py
+SPDXID: SPDXRef-item9501710
+FileChecksum: SHA1: 2e6a76c47962a652b8119fbad0a16580c0488364
+FileChecksum: MD5: 03d320f227332e445d1f45f95c235b38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/spark/task/__init__.py
+SPDXID: SPDXRef-item9501709
+FileChecksum: SHA1: 20c1a4fc894f2ceb6d92592a2858bf0c88e35e1e
+FileChecksum: MD5: 4b8041953132e365ad3459cb3ac08ee1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/examples/keras_spark3_rossmann.py
+SPDXID: SPDXRef-item9501724
+FileChecksum: SHA1: d264444b74cd9690361d8c9a21c3f259f25b4d83
+FileChecksum: MD5: b66a912a245f0e3a89f6505e53293c3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 onwards, fast.ai, Inc.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow_mnist_estimator.py
+SPDXID: SPDXRef-item9501729
+FileChecksum: SHA1: c1e7de077edcb1fc80154150d6f45565b9ea4d0f
+FileChecksum: MD5: bcb609633486bbaa7688602f6f110d97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/examples/keras_spark_rossmann_estimator.py
+SPDXID: SPDXRef-item9501737
+FileChecksum: SHA1: 5a97227956329d0d166bb9477ae535a977f5389f
+FileChecksum: MD5: aad88033a58fc640ffb34e7db389937f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 onwards, fast.ai, Inc.
+copyright (C) 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/examples/keras_spark_rossmann_run.py
+SPDXID: SPDXRef-item9501738
+FileChecksum: SHA1: 09a44105c52cbdd04a0e02ba7287626345fcd870
+FileChecksum: MD5: a6dbab12aeaa55398fe979e1f6a3baf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 onwards, fast.ai, Inc.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow2_synthetic_benchmark.py
+SPDXID: SPDXRef-item9501740
+FileChecksum: SHA1: e880d98ff507c6b0328214621560ac7f482d1b88
+FileChecksum: MD5: e740beea92b8ebd051b39764c366722c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow_word2vec.py
+SPDXID: SPDXRef-item9501725
+FileChecksum: SHA1: 6d1b5ccee6981fc9d9ffe7042e91a843a840d5ee
+FileChecksum: MD5: bb71eec317ec5d6094835c5cceca08bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2017 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow2_keras_mnist.py
+SPDXID: SPDXRef-item9501733
+FileChecksum: SHA1: c924996496764f2c20e2fbb0f534df19003c4056
+FileChecksum: MD5: c48891fb9ac82ff85c51a8e188d91f86
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/examples/elastic/tensorflow2_synthetic_benchmark_elastic.py
+SPDXID: SPDXRef-item9501745
+FileChecksum: SHA1: e0462146ceb905e44cf7482188116694e0a69be6
+FileChecksum: MD5: daff6523c59e108a6965d9c3e386242e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_tensorflow2_keras.py
+SPDXID: SPDXRef-item9501754
+FileChecksum: SHA1: 0643894bb9c2c623be5f1f16f89d4cc4f3d27e50
+FileChecksum: MD5: ba7e763369d6c2ec5be3c422fbf4045e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/spark_common.py
+SPDXID: SPDXRef-item9501755
+FileChecksum: SHA1: d811f96dbb550ac5116e3fe971f5cbc35e209cd2
+FileChecksum: MD5: fe112d3ff1054fe2b8c5038ccb5568a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_adasum_pytorch.py
+SPDXID: SPDXRef-item9501756
+FileChecksum: SHA1: 3f9432c05c9ff9db8326e8b9de33b51c17a8a564
+FileChecksum: MD5: bbed95672135620e0abef666abc78fab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_spark.py
+SPDXID: SPDXRef-item9501759
+FileChecksum: SHA1: b1471eb0b232ea478416326652cdefea301cd307
+FileChecksum: MD5: b2a958f0fd32e00da8b8713cdc8b3a81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_keras.py
+SPDXID: SPDXRef-item9501757
+FileChecksum: SHA1: 1507da88b79b7ab0c645ba19f18696ced1a08a52
+FileChecksum: MD5: a2211456c0a6875bb45c413c65b5b252
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_run.py
+SPDXID: SPDXRef-item9501758
+FileChecksum: SHA1: cbd069ef1a86fde1d0e37c4aede22b32d12c8812
+FileChecksum: MD5: f9885d62a59a7dbeafa01e6fbad58bef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_service.py
+SPDXID: SPDXRef-item9501761
+FileChecksum: SHA1: 97214b91eeb563a2b04f2b2ac7e26dc6d767a35b
+FileChecksum: MD5: cbc74fa1edd8bd06fed1043d299c09eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_common.py
+SPDXID: SPDXRef-item9501762
+FileChecksum: SHA1: 8497f01d731e88442c28c0b999bb9bb0e704f79f
+FileChecksum: MD5: 8c3f9344d54e05ece4907cedd01b0faf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_spark_torch.py
+SPDXID: SPDXRef-item9501760
+FileChecksum: SHA1: 4888c629a16a200264e388c76094e0a70eeb9b48
+FileChecksum: MD5: c209ec0aee4a1e9d2a0ff6abda8e817f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_buildkite.py
+SPDXID: SPDXRef-item9501765
+FileChecksum: SHA1: af7dc7ce65afaeb98d56b8a7fb900a88a6c74ed8
+FileChecksum: MD5: aea67038254e16de7198fe8e4efbc06d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_adasum_tensorflow.py
+SPDXID: SPDXRef-item9501764
+FileChecksum: SHA1: ef365b1d69f20c0ce75c82022e0fd1732bf9d91d
+FileChecksum: MD5: 0060975cb1fb4dddd56022ea66bd5170
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Microsoft. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/examples/elastic/tensorflow2_mnist_elastic.py
+SPDXID: SPDXRef-item9501747
+FileChecksum: SHA1: bd90be35ba264f1244975c6958777c75f2c1e269
+FileChecksum: MD5: fd880338406f66a943123d2694c089b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_tensorflow.py
+SPDXID: SPDXRef-item9501763
+FileChecksum: SHA1: 98d3eee6efa00c084d22af645690643dbcde0abb
+FileChecksum: MD5: 48a2a0c84be282ae7a0d2b80a72bd172
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2018 Uber Technologies, Inc.
+copyright (C) 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: horovod/test/common.py
+SPDXID: SPDXRef-item9501767
+FileChecksum: SHA1: bd4b65b3562f5c7026a6a0b75bdae77c8ef61001
+FileChecksum: MD5: 8ffce5d6d2ff296f05b6a86789fb7d4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_spark_keras.py
+SPDXID: SPDXRef-item9501766
+FileChecksum: SHA1: 5ce560bed1a870aa54d1007f783f566c692cba2b
+FileChecksum: MD5: 6a2c1ac52a84c5e3c035cd57408d0c0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_tensorflow_keras.py
+SPDXID: SPDXRef-item9501768
+FileChecksum: SHA1: 4b6a21ca8a64292d23f7fb5bbde62f6952a3e1ea
+FileChecksum: MD5: 7b981a319ebc52eb3fe8282674e0a368
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_elastic_driver.py
+SPDXID: SPDXRef-item9501769
+FileChecksum: SHA1: 118be094086a358fdae55b786f4c75007ac5a94c
+FileChecksum: MD5: 37e3b6b45adc4a709bd351ebf398a4cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_mxnet.py
+SPDXID: SPDXRef-item9501771
+FileChecksum: SHA1: b3bc2f781cf27c732d018fa40c14c5b1714bb12c
+FileChecksum: MD5: c5ff16b5a4fd9f31a41b85203f900cbf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_timeline.py
+SPDXID: SPDXRef-item9501773
+FileChecksum: SHA1: 46aaafd408dd05501ca6cb7a31c2c8fc96bf6e13
+FileChecksum: MD5: 4d0222e0e603e6e7df90aacf82c4e080
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_interactiverun.py
+SPDXID: SPDXRef-item9501770
+FileChecksum: SHA1: 7475be8bb4efbdde2426b07e5489da34faae1db8
+FileChecksum: MD5: 06d5993f14b02fac25265defa225be37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/test_elastic_tensorflow.py
+SPDXID: SPDXRef-item9501780
+FileChecksum: SHA1: 672200b18c0e95db7e3bdfdd57e4d7fdd6769fc2
+FileChecksum: MD5: 1e44b90bc4adcfd2b1c5cd6672d23c91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/test_torch.py
+SPDXID: SPDXRef-item9501772
+FileChecksum: SHA1: 13257f8b04a073d917b813ea0c096f047981773e
+FileChecksum: MD5: cd5c7ca27fb80ac546f9a88caee94900
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 Uber Technologies, Inc. All Rights Reserved.
+copyright (C) 2019 Intel Corporation </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/test_elastic_torch.py
+SPDXID: SPDXRef-item9501781
+FileChecksum: SHA1: 5998954fc1573e34c94985f3d7279b3f83fe2202
+FileChecksum: MD5: df5a5a3ce5c2f31f4e884bdd41095a7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/test_elastic_tensorflow2.py
+SPDXID: SPDXRef-item9501782
+FileChecksum: SHA1: 5cd05bc6c11470ebd30b754cf87cc71db4bd6357
+FileChecksum: MD5: 95cc37792c6b6a62a97a84c35d7f1d22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/elastic_common.py
+SPDXID: SPDXRef-item9501783
+FileChecksum: SHA1: 8d3d5485a6307e806c78d448a6ec1da7d9af0431
+FileChecksum: MD5: 9ed6be5b651f05c8302c26035f7c0174
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/setup.py
+SPDXID: SPDXRef-item9501789
+FileChecksum: SHA1: 7c5f1a72703d1c73e2439be739f3357120b992b9
+FileChecksum: MD5: ea93730303fe44240aa369a2483962e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. All Rights Reserved.
+copyright Microsoft </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/data/elastic_torch_main.py
+SPDXID: SPDXRef-item9501785
+FileChecksum: SHA1: 872346fbb752d73ad4b08c8eb405d2873f04575f
+FileChecksum: MD5: de95a4723a88c57cf62b5f36b9be99f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/data/elastic_tensorflow_main.py
+SPDXID: SPDXRef-item9501786
+FileChecksum: SHA1: 4e738ba83b9f71c30f4d517a8361960be161e1d4
+FileChecksum: MD5: 80015122140c37640644142de72e82ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/test/integration/data/elastic_tensorflow2_main.py
+SPDXID: SPDXRef-item9501787
+FileChecksum: SHA1: f84baf06566084b5288472a6041ebd89890df1ec
+FileChecksum: MD5: 37040dea6efbb24ec87e48abbc2916e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Uber Technologies, Inc. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/docs/mocks.py
+SPDXID: SPDXRef-item9501816
+FileChecksum: SHA1: 80a1eb72c11ca4d5f521f0e7a99ba28d0b968271
+FileChecksum: MD5: 76de00dfc58286f8e472a70059367799
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/horovod/common/half.h
+SPDXID: SPDXRef-item9501581
+FileChecksum: SHA1: cf19d9239ae7f3c2a19275d4a90a52f50ad6e2e1
+FileChecksum: MD5: b92de139b916423a72060d96f7e58ae9
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2017-2018, NVIDIA CORPORATION. All rights reserved.
+copyright (C) 2018 Uber Technologies, Inc. </text>
+ 
+
+##File
+
+FileName: horovod/examples/mxnet_imagenet_resnet50.py
+SPDXID: SPDXRef-item9501734
+FileChecksum: SHA1: fd9edfc3567b6216d76e1dae99b1c4b0c2fa2f93
+FileChecksum: MD5: 5b2acf5a72615e7ae86d739ac1af97b2
+LicenseConcluded: MIT-0
+LicenseInfoInFile: MIT-0
+FileCopyrightText: <text> Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: horovod/CONTRIBUTING.md
+SPDXID: SPDXRef-item9501464
+FileChecksum: SHA1: 3fc40c89ec80985176975fb1d4f7e23632834693
+FileChecksum: MD5: 7c71335bb919f5e5b67dbfee100e9af3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/driver/__init__.py
+SPDXID: SPDXRef-item9501487
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/service/__init__.py
+SPDXID: SPDXRef-item9501491
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/__init__.py
+SPDXID: SPDXRef-item9501493
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/common/util/__init__.py
+SPDXID: SPDXRef-item9501503
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/http/__init__.py
+SPDXID: SPDXRef-item9501511
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/util/__init__.py
+SPDXID: SPDXRef-item9501516
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/elastic/__init__.py
+SPDXID: SPDXRef-item9501527
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/run/task/__init__.py
+SPDXID: SPDXRef-item9501530
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/torch/dummy.h
+SPDXID: SPDXRef-item9501557
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/common/logging.h
+SPDXID: SPDXRef-item9501580
+FileChecksum: SHA1: ff6d0f56f9d5719f212a4b4389284019e5c88251
+FileChecksum: MD5: 142e07c75069867426e2ae4386628d09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/common/ops/gpu_context_impl.cc
+SPDXID: SPDXRef-item9501615
+FileChecksum: SHA1: 2329116c5c0a367df3d3d6ce30f379132be29224
+FileChecksum: MD5: 4a2ad53b4899736e28bb8db4625f1147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/common/logging.cc
+SPDXID: SPDXRef-item9501634
+FileChecksum: SHA1: c9284f712fd41386ec59413c5ee7f3a8e6947906
+FileChecksum: MD5: 844790e80d4d46300bd9d335c878ecd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/common/__init__.py
+SPDXID: SPDXRef-item9501657
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/__init__.py
+SPDXID: SPDXRef-item9501671
+FileChecksum: SHA1: 1262b6b3aa46403ca1f403ccc02f1c46cc2853ef
+FileChecksum: MD5: 962839b62631ceef25c35707c79d1290
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/spark/driver/__init__.py
+SPDXID: SPDXRef-item9501692
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod/spark/common/__init__.py
+SPDXID: SPDXRef-item9501701
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod.exp
+SPDXID: SPDXRef-item9501713
+FileChecksum: SHA1: b433c27d3184ff0caade56c43c105c9378b7c2fa
+FileChecksum: MD5: c114997e04402a95658797e16182bf9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/Dockerfile.cpu
+SPDXID: SPDXRef-item9501715
+FileChecksum: SHA1: dcf2b87bcffb6994be3528240069e8126c0924c7
+FileChecksum: MD5: fdf8380bf765e2505b0041d0bc0c9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/Dockerfile.test.cpu
+SPDXID: SPDXRef-item9501716
+FileChecksum: SHA1: e4827c34d4f8ea6cfd59ef6a1812ce760039fa8b
+FileChecksum: MD5: 706cc50ffc14c375d1ebded9e63f1660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/pytorch_imagenet_resnet50.py
+SPDXID: SPDXRef-item9501721
+FileChecksum: SHA1: 326c00ef03dbb1c102f0f982bc0fff610439b522
+FileChecksum: MD5: e1e0ef6de49dba851d3007dba42b2c41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/pytorch_spark_mnist.py
+SPDXID: SPDXRef-item9501722
+FileChecksum: SHA1: 5f17b0480b560a222fb3bf468ef64956dcbcaea0
+FileChecksum: MD5: bcc9e19896b42ff8554edc21241b3d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow_synthetic_benchmark.py
+SPDXID: SPDXRef-item9501726
+FileChecksum: SHA1: f5a297d879806b2358b14f78fd6550dc1eab5632
+FileChecksum: MD5: f5fb475338e535a2a9e4690c1f60099f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/pytorch_synthetic_benchmark.py
+SPDXID: SPDXRef-item9501727
+FileChecksum: SHA1: 320fb17cd2dc448211e45ef4cd38fee936acc1df
+FileChecksum: MD5: db800d2ea70a712b82d6f233cfb1e077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/tensorflow_keras_mnist.py
+SPDXID: SPDXRef-item9501728
+FileChecksum: SHA1: fb6d3e4fa98d6fb9d41ad3c3d55b46dc2ff8103e
+FileChecksum: MD5: f537204646294a91614a0b1630aa1bcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/mxnet_mnist.py
+SPDXID: SPDXRef-item9501730
+FileChecksum: SHA1: 3b8aa8e696d7f9a7c56c56f8221e8e91ada180a7
+FileChecksum: MD5: c35da690024f8e56999189248b8201eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/keras_mnist_advanced.py
+SPDXID: SPDXRef-item9501735
+FileChecksum: SHA1: 87e8183436e09c1bfa4ea7feb25b284809c5f14a
+FileChecksum: MD5: 272f88c591a166754ca24debe85ca96b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/adasum_bench.ipynb
+SPDXID: SPDXRef-item9501736
+FileChecksum: SHA1: c7644b6cdabeee06e8104f20b0483bd4da81bd23
+FileChecksum: MD5: 112c3127603aeff02ea1878ff1c0e12b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/pytorch_mnist.py
+SPDXID: SPDXRef-item9501739
+FileChecksum: SHA1: f8910ec0bec47003cc0724b1944700005813b16f
+FileChecksum: MD5: 71aefc40695b6c5a39740d7717a8b543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/keras_spark3_rossmann.py.patch
+SPDXID: SPDXRef-item9501742
+FileChecksum: SHA1: 23a49cbb784e0a8436b5ecac615c88e17b30d2fa
+FileChecksum: MD5: 66186ca0e0197f32b410c3ba28f71607
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/keras_imagenet_resnet50.py
+SPDXID: SPDXRef-item9501743
+FileChecksum: SHA1: 2a1d6078e738f011bba6eb6ca4dd30bb25068676
+FileChecksum: MD5: b5c82384abb3f44f49e2fe7ab39cf280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/elastic/pytorch_synthetic_benchmark_elastic.py
+SPDXID: SPDXRef-item9501746
+FileChecksum: SHA1: c18e103b7a780bd324e55a52fd0068d761f6bf16
+FileChecksum: MD5: b1e36b371166ef6816b56987e7e2fc81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/elastic/pytorch_mnist_elastic.py
+SPDXID: SPDXRef-item9501748
+FileChecksum: SHA1: ab95cba4aeafaea5c6dbe70ed77b5083df21d658
+FileChecksum: MD5: 007bfdc7122b464c1033ad485aab946f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/elastic/tensorflow_keras_mnist_elastic.py
+SPDXID: SPDXRef-item9501749
+FileChecksum: SHA1: 85054b01f51e92b3c655b04faed27d75925c6da0
+FileChecksum: MD5: 981d801f52b2f765bb8245efe40e085e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/adasum_small_model.py
+SPDXID: SPDXRef-item9501750
+FileChecksum: SHA1: 443850ef688e0f6c5732b9e3d3dd638cfede11de
+FileChecksum: MD5: 957a7fa8e167b4d2ce4f1b2ab034e0b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/keras_mnist.py
+SPDXID: SPDXRef-item9501751
+FileChecksum: SHA1: a9cb9447b8ea6fededbe3d861ba05b3c1e46e17a
+FileChecksum: MD5: c9c34ec47b1c08082caec22bd839c774
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/examples/keras_spark_mnist.py
+SPDXID: SPDXRef-item9501752
+FileChecksum: SHA1: 3b7fa5ac49b8d0b3b3f507432271c007c482c861
+FileChecksum: MD5: 02b0acfab287f822472f1f0232de3e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/test/data/config.test.yaml
+SPDXID: SPDXRef-item9501775
+FileChecksum: SHA1: 697b5039d15bf07d55712857c348df2c7dfcc263
+FileChecksum: MD5: 3e620b7546447d4d2cada90a0f9bde95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/test/data/sleep.py
+SPDXID: SPDXRef-item9501776
+FileChecksum: SHA1: 33f427381694a166c4187849cb2db5d411e66d93
+FileChecksum: MD5: 404fd132b5d53c25f06657f90693070b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/test/data/expected_buildkite_pipeline.yaml
+SPDXID: SPDXRef-item9501777
+FileChecksum: SHA1: 223169b013ca016505f553cac52d7f850c3da97d
+FileChecksum: MD5: a95edddac06cebf046ea72fb3693cab2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/test/data/run_safe_shell_exec.py
+SPDXID: SPDXRef-item9501778
+FileChecksum: SHA1: f10b3ac093e5c5725f75e8fa122826f57ac118d8
+FileChecksum: MD5: 07fa17cf771b8b3f855cecfb3e911557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/test/test_stall.py
+SPDXID: SPDXRef-item9501788
+FileChecksum: SHA1: 53d0b273a0661ce7f3f575cc38bd591107233165
+FileChecksum: MD5: af71ac1f29c885fe2391019bdc5ef2c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/Dockerfile.test.gpu
+SPDXID: SPDXRef-item9501790
+FileChecksum: SHA1: 27201254a9dd408e780dbc2e470d381fff5cd8c8
+FileChecksum: MD5: 1d24bb34da6f30e1b2456214b39bb103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/horovod.lds
+SPDXID: SPDXRef-item9501791
+FileChecksum: SHA1: 7142bffc1e1e2159da36a35bf48a751301f1187f
+FileChecksum: MD5: c44429054f966cf0bf3b55b04d711b4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/Dockerfile.gpu
+SPDXID: SPDXRef-item9501792
+FileChecksum: SHA1: b8181b2095ed10fc690e8eaf3c69ff7f839e1595
+FileChecksum: MD5: 9e05a3eb7bc7cfb4d23dd5001048751e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/Jenkinsfile.ppc64le
+SPDXID: SPDXRef-item9501793
+FileChecksum: SHA1: 65a0eb0c9f01cd22c0fcea569cd31c86145ee3f8
+FileChecksum: MD5: 1ba15fb43fb92d2b47e7986e75d969ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docker-compose.test.yml
+SPDXID: SPDXRef-item9501794
+FileChecksum: SHA1: d26d3ce143979daaf7397c04fcc4dc39e389fd5b
+FileChecksum: MD5: 2424b215662bb1f21ea2454391ab1810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/build-docker-images.sh
+SPDXID: SPDXRef-item9501795
+FileChecksum: SHA1: 1d5560df2a248219a8b2021846a10e3b4182277d
+FileChecksum: MD5: 16332291aa170e1498af2d314af042ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/MANIFEST.in
+SPDXID: SPDXRef-item9501796
+FileChecksum: SHA1: 38a1aabf59569641bfd7643e58cdeaff7cec94ed
+FileChecksum: MD5: b9e8796698e85879751e8ea6c3018c03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9501797
+FileChecksum: SHA1: 532c5b46a625e65664c004df2890d8406539397d
+FileChecksum: MD5: 52f7a6c238291c50ec4f178b3feac5c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.gitignore
+SPDXID: SPDXRef-item9501798
+FileChecksum: SHA1: 32099cea473515928b51fcba9ec0eea3362e913f
+FileChecksum: MD5: ff916a901750813b732a9e0c05ac1463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/Makefile
+SPDXID: SPDXRef-item9501800
+FileChecksum: SHA1: 8aa0edb2f94b189d9642b44121ab96a0c8f5a224
+FileChecksum: MD5: e502571d1231d2c3baef502a23498a9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/spark_include.rst
+SPDXID: SPDXRef-item9501801
+FileChecksum: SHA1: 2d1a306677f003f4d311727b1e8128b86759a4f7
+FileChecksum: MD5: a8fa2459b16907388d0a8702398d1bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/make.bat
+SPDXID: SPDXRef-item9501802
+FileChecksum: SHA1: 3c504feedb2e1f1e85ed443a4d5aba20bafe0b28
+FileChecksum: MD5: 460713cf2e28d14cb0d9234fbe51f940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/lsf.rst
+SPDXID: SPDXRef-item9501803
+FileChecksum: SHA1: cb21501189b958061a567a4f6f3374c3d156a013
+FileChecksum: MD5: 8471b370669baeb6c58b9a3eeb1c00aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/index.rst
+SPDXID: SPDXRef-item9501804
+FileChecksum: SHA1: 50342e92d1e70450b43b684d69e6bd1d9f0e00e3
+FileChecksum: MD5: a6a5d37391eac21c020488fb9f286393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/summary.rst.patch
+SPDXID: SPDXRef-item9501805
+FileChecksum: SHA1: 52d209892f580f4d7a127eaf59c5d80e82b044f7
+FileChecksum: MD5: 069c0dcea8918ff8b6d4ba8bbe5e2a83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/contributors_include.rst
+SPDXID: SPDXRef-item9501807
+FileChecksum: SHA1: aa2e7f2114eccb383dd73df28836f720e7c91214
+FileChecksum: MD5: 97d5fdecbef3684892e4ce3a1b7e3544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/docker.rst
+SPDXID: SPDXRef-item9501808
+FileChecksum: SHA1: a0aaa125c7578a50f119361be2ca4b51627a5f20
+FileChecksum: MD5: 98f8a009d5dea5fe420bfb7e5b533ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/tensor-fusion.rst
+SPDXID: SPDXRef-item9501809
+FileChecksum: SHA1: 3feacef9caa9f2bfdae6bf21541730068a48fe04
+FileChecksum: MD5: 39f6601eee7481c54c9bc276611d8f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/gpus.rst
+SPDXID: SPDXRef-item9501810
+FileChecksum: SHA1: ac045c204813b5611e7c6aef7608c28aa0d43195
+FileChecksum: MD5: 2298f71649bcb3fd9ae34591df9fccef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/conf.py
+SPDXID: SPDXRef-item9501811
+FileChecksum: SHA1: b6bb27f9d56aca322b56dea1297d30d3f145a982
+FileChecksum: MD5: cbc7bf111347b0ead9662aaa1fe289ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2019, The Horovod Authors </text>
+ 
+
+##File
+
+FileName: horovod/docs/pytorch.rst
+SPDXID: SPDXRef-item9501812
+FileChecksum: SHA1: 8bae32ad8c6673b1e1803ab948288b07eca9927d
+FileChecksum: MD5: a9c424654f5da7d27aeea3c5a1121c91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/adasum_user_guide.rst
+SPDXID: SPDXRef-item9501813
+FileChecksum: SHA1: 6486ebdf1e17dcc84722628f04c4b97833ff9c54
+FileChecksum: MD5: 5b022733745d94b32288453578528467
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/timeline.rst
+SPDXID: SPDXRef-item9501814
+FileChecksum: SHA1: 3708d0f518d4d464d60a0dada27fd7e6654e4e08
+FileChecksum: MD5: efb8d60fc6cffd28df3efe60d6de347a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/lsf_include.rst
+SPDXID: SPDXRef-item9501815
+FileChecksum: SHA1: 68ed89b0c382e119b7ff97e3c1db3bd4a2617652
+FileChecksum: MD5: d436f5b1034f3b11f929fa555edc66b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/mpirun.rst
+SPDXID: SPDXRef-item9501817
+FileChecksum: SHA1: f98239703dcb6df6d881225bcd20861045296e7f
+FileChecksum: MD5: d5fe3c42393b4b0d433c42941271b4f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/troubleshooting.rst
+SPDXID: SPDXRef-item9501818
+FileChecksum: SHA1: 3930be1eddd46db6f4a0a6ea5469d614219d76f2
+FileChecksum: MD5: 8ebd1af788c2022465844f8b6d4f98c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/inference.rst
+SPDXID: SPDXRef-item9501819
+FileChecksum: SHA1: b23e18a11c81dad7e76b7451fcc24b8b8f505e0f
+FileChecksum: MD5: c50c3c574f2e368d82ee6b508e01c690
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/autotune_include.rst
+SPDXID: SPDXRef-item9501820
+FileChecksum: SHA1: aaba89dce4be4e5c9b5cbdaaa2482a3b8cea43d9
+FileChecksum: MD5: 0fad1abc6e6ea624b748438525359a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/inference_include.rst
+SPDXID: SPDXRef-item9501821
+FileChecksum: SHA1: b8b9aa02c0fd91f60a26ea647e5430b9a25062ed
+FileChecksum: MD5: 42083a202cae6fec33dd949ea3ccd3d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/api.rst
+SPDXID: SPDXRef-item9501822
+FileChecksum: SHA1: 7f4bb15243a1467ea408037a48d550dc7bec8473
+FileChecksum: MD5: fa76d98f5422f762e0d35f9278360c3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/tensor-fusion_include.rst
+SPDXID: SPDXRef-item9501823
+FileChecksum: SHA1: b9992ce7d36ebfb624db863ec4975e4565f818cd
+FileChecksum: MD5: e8fb68a70bb753022b87c8ce4edf6983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/install.rst
+SPDXID: SPDXRef-item9501824
+FileChecksum: SHA1: b0e0068f89c7bc9b04e2b636adef3b273bcbe8fc
+FileChecksum: MD5: a95d241e8afa2b4cdc53943ce4826a72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/_templates/.empty
+SPDXID: SPDXRef-item9501826
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/tensorflow.rst
+SPDXID: SPDXRef-item9501827
+FileChecksum: SHA1: c5be369187ed6984ac3dd88a1206e0c74529b060
+FileChecksum: MD5: c9f07f32bae123148dbbdadec041aa30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/install_include.rst
+SPDXID: SPDXRef-item9501828
+FileChecksum: SHA1: 5572b52e32cffa0f84f2458cabd6b839a080a6de
+FileChecksum: MD5: 9524d97be0376cb9b813fbffa3c33931
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/_static/logo.png
+SPDXID: SPDXRef-item9501830
+FileChecksum: SHA1: fb420b13c3db80c1ca6d1a0b02a69993d3c540e8
+FileChecksum: MD5: 0d3d671b0283ed52a25eb7453572096d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/_static/spark-mpi.png
+SPDXID: SPDXRef-item9501831
+FileChecksum: SHA1: cfd78fac81bd3607a3d49f6dda6919bf5341eb1f
+FileChecksum: MD5: cc6ae12b70e62c9c07b7d33619924e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/_static/spark-mpi.dia/spark-mpi
+SPDXID: SPDXRef-item9501834
+FileChecksum: SHA1: 451312238b9cbf0c9dac80e769c52b9028629ecf
+FileChecksum: MD5: 011abf1548aefe4500b4c0ade6d29a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/_static/.empty
+SPDXID: SPDXRef-item9501835
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/_static/custom.css
+SPDXID: SPDXRef-item9501836
+FileChecksum: SHA1: a636b015e3c71e5efb9aa26df14b5cdda06204e0
+FileChecksum: MD5: 7e9167dad8134835995520005cdb8b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/benchmarks_include.rst
+SPDXID: SPDXRef-item9501837
+FileChecksum: SHA1: dedbcbbca0f03fa728fa17462365fca129510830
+FileChecksum: MD5: 585146167138638beb5020af00bb1138
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/summary_include.rst
+SPDXID: SPDXRef-item9501838
+FileChecksum: SHA1: 62de2df8b320276090d7269f457102d2f7f087c4
+FileChecksum: MD5: 8eac777e87d2081c2607ec1a9f047083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/requirements.txt
+SPDXID: SPDXRef-item9501839
+FileChecksum: SHA1: 5e2bf44d41270774909ba9adc0cad889e86a4e2e
+FileChecksum: MD5: 6ef451a70b984e0348c93128d8136ada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/running.rst
+SPDXID: SPDXRef-item9501840
+FileChecksum: SHA1: 8ed2792cefc59778d03ac1d0c063ba7cf1c01621
+FileChecksum: MD5: f6d44da9b41ff1e1781ddc481128ad19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/concepts_include.rst
+SPDXID: SPDXRef-item9501841
+FileChecksum: SHA1: da5d2e14b8e959a128a862bd070beed29b758f93
+FileChecksum: MD5: 7dd86c86466b29ac61dffa2a9994bcf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/autotune.rst
+SPDXID: SPDXRef-item9501842
+FileChecksum: SHA1: e03aeb772a9cf2b38b6c0991954ba3f87aef2aeb
+FileChecksum: MD5: bb651e1a7c6763ebe2110064c180f73f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/4920a765a77fa6eeca28c5aceaa405ec.png
+SPDXID: SPDXRef-item9501844
+FileChecksum: SHA1: 1cece3959000db59aad16a0c49d51451db5275d4
+FileChecksum: MD5: 4920a765a77fa6eeca28c5aceaa405ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/d9b318cc2d8c16fe4ade2fa73ad83ec6.png
+SPDXID: SPDXRef-item9501845
+FileChecksum: SHA1: 38800b76d56aac68d04924ad8903b29292cae677
+FileChecksum: MD5: d9b318cc2d8c16fe4ade2fa73ad83ec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/afa201b07a16fb29829dd8390aa0cc07.png
+SPDXID: SPDXRef-item9501846
+FileChecksum: SHA1: 5d2f4044ab1f30869c20b730ce116d7e6298f9fb
+FileChecksum: MD5: afa201b07a16fb29829dd8390aa0cc07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/c1510cfa1462d9dfe786d841ec4a0831.png
+SPDXID: SPDXRef-item9501847
+FileChecksum: SHA1: 04afb3ab493fe07725bfa5933a33b279bffe1fc3
+FileChecksum: MD5: c1510cfa1462d9dfe786d841ec4a0831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/173cffdbdc89620287996ac28ca4a9ae.png
+SPDXID: SPDXRef-item9501848
+FileChecksum: SHA1: 8f135d1bb6540258c40ebd9110fb2c77544b1ea0
+FileChecksum: MD5: 173cffdbdc89620287996ac28ca4a9ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/7220c70747b40ab58fce2dc246958218.png
+SPDXID: SPDXRef-item9501849
+FileChecksum: SHA1: effc69367da1ea98087d73c258effa07290365a8
+FileChecksum: MD5: 7220c70747b40ab58fce2dc246958218
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/abc4d31f19a315321553564e2225615b.png
+SPDXID: SPDXRef-item9501850
+FileChecksum: SHA1: 109cfacbb9bce078ca1e623c228c7fa45a03afdd
+FileChecksum: MD5: abc4d31f19a315321553564e2225615b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/a254d38d0e56319c0507a16ea09df959.png
+SPDXID: SPDXRef-item9501851
+FileChecksum: SHA1: 4ce08ed441609a3df0c9c32407ebfb407e3fa886
+FileChecksum: MD5: a254d38d0e56319c0507a16ea09df959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/media/660ef9052e35a3f7135a1102fcdd8dca.png
+SPDXID: SPDXRef-item9501852
+FileChecksum: SHA1: 18440237301a39331d7a4b8fdb1e7001bbd4a6bf
+FileChecksum: MD5: 660ef9052e35a3f7135a1102fcdd8dca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/gpus_include.rst
+SPDXID: SPDXRef-item9501853
+FileChecksum: SHA1: 3146726393772e1390fbe5907501dbd0e3f12567
+FileChecksum: MD5: 4e63f309c616b760ef5bcea60c4547b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/spark.rst
+SPDXID: SPDXRef-item9501854
+FileChecksum: SHA1: 14e7b75be464c4674b588fd9b6e0b48f7919b8f6
+FileChecksum: MD5: 33f9ac95f5bb1dee1c0638264e60c057
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/concepts.rst
+SPDXID: SPDXRef-item9501855
+FileChecksum: SHA1: 0553920da5c310557a4b415fa91ce211bc0cd7d8
+FileChecksum: MD5: c4246ce8538b0e63be06c2a6fb116de4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/benchmarks.rst
+SPDXID: SPDXRef-item9501856
+FileChecksum: SHA1: 2ac4d09c01a4ba1bb331c7a895363226119e5541
+FileChecksum: MD5: 49ba9c7c973ae4927e8d27064d91b574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/elastic.rst
+SPDXID: SPDXRef-item9501857
+FileChecksum: SHA1: 6ece993c5ed08f46442aca0ad2c455c0bf37fcf1
+FileChecksum: MD5: 77406b100aaa8e3d0c23adbfbca0c8c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/elastic_include.rst
+SPDXID: SPDXRef-item9501858
+FileChecksum: SHA1: 100b2a031b5cfb2456e40c6f8c61e0e5dd3f1fe2
+FileChecksum: MD5: f427c435413576914d4b55feba4cf62d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/troubleshooting_include.rst
+SPDXID: SPDXRef-item9501859
+FileChecksum: SHA1: 36e1d05e2178fceacefe18a946c2ca039362da36
+FileChecksum: MD5: 557e4bf363ec9cc2ea4a2de22bd7f2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/mxnet.rst
+SPDXID: SPDXRef-item9501860
+FileChecksum: SHA1: 48a9147747f80053c8f2316dac110ef68febaef8
+FileChecksum: MD5: 74bc070245b04e7c8b0ecb7a0f9a7da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/contributors.rst
+SPDXID: SPDXRef-item9501861
+FileChecksum: SHA1: 9bebf262fe0897c9ba1bcd7a06796a54b288b1e7
+FileChecksum: MD5: f17fdd6aa6823b440a5674aebcb6dee9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/timeline_include.rst
+SPDXID: SPDXRef-item9501862
+FileChecksum: SHA1: fbdc72a332d71ced7109a544a5f702adf482acc7
+FileChecksum: MD5: f6e6ef26b04191db8445008b18b915d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/adasum_user_guide_include.rst
+SPDXID: SPDXRef-item9501863
+FileChecksum: SHA1: 4a1b378e07d671d3319c00ba0b08d5e0560466c3
+FileChecksum: MD5: bdb7f3e741ed557e63530cfbdcf04db5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/oneccl.md
+SPDXID: SPDXRef-item9501864
+FileChecksum: SHA1: 1aa7b83c00b734f109da48a2fdd13b5c359ccd6c
+FileChecksum: MD5: 4704fd9ddaea33043fa27a4dfa375e3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/running_include.rst
+SPDXID: SPDXRef-item9501865
+FileChecksum: SHA1: 82fb7e545c9af01ac0395516a22e20c49f8a846e
+FileChecksum: MD5: a2147225630471f8de4ca55b3df67c91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/keras.rst
+SPDXID: SPDXRef-item9501866
+FileChecksum: SHA1: 73307ca2d8acf8814f834f9531570e3d3f3e2420
+FileChecksum: MD5: 1c99ad99baf6fc770824ba4eb7b5a942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/docs/docker_include.rst
+SPDXID: SPDXRef-item9501867
+FileChecksum: SHA1: 25a1723dc4620d398b7e0b296775d8828d2bbee2
+FileChecksum: MD5: 848021c74ed4ceb754c7ca7053f32825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.github/workflows/examples-keras-spark3-rossmann.yml
+SPDXID: SPDXRef-item9501870
+FileChecksum: SHA1: 49981616b456287181e2850a215fef11ed128538
+FileChecksum: MD5: 49885ecc6849ee6d0852a1994eface98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.github/workflows/docs-summary.yml
+SPDXID: SPDXRef-item9501871
+FileChecksum: SHA1: 5ff1a0340344ec6a45b8db570049f062b83ac67c
+FileChecksum: MD5: 5799a453dc5bb2cbf2a717924dd0e0ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.github/pull_request_template.md
+SPDXID: SPDXRef-item9501872
+FileChecksum: SHA1: e111d3733dffd2e4992c494b66941ccb3621c385
+FileChecksum: MD5: f3908ab016c23cbae33c94bdf37e6198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item9501874
+FileChecksum: SHA1: 6b70e7571da93c54ddd82206196255e9d8b1f341
+FileChecksum: MD5: f24ebd0c3274c3935b6b91a057e7f813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item9501875
+FileChecksum: SHA1: 435e13162eda4961e818f66441f4f05407e55758
+FileChecksum: MD5: 183208d06fb1a5f6d80de9b22521b578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.github/ISSUE_TEMPLATE/question.md
+SPDXID: SPDXRef-item9501876
+FileChecksum: SHA1: 0a332a2efe444b48884c98234908b5f9b55b47c9
+FileChecksum: MD5: 7ec3613d616f0267c32e7f63b28ac092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.gitmodules
+SPDXID: SPDXRef-item9501877
+FileChecksum: SHA1: 205d08eb697806112c7401a488af8ce7bf5527c7
+FileChecksum: MD5: 6f8119fb0412ee140955b0c585f2c240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/CHANGELOG.md
+SPDXID: SPDXRef-item9501878
+FileChecksum: SHA1: 0977f16ddf79af069888903debc79221d3ec75d0
+FileChecksum: MD5: e3f5f2dc7b295ad59fd57bd34b5ea1de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.clang-format
+SPDXID: SPDXRef-item9501879
+FileChecksum: SHA1: 4e564d558925a637bd9b3e6c0e031ae9b44610cc
+FileChecksum: MD5: 52f9ec7a6d1aadfb5dc64dc06902bd57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: horovod/.buildkite/gen-pipeline.sh
+SPDXID: SPDXRef-item9501881
+FileChecksum: SHA1: b827530135c2c6497a8c6d3f4b1885f029b00626
+FileChecksum: MD5: 7222e79597dd8ba98c714c7f08b79f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/README.md
+SPDXID: SPDXRef-item9501883
+FileChecksum: SHA1: 659cbbe192ce14ab2ee103f8f85361cecbd8ba48
+FileChecksum: MD5: bd36250e99539bd19ebaefde70f6d87d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_11.py
+SPDXID: SPDXRef-item9501886
+FileChecksum: SHA1: 6c87a767ccbaf11f9ae3c52f1351b7ba331dfe5b
+FileChecksum: MD5: 48fb2594b434e373dcbcf50dc0cd6500
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist.py
+SPDXID: SPDXRef-item9501887
+FileChecksum: SHA1: ac1ab290ab8085ece977cdef3989a29e7fd8e9dc
+FileChecksum: MD5: 8b60a11cd21fc05c68981345de52fd9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_3.py
+SPDXID: SPDXRef-item9501888
+FileChecksum: SHA1: b7e6a54f5fbd83fd9cd6911ffb42d1c917aee908
+FileChecksum: MD5: 55ff8f3af5b566b7f45c1b4b6aa31348
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_solution.py
+SPDXID: SPDXRef-item9501889
+FileChecksum: SHA1: a9c6d74ef25e2a52b5c3be82d40456375d8193d7
+FileChecksum: MD5: 4cef665c856924f7a3436512eec8ab0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/README.md
+SPDXID: SPDXRef-item9501890
+FileChecksum: SHA1: 40e8f07ebc1343c9ed942931eb34d7268913e1c7
+FileChecksum: MD5: 09690ff81b8c9e601bef1f4f43c4b7bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_1.py
+SPDXID: SPDXRef-item9501891
+FileChecksum: SHA1: 9844992e7bd2d1c15a96f9d354021aa56b768524
+FileChecksum: MD5: cc47e96d40b4da230716f8e0d5b55107
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_8.py
+SPDXID: SPDXRef-item9501892
+FileChecksum: SHA1: 6041de3c7c46a7d8e066dc1ac8161d206a79be0f
+FileChecksum: MD5: 9ebd5b2ffe7a4632bc3d587c11db23b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_5.py
+SPDXID: SPDXRef-item9501893
+FileChecksum: SHA1: e86f03cb686cb37e5b6ef1f713c8689ae12d8a70
+FileChecksum: MD5: 53138a51b70eeeb00a8021bf42d1330d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_10.py
+SPDXID: SPDXRef-item9501894
+FileChecksum: SHA1: b6c24c8895a029959461ddaf70c69ee7cb754ca1
+FileChecksum: MD5: 6965a9be4843eb61c53fb522e8640f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/INSTALL.md
+SPDXID: SPDXRef-item9501895
+FileChecksum: SHA1: ebe0adaaf7ea042d97d82cff070e60f2b53f774e
+FileChecksum: MD5: 4e73b80f47be3c38c6cce9d6153fffc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_12.py
+SPDXID: SPDXRef-item9501896
+FileChecksum: SHA1: a9c6d74ef25e2a52b5c3be82d40456375d8193d7
+FileChecksum: MD5: 4cef665c856924f7a3436512eec8ab0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_6.py
+SPDXID: SPDXRef-item9501897
+FileChecksum: SHA1: b1a0178ddd7fdec164d25de102fe04556ea4cd5e
+FileChecksum: MD5: 993fa56f179971b0ec48a923e96152ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_7.py
+SPDXID: SPDXRef-item9501898
+FileChecksum: SHA1: ce5ed03ac2100d9f0b35bf559197970d459e30ff
+FileChecksum: MD5: b077180e092d998b37828ebc4817df63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_2.py
+SPDXID: SPDXRef-item9501899
+FileChecksum: SHA1: 27555eb82748ab4f73190453fd7b15d943da6f99
+FileChecksum: MD5: 88e1192c4307aea4b16f55f8ee327524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_9.py
+SPDXID: SPDXRef-item9501900
+FileChecksum: SHA1: 5dfdae2bd0cedd539a2af351c4a4eab58a47c353
+FileChecksum: MD5: 6af76adc27ad296bb437e9cd87bf39eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/fashion_mnist_after_step_4.py
+SPDXID: SPDXRef-item9501901
+FileChecksum: SHA1: 9340c8cbada0fe9f828ac0388085747e1d89cf7c
+FileChecksum: MD5: fbd00f3a076ca7560cd628a87d0d3c63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tutorials/fashion_mnist/Dockerfile
+SPDXID: SPDXRef-item9501902
+FileChecksum: SHA1: 92ccede6b316911aacfb119277eae57a30d3bbd0
+FileChecksum: MD5: 810647b278ea08255f8a77329bbc5ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
