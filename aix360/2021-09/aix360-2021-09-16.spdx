@@ -1,0 +1,2170 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_aix360-2021-09-16.zip_1633193672.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-10-02T16:54:32Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: aix360-2021-09-16.zip
+PackageFileName: aix360-2021-09-16.zip
+SPDXID: SPDXRef-upload4018
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 11b933e7670c831b8f0df0d89ef556149cfb95b0
+PackageChecksum: SHA1: 527d9294ffdc89e4a1c51420931120afe097ee54
+PackageChecksum: MD5: 121c65f2050cd29f6f25cc9db2e85350
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4018
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: AIX360/supplementary license/LICENSE-MIT.txt
+SPDXID: SPDXRef-item15554079
+FileChecksum: SHA1: d2c2c81ac4ea6a7b103568c22db9641e890c7f8e
+FileChecksum: MD5: 093904d72dd3f9d8ba2ffac72d7b5069
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/license
+SPDXID: SPDXRef-item15554201
+FileChecksum: SHA1: 67437c35a7cbb5909d1a9f2cf529d8e7a45ae808
+FileChecksum: MD5: 3b8f4ad144ea9c4619b8d2f376c61537
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/LICENSE
+SPDXID: SPDXRef-item15554041
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/supplementary license/README.md
+SPDXID: SPDXRef-item15554078
+FileChecksum: SHA1: 765a94e476e9ae218949f950070d6528e1b1436c
+FileChecksum: MD5: 618ccf1a494b3ba0f43a7c5e3b571dbd
+LicenseConcluded: Apache-2.0 AND BSD-2-Clause AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/CEM_MAF_aen_PN.py
+SPDXID: SPDXRef-item15554171
+FileChecksum: SHA1: 558dd82574551a091fcd25b72198fd6010eda7a1
+FileChecksum: MD5: 90713e1e19a697aadf6e82bef4a733dd
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (C) 2016, Nicholas Carlini <nicholas@carlini.com>.
+Copyright (C) 2017, Yash Sharma <ysharma1126@gmail.com>.
+Copyright (C) 2018, PaiShun Ting <paishun@umich.edu> Chun-Chen Tu <timtu@umich.edu> Pin-Yu Chen <Pin-Yu.Chen@ibm.com>
+Copyright (c) 2019 IBM Corporation </text>
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/CEM_MAF_aen_PP.py
+SPDXID: SPDXRef-item15554174
+FileChecksum: SHA1: 403ca224d62fc655173dba055b8bdeba355f6794
+FileChecksum: MD5: 13e4a96740f9a25a11fa683613226e4c
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (C) 2016, Nicholas Carlini <nicholas@carlini.com>.
+Copyright (C) 2017, Yash Sharma <ysharma1126@gmail.com>.
+Copyright (C) 2018, PaiShun Ting <paishun@umich.edu> Chun-Chen Tu <timtu@umich.edu> Pin-Yu Chen <Pin-Yu.Chen@ibm.com>
+Copyright (c) 2019 IBM Corporation </text>
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/CEM_MAF_utils.py
+SPDXID: SPDXRef-item15554167
+FileChecksum: SHA1: e0fd0f50f482b2d12d9602aa2ee9f199df51a41f
+FileChecksum: MD5: 8d8410b51760620b478390cd3da5002c
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (C) 2016, Nicholas Carlini <nicholas@carlini.com>.
+Copyright (C) 2017, Huan Zhang <ecezhang@ucdavis.edu>.
+Copyright (C) 2018, PaiShun Ting <paishun@umich.edu> Chun-Chen Tu <timtu@umich.edu> Pin-Yu Chen <Pin-Yu.Chen@ibm.com>
+Copyright (c) 2019 IBM Corporation </text>
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/resnet_keras_model.py
+SPDXID: SPDXRef-item15554206
+FileChecksum: SHA1: d5f8909e96769d7a98e6dc13c007f531961e374c
+FileChecksum: MD5: d5d2e9594cf0cdd5f7441b381ef4c00c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2015 - 2019, François Chollet. All rights reserved.
+Copyright (c) 2015 - 2019, Google, Inc. All rights reserved.
+Copyright (c) 2015 - 2019, the respective contributors. All rights reserved.
+Copyright (c) 2017 - 2019, Microsoft, Inc. All rights reserved.
+Copyright (c) 2019 IBM Corporation </text>
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/mnist_dataset.py
+SPDXID: SPDXRef-item15554148
+FileChecksum: SHA1: b07cef0ee030526a41ba7bfdc1259ad65be40d36
+FileChecksum: MD5: 967a2cdae7862fa6b714ae53ddb78b88
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: <text> Copyright (c) 2016, Nicholas Carlini <nicholas@carlini.com>.
+Copyright (c) 2019 IBM Corporation </text>
+ 
+
+##File
+
+FileName: AIX360/examples/shap/SHAP.ipynb
+SPDXID: SPDXRef-item15554045
+FileChecksum: SHA1: 0a484d9def4119d24e3b1ad6d719d3d1594e6623
+FileChecksum: MD5: 51437a061f9eb8c60946827ca364edb9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) Sindre Sorhus </text>
+ 
+
+##File
+
+FileName: AIX360/supplementary license/LICENSE-BSD.txt
+SPDXID: SPDXRef-item15554080
+FileChecksum: SHA1: dec93b6e1a59ddd5098b0c9f865d575036478004
+FileChecksum: MD5: 4a98fdf5585430c8ccc85b4a6780d6b3
+LicenseConcluded: BSD-2-Clause
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/setup.py
+SPDXID: SPDXRef-item15554081
+FileChecksum: SHA1: c96a01c21a9c6dfc11b33e33d0cc97c82a18a3ca
+FileChecksum: MD5: 54f5e83498bbe9935a2830445c28e1d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/CONTRIBUTING.md
+SPDXID: SPDXRef-item15554039
+FileChecksum: SHA1: 7d7a1b5ba93d20ff71aada48aa8d5141d338a2ef
+FileChecksum: MD5: 4e462779d73119f38645829247d9b08a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/README.md
+SPDXID: SPDXRef-item15554040
+FileChecksum: SHA1: dd82a53fe0d4bd17b57ee9717e660b6a39d1fa82
+FileChecksum: MD5: e466d9923e337366c498c3255c86d2cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/.readthedocs.yml
+SPDXID: SPDXRef-item15554042
+FileChecksum: SHA1: cc3e9e856bc5f1ea4a2f6044f78a0745ea0e2804
+FileChecksum: MD5: d35dad4e17a6734eb89a99703292803d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/protodash/Protodash Text example SPAM HAM.ipynb
+SPDXID: SPDXRef-item15554047
+FileChecksum: SHA1: b8ad5b5fff7b2859dfb9bc43f00ba7ce9edf821b
+FileChecksum: MD5: a9ecd18c2f219aa056a47a01690bfef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/protodash/Protodash-CDC.ipynb
+SPDXID: SPDXRef-item15554048
+FileChecksum: SHA1: 495ee13a2fdcb6bc155ae01076e45711a4f03e00
+FileChecksum: MD5: 42877a62d7a792a15e8b01d78be80c03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/README.md
+SPDXID: SPDXRef-item15554049
+FileChecksum: SHA1: 32af526d56bf75e1ff762651751dc02b6f45c2ff
+FileChecksum: MD5: ec1d33982a40c8d1e8af9ba45c7e2e92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/metrics/metrics test.ipynb
+SPDXID: SPDXRef-item15554051
+FileChecksum: SHA1: ee95cd5af9f076edc2d66fe51622a14f68f7773b
+FileChecksum: MD5: 9e50acd311994a41da17b3cba1d999fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/contrastive/CEM-MAF-CelebA.ipynb
+SPDXID: SPDXRef-item15554053
+FileChecksum: SHA1: d5ec3a5c3a18d196ef4bc1d6cd751f32aa804235
+FileChecksum: MD5: 4d0fec9095fa3bb791452e6d3a99b2ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/contrastive/CEM-MNIST.ipynb
+SPDXID: SPDXRef-item15554054
+FileChecksum: SHA1: 8caefb950b5c96d208d6c8c06d4ec13181b217a5
+FileChecksum: MD5: ce45a7bdb6208d7da3b4d3a48facb828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/heloc_nnsmall.h5
+SPDXID: SPDXRef-item15554056
+FileChecksum: SHA1: 6c3bd40ea55e1662cd8835d5073a2da8028d8d81
+FileChecksum: MD5: 2f914c3638e1996cb05ca2fee826bcec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/CDC.ipynb
+SPDXID: SPDXRef-item15554057
+FileChecksum: SHA1: 592288104133cf5c0f665982d2a0b9ac75e5236b
+FileChecksum: MD5: 037253001169db88a9a2c6dace40ae9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/MEPS.ipynb
+SPDXID: SPDXRef-item15554058
+FileChecksum: SHA1: 62b4c285ca3fd870c967cfead7506893ef3bae29
+FileChecksum: MD5: 11347167bbc562cf4006c349895e4c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/dermoscopy.ipynb
+SPDXID: SPDXRef-item15554059
+FileChecksum: SHA1: 8ca39c56d2943c5e1cd833bae92ab18af863d7ff
+FileChecksum: MD5: 75697d1074d9c1db9a37cd00f45cbed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/HELOC.ipynb
+SPDXID: SPDXRef-item15554060
+FileChecksum: SHA1: cdc4298795f013a91feec55e4bf82fc50473097a
+FileChecksum: MD5: 5ed0ae3fbad5a8900612995327aeab3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/train_tutorial_dermatology_models.py
+SPDXID: SPDXRef-item15554061
+FileChecksum: SHA1: 8c261ff0efa3af23ba840efaf3cc9a73b1c834bd
+FileChecksum: MD5: 6235bb5466ee1dc8e9ec5519b79bc880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/tutorials/retention.ipynb
+SPDXID: SPDXRef-item15554062
+FileChecksum: SHA1: 173cc57bfb3b4e33c7da90219f13bda6c7fccc39
+FileChecksum: MD5: d8a4fcf45445830c43b28c052939a138
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/dipvae/DIPVAE-FMNIST.ipynb
+SPDXID: SPDXRef-item15554064
+FileChecksum: SHA1: 5396aa69e42eecc3d600c96e7a251e0bde4de2f2
+FileChecksum: MD5: 4782e2b831407befd9f6ca0170a4d143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/lime/LIME.ipynb
+SPDXID: SPDXRef-item15554066
+FileChecksum: SHA1: aad8511f1e0df64e4ba5634e6d11ddee2755abdd
+FileChecksum: MD5: 525af4a2a52f148fff861f2684db32c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/rbm/breast-cancer-logistic.ipynb
+SPDXID: SPDXRef-item15554068
+FileChecksum: SHA1: 4008251c464c7922d27390b518a628335ba66445
+FileChecksum: MD5: 884e2a3ce845c969bf44a7e02eaf4eee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/rbm/breast-cancer-br.ipynb
+SPDXID: SPDXRef-item15554069
+FileChecksum: SHA1: b946802b01a6cc91364218534df52ade2815b6fd
+FileChecksum: MD5: f6ebdd8847c2876fdae8531e0bf59acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/rbm/feature_binarizer_from_trees_demo.py
+SPDXID: SPDXRef-item15554070
+FileChecksum: SHA1: 68d72210cbac1b1532640007d6a51303a27c89af
+FileChecksum: MD5: 909ac6e267691e2c19a024100b49277f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/rbm/boston-linear.ipynb
+SPDXID: SPDXRef-item15554071
+FileChecksum: SHA1: ee68f826faf3ec499ff145b2461d8fee97249175
+FileChecksum: MD5: 48c7d045a8e4f886fcb733f5c702dbe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/rbm/feature_binarizer_from_trees.ipynb
+SPDXID: SPDXRef-item15554072
+FileChecksum: SHA1: 2a5cdb12bff766ffef9cf828e0c87e29da41dfdb
+FileChecksum: MD5: d1a1353dfbb9d90e3161b7a06e3e1cbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/rbm/data/crime.pkl
+SPDXID: SPDXRef-item15554074
+FileChecksum: SHA1: f365d5dc5c12ba98369617c7c1ac3a1213db9b01
+FileChecksum: MD5: abf7189bb2dcc70324c34bbc86ebe165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/examples/profwt/Prof-Weight.ipynb
+SPDXID: SPDXRef-item15554076
+FileChecksum: SHA1: 4baffc8f04bd0c2b3cb7624a16fc7230663228b7
+FileChecksum: MD5: 098f08fd3ab9e7ad990cf7027bc220a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/.travis.yml
+SPDXID: SPDXRef-item15554082
+FileChecksum: SHA1: 77b3a9fed425f4e8444692bcba0670fc1a2d826d
+FileChecksum: MD5: 48a68fda00ef2de7f1ee0c3b0dd92e7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/CEM_MAF/__init__.py
+SPDXID: SPDXRef-item15554086
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/CEM_MAF/attr_model/__init__.py
+SPDXID: SPDXRef-item15554088
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/protodash/sms-lstm-forprotodash.json
+SPDXID: SPDXRef-item15554090
+FileChecksum: SHA1: d9ca78517754d1b005abf7230c4bc1498bc5216e
+FileChecksum: MD5: 402789fa05a5e86824ae732a585467a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/protodash/sms-lstm-forprotodash.h5.gz/sms-lstm-forprotodash.h5
+SPDXID: SPDXRef-item15554093
+FileChecksum: SHA1: aed59132ec3f28ad077a1b0f0c782d2bdaf09f72
+FileChecksum: MD5: 293f1350b3b936ad985b18b56c7ebeba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/CEM/mnist_AE_1_decoder.json
+SPDXID: SPDXRef-item15554095
+FileChecksum: SHA1: 3df382df56778e56c3cfb9e65188b98369ab29bc
+FileChecksum: MD5: 3c778c1918071fdb7b90876a98dc9ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/CEM/mnist_AE_1_decoder.h5
+SPDXID: SPDXRef-item15554096
+FileChecksum: SHA1: 65596ad6fdf47636f52956463e50062ee10067d8
+FileChecksum: MD5: 3e965ddc631a9ed8fc24e0e0692d966c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/CEM/mnist.json
+SPDXID: SPDXRef-item15554097
+FileChecksum: SHA1: 2156d541361751a4c6674289e1c8f5373e87dbda
+FileChecksum: MD5: 82f3198897e6afc47b5c56114b088e32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/CEM/mnist
+SPDXID: SPDXRef-item15554098
+FileChecksum: SHA1: ff2a68cf86a0f415d5f9a620a36df13373dc4510
+FileChecksum: MD5: aaaac509f956b45d24b93929792f296f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/__init__.py
+SPDXID: SPDXRef-item15554099
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred1.npy
+SPDXID: SPDXRef-item15554102
+FileChecksum: SHA1: ffbeb031f130dea802345d2c5d6b615f05937b7c
+FileChecksum: MD5: b3093675df6fdeb09a69ca0a393d786b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred11.npy
+SPDXID: SPDXRef-item15554103
+FileChecksum: SHA1: c693e2eeaeeb87db4ac7636ca8998754c2ab7f02
+FileChecksum: MD5: e9b65ba81cff4f338f1db453d984c2e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred12.npy
+SPDXID: SPDXRef-item15554104
+FileChecksum: SHA1: 9c17f28f533ae72734474e9227815d76267c7427
+FileChecksum: MD5: 555eb655355b5be350f0a7e816f5665a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred7.npy
+SPDXID: SPDXRef-item15554105
+FileChecksum: SHA1: 3d22378ba53073fea1fbe932ae78fdd808a3b97b
+FileChecksum: MD5: 61d401abf3fc0d83e14937c58433e555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred13.npy
+SPDXID: SPDXRef-item15554106
+FileChecksum: SHA1: aa430c6ce5a8181d95695dc67f8396639291b980
+FileChecksum: MD5: 077a09b471e1fe708fd17ae4b86e0dfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred16.npy
+SPDXID: SPDXRef-item15554107
+FileChecksum: SHA1: 7cb216831f728d8db8a2c3bde0cea11cd9cefb27
+FileChecksum: MD5: 199cedb82c92fe330dc6d92fb0da436d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred8.npy
+SPDXID: SPDXRef-item15554108
+FileChecksum: SHA1: 78616e93371bbaf21ff88970534c8efb56b312c7
+FileChecksum: MD5: 73417cfd95760155a2b4cb3d79d3a4b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred2.npy
+SPDXID: SPDXRef-item15554109
+FileChecksum: SHA1: ed96904b44864b9238e2eabfb63924da8732257b
+FileChecksum: MD5: 91eaa4ecd13d7cd9de31e898afb3a94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred4.npy
+SPDXID: SPDXRef-item15554110
+FileChecksum: SHA1: 21b5b706875eba36e38aec839f255c87b3ca2769
+FileChecksum: MD5: ad7a3cdbad07e4fa800791e021f07212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred0.npy
+SPDXID: SPDXRef-item15554111
+FileChecksum: SHA1: d6d7740c58f6269f54603ab479825932618fc735
+FileChecksum: MD5: 07f6fd562fea29c41d2e1f2c7567ab07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred5.npy
+SPDXID: SPDXRef-item15554112
+FileChecksum: SHA1: b486473c4742a2c33cf8bb2c26f1f18c17dbba1a
+FileChecksum: MD5: 1e4fcde28abd2f29ee193be9fdfb7c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred6.npy
+SPDXID: SPDXRef-item15554113
+FileChecksum: SHA1: 04bc4cc6f692fa2260771e86ee1ef935de3e1933
+FileChecksum: MD5: a02cdab1e5da58be66343d5e9c0d64d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred3.npy
+SPDXID: SPDXRef-item15554114
+FileChecksum: SHA1: 3516424e5c5dfb6765e638456f5391bbe89679d4
+FileChecksum: MD5: 138b55dca4166cb16c54d46bb438b276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred9.npy
+SPDXID: SPDXRef-item15554115
+FileChecksum: SHA1: 056b18eaef4d60aa8cec34edd416732effa06c5b
+FileChecksum: MD5: 608f3282f52db8ae07115fec992ef780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred15.npy
+SPDXID: SPDXRef-item15554116
+FileChecksum: SHA1: 6f3382f2042ca1de7edcd7c3d981d5bfccfa2861
+FileChecksum: MD5: 4005249cfd54994210e4dbce41ebc5ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred14.npy
+SPDXID: SPDXRef-item15554117
+FileChecksum: SHA1: cae68abcabd7fb556937cb77ded0d44f59137da3
+FileChecksum: MD5: a72143084e8ecd1683089915fb3daa27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/probe_output/probe_2_out_pred10.npy
+SPDXID: SPDXRef-item15554118
+FileChecksum: SHA1: ce45290b2f849ca921d3c6561308c79abd8602e0
+FileChecksum: MD5: 286100555f04a2ae3c161fad5116894c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoint_probes/probe_model_run1.meta
+SPDXID: SPDXRef-item15554120
+FileChecksum: SHA1: e1016aa10fc3708ade1ffdd346872911f2cb3e30
+FileChecksum: MD5: 33a24f81d7b303be129b3c6a46b024c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoint_probes/probe_model_run1.data-00000-of-00001
+SPDXID: SPDXRef-item15554121
+FileChecksum: SHA1: 3d27b51cea1335fe69f7c22015ff2b583732e606
+FileChecksum: MD5: e809bde543e3af130136bd890ae508bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoint_probes/checkpoint
+SPDXID: SPDXRef-item15554122
+FileChecksum: SHA1: 0e00e570c6607b31088ae8a76d8f4b8b98796585
+FileChecksum: MD5: 7f974254190c6274d588032eda8c5607
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoint_probes/probe_model_run1.index
+SPDXID: SPDXRef-item15554123
+FileChecksum: SHA1: 6173ef77655e7d5231641237205d58873aa9adc2
+FileChecksum: MD5: 3f03e39052ba7aeceab7e60c6a5668c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/train_resnetmodel_new_799.ckpt.index
+SPDXID: SPDXRef-item15554125
+FileChecksum: SHA1: e69b06dad6216814247c070088b03e07c975e365
+FileChecksum: MD5: 5729cb8be402bc048e3817c715063e14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/train_resnetmodel_new_799.ckpt.data-00000-of-00001
+SPDXID: SPDXRef-item15554126
+FileChecksum: SHA1: 1aea13237b7423c357160895815570bebfc1724a
+FileChecksum: MD5: 9e4418c0670860c79c563a5581090530
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/train_resnetmodel_new1_799.ckpt.meta
+SPDXID: SPDXRef-item15554127
+FileChecksum: SHA1: d52dd64f724e8363f15bfe67a95945c932040139
+FileChecksum: MD5: 8c1919456a3bb47daaa507a429597c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/checkpoint
+SPDXID: SPDXRef-item15554128
+FileChecksum: SHA1: 22d0b76aaaceb0a35a9dd5e60b664f05668a3cad
+FileChecksum: MD5: 1cd3449c271ed6dd1dc836b36f8a97f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/train_resnetmodel_new1_799.ckpt.data-00000-of-00001
+SPDXID: SPDXRef-item15554129
+FileChecksum: SHA1: 8f6595f0a1eba98ebd13ee821a3f2f892418faca
+FileChecksum: MD5: 9c91a30edbdc0cbe735506669698427c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/train_resnetmodel_new1_799.ckpt.index
+SPDXID: SPDXRef-item15554130
+FileChecksum: SHA1: 4d5111e7dc5438f069cdce76db1c9d068755e69e
+FileChecksum: MD5: e9eb28c077a908e4ee5490fbecacd092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/profwt/checkpoints/train_resnetmodel_new_799.ckpt.meta
+SPDXID: SPDXRef-item15554131
+FileChecksum: SHA1: ca054d7bbb6edf2a22b27b48217146158a866d83
+FileChecksum: MD5: 198d57f09cc35594ec4e1e65259cbdc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/DIPVAE/resultsmodel=user-defined_lambda_diag_factor=0e+00_lambda_offdiag=0e+00_beta=1e-03/recons_epoch_end_batch_id_end.png
+SPDXID: SPDXRef-item15554134
+FileChecksum: SHA1: 6557db1f30656d2d23bb62480277548a144480ff
+FileChecksum: MD5: f79c4cc261da81d74c0a0cd5ca4feebf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/DIPVAE/resultsmodel=user-defined_lambda_diag_factor=0e+00_lambda_offdiag=0e+00_beta=1e-03/net.p
+SPDXID: SPDXRef-item15554135
+FileChecksum: SHA1: 85316052d682df4f0bef09e99805eb75bdf1f30b
+FileChecksum: MD5: a01fe9d0cffb4527feed003c37049407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/DIPVAE/resultsmodel=user-defined_lambda_diag_factor=0e+00_lambda_offdiag=0e+00_beta=1e-03/traversal_epoch_end_batch_id_end.png
+SPDXID: SPDXRef-item15554136
+FileChecksum: SHA1: 8307c85e2952c5abb9b6ad17d0a7ecf4a69c5e40
+FileChecksum: MD5: cae48a9a43553dbd9fa555172caf7aa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/DIPVAE/resultsmodel=user-defined_lambda_diag_factor=1e+01_lambda_offdiag=1e-03_beta=1e-03/recons_epoch_end_batch_id_end.png
+SPDXID: SPDXRef-item15554138
+FileChecksum: SHA1: 75069af5db23eb993640def44abfcc7b71e46dad
+FileChecksum: MD5: 4fa76704863942bd7b465e47757a8535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/DIPVAE/resultsmodel=user-defined_lambda_diag_factor=1e+01_lambda_offdiag=1e-03_beta=1e-03/net.p
+SPDXID: SPDXRef-item15554139
+FileChecksum: SHA1: b38177b3a32b7d1f99ad121905212fa96c0c4481
+FileChecksum: MD5: dc75e7a0f7b8111a9590b445dc831b29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/models/DIPVAE/resultsmodel=user-defined_lambda_diag_factor=1e+01_lambda_offdiag=1e-03_beta=1e-03/traversal_epoch_end_batch_id_end.png
+SPDXID: SPDXRef-item15554140
+FileChecksum: SHA1: 3ca197f19f7a6668702364a9193af25f40b21101
+FileChecksum: MD5: ea1e8760a34756dbdbc8b0a38f426f78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/metrics/local_metrics.py
+SPDXID: SPDXRef-item15554142
+FileChecksum: SHA1: 7ee5908089e461e6d4a2c2d9d5f797fd46da0c83
+FileChecksum: MD5: 2059c41d087459571779151786db788d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/metrics/__init__.py
+SPDXID: SPDXRef-item15554143
+FileChecksum: SHA1: 13ba32c75a7deef7e3f317137459b80e13ba8b07
+FileChecksum: MD5: 53d5caf163bf3a28f9d41be47227f067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/cdc_dataset.py
+SPDXID: SPDXRef-item15554145
+FileChecksum: SHA1: f7b42b06737af38d64a0f089a485033a2b83f44e
+FileChecksum: MD5: d19c01ab4353cf10ffa67f81bc28afcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/meps_dataset.py
+SPDXID: SPDXRef-item15554146
+FileChecksum: SHA1: 7ee299dcc603a8f770ba8f24d2178820a446a277
+FileChecksum: MD5: 5fbde3f403d062e6b8b89758666987f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/cifar_dataset.py
+SPDXID: SPDXRef-item15554147
+FileChecksum: SHA1: b312cf99c4f1b7688106500f4e4e5c782574eefe
+FileChecksum: MD5: cdf53bb9535c95a5a53eb2e3b45107ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/heloc_dataset.py
+SPDXID: SPDXRef-item15554149
+FileChecksum: SHA1: 8a0cf5362781f5a90b6a8d4265642014da9ba657
+FileChecksum: MD5: 30dc69a77f7954309b0dd55403ec79b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/fashion_mnist_dataset.py
+SPDXID: SPDXRef-item15554150
+FileChecksum: SHA1: b0de3faf49f709ca12d274104ec62fee30f80260
+FileChecksum: MD5: 372fdff0e950a168a4d756583f0026f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/ted_dataset.py
+SPDXID: SPDXRef-item15554151
+FileChecksum: SHA1: 7cda95213ee2cef813ad3766f9d2a16629fb061f
+FileChecksum: MD5: e7f310c6c3432abf524fb947d84d12b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/__init__.py
+SPDXID: SPDXRef-item15554152
+FileChecksum: SHA1: 634fd500f433d422054c1067cd22558a59db0a4b
+FileChecksum: MD5: ec0962afb7253802c5e1e3e619c3af6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/datasets/celeba_dataset.py
+SPDXID: SPDXRef-item15554153
+FileChecksum: SHA1: 7eacef2940fbc95ff6bd00cb676dbb803f3e14c3
+FileChecksum: MD5: 22cb802a9c906d8a7d7a701980393885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/__init__.py
+SPDXID: SPDXRef-item15554154
+FileChecksum: SHA1: b37aab37dd04907b2887b9380391ef86399c4af0
+FileChecksum: MD5: 5fe5525425adefed7a634604d99c76fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/shap/shap_wrapper.py
+SPDXID: SPDXRef-item15554157
+FileChecksum: SHA1: 849e4667616bc894cce477cc5e10ed98f75d6b18
+FileChecksum: MD5: bb65233622f75cdd80728ac26bb4822f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/shap/__init__.py
+SPDXID: SPDXRef-item15554158
+FileChecksum: SHA1: 818672bd4e4e5f68d29a214ca169a7ba4e5b979c
+FileChecksum: MD5: ae3a7fec0dd2bae34f033a3dff80ff7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/lbbe.py
+SPDXID: SPDXRef-item15554159
+FileChecksum: SHA1: f3f3b8703e5b7e2158651e33f7373b42c615d6df
+FileChecksum: MD5: e912c85de8279454a9c993ef7d792b30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/protodash/PDASH.py
+SPDXID: SPDXRef-item15554161
+FileChecksum: SHA1: 7015db0437f6340e2f50bcd90c632abc3b2e4d2d
+FileChecksum: MD5: 6bf8b93278102bbb03b9c4e1eb5ee0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/protodash/__init__.py
+SPDXID: SPDXRef-item15554162
+FileChecksum: SHA1: 9c71523a44bf5e2d8b76b08c6b4ebf28476523d7
+FileChecksum: MD5: 23c48fcfbeaa5e64e370a318ce22dfe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/protodash/PDASH_utils.py
+SPDXID: SPDXRef-item15554163
+FileChecksum: SHA1: c51468b656a7186af1e7f069c54aa476ffdc67ca
+FileChecksum: MD5: 5aba8d8dfb44ae595e9f01bab6cc22a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/README.md
+SPDXID: SPDXRef-item15554164
+FileChecksum: SHA1: 48afe6e892f3215412cd1daea0fb491dcfc0ac5a
+FileChecksum: MD5: 310dfd85b7c55582a1b42b824bb7ba6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/gbbe.py
+SPDXID: SPDXRef-item15554165
+FileChecksum: SHA1: 46122497100f6b2e74bd574cf39a71735f8569c4
+FileChecksum: MD5: 276619c2ef5b41891e0f2eb3193d3622
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/CEM.py
+SPDXID: SPDXRef-item15554168
+FileChecksum: SHA1: a81f6b3ff222556c44bc89c1c6c5fdd76ff8970a
+FileChecksum: MD5: ff987461adcfede647f36a14d217d369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/classifiers.py
+SPDXID: SPDXRef-item15554169
+FileChecksum: SHA1: 3950eff2eed64087f7eb9b3171bb079e26faac13
+FileChecksum: MD5: d5675d32d131da2301f1cbfc4b22d0c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/CEM_aen.py
+SPDXID: SPDXRef-item15554170
+FileChecksum: SHA1: 8b0de9987279427ce2c8d6b7e4dd6ec1dacba284
+FileChecksum: MD5: 64717a7ef10de9abee9b36315445c301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/CEM_MAF.py
+SPDXID: SPDXRef-item15554172
+FileChecksum: SHA1: 1daacdbdfa47ffed6485063ac5dd8a578ebc9656
+FileChecksum: MD5: a92bd021b4ec364a080d41644569fff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/__init__.py
+SPDXID: SPDXRef-item15554173
+FileChecksum: SHA1: 04df20a3505f5f7f50396a2d35fac8a3f6dbb7e0
+FileChecksum: MD5: d5216d6970a7959cc5f9a162d4d09ac4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/contrastive/dwnld_CEM_MAF_celebA.py
+SPDXID: SPDXRef-item15554175
+FileChecksum: SHA1: 7c860a4cb5db7674f5e1a40860d121ae6ba80b22
+FileChecksum: MD5: 55b7b9c55a009fd9474af53df59ff399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/ted/TED_Cartesian.py
+SPDXID: SPDXRef-item15554177
+FileChecksum: SHA1: fa7c583a52cc090de1e278aec2c8109039fcb9ce
+FileChecksum: MD5: 22a1cc6453e26c8847ed9b0be8341af4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/ted/TED_utils.py
+SPDXID: SPDXRef-item15554178
+FileChecksum: SHA1: 55aa908dedca9b196a5f0be66b304f2de552f21f
+FileChecksum: MD5: b0c1ace8db139d89600fb11840f542a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/ted/__init__.py
+SPDXID: SPDXRef-item15554179
+FileChecksum: SHA1: 9df86859c44a757440808181818d9dd5d4f200c4
+FileChecksum: MD5: 5a55cf7c954ac7704aeafdc682e00423
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/die.py
+SPDXID: SPDXRef-item15554180
+FileChecksum: SHA1: b608d0be57f33681de2b14764380c18fac74656a
+FileChecksum: MD5: 5ccd199a131eed9fc9f8ed5111d47fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/dipvae/dipvae_utils.py
+SPDXID: SPDXRef-item15554182
+FileChecksum: SHA1: 093ecb38fbf6591548c7eb64722625f657acb4b8
+FileChecksum: MD5: 8410d4889cbe37f173790dd004e42dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/dipvae/dipvae.py
+SPDXID: SPDXRef-item15554183
+FileChecksum: SHA1: 81171ff19ffad1f0d1c5ca7d5d11eb7c5a9c2216
+FileChecksum: MD5: 2ed585cefae9c344d55b861c9cc25b4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/dipvae/__init__.py
+SPDXID: SPDXRef-item15554184
+FileChecksum: SHA1: d87cd9cecaca9589d1a94c413feb18c13213c0d5
+FileChecksum: MD5: aa75fb97edcfa364b01b4b63e4f970a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/lime/lime_wrapper.py
+SPDXID: SPDXRef-item15554186
+FileChecksum: SHA1: d43b5e57bf7e8f00d7d4eab0e28c14dab6812b40
+FileChecksum: MD5: dfcb369d833ea59913524c82455895d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/lime/__init__.py
+SPDXID: SPDXRef-item15554187
+FileChecksum: SHA1: 795b1d8ea4d26feef310485db594e8a5cbee3372
+FileChecksum: MD5: 88db95f03d60d14a234e37d6552625d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/boolean_rule_cg.py
+SPDXID: SPDXRef-item15554189
+FileChecksum: SHA1: 87517c94de124d836c8bf04011a79d3d6a561d65
+FileChecksum: MD5: 9fa20040f80a58fa77e920b873cd23e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/GLRM.py
+SPDXID: SPDXRef-item15554190
+FileChecksum: SHA1: bb1b0eafcdba83ef62ceccee42bce887cb101f01
+FileChecksum: MD5: 26d09e40b9d24b4a2828b78ad2dfbf3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/linear_regression.py
+SPDXID: SPDXRef-item15554191
+FileChecksum: SHA1: 6581d97daa5fa81a1ccfc30644ea1b302245ad84
+FileChecksum: MD5: f43a17fc9617a0eed8f6e411dc550f34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/beam_search.py
+SPDXID: SPDXRef-item15554192
+FileChecksum: SHA1: 74130efba95f16961aa23a48a6f10ceb5a51d1d4
+FileChecksum: MD5: c617be3551b327a3d81587385433ed13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/BRCG.py
+SPDXID: SPDXRef-item15554193
+FileChecksum: SHA1: 111b3567b5420b0e7eb03d1f0b5aaabec35dcda5
+FileChecksum: MD5: 82ecd145cf79725c3fc84174e8cdab6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/logistic_regression.py
+SPDXID: SPDXRef-item15554194
+FileChecksum: SHA1: 5e56ddc9de880fb9648d837a2956ee3df8476fcb
+FileChecksum: MD5: 72d76842b8f2ab7379a6cbc9939e5ca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/__init__.py
+SPDXID: SPDXRef-item15554195
+FileChecksum: SHA1: 59e32873fb9b8e4161c47665afe879c84740c917
+FileChecksum: MD5: 778f73e4d701b3b07e899207d8a6ad5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/rbm/features.py
+SPDXID: SPDXRef-item15554196
+FileChecksum: SHA1: 5e8ce9a5caa613d11054799b88416a9a6b1be0a9
+FileChecksum: MD5: a6ac3e93306ffcdc7b238029fdb7b289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/__init__.py
+SPDXID: SPDXRef-item15554197
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/methods-choice-updated.png
+SPDXID: SPDXRef-item15554198
+FileChecksum: SHA1: a84ab666db0ffd8ca814e0b58a318bd0c2171050
+FileChecksum: MD5: eb64b3415fef837474638b9593b5d6ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/gwbe.py
+SPDXID: SPDXRef-item15554199
+FileChecksum: SHA1: 06a03aa890b2767d6835c30a478a51f441699983
+FileChecksum: MD5: 7fccd4311a958e373dce7b9a5f9f3d6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/attach_probe_checkpoint.py
+SPDXID: SPDXRef-item15554202
+FileChecksum: SHA1: d2156b725bab24ec184d25faf359be1355fa0e5c
+FileChecksum: MD5: baebb4ee453855456d77cbafd5f40202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/readme_profweight.txt
+SPDXID: SPDXRef-item15554203
+FileChecksum: SHA1: e557cb87451c084bc651581328f28adc8ce70e06
+FileChecksum: MD5: dd90a5aaeeef81348eea87f3c8d92bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/train_probes.py
+SPDXID: SPDXRef-item15554204
+FileChecksum: SHA1: 68bfc029be452f7cb70d8aadc0a943b2d462778a
+FileChecksum: MD5: a045c991602877c4439ca214e2614437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/sample_weight_from_probes.py
+SPDXID: SPDXRef-item15554205
+FileChecksum: SHA1: 8e12d6b6ac77cc610b5f0abaf6d8847b04465346
+FileChecksum: MD5: 2e9d4d720312f394464d5b92e6b63c5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/profwt.py
+SPDXID: SPDXRef-item15554207
+FileChecksum: SHA1: 22774a4c285fb60c434dbb4ac960fbc36d9e9a58
+FileChecksum: MD5: e4e10072537baf60ccc09d8c7f839fc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/profwt/__init__.py
+SPDXID: SPDXRef-item15554208
+FileChecksum: SHA1: cf02a44f1c172a7932741e17e15eb823bd7b979b
+FileChecksum: MD5: 23c48ea5c6b86eca396e73df4b1adeb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/dise.py
+SPDXID: SPDXRef-item15554209
+FileChecksum: SHA1: cda809d23ad653d629f6141ec622170436766172
+FileChecksum: MD5: 68cd9ffda7a8d1ca5759cde67a010ac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/algorithms/lwbe.py
+SPDXID: SPDXRef-item15554210
+FileChecksum: SHA1: a9d9a3a74782452d899d4a27b43e0e559bc9226e
+FileChecksum: MD5: 3b502cf4f26c87bfd56a1126113f275f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/CEM_MAF/__init__.py
+SPDXID: SPDXRef-item15554213
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/mnist_data/__init__.py
+SPDXID: SPDXRef-item15554215
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/ted_data/Retention.csv
+SPDXID: SPDXRef-item15554217
+FileChecksum: SHA1: 65aff22c093a8bf66378de0be6c1145513a05401
+FileChecksum: MD5: 440e15a8fad48eb1c5da5feb47ef8e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/ted_data/GenerateData.py
+SPDXID: SPDXRef-item15554218
+FileChecksum: SHA1: 177ae6b085be915610dd63d5e60c7a16635f5c70
+FileChecksum: MD5: 188acf98c9f9d4161d96a4fbfc4c141e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/celeba_data/__init__.py
+SPDXID: SPDXRef-item15554220
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/README.md
+SPDXID: SPDXRef-item15554221
+FileChecksum: SHA1: e475188d7a2736c31a52911b5f700288404a35ff
+FileChecksum: MD5: 2c3158c74fb1cfdf2edb716dc3341e08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/heloc_data/__init__.py
+SPDXID: SPDXRef-item15554223
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/cifar_data/__init__.py
+SPDXID: SPDXRef-item15554225
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/fmnist_data/FashionMNIST/processed/__init__.py
+SPDXID: SPDXRef-item15554229
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/fmnist_data/FashionMNIST/raw/__init__.py
+SPDXID: SPDXRef-item15554231
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/fmnist_data/__init__.py
+SPDXID: SPDXRef-item15554232
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/meps_data/README.md
+SPDXID: SPDXRef-item15554234
+FileChecksum: SHA1: d8a6eb040efed4673e50b28cd3483074daa3be5b
+FileChecksum: MD5: 7643ef080381f99bd2e98198deacebaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/meps_data/generate_data.R
+SPDXID: SPDXRef-item15554235
+FileChecksum: SHA1: 8c39c7adb8f58948b91010c1f2252095915e6aa4
+FileChecksum: MD5: 96f8ff941d35b6b51695baa3a82766a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/aix360/data/__init__.py
+SPDXID: SPDXRef-item15554236
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/shap/__init__.py
+SPDXID: SPDXRef-item15554239
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/shap/test_shap.py
+SPDXID: SPDXRef-item15554240
+FileChecksum: SHA1: 5bf5d86e55649d61c5c26dfe1f44c625b5249cb6
+FileChecksum: MD5: 0732f875950907df603768553ac749ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/protodash/__init__.py
+SPDXID: SPDXRef-item15554242
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/protodash/test_PDASH.py
+SPDXID: SPDXRef-item15554243
+FileChecksum: SHA1: 20e7f3a46c4026065bf86e043e19081d9b7c921a
+FileChecksum: MD5: ffc1a9b6f8d3e816b1f7022be7efb81b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/contrastive/test_CEM.py
+SPDXID: SPDXRef-item15554245
+FileChecksum: SHA1: d8f519580af477aa2fd7bec6d21cf3ca36ff4748
+FileChecksum: MD5: 3784b1bc0fc49e639997996696b4ed7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/contrastive/test_CEM_MAF.py
+SPDXID: SPDXRef-item15554246
+FileChecksum: SHA1: 2a3584f5b1323ac5f677c688ebd033d2213b114c
+FileChecksum: MD5: 06f4b65115d8756881be1d3b86584eb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/contrastive/__init__.py
+SPDXID: SPDXRef-item15554247
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/ted/__init__.py
+SPDXID: SPDXRef-item15554249
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/ted/test_TED_Cartesian.py
+SPDXID: SPDXRef-item15554250
+FileChecksum: SHA1: 21a1c8f6383e88bfba4e84f3e76719d0ce2a4563
+FileChecksum: MD5: 7450f9dbe934dbc6971af4596f8f07b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/dipvae/__init__.py
+SPDXID: SPDXRef-item15554252
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/dipvae/test_DIPVAE.py
+SPDXID: SPDXRef-item15554253
+FileChecksum: SHA1: e2a596ab5e17c57cd2e5fa67f960dd04abb53ff2
+FileChecksum: MD5: be3bd753d2f7f338aaa918a20d809bc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/lime/__init__.py
+SPDXID: SPDXRef-item15554255
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/lime/test_lime.py
+SPDXID: SPDXRef-item15554256
+FileChecksum: SHA1: 951cdec2883e0099f1c089b9b0cf1afd76a715f8
+FileChecksum: MD5: 3a3b95c63e91ca380fd7005cbd31c8bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/test_Feature_Binarizer_From_Trees.py
+SPDXID: SPDXRef-item15554258
+FileChecksum: SHA1: e65cdfc412c0c9ee86d90245432ad05e9b270368
+FileChecksum: MD5: 4d8926446658c207cd1d7f2a5181c053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/__init__.py
+SPDXID: SPDXRef-item15554259
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/logistic_plot_data.json
+SPDXID: SPDXRef-item15554260
+FileChecksum: SHA1: 5f35498e5f6d0c31148490b1b96e1921b7f3c579
+FileChecksum: MD5: b80702bec97992cc886c97e132ff683d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/test_Logistic_Rule_Regression.py
+SPDXID: SPDXRef-item15554261
+FileChecksum: SHA1: 022d4514b6d1b502b881638700308f168f63c7e1
+FileChecksum: MD5: ea8de815528a06a174b0cc3a2d2d60ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/linear_plot_data.json
+SPDXID: SPDXRef-item15554262
+FileChecksum: SHA1: 5eb665acdb9ef03dfb42cc8f027bc5ec1640a55b
+FileChecksum: MD5: 3b531241abf42288c54c49114191a4d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/test_Linear_Rule_Regression.py
+SPDXID: SPDXRef-item15554263
+FileChecksum: SHA1: 6b714ce52f4ad0ec4eb93a553ac3bd2225430785
+FileChecksum: MD5: 2137a4c7e6c533f2b5028ea00f4f9480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/rbm/test_Boolean_Rule_CG.py
+SPDXID: SPDXRef-item15554264
+FileChecksum: SHA1: d5ef52f42c6c1967f36532e64df6a43ff744ac46
+FileChecksum: MD5: e633986a4c60bd3e54dff56eb0ebae89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/__init__.py
+SPDXID: SPDXRef-item15554265
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/profwt/__init__.py
+SPDXID: SPDXRef-item15554267
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/tests/profwt/test_ProfWt.py
+SPDXID: SPDXRef-item15554268
+FileChecksum: SHA1: 891262c6005976d83cb8527b243d080a82f50506
+FileChecksum: MD5: 585329c4168dad1961520961e5d39d76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/.gitignore
+SPDXID: SPDXRef-item15554269
+FileChecksum: SHA1: 47701268aeaa7225833a07ac573e8fe046a47b9e
+FileChecksum: MD5: c6746bbcdf21c1ee3209eea60b670ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/Makefile
+SPDXID: SPDXRef-item15554271
+FileChecksum: SHA1: 68862891a97494124717a08c1836d78513646022
+FileChecksum: MD5: ef4f00c423089323edef1d3cff31a4a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/make.bat
+SPDXID: SPDXRef-item15554272
+FileChecksum: SHA1: f72c4dc479344275c2644bf578418dde9cba8eb9
+FileChecksum: MD5: c0d3dd97c33fb8cd9d395542307fd10c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/index.rst
+SPDXID: SPDXRef-item15554273
+FileChecksum: SHA1: 074503ba3f97b8cc4d14a444147c67d9f7c9bf53
+FileChecksum: MD5: 6139e8d54ec08b23dc0e52ff5d7abb37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/datasets.rst
+SPDXID: SPDXRef-item15554274
+FileChecksum: SHA1: fbd2dceb73b78f724c85fd7448031b9cd5a6f0d6
+FileChecksum: MD5: 3ecca488d6be3e6aaacff55eae216943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/README.md
+SPDXID: SPDXRef-item15554275
+FileChecksum: SHA1: 351fbf74f31a8fa6f6c18182dfdc0bab609f94f1
+FileChecksum: MD5: dbb80f7769d552b64a3a98f4febf816d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/conf.py
+SPDXID: SPDXRef-item15554276
+FileChecksum: SHA1: 48f2906e9397573d23fbd8ca20ac3c0ba727b092
+FileChecksum: MD5: 4960c14704d9dd745f1a0f4e6d511543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright 2019, IBM Corporation </text>
+ 
+
+##File
+
+FileName: AIX360/docs/lwbe.rst
+SPDXID: SPDXRef-item15554277
+FileChecksum: SHA1: 61ea879cfe9c7fe493453409d83e85e082f11870
+FileChecksum: MD5: c46a9037cb083398b9a45a470828bb98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/gwbe.rst
+SPDXID: SPDXRef-item15554278
+FileChecksum: SHA1: 6dd873adbfdc84aa88936468ca893acfd32b047d
+FileChecksum: MD5: 0b71af7ad3bb5442c451631474c180fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/dise.rst
+SPDXID: SPDXRef-item15554279
+FileChecksum: SHA1: 213f7220af5a20c40bcea990c09f682bbac37e05
+FileChecksum: MD5: aa14fb14e98f923f19de74723f2b490e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/algorithms.rst
+SPDXID: SPDXRef-item15554280
+FileChecksum: SHA1: 811795819a38c9c6e1200f0ccf32bee100ff73a5
+FileChecksum: MD5: 70feffb0aa36573e12e607a40e287920
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/requirements.txt
+SPDXID: SPDXRef-item15554281
+FileChecksum: SHA1: dabbd6401034be2bb5aa1ecef9f1fa30878ee511
+FileChecksum: MD5: 14f3d4abba75c0cbe50450b09a82e453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/lbbe.rst
+SPDXID: SPDXRef-item15554282
+FileChecksum: SHA1: 796483b1c8ceafab7af3ca4ac8a1f71b72e408e7
+FileChecksum: MD5: 3896576b70a45ff26ce3264702fde0be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/die.rst
+SPDXID: SPDXRef-item15554283
+FileChecksum: SHA1: a9d00d5f4823d545fcc095bdb4d2a07f69d97583
+FileChecksum: MD5: 75c931e4b53d84d91cbeb00385fd11b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/docs/metrics.rst
+SPDXID: SPDXRef-item15554284
+FileChecksum: SHA1: fa4ea0754f83e80b0e72262e7e09cf142a1a123c
+FileChecksum: MD5: 9b29013c4fee2589be28f75e0738840b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/MAINTAINERS.md
+SPDXID: SPDXRef-item15554285
+FileChecksum: SHA1: 984172b7dc8b53d14688778e7caf166dc8a22a16
+FileChecksum: MD5: 397de7bfea194a4a380851d075e26685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: AIX360/Dockerfile
+SPDXID: SPDXRef-item15554286
+FileChecksum: SHA1: 52d76e760695033479ec6096ca967bb1f7d27572
+FileChecksum: MD5: a213694f5e38db22a4d3a814243dc669
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
