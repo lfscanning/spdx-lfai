@@ -1,0 +1,1908 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_forestflow-2022-01-27.zip_1644483624.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-02-10T09:00:24Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: forestflow-2022-01-27.zip
+PackageFileName: forestflow-2022-01-27.zip
+SPDXID: SPDXRef-upload278
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 398bb0b281e4ccf45db7f2d2863906c882e81883
+PackageChecksum: SHA1: 1967015deddaf378afa083fc8af29eb529f36297
+PackageChecksum: SHA256: 82e09f739fe608181e43080470e7ce938d23d15631aae25dc36bbcf8763fb7ed
+PackageChecksum: MD5: 9b811cb3a3340d8a4a53cfbb209446f0
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload278
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/LICENSE
+SPDXID: SPDXRef-item1141947
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/project-guidelines.md
+SPDXID: SPDXRef-item1141931
+FileChecksum: SHA1: 41e18c13701cc5e828aa135d9687f5987aaad55c
+FileChecksum: SHA256: 7bde5c93e72b4b1e145254b841d0e6a7601e6ba42c4c477f40e187942a40902e
+FileChecksum: MD5: ea54ddaff56f16f11f35ed26b4ab36e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/contributing.md
+SPDXID: SPDXRef-item1141932
+FileChecksum: SHA1: 7a6a716379ad851bda8c9520fe0ba5685de69a88
+FileChecksum: SHA256: 9e3eff7677f2d89ed2bb052cb9bf0387f408f2e528ab8270dc3f399b94e44cee
+FileChecksum: MD5: 7d1781f7b0818e45e34da97e8ceba7fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/concepts.md
+SPDXID: SPDXRef-item1141933
+FileChecksum: SHA1: abf07a22c9504459795f9641292d3971f1fd1b9d
+FileChecksum: SHA256: 9c7a0a0a9b451f57f698e2e716bdbe1289e7c4022d8498c74623ce4b281f10ee
+FileChecksum: MD5: 45ef66ca843775c48fac8edff3966a2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/quickstart.md
+SPDXID: SPDXRef-item1141936
+FileChecksum: SHA1: caf49ece094fae98f262a091f7d8d8f43349ab18
+FileChecksum: SHA256: ca864d022b75285145bb0786198f243df2837d416d8d2c6a2f3c05d9defbead6
+FileChecksum: MD5: 953065a0227ca0c7aa1ddbfebbcd3c17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/InferenceRequest-Schema.json
+SPDXID: SPDXRef-item1141934
+FileChecksum: SHA1: df4a145d59d9ec74e6183cfe79bf02dae8d07bf0
+FileChecksum: SHA256: 172cd8aa30a3a4294f267526ab535343e41b62b81f2b991541d3e126e539af94
+FileChecksum: MD5: 1d94bdf7ea2794ed48860048c57d4856
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/overview.md
+SPDXID: SPDXRef-item1141937
+FileChecksum: SHA1: b98f6d40e51dc096f46f53fe1d09f5524b8d4d24
+FileChecksum: SHA256: e946d6d4742bd11e6260b9efac1465e9d50772f2f7168eaaf42f698bd5936cc2
+FileChecksum: MD5: e7f89bc723922dd2a03f4ca93a617f6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/buildconfig.md
+SPDXID: SPDXRef-item1141940
+FileChecksum: SHA1: 57439bfd8a8607d555b4e3b3f6975c56bf8d0490
+FileChecksum: SHA256: 6efca18959817161a9ce62d75e56e4bfff9e91a87cf5d88e60977831f34c7a4d
+FileChecksum: MD5: e84e6b944db3a0b44b4ec46d56da45cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/inference.md
+SPDXID: SPDXRef-item1141945
+FileChecksum: SHA1: a14f7a84599c9e1f6f38c5ddbcfa4dd736fe8ed7
+FileChecksum: SHA256: 73478aa56d8e96251755a0a00dd63128f290ab185475dac5859b74690955bf30
+FileChecksum: MD5: 7c9bfea91216e8599a352bc13259e852
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving-rest/src/main/scala/ai/forestflow/serving/restapi/HTTPServer.scala
+SPDXID: SPDXRef-item1141958
+FileChecksum: SHA1: 450304ce13df7a25e8a2c89391d2cc1e01246cfd
+FileChecksum: SHA256: 5f89b0fdf0ce43a19c175c967cb5879f34cff74be85161cfc23afccea837e926
+FileChecksum: MD5: 8522d7449ac8fe4ae2fd5205c9bb2a88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/conf.py
+SPDXID: SPDXRef-item1141946
+FileChecksum: SHA1: c655178744adbe438f43416985e9f263b63d8949
+FileChecksum: SHA256: 4f0c301a8ab1fe3c95cbc7977b21604d7adf1a3e12707727430bea3e6e28775b
+FileChecksum: MD5: 4e82eb10118bc893e51135e0c5969edc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+copyright = u'2020, DreamWorks Animation' author = u'DreamWorks Animation' </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving-rest/pom.xml
+SPDXID: SPDXRef-item1141961
+FileChecksum: SHA1: daf67173accd2b0bfea6a45aa71fee7ff1eaf051
+FileChecksum: SHA256: 471d52b62405f29f8bcc2787206e6eae8fa9860c7c891ad89b344d11ed0a52e8
+FileChecksum: MD5: 38d0f95db8b1680c2fa44559c668d085
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving-rest/src/main/scala/ai/forestflow/serving/restapi/StatusRoute.scala
+SPDXID: SPDXRef-item1141960
+FileChecksum: SHA1: 5d6166192d30e93c52c46a072a07111c765bb3ca
+FileChecksum: SHA256: 6924a8d9eee2d29712bafadaa6b42406e3fc1b21e06f4a8a393792b0e50bc90f
+FileChecksum: MD5: d8f2b4e707e2d8c9c216a081e49ace29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving-rest/src/main/scala/ai/forestflow/serving/restapi/ServableRoutes.scala
+SPDXID: SPDXRef-item1141959
+FileChecksum: SHA1: 8f5f011ee16b6d41013891795f559e5ef32ab1a4
+FileChecksum: SHA256: 6ac669a143761dca3b02ee04038b073d0616a1447522c5766981aff4aac6207f
+FileChecksum: MD5: b9b5a51f4315778630b87e8e10d94f98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/scalapb/SealedOneofSupport.scala
+SPDXID: SPDXRef-item1141980
+FileChecksum: SHA1: 03a75d81aa0f8bef5a5ca0f97438c0e87b8cc5d8
+FileChecksum: SHA256: e82740b2ae2f6213b9ea85f99428dbcd437b2f329fe7812f81ec4d8b3bb26e80
+FileChecksum: MD5: 2282453b0a784e4846f5a8d2f2a2165a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/utils/ThrowableImplicits.scala
+SPDXID: SPDXRef-item1141983
+FileChecksum: SHA1: 82106ac5c020e50e63b06778947ff8c192c54c52
+FileChecksum: SHA256: 22513847a008df95237a129236630bd9528e34a05f319a38254f2cb9e638277e
+FileChecksum: MD5: 4ed57231b0e27d98e74294c8b089c7ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/utils/ByteBufferImplicits.scala
+SPDXID: SPDXRef-item1141984
+FileChecksum: SHA1: ddfc4073a41e15d4a6272575afbec69356f4389f
+FileChecksum: SHA256: 992dac1d17eaffeb63715473dcb70eb31c4583c8188fe21159fcc19f96ecceeb
+FileChecksum: MD5: b1a0f1a89cccc67d5c047d931c9988e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/scalapb/CustomTypeMappers.scala
+SPDXID: SPDXRef-item1141981
+FileChecksum: SHA1: 898a9b5214026059655bd71989ce2ea318a8b871
+FileChecksum: SHA256: 216c53e9bbd1f27cdd2bd0a364a4ad7d467a123ea2d670b76b6a1fe91860574c
+FileChecksum: MD5: d700909c939c911520d3eabe795c8b32
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/startup/ActorSystemStartup.scala
+SPDXID: SPDXRef-item1141987
+FileChecksum: SHA1: 8f9ff420e714daf6f2462d77f8b4ce233c4c3f19
+FileChecksum: SHA256: 6eaea22dcee3f1b01449b33599e01f4ae30d537a8f289245dc2138655d065862
+FileChecksum: MD5: 0c481c84919f349064fb95d90b1068ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/startup/ClusterNodeStartup.scala
+SPDXID: SPDXRef-item1141986
+FileChecksum: SHA1: 79c20feed0f6c43f051aa4e270b6e8cc147084ff
+FileChecksum: SHA256: f0eb44de435eaabbffc248c822ac62c6c58291685090b7f2726bd1d4f2173bb9
+FileChecksum: MD5: fb9327bbd421f76801c1139fe336d87a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/serving/config/ApplicationEnvironment.scala
+SPDXID: SPDXRef-item1141990
+FileChecksum: SHA1: 4b0ee78b8ec0ad830efe98ef2fb9bae35a5c55fc
+FileChecksum: SHA256: 8ef57be4de0d6500239f2b54a66e0964a788cd4f27315abdc6881c22c113bc4f
+FileChecksum: MD5: 783a1b1080495c32be4c03ca83f7e0d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/akka/UnboundedControlAwareDequeBasedMailbox.scala
+SPDXID: SPDXRef-item1141992
+FileChecksum: SHA1: b7770cef804ab34018a43ec8537ed3b1d1e07bec
+FileChecksum: SHA256: c09f1a4253257904fca93bd94cd7ada28937f24ab9d4eb51d3418e5ac506d897
+FileChecksum: MD5: dc762d405cb878bb057b2f24d3445764
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/akka/flatbuffers/FlatBuffersSupport.scala
+SPDXID: SPDXRef-item1141996
+FileChecksum: SHA1: 6bca97546ba504265bc597c7493b0e88eefe1f03
+FileChecksum: SHA256: 5ebd137a1df5b596605586aa2d1b39e7160134916390f7c2fce2c6df3cba7b1d
+FileChecksum: MD5: 820ebe48bdd9c3e700becc8557535318
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/akka/extensions/ExternalAddressExt.scala
+SPDXID: SPDXRef-item1141994
+FileChecksum: SHA1: 372170acea06fa40f08e9a23cf25114c38f27ee8
+FileChecksum: SHA256: f1d70ed91b23196c928d7ed94898d728d4d6461f41c1c033c30dccb47a5c3fd2
+FileChecksum: MD5: 0fe9120bf7043a13d1d31fe3970d0a65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/akka/UnboundedInverseControlAwareDequeBasedMailbox.scala
+SPDXID: SPDXRef-item1141997
+FileChecksum: SHA1: 077e773299a9ccfef74cc5d6e78e4e407b21714f
+FileChecksum: SHA256: 57a9c9f5e55c01c8bcc623b747c4028a740c5a60c64ec2b45d12243b41aee3d4
+FileChecksum: MD5: 439596cb6b6333f71649863763b76e96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/pom.xml
+SPDXID: SPDXRef-item1141999
+FileChecksum: SHA1: 3e219e8200c9a86c481282ded6476c477f753261
+FileChecksum: SHA256: 3188332d41ae2e2486e6e746f6f0e8e0177129f333f76f6fae6b642ddb53cb42
+FileChecksum: MD5: cab6a18adee20812db8dbf0829ee6cee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/event-subscribers/pom.xml
+SPDXID: SPDXRef-item1142010
+FileChecksum: SHA1: 6166ce72d451194ec07e6f3583da96bc1727da7d
+FileChecksum: SHA256: 0a4e00e474308d54d927ad7c687fe174b5ef54cdbd4f5d10df016f596477abbc
+FileChecksum: MD5: 287c60eb5b15cb05982896d9d9c72837
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/common/src/main/scala/ai/forestflow/akka/Supervisor.scala
+SPDXID: SPDXRef-item1141998
+FileChecksum: SHA1: f4f5b83e9bb5be7d5e529b4704eec6c46a3403bb
+FileChecksum: SHA256: a091072cfdf436c121c3a78decec4a1747ef209b37e687ed7493a6b035e71ff1
+FileChecksum: MD5: 2ad01ce08c10f7b047f567e4d1f040f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/event-subscribers/src/main/scala/ai/forestflow/event/subscribers/PredictionLogger.scala
+SPDXID: SPDXRef-item1142008
+FileChecksum: SHA1: e63fbeed4e7ba33cb1d09f27798bebb8b9a03bac
+FileChecksum: SHA256: c097bca4250b9d5687d65e62a40f28980c3a387e600b8f1337edc258d3672e5c
+FileChecksum: MD5: 56c1789004e3539de2606109aa8b5ae6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/event-subscribers/src/main/scala/ai/forestflow/event/subscribers/Main.scala
+SPDXID: SPDXRef-item1142009
+FileChecksum: SHA1: fe7b9dc3203d1dbd2d760f90695a6ca6140e0a3c
+FileChecksum: SHA256: 70ae71ca2bc92da8fc85b91f8ac36a7bcc2a1fd06ff2ef515a01dfebc2e87dc9
+FileChecksum: MD5: fed8f4a0bcc1839fb443989a48e0304f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/.gitignore
+SPDXID: SPDXRef-item1142011
+FileChecksum: SHA1: e58d7684182fe3bcfdaedd5d407bb756516927a4
+FileChecksum: SHA256: 3e3c1c3975d2fc37916628efbdb4764686adf4f4a43b54eda44bd00eeb1a16c2
+FileChecksum: MD5: f10b6e9289fe29dc8b55a858cabeda76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving/src/main/resources/logback.xml
+SPDXID: SPDXRef-item1142017
+FileChecksum: SHA1: f8337fe125a426832e31967df6be9c3f70c34917
+FileChecksum: SHA256: 6480340496ba87d27b0539500d0fafceac577a92d245c601c7a0350a503b0f17
+FileChecksum: MD5: 7a87fed5ed467d16ecc2ff0aeb4efa0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving/pom.xml
+SPDXID: SPDXRef-item1142026
+FileChecksum: SHA1: 4ac6ecce92dd7d8da0452700f451de4b3246eff8
+FileChecksum: SHA256: 5d1112c5c6bfdb6412ff4c166c8ab80f76e042b1c02e7c104850738e51764053
+FileChecksum: MD5: 9014cd56a11839a33da577af10982c05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving/src/main/scala/ai/forestflow/serving/Main.scala
+SPDXID: SPDXRef-item1142023
+FileChecksum: SHA1: 57272169768bcb577c71a4124e1dc46323b8a097
+FileChecksum: SHA256: 044ff48afa5e0971d3d643f36e8ad9ef8e5730b0dd9fb98cc3a66012b71ba01e
+FileChecksum: MD5: 09cf00371b4f388d9ebf78647f8ce92c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving/src/main/scala/worksheets/Definitions.scala
+SPDXID: SPDXRef-item1142025
+FileChecksum: SHA1: e161306d91259af80b64caa6f27ef01b872d1a27
+FileChecksum: SHA256: af016dab4ec1deedfb103a7fdc0fa4df8232a1a4d33123bb962692eae6643a1e
+FileChecksum: MD5: 675cc34dfe64c13370c18bdfb199442d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/serving/src/main/resources/application.conf
+SPDXID: SPDXRef-item1142018
+FileChecksum: SHA1: b2ae989c6cdd4be81df80a40b0008e3915de443e
+FileChecksum: SHA256: 8b7aca77c5dabc8d06f9ee4029f7faedc1911ad877fb7db273de814ada9fccc5
+FileChecksum: MD5: b75506b255ac52e5c2ac6f2ce66f5ad4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ContractRouters.proto
+SPDXID: SPDXRef-item1142031
+FileChecksum: SHA1: a2b47377c064d041eb5d1b5b586783c598897202
+FileChecksum: SHA256: 366306e0fb35efdcd2749a7ff271e9b887a408c0f1ac47ba1706c4a880e2cf1d
+FileChecksum: MD5: 4edd87fb14ff6acd9175205b1b651e40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServableRoutes.proto
+SPDXID: SPDXRef-item1142032
+FileChecksum: SHA1: b835c4a050ca3d43d765b481ec71ffeccc7e64ca
+FileChecksum: SHA256: 77606b4760cf86c6ba1e9b028bfa73a0b52e02861c55f09f4c0abcfdf1cd697a
+FileChecksum: MD5: eb5d3acb79cc68cb5b01ef7f4504edf8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/Contract.proto
+SPDXID: SPDXRef-item1142033
+FileChecksum: SHA1: ebea053ef196733100840e66552191ad1257be5f
+FileChecksum: SHA256: 4e97c0a2169cf743e39f3de440bed3a47f2d2219a0c4da68a8d42d79118dc590
+FileChecksum: MD5: 2b2ddca3cdb3e0651fb82286c2a615d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/Feature.proto
+SPDXID: SPDXRef-item1142034
+FileChecksum: SHA1: d011b9a9e3749b01600bd9c8fd09ca23c71c9535
+FileChecksum: SHA256: 9a74dfd37f96cc4a2b36c2c0c182ace23513f0f3ad5b8945f065bf962bde4092
+FileChecksum: MD5: 3e6c23f097a33b456a21064af657d32a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/LoggingSettings.proto
+SPDXID: SPDXRef-item1142035
+FileChecksum: SHA1: 8f8dce73d517ddd8b83e3b3895ebbc1bc8a28bc7
+FileChecksum: SHA256: ecd1dba159924630776fb3f875e1cd5f2f172297fec56ab388b0bed742a2db17
+FileChecksum: MD5: 5eda3ce5159ec4a088ebe2a65bef0bc3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/PhaseInPolicies.proto
+SPDXID: SPDXRef-item1142036
+FileChecksum: SHA1: b5d643e481b0e1ccd70fd43fe455e7a488c3475b
+FileChecksum: SHA256: 0442fe2541a0dfe03f5d4ec8209dbe1122ecc2021477f322e457648d571d8254
+FileChecksum: MD5: fe78e45cbe64b2e1b285d6fa0caf10cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ErrorResponses.proto
+SPDXID: SPDXRef-item1142037
+FileChecksum: SHA1: 70e92c557308e93cc9f3c059adc651d11bc1e05e
+FileChecksum: SHA256: 034c4949ba161623212bfdce8d16486704f6bb2acdddcff35ee87eceb944d933
+FileChecksum: MD5: b281fab74f1d7edc3249d798c0300d3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/CleanupLocalStorage.proto
+SPDXID: SPDXRef-item1142039
+FileChecksum: SHA1: aae3e478c4e256483b125ac1982bfd10577f3ccb
+FileChecksum: SHA256: 84e79f77fab3a94b534b80ac3bf67eccf7280d2ce4c4942b7deac380dc25faf3
+FileChecksum: MD5: 061c8e3b10e2ff054a38445fd3ec73d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServeRequestShim.proto
+SPDXID: SPDXRef-item1142040
+FileChecksum: SHA1: 3195ac0bd1d4037d0fe0998779222fbe6ef80f7d
+FileChecksum: SHA256: c82452b770ab3133668e72865a7c1c19ab19f7939422737bc4907bf09406cf60
+FileChecksum: MD5: b645ca2877ce8d876fab25ae9acaf5bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/BasicServeRequest.proto
+SPDXID: SPDXRef-item1142038
+FileChecksum: SHA1: a29e78aa60a2d03eb6e31eda0199063cc0c2bfd6
+FileChecksum: SHA256: 40ae946b98c670ee4cc761656f302909babc7068d7a81652ee2e4d03bd25d16d
+FileChecksum: MD5: 4ec76d1978888b5fff4d7653afc289de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServableSettings.proto
+SPDXID: SPDXRef-item1142041
+FileChecksum: SHA1: e1c4b662ca1c0a654b59c4a18200f260efad1c79
+FileChecksum: SHA256: f670fb96235d2ac58f2962cc78a3c53900319c9b12b6421aa8efa30a022d4606
+FileChecksum: MD5: 2695f03edf852557cde19c6645d60f0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/MemStats.proto
+SPDXID: SPDXRef-item1142042
+FileChecksum: SHA1: fc31bd544bc0273cddd1700fb9786532de2afb87
+FileChecksum: SHA256: 7d1bf9f134faa1d18758049d6bf82e86bed8751d53a71188df4eb1393a0718a2
+FileChecksum: MD5: 7ac004929bb3891097e0f8d968d2bef1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/H2OMojoFlavor.proto
+SPDXID: SPDXRef-item1142043
+FileChecksum: SHA1: 1fcc35181e9b4506c1d89dcdf81f462edecf7387
+FileChecksum: SHA256: d1722081087a31bd77c58eaf9c71b6d7069e49d5d07f328fc10f792faad08190
+FileChecksum: MD5: 436edafa69dc0ca21e42bda4b4c78225
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/MLFlowServeRequest.proto
+SPDXID: SPDXRef-item1142046
+FileChecksum: SHA1: d3b4622053af7ec69b3f11a56dcc335bfae00c73
+FileChecksum: SHA256: 157234f0a34a2d2d66003de42d49e2e10bb5671db59ccbd12dec1581d5f69566
+FileChecksum: MD5: 123af42c0bc8fe76f9cf641e5cc97d71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/TensorSchema.proto
+SPDXID: SPDXRef-item1142045
+FileChecksum: SHA1: 6f7f8721bc315c754766f2ad91b6e7af8acbbec1
+FileChecksum: SHA256: 41ba2d5f23c40f7bd1e44cd5bf3870fa688ba2ff227325a5793c39ad14602c47
+FileChecksum: MD5: 4f583187e070caa215ac4105994e246d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServableMetaData.proto
+SPDXID: SPDXRef-item1142044
+FileChecksum: SHA1: b38205b30cbab9cecf5b2d6d67a3a828f34dfef9
+FileChecksum: SHA256: 729fc10fb164f393f6b7dd31d143e1340287e681093bb9da7e8d87c87c57f8e7
+FileChecksum: MD5: 652f50467eaffe969b02051d69983b3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/Events.proto
+SPDXID: SPDXRef-item1142047
+FileChecksum: SHA1: 3ca05b444bfe53d3f8904fc7bca77a9390e1cb93
+FileChecksum: SHA256: fdeb94682b0deae32984fbf46425138fa3eaaa4d8df1ee7e59f55728afd188b0
+FileChecksum: MD5: b0ec820aa8f8b31df16a1b515b419613
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServableMetrics.proto
+SPDXID: SPDXRef-item1142048
+FileChecksum: SHA1: bfbfda3188d12e8ea89db6a27217ce78d5f2db8a
+FileChecksum: SHA256: 3ffd7a8ee9cdb911c74fce1ea77cc81f95864347e32a8b7bf90326e6e323719a
+FileChecksum: MD5: ca4e0639f708a71a3ced1c6d3ad1499c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/Flavors.proto
+SPDXID: SPDXRef-item1142050
+FileChecksum: SHA1: e32f93fdfe90f6ebca75be8a02c5372ba53668fa
+FileChecksum: SHA256: 845ca74cd24623e8cb1ed165607ad1b024617a2fd0e8da449ddc512aec7271df
+FileChecksum: MD5: edc9f39069e3f581f268aa7c86af210b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServableRegistry.proto
+SPDXID: SPDXRef-item1142049
+FileChecksum: SHA1: 32e30fd42f861bd4fb248dc41621cc7f4fe575f3
+FileChecksum: SHA256: adfd43e7826c8ac2ea09a68277f445e57e9a8357e4a8704e726d44d843ad3d1c
+FileChecksum: MD5: 252b60a01be4b003dbb36d3df6bc9aac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ContractSettings.proto
+SPDXID: SPDXRef-item1142052
+FileChecksum: SHA1: fda857638072bfa1a356cb18e2b5903c49d99129
+FileChecksum: SHA256: 76bc8ac67d686ca5f047d23cf1bc529c2af92a73148b3500743c62322cb10bb7
+FileChecksum: MD5: 8d374fd83de722500995cb85f3c25ef8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/Tensor.proto
+SPDXID: SPDXRef-item1142051
+FileChecksum: SHA1: 3cb59dfe13e5220634881e8bf159ac15aa92e679
+FileChecksum: SHA256: 70ec713652b170357132baef06cca8b89144a39542b9b3d8f0619e6c0c1454a7
+FileChecksum: MD5: 6795a471c0e73a003f668d1033235984
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/FQRV.proto
+SPDXID: SPDXRef-item1142054
+FileChecksum: SHA1: 788f0cefe3e48d02bf17a49ac62b99a69738716a
+FileChecksum: SHA256: 4fe5798890c267a86c66c418e3288b289e2cfb50a73d7f0f3613a0ee08384806
+FileChecksum: MD5: 64d3afdc759d1fac5379283e59964056
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ValidityRules.proto
+SPDXID: SPDXRef-item1142053
+FileChecksum: SHA1: a67879d13cb1df5804f5cfb65f402cd90a504287
+FileChecksum: SHA256: 1800dd65266312d13973229b3dd643db163cda0075be0954238fe64ca8a2ef89
+FileChecksum: MD5: 7f97844019b4fa21ae9588c165fddd17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/SuccessResponses.proto
+SPDXID: SPDXRef-item1142055
+FileChecksum: SHA1: 754c0e2d3ad5765588e1194127c6a926a24ce61c
+FileChecksum: SHA256: c8854495cfb5925aea7aebff5eb6484d060aaa248a2cbd2ecf8b591f21836fa9
+FileChecksum: MD5: 5f84561df2e9ef892199857bcaba1204
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/PolicySettings.proto
+SPDXID: SPDXRef-item1142056
+FileChecksum: SHA1: a098544c80bf4cf36996f8ed2f73241a53216334
+FileChecksum: SHA256: c176ba8474de0f28e65a4f7bee3042f1142f01f188ad0697ead7677284c898bc
+FileChecksum: MD5: 0e83d23cc62d34b018d8da3131e2c67d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ExpirationPolicies.proto
+SPDXID: SPDXRef-item1142057
+FileChecksum: SHA1: 79029daec7276706142ad09bb7324c5f91874ff0
+FileChecksum: SHA256: 4612d4f3756e094c9d025773b0d7987f96d25e78aea2b7bb5c74064ffd44048f
+FileChecksum: MD5: 60b8ef707601faf61eb3c68a089614b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/FeatureWithDomainValues.proto
+SPDXID: SPDXRef-item1142058
+FileChecksum: SHA1: 9069420aa81ba63dd5d22deab47982718fbb3784
+FileChecksum: SHA256: 32414330698ae357e61b6ebdcfde6b9f5d5b69539df956dda96e486be7f04e8a
+FileChecksum: MD5: 35b076735bbccb64d64c822f7a1931d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/InferenceRequest.proto
+SPDXID: SPDXRef-item1142059
+FileChecksum: SHA1: 7d15a2c2a39e929a971bb3e6bec15687240ef262
+FileChecksum: SHA256: 1f84b83230f851fa1c9fadd3f04151e90e190026f7d641843d311f9aec4e0fa0
+FileChecksum: MD5: 93b1936df8b9267289d02d2170c937eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/Prediction.proto
+SPDXID: SPDXRef-item1142060
+FileChecksum: SHA1: 060e225e81d84c7449abacacbb2e1f77ee208608
+FileChecksum: SHA256: f09548f598df58ce55c75bac8ca80b0d0fe5b5ce02b0d0b757669dab13450971
+FileChecksum: MD5: 34709f01d6ad68e336eb9bf431257278
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/protobuf/ServableProxy.proto
+SPDXID: SPDXRef-item1142061
+FileChecksum: SHA1: 3f63f2b31f9531f7af76b25584323f46926098b1
+FileChecksum: SHA256: 844d71c5d02b4a3e3545efe486fadbbff4e8af2f453cf9410c83a53b9d80589e
+FileChecksum: MD5: b10d084e9ebe768fb5b0a35405ba2341
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/utils/RuntimeStats.scala
+SPDXID: SPDXRef-item1142069
+FileChecksum: SHA1: bcb37b44f781dac3a2e996e61c5a214a8871423d
+FileChecksum: SHA256: 8e20506addc2f45f1fb7461bad41f6f4b3a4375bd977c12bff68e51faa9675c4
+FileChecksum: MD5: 3106bd611354d984b59193e10a49564f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/utils/GraphPipe.scala
+SPDXID: SPDXRef-item1142068
+FileChecksum: SHA1: 9f405536ec2158867261e3678ac3ff06fa1e9086
+FileChecksum: SHA256: 2eb5e7c85227a4769b5186ed6352a8b68561d79ccd7b811eff38d1c9db6a7f4a
+FileChecksum: MD5: 26a5e7279eb0bc4484609569498ff3a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/MLFlow/H2OMLFlowSpec.scala
+SPDXID: SPDXRef-item1142074
+FileChecksum: SHA1: 6eb7958e875c96d07f8de990ecc4d6f53f1d3c6b
+FileChecksum: SHA256: b56c8ecbc7faf7d4f0c30a97e10443b06cdab350c6f598f46c307a5abab8b25a
+FileChecksum: MD5: 8d54f679e3e1995cb3fa226b23e335d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/utils/RFWeightedCollection.scala
+SPDXID: SPDXRef-item1142071
+FileChecksum: SHA1: b048d4248d0b92dfe665f88be4c3450cd3387441
+FileChecksum: SHA256: 5b0ad8f0401e0f1554bfd579c1d2b9f7cb8bfa7682bb2c93c363229365933ef6
+FileChecksum: MD5: 8cc4bae1859eeaa16db406455d7756bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/utils/SourceStorageProtocols.scala
+SPDXID: SPDXRef-item1142070
+FileChecksum: SHA1: ee92601bbc9a5d7f9b5bf38f5abbca3383cf17dc
+FileChecksum: SHA256: e9fd24bda9304bae6654efd3e594103f020f2bcd1d0bb9f889ca5f3e574ce7f1
+FileChecksum: MD5: 30791a131cc4bdcbd83580154d9cedd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/MLFlow/MLFlowModelSpec.scala
+SPDXID: SPDXRef-item1142075
+FileChecksum: SHA1: e63228769faf41ac6e99702ca3ced07b6f1a3a82
+FileChecksum: SHA256: d2a9bb042d9dc66a94364179dadbad6736ce7283a0f1affb4332f59770c1751e
+FileChecksum: MD5: b1c4876a18a90ce767964e9b7041a528
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/TensorData.scala
+SPDXID: SPDXRef-item1142077
+FileChecksum: SHA1: 1940df8d163a184b567f1e798e048a6ef9f2c37c
+FileChecksum: SHA256: 8493e02d2bc386e53bb11caeb5f3c4950c704bdb4dd05909f021c83d771caff0
+FileChecksum: MD5: 150e90bd6750d014e39f0ab5a40e4456
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/Pipeline.scala
+SPDXID: SPDXRef-item1142078
+FileChecksum: SHA1: 73c7597b9d6d64ee419338a98d70a4fda4d9353b
+FileChecksum: SHA256: bb60b75ff613109cecf36bec9757fa8ea527e5eb085f4677a81fc62f88a69353
+FileChecksum: MD5: e1fb71c87a23aad4e13ee1d88eb62bcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/PipelineStage.scala
+SPDXID: SPDXRef-item1142079
+FileChecksum: SHA1: d10dbbb527eb70b4d460d7b65308d1a7534e4819
+FileChecksum: SHA256: 37691cd01273d8722c9f59232053c1d5d6f6fad4bad25ff53bae1c38be9683f7
+FileChecksum: MD5: 63678f409d8e00ad169634817d08394b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/RouterType.scala
+SPDXID: SPDXRef-item1142080
+FileChecksum: SHA1: 0ccbec79a400147bfe1bea0dfb9eca340fd6374a
+FileChecksum: SHA256: f1edf926d2c4b3113d9aca250c15f43c93361a5956dffc6cbbbd489d8860d2d3
+FileChecksum: MD5: dc1cc03d9a7736d684f7eb44cf45c6c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/Loader.scala
+SPDXID: SPDXRef-item1142082
+FileChecksum: SHA1: 19d63d4f53665056ff9ed18409bcc298acb34eb8
+FileChecksum: SHA256: 5789bd45c2c17bf8220747e3f53a0cfd6c3a2457a28e108e41fb5bec270e06f6
+FileChecksum: MD5: 4132ac0a4f094d7b3444cfc098fa7556
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/Protocol.scala
+SPDXID: SPDXRef-item1142081
+FileChecksum: SHA1: f94a904b5aebedcc871328d9844f394f27741af6
+FileChecksum: SHA256: f24a938b2ad8a651c5f4a2ebcf13d34b5323967676f16e6635dbc8d14378533c
+FileChecksum: MD5: a6903bec20ee436b107aa0076570a2ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/ServeRequest.scala
+SPDXID: SPDXRef-item1142083
+FileChecksum: SHA1: fab13225d16061a955cd260e8c168c0d6783df67
+FileChecksum: SHA256: e7653a8769be9d4d8d9ba07d51acde0c7764e0c3e8ecc481140504be8ee64117
+FileChecksum: MD5: 9639d496662b8d194cc4232680eec7ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/ArtifactReader.scala
+SPDXID: SPDXRef-item1142084
+FileChecksum: SHA1: 4eb080745c61acee180ad65e9dfc26b319a7a7c7
+FileChecksum: SHA256: d14f8bd576bb4e29d1c8ca5a235f468449f19c55a94eb98180a16703ca9a6911
+FileChecksum: MD5: db06bba7524980095fbd181e84df22fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/ServableMetaData.scala
+SPDXID: SPDXRef-item1142085
+FileChecksum: SHA1: bd7b645e47d84a37708545751d8583bcfb302d2d
+FileChecksum: SHA256: 4192fb9eda25fda18ff0e49dda3de9cc46e89bdb148bd233fe73792f5dff285b
+FileChecksum: MD5: 80b335736880dfb00ed1c678b4549b79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/Servable.scala
+SPDXID: SPDXRef-item1142086
+FileChecksum: SHA1: 1ba5e249593fa2c8a755c4fbca187b9c2b1b50f6
+FileChecksum: SHA256: fa800b8a43b91e513deaa4a8109ff507627c35ae680993c736fc6ba9ec2cca4b
+FileChecksum: MD5: 6daef1942da6180ee9ef2ec02b10ba57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/ContractRouter.scala
+SPDXID: SPDXRef-item1142087
+FileChecksum: SHA1: e041bd187c56b06e8050772d3e042c74877495bd
+FileChecksum: SHA256: 3d4d2e351d399715de08cd296af55c805a3c03280c96522bc2092ff1503a7098
+FileChecksum: MD5: 27b7ec5a97361d3f7b7e3cfa5a9d440c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/interfaces/HasHTTPStatusCode.scala
+SPDXID: SPDXRef-item1142088
+FileChecksum: SHA1: 186bdd216ad710bee4909f51e2c8607fc7355119
+FileChecksum: SHA256: 78b2e671f755ce9583debd1c95d2aa3dff0a053858a1cb6f34d71a7372e60b9e
+FileChecksum: MD5: 31448c0f147cabb78f285913cf013f19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/H2OLoader.scala
+SPDXID: SPDXRef-item1142090
+FileChecksum: SHA1: 3eff1f40b1ff5347c8ee91689e4ba1b66cdc082f
+FileChecksum: SHA256: e4a96554888500d78ffe76f3eef4ac0c1c58de4ee8fa9ad6846a608d22dedb90
+FileChecksum: MD5: 51236799e124d8ba68b8a87d804783a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/EnvironmentContext.scala
+SPDXID: SPDXRef-item1142093
+FileChecksum: SHA1: 8c8850c4e343cb766ae1a0d411beff4914edf66e
+FileChecksum: SHA256: 3469051a97fe511648a8736d89a6c444d7611d23881069702baedc330750d13f
+FileChecksum: MD5: e6b223befd269c85e7443309c65d41f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ServableMetricsImpl.scala
+SPDXID: SPDXRef-item1142092
+FileChecksum: SHA1: 6005e62f119527d6ef0ca38f7c925f131d90c3d1
+FileChecksum: SHA256: 94927d4686705402595492f43c01fb7a7b82af5890c6f4eadf44be6ecaf1258c
+FileChecksum: MD5: 82646a9500c370d9c15f72ccd03b7d2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/H2OServable.scala
+SPDXID: SPDXRef-item1142091
+FileChecksum: SHA1: 34144024ae30fa0bb91aa671d3add3052390d570
+FileChecksum: SHA256: 2c483bc95249375db0ddcc33689b42a9e51c639a32122575398d65b58dd60f91
+FileChecksum: MD5: 806433e5dabeb2633fde4133bd51ec1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/PrintableFQRV.scala
+SPDXID: SPDXRef-item1142094
+FileChecksum: SHA1: 14c16b2849789caf6e2b35f9ae33ec664d22b6b3
+FileChecksum: SHA256: 851e980d8cc56676cc51db0e0b94e7bf001b6a6d6aab1b4b1e0e5b8f9b4d1f7a
+FileChecksum: MD5: 068c3e31191c675cd43e667e349e5cc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/UnsupportedServableFlavor.scala
+SPDXID: SPDXRef-item1142096
+FileChecksum: SHA1: b8c0f7353845c9f3a8e3c964b10910a957c32148
+FileChecksum: SHA256: c9620763a2063f65a47a2c7d05f66d8737b1604dd409005ff0a26cb07883d847
+FileChecksum: MD5: c02a5247573e5dd16d585aafcc1cef41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ServableSettingsFunctions.scala
+SPDXID: SPDXRef-item1142095
+FileChecksum: SHA1: 4a090fc134a3ca89f27486062639a1674cb9ec89
+FileChecksum: SHA256: a93567800094b34b9539336b1132e5acbba3a7ec9a3370431e7f79983e660e89
+FileChecksum: MD5: d2e9096630de548d85b794245527136b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ValidityRules.scala
+SPDXID: SPDXRef-item1142098
+FileChecksum: SHA1: 417adb7f566c475b3415eba530b288f1602d3685
+FileChecksum: SHA256: 82158daad325870394ba9e7706d921d288a4b543eac4f562ca2398f53edf3a75
+FileChecksum: MD5: c329d4ff7e9d69e206b111371eeaaef7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ExpirationPolicies.scala
+SPDXID: SPDXRef-item1142097
+FileChecksum: SHA1: d747f2048f8ddb23839ae5edee125498bf001b30
+FileChecksum: SHA256: 72755e98cb94c5b5eaf62e1500f43cb32187797c00efd397f9706a6120a5f48e
+FileChecksum: MD5: f459e3952576a1900e56c1e036ecc27c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/PhaseInPolicies.scala
+SPDXID: SPDXRef-item1142099
+FileChecksum: SHA1: 99fef9d959861b0be0d0c06090c2f8f9fe47b5f8
+FileChecksum: SHA256: ef2659083633e292b3b3908d45fec91fe3aab87095b6d4ca0afc3ec49eace7b3
+FileChecksum: MD5: 88eee5e57c8d64e03ef79ce0d9ac4651
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ArtifactReaders.scala
+SPDXID: SPDXRef-item1142100
+FileChecksum: SHA1: c377a670565cc2ff385a3cd5de0e8187a3e00c62
+FileChecksum: SHA256: 3a9d64069e32fe09b05e05a5062b6ba819c417830f14a4fc59d94f16947051eb
+FileChecksum: MD5: 23fd682396bc3a40d814a129c9c3ccec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ContractRouters/LatestPhaseInPctBasedRouter.scala
+SPDXID: SPDXRef-item1142102
+FileChecksum: SHA1: f098a1a942fafbce0fe0e927a368d9a90a5ed8bf
+FileChecksum: SHA256: 87b098ead1bbb419b9fe71e1f1ca5ac0b3f03a5f65e47cfafacd0d49c9d21868
+FileChecksum: MD5: b80b8201b00356ac46de9639e9559462
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/impl/ContractRouters/FairPhaseInPctBasedRouter.scala
+SPDXID: SPDXRef-item1142103
+FileChecksum: SHA1: bd4337d108229525f89eed93b813d8bb51444a50
+FileChecksum: SHA256: eb26f216a70ea45b2c87aa686272f43c767fa147d62732b1b75ab5b939fc988f
+FileChecksum: MD5: 4ad31dfd3186caa0a6f175294ba16462
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/domain/PathReq.scala
+SPDXID: SPDXRef-item1142107
+FileChecksum: SHA1: 58274391a06750f4bef72d3e9793c1acae584827
+FileChecksum: SHA256: 0c7d70c8c66194fded4b0bdb4a86d12b18ea67dce3bb5d66163a934bd777e103
+FileChecksum: MD5: 5271a0b58b888bb05cb5ab03e3dbc7e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/domain/ShimImplicits.scala
+SPDXID: SPDXRef-item1142108
+FileChecksum: SHA1: f4149174fbc1731ba60fa3ff138237b4df89c90e
+FileChecksum: SHA256: d9fc7549ca05c63afd7f2c18c2d91011b0c42823c17777d426da72a0b1c03eaa
+FileChecksum: MD5: 085a8221118bac5bbe6a3317a2e3f771
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/pom.xml
+SPDXID: SPDXRef-item1142121
+FileChecksum: SHA1: b5abb1474e5443e6d046c1da4750b1890b0bea10
+FileChecksum: SHA256: d47803b5f76adb0a00dc1f29d8abbb4f869001ae489e8b8d69f5c95e8b3f497b
+FileChecksum: MD5: 638f446f26bd9e6a9419b74f81b267e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/pom.xml
+SPDXID: SPDXRef-item1142122
+FileChecksum: SHA1: fa2ee8aaf3e9b3942750eb1c513c0766a493cea8
+FileChecksum: SHA256: 901d772775eb7ae486397ca44d6b4aa83a45ffc5f58002485a57cc25900096c6
+FileChecksum: MD5: cad5c62d01abab8511096da1774ad3ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/README.md
+SPDXID: SPDXRef-item1142123
+FileChecksum: SHA1: d582c572863f71eb2ce017e051de8980a9c350ea
+FileChecksum: SHA256: 49db54db5e466e34c0bf20ee805b76200e76b88d4848631314952b19dd606027
+FileChecksum: MD5: 7cb5f6a4088c890e4d8907f4f94ec5eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/ServableRegistry.scala
+SPDXID: SPDXRef-item1142133
+FileChecksum: SHA1: 95198752dc9628382bb483494f7eef7f21ed73cc
+FileChecksum: SHA256: 8b958b8cb19f80c166a854fb1df7e14df916ab473d344ca4da90a9ecd721ee9d
+FileChecksum: MD5: de9e7b1c3bca9621bc110d5a26b2e581
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/Mechanics.scala
+SPDXID: SPDXRef-item1142136
+FileChecksum: SHA1: 83f0645668faf7e5fcbb923f4ff0def8878a1d0b
+FileChecksum: SHA256: 3640921684566acd6409bc64906d3247ab10b085020e426a7c52ab061b695a31
+FileChecksum: MD5: 926c863ceccf0baf00af580c1109b1cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/ServableProxy.scala
+SPDXID: SPDXRef-item1142135
+FileChecksum: SHA1: 6d703a72243eb03b39231943627ff03923c9753d
+FileChecksum: SHA256: 0c288ffdeb2bb7ff97f4ded75c52c44237088a5e1720c543406be086593713a4
+FileChecksum: MD5: f1d17c1fbb54e2fdac883e7080dc48e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+(c) match { case Some(contractRouter) if !contractSettingsUpdated => log.debug(s"Merging with updated servable metrics $validServables") activeContractServables += (c -> contractRouter.merge(validServables)) case _ => log.debug(s"Rebuilding with new set of valid servables $validServables") </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/config/RegistryConfigs.scala
+SPDXID: SPDXRef-item1142140
+FileChecksum: SHA1: 20cf624b9ebfbe14ef9d826b7c6cfef865863e74
+FileChecksum: SHA256: b2267b460f48324dc7549ee3fc23ba89fbb978f3288173baece3074d60b2b835
+FileChecksum: MD5: fd359a5e8af52028b231c06f4d504979
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/Sharding.scala
+SPDXID: SPDXRef-item1142138
+FileChecksum: SHA1: a2063baa57f89e4d18fc43ea13ca77f34f374b64
+FileChecksum: SHA256: 12a37f962a0c1149beedec2ec02e4a18e8031afcab1ffe23ae26966d82e293f1
+FileChecksum: MD5: 7e94dbcf74eea172b1a4b7350b84288f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/ClusterEventSubscription.scala
+SPDXID: SPDXRef-item1142137
+FileChecksum: SHA1: 1cf5518ca8e678c0c9d54a8cf60f8bb24db83851
+FileChecksum: SHA256: f6795eb1da4ea86d711101fe80e7d9323682fcfec8d0feb5805dd102bc3cbd6c
+FileChecksum: MD5: 0579d300f1384297cc5c6f647fcaa2a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/pom.xml
+SPDXID: SPDXRef-item1142142
+FileChecksum: SHA1: 4bc55f65197e1923781d08129e9d9914a78dd5b0
+FileChecksum: SHA256: adec3619046de2faf772ebf52d82e9ae4a6d31380a635c92b4bbe7cf6ea88ce6
+FileChecksum: MD5: 3a10c926082dddb60a507eda6ced332c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/config/ProxyConfigs.scala
+SPDXID: SPDXRef-item1142141
+FileChecksum: SHA1: 5cec4a6ba95009c52c800e0ef0c7af790ae0cb0d
+FileChecksum: SHA256: ddf818d9514a97bf058e4d01ee36b4465c78471d0c315a9297a6119b65811c19
+FileChecksum: MD5: 653a66676ff920bedfb39d62d6c27822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 DreamWorks Animation L.L.C. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/DEPENDENCIES.md
+SPDXID: SPDXRef-item1141972
+FileChecksum: SHA1: 4516d3175c452834c8e753bea510198c8dcede12
+FileChecksum: SHA256: 25af89fc8eda0cb33a23b4ab38965923892e814a4d63e7aeb77bc467c71fca40
+FileChecksum: MD5: 6b3edfed0c73dff3187ff7a6fdaacf8f
+LicenseConcluded: Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND EPL-1.0 AND LicenseRef-Dual-license AND LicenseRef-Meta-List-of-Dependencies-1 AND MIT AND PostgreSQL
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: PostgreSQL
+LicenseInfoInFile: LicenseRef-Apache
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/flatbuffers/graphpipe.fbs
+SPDXID: SPDXRef-item1142063
+FileChecksum: SHA1: 22149cebc50678ce8f2203afcd9f1c760c41fbb6
+FileChecksum: SHA256: e267183cdf7f5c12cb85f1eb29a9975ada656309917671334c37f2946a741330
+FileChecksum: MD5: ae0bfffe5d90571760b2290f82ad7101
+LicenseConcluded: UPL-1.0
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> Copyright © 2018, Oracle and/or its affiliates. All rights reserved. </text>
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/tests/basicapi-local-h2o.json
+SPDXID: SPDXRef-item1141917
+FileChecksum: SHA1: f9a4201dd799b4068d2c4f6e05b1539f8b2036b4
+FileChecksum: SHA256: 7bb2702ef2572044fd544be97eef7df44fa347edb352775dd234d095166768b1
+FileChecksum: MD5: abcd141aed8d24a1488ea0175cbe9aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/tests/StackedEnsemble_AllModels_AutoML_20191002_103122.zip
+SPDXID: SPDXRef-item1141918
+FileChecksum: SHA1: f880ea5dcfd18dfba0eed943f42a941330408c22
+FileChecksum: SHA256: b3b497ddfae8028f25d9ce92c3bf6311dd449e5a2cde2d7934d2df963e510681
+FileChecksum: MD5: d6cde46ef3c7ad469591a9d53d89ca63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/tests/basicapi-score-1.json
+SPDXID: SPDXRef-item1141919
+FileChecksum: SHA1: 67a46c931cbd24dff59d639245f6612bdc5db0ad
+FileChecksum: SHA256: 98199fa456e1318dfb92e9faac550b9e93270521088bb7f158ac544403c304af
+FileChecksum: MD5: 3266469e25c0c3c47fa79e290e5a08cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item1141920
+FileChecksum: SHA1: 59391f591323bbfcd0ba9f0ae3fc9a92360f1b37
+FileChecksum: SHA256: ad38f0f5244cca69b9408dd5c0038b1ab3cf2cc77662908ca09b75de7a27faa9
+FileChecksum: MD5: 33cab06e67919502045ee0d54d1b8fd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/build-local.sh
+SPDXID: SPDXRef-item1141922
+FileChecksum: SHA1: 3e9fa48faf89bbfdc6fcca51df2d0dd32c1ed7c2
+FileChecksum: SHA256: a588eddc2e941efd6d074e3feffa807fbe41ad08052f87b48e4a796faf38ec15
+FileChecksum: MD5: 3c7b88c1f03dda5c35e79115c4f43464
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/build-kubernetes.sh
+SPDXID: SPDXRef-item1141923
+FileChecksum: SHA1: 4d643125ad9b6bb568768e461d2d01b4448de20d
+FileChecksum: SHA256: d8dead73bbc6b2f1d2bdfeb5df59fb6f1aade441ed6e67e1c895fd875c29de72
+FileChecksum: MD5: 7025ab34b667e2cb16f390f47e6bc946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/buildah.sh
+SPDXID: SPDXRef-item1141924
+FileChecksum: SHA1: 04b824eb97f856530a14a4ce92c357788ee50c4b
+FileChecksum: SHA256: 7a1c5cd95c062b2393a17a1e1db559264c954effd8597c50425fe66177e76c93
+FileChecksum: MD5: 7281ea1a21aec6526ff91048af84dd42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/src/entrypoint.sh
+SPDXID: SPDXRef-item1141926
+FileChecksum: SHA1: 1f9e5c6ef711a6ee60cc9dac2afe7024117f2305
+FileChecksum: SHA256: 79630bc3fdc5700e7abe53d75f31130b8e99b12487f7fa44737f53b90a17e841
+FileChecksum: MD5: 61cd78c7243505573ee84f5ef9df0d05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/run-local-container.sh
+SPDXID: SPDXRef-item1141927
+FileChecksum: SHA1: d732d2bf1e7df3ea26361615809339978bd1de16
+FileChecksum: SHA256: dd0db37675167d9b87e52cb80897a14794ea99ddb4dbf741ca88dadc7e175ed1
+FileChecksum: MD5: 05eaf170e8285b113b0e01bbff63fdd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/run-local.sh
+SPDXID: SPDXRef-item1141928
+FileChecksum: SHA1: b8ea99ad5b5ba5fe31d5772ba72df39cf897979f
+FileChecksum: SHA256: ccf4e356a18c07b06f46966ad2ed81403f8d6502bf80054b4c63470683e91228
+FileChecksum: MD5: 210175349e8465116e79c4cd45711d04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/build/vars
+SPDXID: SPDXRef-item1141929
+FileChecksum: SHA1: 64b6b6a8cb3bff62d27f04b14b18321bb313f151
+FileChecksum: SHA256: f6ccd409fe2484d0ac9def14cd30ffe90cc5874bcf8d18275a75d261253306f3
+FileChecksum: MD5: 1af121c73a43198a1f827f9f10d234ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/Makefile
+SPDXID: SPDXRef-item1141935
+FileChecksum: SHA1: 77b7d944eb62d73c1f46a1cfcba1e70e31e4297a
+FileChecksum: SHA256: 119280cf4eb03a1b93c4a914270423e53c1308d4a9553d96021cce565b3fa853
+FileChecksum: MD5: a6a20c05e119d1d4082980af29e4383c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/make.bat
+SPDXID: SPDXRef-item1141938
+FileChecksum: SHA1: b106de4cbc33e27d0dd45c983b341e60e312f8a7
+FileChecksum: SHA256: 89a52884548ce62dd8ea6f58710e767ce865c08d47faeb3c79e0cec8b6174e77
+FileChecksum: MD5: 2e84f239600a559abe7408c7468cb589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/requirements.txt
+SPDXID: SPDXRef-item1141939
+FileChecksum: SHA1: ac2b3ee6dd34f97e7b3efbfcb0da5965542dd205
+FileChecksum: SHA256: 10f845abaf429b88488db56beb605db7de3e9abde1b67769d52a79c276b765ed
+FileChecksum: MD5: 7c56c8885b15e70e4a839c04bbdb1e36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/static/forestflow_logo_text.svg
+SPDXID: SPDXRef-item1141942
+FileChecksum: SHA1: 022f468563ba33250d38bbfa28b5da0236de0918
+FileChecksum: SHA256: a26d1bfc08059e2907ffcb979ac79df7b67cc8f82fc70312d70ac5e7636c4569
+FileChecksum: MD5: cf9316fdb254eb83e1d0890dc4c25aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/static/forestflow_example_contract_settings.png
+SPDXID: SPDXRef-item1141943
+FileChecksum: SHA1: 45f25427b4c35023c2384aa27bf8a2cc7a689a22
+FileChecksum: SHA256: 4d2a7e81ad2b76567c2b984b07fac068339e9c4506860057a4cd2903d5fc7ce1
+FileChecksum: MD5: 0e4ed74def504f560fb880d1c067b3b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/docs/static/forestflow_logo_text.png
+SPDXID: SPDXRef-item1141944
+FileChecksum: SHA1: 4ac586eb256ebd37dd0c8b023626a7ec221b2b51
+FileChecksum: SHA256: a8678120e181e01d3aa6da341e7b251b5cdcee4137b029ef9842de43ed6bc19a
+FileChecksum: MD5: 4e07bad3fc347b97512b487789d3d341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/_config.yml
+SPDXID: SPDXRef-item1141948
+FileChecksum: SHA1: 16bce5ca2444c93829e8e63bcdaa2115f799d64e
+FileChecksum: SHA256: 91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019
+FileChecksum: MD5: d178df8a46be3ea7f599296e24430ce0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/RELEASES.md
+SPDXID: SPDXRef-item1141949
+FileChecksum: SHA1: 409372f17e4386132cc8200f3b996d8c14d774a3
+FileChecksum: SHA256: e75996edbbbf3d202455beb81f035ec27563a5e297eba28af6098b909d978f9f
+FileChecksum: MD5: 0b2d0ef166a0b85ffd74a8c8f9d04b80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/resources/forestflow_logo_text.svg
+SPDXID: SPDXRef-item1141963
+FileChecksum: SHA1: 022f468563ba33250d38bbfa28b5da0236de0918
+FileChecksum: SHA256: a26d1bfc08059e2907ffcb979ac79df7b67cc8f82fc70312d70ac5e7636c4569
+FileChecksum: MD5: cf9316fdb254eb83e1d0890dc4c25aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/resources/ForestFlow-Corporate-CLA.pdf/ForestFlow-Corporate-CLA
+SPDXID: SPDXRef-item1141966
+FileChecksum: SHA1: 70135b558c2f1dee396a07ba4566ed04897512e4
+FileChecksum: SHA256: b46ab38a0d10707195673f3ced05f1bea9c504ac4a245edea601efda038da5f1
+FileChecksum: MD5: d3035a890d7b382fcce3b3af4ad30852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/resources/forestflow_example_contract_settings.png
+SPDXID: SPDXRef-item1141967
+FileChecksum: SHA1: 45f25427b4c35023c2384aa27bf8a2cc7a689a22
+FileChecksum: SHA256: 4d2a7e81ad2b76567c2b984b07fac068339e9c4506860057a4cd2903d5fc7ce1
+FileChecksum: MD5: 0e4ed74def504f560fb880d1c067b3b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/resources/ForestFlow-Individual-CLA.pdf/ForestFlow-Individual-CLA
+SPDXID: SPDXRef-item1141970
+FileChecksum: SHA1: 085b0f6bd4ef951d4fcc307381f96c7e75cd14eb
+FileChecksum: SHA256: 5c58a5a776080bffdaff4badeb29150ae98c94aa8a378924c97019c418982112
+FileChecksum: MD5: 1645b1fb2bfe221a194bbff2d732dfcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/resources/forestflow_logo_text.png
+SPDXID: SPDXRef-item1141971
+FileChecksum: SHA1: 4ac586eb256ebd37dd0c8b023626a7ec221b2b51
+FileChecksum: SHA256: a8678120e181e01d3aa6da341e7b251b5cdcee4137b029ef9842de43ed6bc19a
+FileChecksum: MD5: 4e07bad3fc347b97512b487789d3d341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/.gitattributes
+SPDXID: SPDXRef-item1142012
+FileChecksum: SHA1: 8213f57758bbe9b3b038b5c8235b4ea749f1f213
+FileChecksum: SHA256: 11b4d9361eb281c28f182934ded5d02c118a50dcafe9669216b4bfb85f0e37b7
+FileChecksum: MD5: cb4cb9c22947a608622e4d6296cd7cb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/scala/ai/forestflow/serving/config/S3Configs.scala
+SPDXID: SPDXRef-item1142105
+FileChecksum: SHA1: 147c5efa2043881d4eda2f108f42d4ece70b9a95
+FileChecksum: SHA256: 28edb47c598a37cd17f9260faad5415aabcb4ad9630a8563097b967dc72260ea
+FileChecksum: MD5: 7f42f8c8c0289d42de392944147df243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/InferResponse.java
+SPDXID: SPDXRef-item1142111
+FileChecksum: SHA1: 7fa3c2bb0faa35d0740c37cc5eecdfcbe5ab73c6
+FileChecksum: SHA256: 30f72e24779ebca9fe472bd8d4918a262a9e2724e43e5900718815bc157f8653
+FileChecksum: MD5: c2c6ffaa1275ab701f9b30e480ba4dc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/Tensor.java
+SPDXID: SPDXRef-item1142112
+FileChecksum: SHA1: 51ff9ffc3d5d47f7bde276d6b5e5fe73556a0c3b
+FileChecksum: SHA256: 3f365805e81cd8d8482e2ecb71ec68f1984a5622db3193ae351232f5e847a6e3
+FileChecksum: MD5: 89818b0e219731236d4ae1f9a0855deb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/MetadataRequest.java
+SPDXID: SPDXRef-item1142113
+FileChecksum: SHA1: d980694b50032d727bf235f790f25a869ee756cf
+FileChecksum: SHA256: f4098ebc8d4b19d0c86c9b66945d2c62749b49d5092e96e5accc74d6a6b7d119
+FileChecksum: MD5: 2485a3eac1f2563e643816c1a1cb8325
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/MetadataResponse.java
+SPDXID: SPDXRef-item1142114
+FileChecksum: SHA1: 344aecc2338abc2da95fffb8c102678182f3a353
+FileChecksum: SHA256: 8f02d3faa65b811a44f04a3c849f043548c0e817eb86623d6c16b907de5e9750
+FileChecksum: MD5: 9b5dace32dfe4da5626869ed4f85122c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/InferRequest.java
+SPDXID: SPDXRef-item1142115
+FileChecksum: SHA1: cab8d4fa970a98965e6775d2d4ee40c5ec433452
+FileChecksum: SHA256: a0fdecbb7e8d3546a174c2bfedafec3aa6cf6287ed69d69a4698013a3cf866cc
+FileChecksum: MD5: 1d65db8ac73c1ee51f9f0ad0b5dcfaa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/Type.java
+SPDXID: SPDXRef-item1142116
+FileChecksum: SHA1: 7623e6e56a49de185d8cea8e9014f069ee1c4544
+FileChecksum: SHA256: 48b731ab8fa00bdb648e2a21da27715f96590cb77fa28ca1b74307323b9077e7
+FileChecksum: MD5: 077070f7caf59b96d0c876bb5df7831f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/Request.java
+SPDXID: SPDXRef-item1142117
+FileChecksum: SHA1: 72a0b1950a6b7b0175722fc751341ee83b860176
+FileChecksum: SHA256: bbf2fd39aa90a347f69830074ccfef58970748580d57d020253173a766dc4960
+FileChecksum: MD5: 8eba6b11a2bf693dffb84386a5e151d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/IOMetadata.java
+SPDXID: SPDXRef-item1142118
+FileChecksum: SHA1: bc7d2da5de56f07b2c8cdd7ad99ccf8bb29f6d4f
+FileChecksum: SHA256: a9e0a4cb8006176a51cb65f92e9b8db366aab313fd78d2bb77591840b8d5cbee
+FileChecksum: MD5: 0c62bea1f7532c6d280602cc7a556288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/Error.java
+SPDXID: SPDXRef-item1142119
+FileChecksum: SHA1: 841a3b961c2755beca68858d97def2931fc89a5b
+FileChecksum: SHA256: 903c93a571e35de634b3f9d80c77da33df6a59077f336d28b6eb57da9c7c2440
+FileChecksum: MD5: 3f012654ec3b12f696d7dfc7a6f654ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/core/src/main/java/graphpipe/Req.java
+SPDXID: SPDXRef-item1142120
+FileChecksum: SHA1: 511d034847f49abbd9ff2fa8a8518981f21c9db3
+FileChecksum: SHA256: 57f74a91c70c3fcacd33b8cc6df9b38bc793feccd99c37e47baf3b43e164f0df
+FileChecksum: MD5: b78aa280d1a3961141ac7975d2ca7cb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/NodeActor.scala
+SPDXID: SPDXRef-item1142132
+FileChecksum: SHA1: 9bd85b04d156386bb918f5480552cfb02675a953
+FileChecksum: SHA256: d10d1dca3ecb76ed8a6c4e1c40fc0bd819a10a79f5ab2aabdffd38b9c852fb9f
+FileChecksum: MD5: 556c09984428e8702c98855ae70ab74d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/cluster/src/main/scala/ai/forestflow/serving/cluster/HasPersistence.scala
+SPDXID: SPDXRef-item1142134
+FileChecksum: SHA1: 9fcebf47d72d9741f749258076399bdcac436c99
+FileChecksum: SHA256: eec7bf51433112fbefc0dbe5a950405d4495f79a1f38d530bfb5c5b5592757b3
+FileChecksum: MD5: 20a207ebe26241f38c72394a86a5ad17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: forestflow-2022-01-27.zip/ForestFlow/kubernetes/ff-serving.yml
+SPDXID: SPDXRef-item1142144
+FileChecksum: SHA1: a213e614aaad6c9fc2a1859d0087b1268bfbb284
+FileChecksum: SHA256: c53cf4313f051c9128a42bb7f2a72ccbc278add98938f3f29c2b9a88e1d267a8
+FileChecksum: MD5: e55dbdb43035f4812a1e39305afcbd4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Apache
+LicenseName: Apache
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Meta-List-of-Dependencies-1
+LicenseName: Meta-List-of-Dependencies-1
+ExtractedText: <text> Meta flag: Indicates a list of dependencies, which may or may not be incorporated into or used with the software being scanned. </text>
+
