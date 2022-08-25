@@ -1,0 +1,2427 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_Project-OpenBytes-2022-08-08.zip_1660119681.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-08-10T08:21:22Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: Project-OpenBytes-2022-08-08.zip
+PackageFileName: Project-OpenBytes-2022-08-08.zip
+SPDXID: SPDXRef-upload576
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 391b64bddd416217c3891a49a3ef226dc895e045
+PackageChecksum: SHA1: d8eb5a2c28b7a30484abad2f1de2d0f9c9a12f9f
+PackageChecksum: SHA256: 29d80fb799d89364baeae3a23aeeba81821e6fee60de2ddb182e08847d62efef
+PackageChecksum: MD5: 5b13e20a1d302379e4e9a0a19dfd978a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload576
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/.pre-commit-config.yaml
+SPDXID: SPDXRef-item2623539
+FileChecksum: SHA1: a1f3b63774775e9f4903acda42255ac365f68cae
+FileChecksum: SHA256: aad8bb38efa765ec7d404140bbc7cc39e00f742195746f40787483bedc9c9354
+FileChecksum: MD5: 39129fd3665520646f6ed84e278a6301
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2022 Graviti. Licensed under MIT License. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/.gitlint
+SPDXID: SPDXRef-item2623535
+FileChecksum: SHA1: bc85a0bd56e5efbad3d47b7d050fa49dc058cf32
+FileChecksum: SHA256: 1fa2fbc0ef594eeaf337e2bcd23fc38ade384008b2a782475951dc084da1e75b
+FileChecksum: MD5: 44bb5f4e62afe2bbab2620c4c184130e
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2022 Graviti. Licensed under MIT License. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/.github/workflows/pre-commit.yaml
+SPDXID: SPDXRef-item2623533
+FileChecksum: SHA1: 3162383a6fd62b92dcb943c0de2c8e160dab630b
+FileChecksum: SHA256: f38c78109565d66e325527ac6c01e2b66b34ddcf65d70aac9a036b6e3cd7ba27
+FileChecksum: MD5: 5d9bb272a3abf32fc13b4529010085b4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2022 Graviti. Licensed under MIT License. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/logback-spring.xml
+SPDXID: SPDXRef-item2623291
+FileChecksum: SHA1: f554ed6e07b2fb7b376f8694a33f228fe1259905
+FileChecksum: SHA256: c5e885bdd34843a4e2d87582596c8b076b6330c79edfc3a90db068d16e790da9
+FileChecksum: MD5: 62fc04b7d1efdcd4c1538cdd2d19457e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/setup.cfg
+SPDXID: SPDXRef-item2623394
+FileChecksum: SHA1: 8318c85d4667f2296c8e2fe70e4787f7dd356d81
+FileChecksum: SHA256: 3c068496b3498fb4a9b3a83f685d8d9725d32477efece84491941b49ef844077
+FileChecksum: MD5: 6bdd07089857946977bfe110f81178b4
+LicenseConcluded: Apache-2.0 AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/client/index.html
+SPDXID: SPDXRef-item2623278
+FileChecksum: SHA1: 4f91acd68e468122c4c1f5e13ed42771afc82480
+FileChecksum: SHA256: f9abaac98f27755dad0363a10dbf0b92a22119e27c0d7805dd8ca5c1307b062b
+FileChecksum: MD5: a3584ceed95b8c6102c533a815ca7d50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/LICENSE
+SPDXID: SPDXRef-item2623529
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/LICENSE
+SPDXID: SPDXRef-item2623445
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/LICENSE
+SPDXID: SPDXRef-item2623269
+FileChecksum: SHA1: 232ace50c99ad9b8028052b4051c5827ef884556
+FileChecksum: SHA256: d1776f160cae67bedc18f4aba556d3d48786a8024c6558853549c937ba78589a
+FileChecksum: MD5: 5dda48c27bed7fdfa00b51df8c4edec7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021- The OpenBytes team. All rights reserved. Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/application.properties
+SPDXID: SPDXRef-item2623290
+FileChecksum: SHA1: 4966eb175d1a9e64927a92f0dee79c5109c8241e
+FileChecksum: SHA256: 59851f4b5937867e357b327c96f6e0b625724939158fd5e3d61723c9570d3a92
+FileChecksum: MD5: 83e90b020f4acdade6c46bb97b1426da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/CodeAndMessage.java
+SPDXID: SPDXRef-item2623296
+FileChecksum: SHA1: 42f9fbb43ba40be3ee0bdf31c70731b35a526a70
+FileChecksum: SHA256: d876bea07e63a726a4cadee4a6561a5e4c0064a7cb05c116dcf0bdcdb1e5f733
+FileChecksum: MD5: 1ae837f0a1bb16b188b76a3b1b8b257f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/Application.java
+SPDXID: SPDXRef-item2623297
+FileChecksum: SHA1: 63a1385221c53b42d2f317f41c5d6b59291d0214
+FileChecksum: SHA256: f4ffa9d01761aad49afdc30130fcaefcbef5cc858258587fa7baada88b4bf70e
+FileChecksum: MD5: a08ca9b9fa954f522259a367af085af0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/db/mysql/V2112141100__init.sql
+SPDXID: SPDXRef-item2623288
+FileChecksum: SHA1: c08fe52122b72350f23ffb4289d86cfd3bb0d5fe
+FileChecksum: SHA256: 0f74116c87fb9f7804387e812a876b461e269282fdb2220bee11a04bf5c6f921
+FileChecksum: MD5: 55fe0fd7fca247938f4d3ad9a2dee838
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/application/TokenService.java
+SPDXID: SPDXRef-item2623301
+FileChecksum: SHA1: 332523316203a0d6a89827227db1a829f16d2f89
+FileChecksum: SHA256: 3e0247b97bd6cd3d3cf1c050db830abcfae531b1e72b398f8b6dcaf9869c401b
+FileChecksum: MD5: 4ace9b36be257dd73ec25276455cdce9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/application/DatasetService.java
+SPDXID: SPDXRef-item2623299
+FileChecksum: SHA1: 0341966c36b1164aec9882da45f02cbfb2d5134c
+FileChecksum: SHA256: a37f51a1cb44e823a1df8ec244dff14b0560e19f1eaeea998016f24fc051e490
+FileChecksum: MD5: a6e89d7902e1e95d69f6ed1e42b8dfd1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/controller/api/v1/LoginController.java
+SPDXID: SPDXRef-item2623308
+FileChecksum: SHA1: 5783dcd1e9b061ac5921e9e501c0a30cabe1646f
+FileChecksum: SHA256: cb101a3c889f69af941dde2b09152f49fc2deb919adaa7a867dcf0b10bacce1e
+FileChecksum: MD5: d61b83ce8794139c1007d161e196b86a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/application/UserService.java
+SPDXID: SPDXRef-item2623300
+FileChecksum: SHA1: 67c82c8d9473d73d7adaa71b64c6287a27666a38
+FileChecksum: SHA256: 2483b5399745b3b7582f5bd9e74b55c3ae8ba116a3c5d4f4c43d2deaaaa48c4f
+FileChecksum: MD5: 51765700c15b10efd8fa74b43bca6383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/application/GithubService.java
+SPDXID: SPDXRef-item2623302
+FileChecksum: SHA1: fa0674eb7150edc2e86b2dc4d8e5f7fb0f6d828a
+FileChecksum: SHA256: 35569823da79a2eec7cd3cd63a3f4520a3218cf60bdecdedb6dd2bca732aa61d
+FileChecksum: MD5: e6a3bcf7efd23c64d9b2e1a8f85d11af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/application/DatasetFileService.java
+SPDXID: SPDXRef-item2623303
+FileChecksum: SHA1: db2abab0caeba3ad083662c4255a1c3b225e56b3
+FileChecksum: SHA256: e3eb2fc377568778737ffc8086761142a40bb7288e8e982d522165f69e272730
+FileChecksum: MD5: 548daca4de3bba367c446206fbacb8ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/controller/api/v1/UserController.java
+SPDXID: SPDXRef-item2623309
+FileChecksum: SHA1: 67d3f8dbb5a2f0e42aec6ae5af21f6143fe79234
+FileChecksum: SHA256: c7420ec2f3eebe1c5f5b37d5d863401d7013f14e98acb9e53784657e48393533
+FileChecksum: MD5: 2ec8b0a33ac1d790bd171b08dcbd90ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/controller/api/v1/DatasetController.java
+SPDXID: SPDXRef-item2623310
+FileChecksum: SHA1: bf74b62198937d55a67f869155a4fcb9dfa0c011
+FileChecksum: SHA256: 9e23c60814287ec3be2ef77c359c80670c7bd1c8cd536fcd490140c53ae6bd26
+FileChecksum: MD5: f4548e0b6e5e3e7bdb12a143d5ccac03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/Result.java
+SPDXID: SPDXRef-item2623312
+FileChecksum: SHA1: 25d8a58e36428f36c060e10345ac8845f8392ad4
+FileChecksum: SHA256: c27389c87def9861c2d87514d83b2b80f7fbecbfe3a2b6281c9ae053ff7b4e38
+FileChecksum: MD5: c6b7dda8ba5cb9501c243983150c70c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/controller/api/v1/HealthController.java
+SPDXID: SPDXRef-item2623311
+FileChecksum: SHA1: e8ea3c4f6a47c091537a9b4db6459a1800944e50
+FileChecksum: SHA256: 848de72c7e64bdae151b16500996bfc954cc2e51703b1f7c2da904587092395f
+FileChecksum: MD5: 72e425578bd190ddd8090c29262d2a95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/ro/ListDatasetRO.java
+SPDXID: SPDXRef-item2623314
+FileChecksum: SHA1: 52efe869d0c70134779e5190056c4d122a4779c4
+FileChecksum: SHA256: 7eaad940f01d6e95924486df8e9a628e2d111cbd914788c1ee936f371154a3e3
+FileChecksum: MD5: 783a44da3b31faf6480528fa25ef0def
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/ro/CreateDatasetRO.java
+SPDXID: SPDXRef-item2623315
+FileChecksum: SHA1: b0cda90479ef3b4aa0ecc31ee59426b38f405494
+FileChecksum: SHA256: 99e174ec39dd5939d48866269aad8308923871a9d56fe2779fefd649827dc15b
+FileChecksum: MD5: 0977cf777c8e77da2388dc6214c9a1c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/DatasetMapper.java
+SPDXID: SPDXRef-item2623320
+FileChecksum: SHA1: 2fbf9f5d636a423827a8b5509d9186dc307b999e
+FileChecksum: SHA256: c745cf99bd92c065324d423aa4acec464981a28e20d3c90e623ab3efeda4530f
+FileChecksum: MD5: 4becf49761c5ec0f98a1ba50914d9d61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/interfaces/vo/DatasetVO.java
+SPDXID: SPDXRef-item2623317
+FileChecksum: SHA1: d02c496a16fb60eb51480917b53af284b077e815
+FileChecksum: SHA256: 796d2556e80674bfe70b2d642e6319dcfd77f4a1ffa1a587a2740337fa0910b8
+FileChecksum: MD5: 28a59d0de7e22ad96af0301106374849
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/token/UserTokenRepositoryImpl.java
+SPDXID: SPDXRef-item2623322
+FileChecksum: SHA1: 6d4b122f1e17401b6c714f0041d72cca3bd79b2b
+FileChecksum: SHA256: fba3b86544cc2866f0523b96444810c547a579493fd7aebc716a61c06e21b20c
+FileChecksum: MD5: 357e054536bfc1799d95d54994afb94f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/token/UserTokenMapper.java
+SPDXID: SPDXRef-item2623323
+FileChecksum: SHA1: 41cc7446d920e2b41aaebbd378fcc86603155cc4
+FileChecksum: SHA256: 5bed4eb7ecdd41d0d6725cf9a3e654e4a10f28c10f0f7c8b371fce46e8515a6b
+FileChecksum: MD5: de6e4db69e168adbbcddb4514458560a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/TagMapper.java
+SPDXID: SPDXRef-item2623325
+FileChecksum: SHA1: 261c22b30edd1c7b804aa91348391ce844045e05
+FileChecksum: SHA256: e17a4c9cad3b35f2da53933c64eb5d71b6673aa57a5696c6d3cad7f0931f35df
+FileChecksum: MD5: ab182defda4448c5f82d433e4b7373ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/TagPO.java
+SPDXID: SPDXRef-item2623324
+FileChecksum: SHA1: b00d1d59af08af71ed8156f0ca15400a87e73827
+FileChecksum: SHA256: 172cce5ca99b8ff433230f835412c4a194999a5296f708922511ce844726d9c1
+FileChecksum: MD5: 619a7bafa42d349d76f85181d4859db6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/user/UserPO.java
+SPDXID: SPDXRef-item2623328
+FileChecksum: SHA1: 3c465b890f94c86ac415b8226ce46f9ce81e733e
+FileChecksum: SHA256: 1e20c50bd4b6ef0e6942f0307f2b92c62dc0e0c2acc83f72f45c378c5bab54fd
+FileChecksum: MD5: c66b1d1280bff588b3550057b17c6532
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/user/UserMapper.java
+SPDXID: SPDXRef-item2623329
+FileChecksum: SHA1: a54a42afb5706ad42b2c018625a5a34096987883
+FileChecksum: SHA256: 1e919b27732e7c9312a4592d6c28dbd70d185bd41404ad9193f0436fc5d61418
+FileChecksum: MD5: 0436bc4c4db25ba2a762dd006274f390
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/PageInterceptor.java
+SPDXID: SPDXRef-item2623326
+FileChecksum: SHA1: 2ce006d335f8de6e151b534de28a62e7de1633ce
+FileChecksum: SHA256: ef14f61fa143be214ecf4e57b521a13b5b03b63355a9e8d01dc78b6f536f331d
+FileChecksum: MD5: 2b66db0224da521388d87c36e7484855
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/user/UserChannelMapper.java
+SPDXID: SPDXRef-item2623330
+FileChecksum: SHA1: 939b830170c870ff5d735e7ce547b84f95202abb
+FileChecksum: SHA256: 5ef9be1cb42803d55d5e01b96a3009f87a7d91a99e648a5f587ea02007932501
+FileChecksum: MD5: 3cb1c4ff5f4b52ea341192223251eef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/user/ChannelUserPO.java
+SPDXID: SPDXRef-item2623331
+FileChecksum: SHA1: 2be4e4dba7830f0881c32d376332895833c6737a
+FileChecksum: SHA256: e7ebf0f964e6a997b363f0e755661a79f674c77db071d3bb273d3af1304e0c1c
+FileChecksum: MD5: 8f616c7b3dae1f5ea08d2ae63bea78c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/user/UserTokenPO.java
+SPDXID: SPDXRef-item2623332
+FileChecksum: SHA1: ae4dee1cc6d11faba8b701656b76fe07014fd4e8
+FileChecksum: SHA256: 2584a4cb2b219c6ba36b7695bf610d5524fc863a8730709f13a7ea64ff3825d3
+FileChecksum: MD5: d0958d28a441aac830cf9658b710d9fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/user/UserRepositoryImpl.java
+SPDXID: SPDXRef-item2623333
+FileChecksum: SHA1: 72a0e4f1b041b82a72c16c44cc6e3cb796c73b06
+FileChecksum: SHA256: de6c6f1d21fe45908712a1036e28e213b286429dbc385fe6d1fae566f0abde8b
+FileChecksum: MD5: 94a8ef5fdcbdfeb3955b276714f25398
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/DatasetRepositoryImpl.java
+SPDXID: SPDXRef-item2623334
+FileChecksum: SHA1: 0d95d77959a3a41bb143a8da28eddd99d7091303
+FileChecksum: SHA256: a4871309bf8b482c3c0e1ccc980c9e038cff1969ba21a895cf09e79a8406e114
+FileChecksum: MD5: dcf6c4c4db4ec283aa46a71094a61bea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/mysql/BaseOptionalMapper.java
+SPDXID: SPDXRef-item2623337
+FileChecksum: SHA1: 12ecbabeaf19376382ac6e8eefb1872bc292e400
+FileChecksum: SHA256: 963e40989221d7bf00a0575af050d0079a08407d90b7c704e01b6ec9c9ade76d
+FileChecksum: MD5: d866b7f2465dc9b77f7ef27a1e29ac59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/BasePO.java
+SPDXID: SPDXRef-item2623335
+FileChecksum: SHA1: 07e8349fcf0dc2eda5b3c4db949506ccd06fc97b
+FileChecksum: SHA256: d80ef2dccc0860ceaf80db7daee0e3667fc4987e4ad2bdee608a5055018529cd
+FileChecksum: MD5: ee1e2df6abddc8bfe02c532b49b98e2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/repository/DatasetPO.java
+SPDXID: SPDXRef-item2623338
+FileChecksum: SHA1: 0895c209d91c2f70f75f971cc4416a0605f637c3
+FileChecksum: SHA256: 073dcbc2e0b0bf44e969d9a3d63ffda6a7419c73722a241bc87cf881a4239422
+FileChecksum: MD5: 50e3883dacaa49e09e609dd31d9de50a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/s3/S3PutPolicy.java
+SPDXID: SPDXRef-item2623340
+FileChecksum: SHA1: bf78b4aa027ffd59af4ebb23356e698e4b9e8f14
+FileChecksum: SHA256: 0222e582202026dd43e2197b658ba7e5dac128e0a6702b5b26123a33a5fb8dfb
+FileChecksum: MD5: 27a16a46dbd623ff5483855ccdd23726
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/s3/S3Storage.java
+SPDXID: SPDXRef-item2623342
+FileChecksum: SHA1: d1871a3780aa9d21243712cc7c0aca93ee1992bf
+FileChecksum: SHA256: 98d67279eb1fec577a047920edd6b4a1f43b92ec1eae122f8ae86bb7f5f1eae8
+FileChecksum: MD5: 4a521aca640020e1c3c2fec3d5d23c71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/s3/AWSConfiguration.java
+SPDXID: SPDXRef-item2623341
+FileChecksum: SHA1: ac8b8c8c1237d5d80d55ade3b443639b573c2a84
+FileChecksum: SHA256: dc1360c83598f418781cb1f846d20a2a2f6e992ec2af2b31b51edad1368c45cd
+FileChecksum: MD5: 96cf8c13878f2f753d5938daf84afdb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/repository/UserTokenRepository.java
+SPDXID: SPDXRef-item2623346
+FileChecksum: SHA1: 5783672734c22f649b8729dbd26f4882d6a81fc7
+FileChecksum: SHA256: 61fc9431c2990af84ef722a4565b17a335c17d7697bb193e65cd7f323f292794
+FileChecksum: MD5: a41bb8673f69053cddf2fb82408367b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/infrastructrue/ODIPage.java
+SPDXID: SPDXRef-item2623343
+FileChecksum: SHA1: 7af2671b27b9b7f68808f0ecb5b04bfac0b13a69
+FileChecksum: SHA256: df2b8a4f80757d660026a14d00f750f0efb7bb56f1a4ae58e9d7c1cebbea43ec
+FileChecksum: MD5: 30cfb836eae0d39656c3a18d612364ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/repository/DatasetRepository.java
+SPDXID: SPDXRef-item2623348
+FileChecksum: SHA1: e107849ba75aacaf14a9300c606f298b1fffb365
+FileChecksum: SHA256: 6cf967094b2023b4d07ade7b08c9af6ad281436039a0ac90509a3241599fb77e
+FileChecksum: MD5: fc82713cabbe54a7fffa4fc05957eb52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/repository/UserRepository.java
+SPDXID: SPDXRef-item2623347
+FileChecksum: SHA1: dc415a25250f9e5f5fec785ebd7c8acfee3f0a71
+FileChecksum: SHA256: 7464b29ac4bebe9d8fad914cedf5b473440dedfbfbe4ec9139a0ed16d3e61b59
+FileChecksum: MD5: f5f05f5cfcc0241f0465dae36f1b1c1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/DatasetFile.java
+SPDXID: SPDXRef-item2623349
+FileChecksum: SHA1: 8255f5dbe756f48d0b43486e479e91d787b5af8a
+FileChecksum: SHA256: 43b642b99560e03e98360b0da4c628a5cc29559966507b69ca4497c66efd9737
+FileChecksum: MD5: 96a95617a65965feeff46e2b2ac22fac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/user/GithubOauthTokenResult.java
+SPDXID: SPDXRef-item2623351
+FileChecksum: SHA1: 5ad5e1f672bed0f327290683970c113e1515e41e
+FileChecksum: SHA256: 3849acacb7700188f0909c83ecb8d1730b3d4157f67d856e51cb2b81a75a4935
+FileChecksum: MD5: cfcf5f32a54e6b50af25d3e570c1df78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/user/BindByGithubDeviceCodeResult.java
+SPDXID: SPDXRef-item2623353
+FileChecksum: SHA1: b7c79fc68306ed7c9aed5eb36a92a5669053505e
+FileChecksum: SHA256: 57acc663e5d7d5539e3f043bb471e5cc5279037a2cd7fd21658c872a6fe8a703
+FileChecksum: MD5: b6022415c6c6a424354d6e06658cd617
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/user/GithubUser.java
+SPDXID: SPDXRef-item2623354
+FileChecksum: SHA1: 780f923fac91a1a2b1a6919bcb844e4de172b710
+FileChecksum: SHA256: e8485f619cd538a0c16cd6b62d7acbedba197dbfeb2906e696ecfe77d0466151
+FileChecksum: MD5: 8b5416a45e8ae1d97b6f71024d9d60aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/user/User.java
+SPDXID: SPDXRef-item2623355
+FileChecksum: SHA1: 324fa9eb5244f20132ec385c70b1f1be9a92a193
+FileChecksum: SHA256: b02fee0bca8160c4e263080a6612ee05a9e8e4cec725d6cc1af9dddcc6614d28
+FileChecksum: MD5: b8b9158d83a42dda0bd91f324177f503
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/user/DeviceCode.java
+SPDXID: SPDXRef-item2623352
+FileChecksum: SHA1: c232df8001fd867dcf8e9b986d8c5af39a1a66f8
+FileChecksum: SHA256: dda8a4be19bc29d337f46d5ef5b9ad147ae9e2dae9e3729b97517da5fd5d3a37
+FileChecksum: MD5: fbd2a7622854b78f804ac6470f775b6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/common/HttpURL.java
+SPDXID: SPDXRef-item2623358
+FileChecksum: SHA1: 321094b5911f5982dc0e3cfa4c122f9bcb8c455d
+FileChecksum: SHA256: abc3fff68fff160909ceeeb513a4afaba9cd3e384b590fa2224fb24ad55970a8
+FileChecksum: MD5: b36b52afa49eb146deb3f6db71f705c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/Dataset.java
+SPDXID: SPDXRef-item2623359
+FileChecksum: SHA1: 29dc7ca59230ac80c32fd935bf5eb44ef5229c8a
+FileChecksum: SHA256: 3634c6b290c129c369f91a427cbb6ecf2efc262499772f0bb8151c65b76d8b5c
+FileChecksum: MD5: 0de62a936de36ef1c172b8a8278c6bc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/UserToken.java
+SPDXID: SPDXRef-item2623356
+FileChecksum: SHA1: a051dfc515b8fb292de7ab172b0adfd4bdac4401
+FileChecksum: SHA256: 4ea34d354b5507c557ee79498d6dcac25db726a1f824fb0a41dd85afd23e63d3
+FileChecksum: MD5: 0904789ba4da38bd1b3dd188fca45c4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/DatasetTag.java
+SPDXID: SPDXRef-item2623360
+FileChecksum: SHA1: 54d9d69713ec32f6e1559c6901f92ec5375d174a
+FileChecksum: SHA256: d7e1a7647bf9c6768f5f6f81dba8b36ab3bd17399eeb643ec30de217b6f83d76
+FileChecksum: MD5: 88b5783bd24e8254e850e867d34ee3ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/storage/Storage.java
+SPDXID: SPDXRef-item2623363
+FileChecksum: SHA1: 5872819634c44362412534200390a48af9561337
+FileChecksum: SHA256: 39ff2262ae795295407fe74c2a9427f2791010a75030d8b6702b39df72417cdb
+FileChecksum: MD5: e82e2a8f2877724b345344e5e44a60dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/BizException.java
+SPDXID: SPDXRef-item2623364
+FileChecksum: SHA1: 60c079bae5d89c81487260bad2931eef62124604
+FileChecksum: SHA256: c1b86026c7fed4c012d3706f4796006abb91d614eec13989501ab76351c969bb
+FileChecksum: MD5: c68ac2587676503b3a3c2bd1d3fcd278
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/java/io/openbytes/odi/application/GithubServiceTest.java
+SPDXID: SPDXRef-item2623374
+FileChecksum: SHA1: c7d0d4b9fc0b7ba8e3f018059511de48a60a28d1
+FileChecksum: SHA256: cd932b582cede089fd49ec781f51916fb0e1d756825d9f47f6caa3b98386b548
+FileChecksum: MD5: da9fc9d69b2136f99a43c7eabadfbf14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/java/io/openbytes/odi/domain/storage/ListFilesResponse.java
+SPDXID: SPDXRef-item2623362
+FileChecksum: SHA1: 813e9cbc7e1cc1a285c6fbfad2f74343f63c8e9b
+FileChecksum: SHA256: 2b750f7a91d6ad8370047aaebc49e7ac82989a150b1ecb3a1bc87e22cc043bb7
+FileChecksum: MD5: 09a929dfb10b6a7bbc85f088986c1974
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/java/io/openbytes/odi/application/TokenServiceTest.java
+SPDXID: SPDXRef-item2623376
+FileChecksum: SHA1: 7d442d9fb8d1d08a241a1e6fa719d6bca7d4d877
+FileChecksum: SHA256: 0a12dd5e4de523311aedcbb3eda498e18b8652bae9ed4b807649e88025fc488a
+FileChecksum: MD5: ad6c54580d62e5ca6074620bb5b0a7a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/java/io/openbytes/odi/application/DatasetServiceTest.java
+SPDXID: SPDXRef-item2623375
+FileChecksum: SHA1: 2296348d627e86a9e022eb8a5b1390e7764d11df
+FileChecksum: SHA256: ef094cca8c393f67cc6a8dcbc98ee4816fbcb309e544ecd1d062fafba48f5f48
+FileChecksum: MD5: de396977656652cf0d9ac2472eb2bffe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/java/io/openbytes/odi/application/UserServiceTest.java
+SPDXID: SPDXRef-item2623377
+FileChecksum: SHA1: cd2df3ab343a3f0fec4db0186e99384f936311a5
+FileChecksum: SHA256: 5e2f56d9e63890b745da81903070e52001a4a2b22a7b4ccef7d369a8f43f003a
+FileChecksum: MD5: 6122c642740e7b7d55703da7f69b8913
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/java/io/openbytes/odi/infrastructrue/s3/S3StorageTest.java
+SPDXID: SPDXRef-item2623380
+FileChecksum: SHA1: 5de0a41ebaa3fd892e60d7d179a4078e1b897da8
+FileChecksum: SHA256: 37950ff6af382b64c1d056dbdb839c7729c493a3b47a5e8b1cf5b417de09a0c6
+FileChecksum: MD5: 383307eecc562288f50057012d68756c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cache/cache.py
+SPDXID: SPDXRef-item2623397
+FileChecksum: SHA1: 6d4f4ec4c7855fc685ece72493a32eb18c9fae8b
+FileChecksum: SHA256: 881f741af98de0b380d2dec8f3c8dda0900fc2330b75e11be426f16b3dba3d75
+FileChecksum: MD5: 95366b4a9079ae4084a1eccf4e80ca43
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/tests/test_ci.py
+SPDXID: SPDXRef-item2623390
+FileChecksum: SHA1: f4e84d8e0420876bcc5c22405c945f2d9a60f49e
+FileChecksum: SHA256: a23ea08517935f3409ae4cef07e1b68aa9f41d629a5c6bd1d72e8762e3f7e009
+FileChecksum: MD5: 4276ad037cebb645dd12c4cdc79e4393
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cache/file_cache.py
+SPDXID: SPDXRef-item2623398
+FileChecksum: SHA1: 5f350fe8e8f1325bbfd95ec5d94ccdd51a11a512
+FileChecksum: SHA256: 68921ca6f153d1589709a8eac81b7da027621f552317ba628741a92a3c2a9d6e
+FileChecksum: MD5: 3611e4699096996008fc8dd46dc6bf9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/tests/__init__.py
+SPDXID: SPDXRef-item2623391
+FileChecksum: SHA1: 17ce18b50128b804d4e2a84bfcb351e29c1c6747
+FileChecksum: SHA256: 819b2eb702792e2d55ff3de05f341392a2cde4ee7edec84829673c89cd90b16e
+FileChecksum: MD5: 8de2a209060efb0f25e14525c2d7e3b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cache/__init__.py
+SPDXID: SPDXRef-item2623399
+FileChecksum: SHA1: 55c006270a48a0125fdebe5b374a1c8c6c832cb5
+FileChecksum: SHA256: 25af69dd47063a3cd533b99cab326e88ed0994f089d610947e2d24853c5c17e3
+FileChecksum: MD5: 860443d0b28244e85984a9e239e445ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/command/cli.py
+SPDXID: SPDXRef-item2623405
+FileChecksum: SHA1: 7b6af4ea857b64b8310ed4560e38b3522e90f273
+FileChecksum: SHA256: 5195162e527468018850de13ea9de62ef771d6d1065f0b237a536317f04363b2
+FileChecksum: MD5: 8ad9f1b29eb660024f9eafaf3f41f488
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/tests/test_cli.py
+SPDXID: SPDXRef-item2623402
+FileChecksum: SHA1: 2df0b94b731ea14e88501771ac6168e5c1f7ecaa
+FileChecksum: SHA256: 3d761aa7066608120b03e3c82a81ba419297299bbd291ed0327afb3715ad0b03
+FileChecksum: MD5: 69d390e1f3155549083961ab6f58fbe6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/command/__init__.py
+SPDXID: SPDXRef-item2623406
+FileChecksum: SHA1: 4f4ec797e4a26e37fd817dc5605959e6d7cbffd7
+FileChecksum: SHA256: 1a9912df6c2681df7b97b62be0e992813a56e4a3b0187eca77dd44a412794776
+FileChecksum: MD5: c8f32007d121237774f2fb0bb6d90bf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/tests/__init__.py
+SPDXID: SPDXRef-item2623403
+FileChecksum: SHA1: ed509f8f2d7abb7466920df9aa4eac29df7c3a98
+FileChecksum: SHA256: 8ed6a9e1c04aba1ea64b56cc0668ba34f9fd68b0d75634e0a43abe6e5871e485
+FileChecksum: MD5: c25e2c9e4b25761df4e85750f19e98e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/dataset/tests/__init__.py
+SPDXID: SPDXRef-item2623432
+FileChecksum: SHA1: ed509f8f2d7abb7466920df9aa4eac29df7c3a98
+FileChecksum: SHA256: 8ed6a9e1c04aba1ea64b56cc0668ba34f9fd68b0d75634e0a43abe6e5871e485
+FileChecksum: MD5: c25e2c9e4b25761df4e85750f19e98e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/command/auth.py
+SPDXID: SPDXRef-item2623407
+FileChecksum: SHA1: 45f5a2fe04bdeb23357b8a427972869738048c3a
+FileChecksum: SHA256: a8ad69a3cc3c9d20cf033a95a573bac2fe1ec93884ac1256039a91d0d0613cc2
+FileChecksum: MD5: 2590c1a1201eb0cf4efbf1560f2caaaa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/command/search.py
+SPDXID: SPDXRef-item2623408
+FileChecksum: SHA1: 5a2b825cd8a05a12d1fa5e6b7e5813a568c4443d
+FileChecksum: SHA256: 281e2f05d1d2479efcacaf4c90669685e0fc7b39e5c493fe83f0a9b41029814e
+FileChecksum: MD5: 8a715dbdb5b741d68aeb385dd7e54c08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/command/version.py
+SPDXID: SPDXRef-item2623409
+FileChecksum: SHA1: a04f69a33b63647320a585f66b41903883c655d1
+FileChecksum: SHA256: 5ed1c5c7e273dec7c8f311876065866ad3064fc88a6ddf6a3320dbad6a58472f
+FileChecksum: MD5: 5045f4fb8cc7d5075e875f05c7349ab2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/command/pull.py
+SPDXID: SPDXRef-item2623410
+FileChecksum: SHA1: 632f633e04adfa7934651891412e209e9f221ee6
+FileChecksum: SHA256: b904cc377b8cdb89fd529ec548c406c8ef72e8cfd422678309d4239e7a8c2010
+FileChecksum: MD5: 82a1620952eb05a1ff3ed5d409b4e5e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/cli.py
+SPDXID: SPDXRef-item2623411
+FileChecksum: SHA1: 594595d9ddf74f7a4cc92894825154868b3b4201
+FileChecksum: SHA256: 1fed707c0a94fa8415da9f1c644dd317fa3f7de13a9ac01ffb68f115e46a8870
+FileChecksum: MD5: 6c16bffab936636cfa096f86114c3744
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/auth/__init__.py
+SPDXID: SPDXRef-item2623417
+FileChecksum: SHA1: dfde61477ceda77256d20873fc3604c47b3cdfd5
+FileChecksum: SHA256: 9f1f9caa26cd5abfe2bf90833bda1716a8b503a6f61edb92497594a5596b0997
+FileChecksum: MD5: bdccc666560694212d71ac9058b65af9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/auth/user.py
+SPDXID: SPDXRef-item2623418
+FileChecksum: SHA1: 658b0436993b51416c7193cfe2510ce35012c353
+FileChecksum: SHA256: 40099bf382a37f3917beff100eebdc51f089ab467112fc039f6355bec0b152be
+FileChecksum: MD5: 63a03da2cb5e0992dd4b521e95ae048e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/auth/auth.py
+SPDXID: SPDXRef-item2623419
+FileChecksum: SHA1: c9bba512c13cc1a31266e8bfa5f4a759517720ce
+FileChecksum: SHA256: 1078b7854011383fffc45f9316b292bad8df9fa8144f70d2ab8815a3a7ca31b5
+FileChecksum: MD5: a0a266194af30f3355503ebacb2ab686
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/cli/__init__.py
+SPDXID: SPDXRef-item2623412
+FileChecksum: SHA1: 8a83252a04acb00f886dbdcec307210e6fd821aa
+FileChecksum: SHA256: e4a81cb1f607888e2a2f814a570e64dd4a93714c982deee910af459ee97451fa
+FileChecksum: MD5: 0c1dfc09887d65a84e261d91be903fb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/tests/__init__.py
+SPDXID: SPDXRef-item2623415
+FileChecksum: SHA1: 8a83252a04acb00f886dbdcec307210e6fd821aa
+FileChecksum: SHA256: e4a81cb1f607888e2a2f814a570e64dd4a93714c982deee910af459ee97451fa
+FileChecksum: MD5: 0c1dfc09887d65a84e261d91be903fb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/dataset/__init__.py
+SPDXID: SPDXRef-item2623433
+FileChecksum: SHA1: 8a83252a04acb00f886dbdcec307210e6fd821aa
+FileChecksum: SHA256: e4a81cb1f607888e2a2f814a570e64dd4a93714c982deee910af459ee97451fa
+FileChecksum: MD5: 0c1dfc09887d65a84e261d91be903fb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/__init__.py
+SPDXID: SPDXRef-item2623421
+FileChecksum: SHA1: 1d5ccdd8dcc15eb7c63cad46641a84d4cf6ca470
+FileChecksum: SHA256: 724d74716c7bde17b56d83ce04010f96b673c39b4dcfa0ffe6a1859c3804df5c
+FileChecksum: MD5: 85441c11267f7338504f40f0abf871ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/entry.py
+SPDXID: SPDXRef-item2623422
+FileChecksum: SHA1: 0108687db65d77e8935b3e1bb47f7c1c30715549
+FileChecksum: SHA256: 0984c1bef622be66b8079603fb8d9b53c63d5380fb9f834e1f53433970280204
+FileChecksum: MD5: c14c9a2ed61d504191a1f931fdc56b56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/request.py
+SPDXID: SPDXRef-item2623420
+FileChecksum: SHA1: 1ddfcaae599f71316fc2eced2ef6977570e3b69d
+FileChecksum: SHA256: 59f69e2ab604b600106b03afaa9117fc44369461dc525216548b72e5a10919f9
+FileChecksum: MD5: b288323751a892cbb141ce723c51bacf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/storage/storage.py
+SPDXID: SPDXRef-item2623426
+FileChecksum: SHA1: 885c6abe11c03fd98c07ca381778f8613c89c983
+FileChecksum: SHA256: 66fed3a9f99e127a41eb45b805b58167ad50d1541f7f510bf19c8ae82d764672
+FileChecksum: MD5: ec29dd4d444f4fd7d10a34d0d8218a42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/storage/__init__.py
+SPDXID: SPDXRef-item2623425
+FileChecksum: SHA1: 1e3ab5d7b7c28065d3cbead375e7633e7fa3be15
+FileChecksum: SHA256: c0acec3dce7f055a183c0627d20a83192886012f69bc637d81f278072384ba4a
+FileChecksum: MD5: fb40ed41355f9b5a8845f422e08d004c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/client/storage/s3.py
+SPDXID: SPDXRef-item2623424
+FileChecksum: SHA1: 67836f60af94ff17e5026cf4d21236920a91a083
+FileChecksum: SHA256: ca622851e643c68dc2f108f20927881ae76b0f845a58af088be469c2f2f843ca
+FileChecksum: MD5: b94093bfa0a5ea6088730c9fe0f8bf06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/util/__init__.py
+SPDXID: SPDXRef-item2623429
+FileChecksum: SHA1: 2e65dfb8efea47b5bfb8a32dda6b807587c4cdf5
+FileChecksum: SHA256: 5aa9f174c9e0efb2e183d02410ea229131295dd66b8a58b1e863fc8aff8e7f86
+FileChecksum: MD5: 8065d477aacca69c400bcbb6d9a4f5d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/util/ui.py
+SPDXID: SPDXRef-item2623428
+FileChecksum: SHA1: e3a5e5dc47eec62fda4d54bcb548eb37395eea0e
+FileChecksum: SHA256: 3c9bda1ecf29b85fbea1c79c19b9950728bf5efd2d0f177461048a5ada6e9c50
+FileChecksum: MD5: 788c8a0c01ee452356be705ca9f43aea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/dataset/dataset.py
+SPDXID: SPDXRef-item2623434
+FileChecksum: SHA1: ca529c9b938389033ea2784c10990c607c464864
+FileChecksum: SHA256: 7006232514f886eaaabcfefb1ac303e6d5ce44b42bb29f0b0aee1b4f6016dd0b
+FileChecksum: MD5: e4d5dd2fa2791eee8170faf22aeed6e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/__init__.py
+SPDXID: SPDXRef-item2623435
+FileChecksum: SHA1: 9e682362c9d62b6b342e0c4addbda968858c3096
+FileChecksum: SHA256: 55ddc3cf3e2e6fc9c16eefe8c2ebd8adf8f874c3b1ec6fd69a8d0068b848a2ea
+FileChecksum: MD5: cf89e4cff2cb6c486d1e687e88412c1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/exception.py
+SPDXID: SPDXRef-item2623437
+FileChecksum: SHA1: 7f432c1180a814345e8959edd3cd62c87e4e7651
+FileChecksum: SHA256: 70cb8b5a28c59eb5b386f06f0f42836c6a3cb8f9457b892ba2904b5296e1aa5d
+FileChecksum: MD5: e16c8d735302777c36b1404e45aec520
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/odi/__version__.py
+SPDXID: SPDXRef-item2623436
+FileChecksum: SHA1: 04e5c3e8374a4b67858c9ce399688c44ae668dfc
+FileChecksum: SHA256: 9b2476a485d6453f92d7683b51fa10e71c8463b351edb9874e6405fb804d7ace
+FileChecksum: MD5: 2bff3149a396a7e3432a183fa94425aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/setup.py
+SPDXID: SPDXRef-item2623438
+FileChecksum: SHA1: 9c65474bd1bad7e2fedb358bdc711e618101817d
+FileChecksum: SHA256: 9427024dddb37ff0713ca2125ad4769bb0cb73b63092210e4296eb52582ed887
+FileChecksum: MD5: 83d34c969321e8f6f1f61555c1131ad3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 The OpenBytes Team. All rights reserved. </text>
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.github/CODEOWNERS
+SPDXID: SPDXRef-item2623271
+FileChecksum: SHA1: f9e8fee4add75dbb16b73053d26408059c3215b2
+FileChecksum: SHA256: cbd7e87ce074c48c1842c3bd8dcaacb2a79eabe2f1286caaf2c2d61185a7831d
+FileChecksum: MD5: 4ecc601337b23308782c47b743318067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.github/workflows/pre-commit.yml
+SPDXID: SPDXRef-item2623273
+FileChecksum: SHA1: c00998951651a6bb378e7a774876b1acacdcde4d
+FileChecksum: SHA256: ddad3b2961266488487d80595d7499ecafad685284d19e3dbe5bca80bac8f6c5
+FileChecksum: MD5: 9b0d10d924a912fb4afcc7652fb69a7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.github/workflows/java_ci.yml
+SPDXID: SPDXRef-item2623274
+FileChecksum: SHA1: fe4f9fb4e9d864045c2f8aae39ad4084a1edf2e9
+FileChecksum: SHA256: 260b32dc7dc0bfc8c20a569577cd00db65c17e5e20c59768de3ee66f8360fff1
+FileChecksum: MD5: 8de3fdcd9eb2510913e08bf0dbc926fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.github/workflows/python_sdk_ci.yml
+SPDXID: SPDXRef-item2623275
+FileChecksum: SHA1: 532bbb62428a92ecd6281f6698ff947f617ec222
+FileChecksum: SHA256: 4cf12f6777f1cc1202ef9976cab7c0a65933f88f96583f24bffaa1957cdff756
+FileChecksum: MD5: 3ca3b6359e0f46d2a079ae85e670a58a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.github/workflows/integration_test.yml
+SPDXID: SPDXRef-item2623276
+FileChecksum: SHA1: a92f806548b45fad0ad58167b588c269e98a4b48
+FileChecksum: SHA256: e5382d918117908226bbd238cd56f848097ed94b171c9a4b82b72c81e5542422
+FileChecksum: MD5: 559044be1c055673d52817580eff4942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/db/mysql/V2201261125__add_tag.sql
+SPDXID: SPDXRef-item2623285
+FileChecksum: SHA1: f77a2a8294ed29ae2baaea4eedc6032e7b38e614
+FileChecksum: SHA256: 2a81425167315d191c42fa238c0f51b10bc64a0aab64baefd4d457e9f6c0f5bf
+FileChecksum: MD5: 1f45a795513f52737505e8c7fac0cdeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/db/mysql/V2201201125__add_usertoken.sql
+SPDXID: SPDXRef-item2623286
+FileChecksum: SHA1: 8cda2f97b3d90b92552e56342774a1fe5d9b1068
+FileChecksum: SHA256: 6b50d7b5da95d38915e131fa9e99e40c077eba32d3ef43e076c36d4ad099867d
+FileChecksum: MD5: 6bc988518b000bf87a198659760fbf45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/db/mysql/V2201141559__add_user.sql
+SPDXID: SPDXRef-item2623287
+FileChecksum: SHA1: f12888d9e87c347620d053959fa6443bfa15615f
+FileChecksum: SHA256: f856948aee5b97a459dfab63dd0ea0d742c9337509e4501a304bb0b72ce19426
+FileChecksum: MD5: 3b62eca3eb3501d45a879de223b75245
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/main/resources/application-local.properties
+SPDXID: SPDXRef-item2623289
+FileChecksum: SHA1: 713c8ccddf975f9c99325250b3f8a3ca0e22e306
+FileChecksum: SHA256: 8730bd8d2a8a1b504fbde67fd1d482bf5cc85d90d73b6a0528c5c270ce07d427
+FileChecksum: MD5: 7bcd901c9987a181b0d39330f9b1bed5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/testhttp.http
+SPDXID: SPDXRef-item2623366
+FileChecksum: SHA1: e1a6cf8976f6e6366825414437406daf363a0903
+FileChecksum: SHA256: 0dff6d3867c28511ae4bcfda67b62a53582d05e93363a346eabc4775e88551a8
+FileChecksum: MD5: b6c46ff03f22538392863da066d3e409
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/src/test/resources/application-local.properties
+SPDXID: SPDXRef-item2623368
+FileChecksum: SHA1: 713c8ccddf975f9c99325250b3f8a3ca0e22e306
+FileChecksum: SHA256: 8730bd8d2a8a1b504fbde67fd1d482bf5cc85d90d73b6a0528c5c270ce07d427
+FileChecksum: MD5: 7bcd901c9987a181b0d39330f9b1bed5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/build.gradle
+SPDXID: SPDXRef-item2623381
+FileChecksum: SHA1: b82a3cb7288502bf11a68d5e1e480443b7bb8708
+FileChecksum: SHA256: 43cfd0a673858a150d9516f5be7f7e14fe17882f95e330c4b3cc2b6c150035d5
+FileChecksum: MD5: d3e8e5adbca94a82615b79e7dfa3d764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/server/settings.gradle
+SPDXID: SPDXRef-item2623382
+FileChecksum: SHA1: 8cdc14c3e9710d1fc224862aa7021a4e775dc321
+FileChecksum: SHA256: 420dced1927eae531c57b949905f12a74ee516c7a0406686b270df5a7f9590c7
+FileChecksum: MD5: 8395eab9a40e06da0e1919603a1aa4f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.circleci/config.yml
+SPDXID: SPDXRef-item2623384
+FileChecksum: SHA1: 86ff0db3e116790f9d667fdb2eb1100691756a37
+FileChecksum: SHA256: 6440e6774c6370ed4fef093e127da73f38735021a419aaacd28a38b375dc4ab9
+FileChecksum: MD5: 3150f1ebc1a82c1d4951a3dbf10abc03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/.gitignore
+SPDXID: SPDXRef-item2623385
+FileChecksum: SHA1: 49e8f80cf81ac07ae9076905ca11a4b83fdede51
+FileChecksum: SHA256: 9d595ad11a703f6bbff1e9b07903f4dd3f0fe1af8723b909382dc5ad9f85da5d
+FileChecksum: MD5: 66587f80b93525214fbb39ed05086ce3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/README.md
+SPDXID: SPDXRef-item2623386
+FileChecksum: SHA1: 0cdc80a85c4db5bd7537b72e9a8cabe88f31e89a
+FileChecksum: SHA256: dbc2202779a597ef69671de9ca83598e7c3045e6aa18acb7013732db3a84b82d
+FileChecksum: MD5: eb888c932121e98b623877afd3047058
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/requirements_tests.txt
+SPDXID: SPDXRef-item2623388
+FileChecksum: SHA1: f59a5cc4c48a9c0cbdadef071d0543cb3cd3756b
+FileChecksum: SHA256: 992970e8baf3b440bc1f680d600724b7d3a821973cdca48d9b272ac3c9b9d08c
+FileChecksum: MD5: 69708af386c020da93f3fad57636e66b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/docs/placeholder
+SPDXID: SPDXRef-item2623393
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/requirements.txt
+SPDXID: SPDXRef-item2623439
+FileChecksum: SHA1: ce1a7a312b26f05bf0947e2a29ffec22f2a64310
+FileChecksum: SHA256: a6014fd00ff77e65e59e6668616c395e435a66da3ab77e9fb80a4484674f3842
+FileChecksum: MD5: d59b91559857cb5aa87e4fd42a970bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/requirements_linter.txt
+SPDXID: SPDXRef-item2623440
+FileChecksum: SHA1: 72822a2e8308a4d68095bfd1e2c2f2c9846b09ff
+FileChecksum: SHA256: 01dd416e3e6cc25ce9dff88a55d0879299b11440f882467f799e264053f4af5e
+FileChecksum: MD5: 212d83f088df1cf72bda2f40eb94b839
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/.gitlint
+SPDXID: SPDXRef-item2623441
+FileChecksum: SHA1: 2dc355c2660ed2365f5e9a35f6ef5df2c11c7399
+FileChecksum: SHA256: f950a2725ab58483dc52153624443233ae25473fb16375a0063b8c7a3cece7a2
+FileChecksum: MD5: 5937434418c140ff5f436355445d2697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/README.md
+SPDXID: SPDXRef-item2623442
+FileChecksum: SHA1: c8f778e253f560522ec1c25d6c1a748708b35c25
+FileChecksum: SHA256: e979b139181ca653b5200ac102c4591c9e5092e81d89c838c24f80df0aafea77
+FileChecksum: MD5: 2393fc71f12429f4b57092cf09512549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/odi/python-sdk/.pre-commit-config.yaml
+SPDXID: SPDXRef-item2623443
+FileChecksum: SHA1: 461eafeb5a4359224684c59e920e8e4e3d59491e
+FileChecksum: SHA256: ebd384ab715ccd9d0e056367acd4a10b13b0cc8a9531656b6b8e9e28578a4a8e
+FileChecksum: MD5: 50f515ca1c416f0353736f32beb80a55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/ROOT.yaml
+SPDXID: SPDXRef-item2623447
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/sensor/Radar.yaml
+SPDXID: SPDXRef-item2623449
+FileChecksum: SHA1: 8aaf105c640e077b3aa54c7a59fcc1e67374d849
+FileChecksum: SHA256: 68cc5231853b91c58b9e3362b230fa913b871a724aeaf3da87082c6670c4fb2b
+FileChecksum: MD5: 82a58f506b532ac68182fee3303aea0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/sensor/Lidar.yaml
+SPDXID: SPDXRef-item2623450
+FileChecksum: SHA1: 8aaf105c640e077b3aa54c7a59fcc1e67374d849
+FileChecksum: SHA256: 68cc5231853b91c58b9e3362b230fa913b871a724aeaf3da87082c6670c4fb2b
+FileChecksum: MD5: 82a58f506b532ac68182fee3303aea0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/sensor/Camera.yaml
+SPDXID: SPDXRef-item2623451
+FileChecksum: SHA1: 8aaf105c640e077b3aa54c7a59fcc1e67374d849
+FileChecksum: SHA256: 68cc5231853b91c58b9e3362b230fa913b871a724aeaf3da87082c6670c4fb2b
+FileChecksum: MD5: 82a58f506b532ac68182fee3303aea0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/file/PointCloud.yaml
+SPDXID: SPDXRef-item2623453
+FileChecksum: SHA1: 81c9dab9873f94c692c0096dc5ef2f69caf94efb
+FileChecksum: SHA256: 18ca0492320cb4597f446a572665157370aba879bd685a630cead24aa5e83bcd
+FileChecksum: MD5: 551d0c9033599a546fa6fad6606ab7b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/file/Image.yaml
+SPDXID: SPDXRef-item2623454
+FileChecksum: SHA1: 2d787493f6ab8961757b9d384393d3525286b2a9
+FileChecksum: SHA256: d541baea7c49018030e75317baa4fa7569fb47420509af7bee9866335b010ccc
+FileChecksum: MD5: 9d9b750b0c3de3417a63bb6de61d18fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/file/File.yaml
+SPDXID: SPDXRef-item2623455
+FileChecksum: SHA1: 37dbf5cb8d27a34bfce6be1bec70d67e4038acdb
+FileChecksum: SHA256: 851a386bc53be4af6b197fa6a70535afd3bed2e9fe712e6bc2676fcdc12a38e8
+FileChecksum: MD5: 70c3287a322ed8e26b62b14f0f2b8e01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/file/PointCloudBin.yaml
+SPDXID: SPDXRef-item2623456
+FileChecksum: SHA1: 5bfda88aa1f01ed4e2172a5845788fe2c571efd0
+FileChecksum: SHA256: 20bd19a94a7c07ec9931c2ad22d0e1f7c5ac68926e145734600828a6312fa784
+FileChecksum: MD5: 46130c3f7dbf88a857d9d1146b7eaf16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/file/RemoteFile.yaml
+SPDXID: SPDXRef-item2623457
+FileChecksum: SHA1: 2be719b5d734c59bb839b7485c5e1724dbf79c0c
+FileChecksum: SHA256: 8695f806756155c81511346d13515c7c3acc5200dcc885c7b73ca364c751c824
+FileChecksum: MD5: d15234112012d8b26b0498eebde43586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/file/Audio.yaml
+SPDXID: SPDXRef-item2623458
+FileChecksum: SHA1: 2e1b15b4469c38f2308ba867f20f70dd2c5ecfb9
+FileChecksum: SHA256: ca7abf82a7a810415152452446dee794f7142be61de8ed4328fc6bb018c6ed94
+FileChecksum: MD5: c93a57043fb56ee1f7cc77295dba73af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/MultiPolygon.yaml
+SPDXID: SPDXRef-item2623460
+FileChecksum: SHA1: 320e3dcabc04716afc31df5fea2eaf5c3602b0f2
+FileChecksum: SHA256: cbed25c3e5ffac8780a0cbd51d509e384a97d20d165094c5fcc13b25c3c18e79
+FileChecksum: MD5: 4af06452776c3bc2fb421b2503d17c53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Polyline2D.yaml
+SPDXID: SPDXRef-item2623461
+FileChecksum: SHA1: 5ac73eb74c0c5c65b4c047771052fa3c7a8604fd
+FileChecksum: SHA256: e892cfb0e636546cf3c3e1e9aed7c10977139dd3de7b4b688d392e50fe49127a
+FileChecksum: MD5: 74b29c5d1e3db299d99ca3524df5a020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Polygon.yaml
+SPDXID: SPDXRef-item2623462
+FileChecksum: SHA1: 5ac73eb74c0c5c65b4c047771052fa3c7a8604fd
+FileChecksum: SHA256: e892cfb0e636546cf3c3e1e9aed7c10977139dd3de7b4b688d392e50fe49127a
+FileChecksum: MD5: 74b29c5d1e3db299d99ca3524df5a020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Box3D.yaml
+SPDXID: SPDXRef-item2623463
+FileChecksum: SHA1: fe392648aa6ffd5e1620a18d0bde93b901667c56
+FileChecksum: SHA256: 02d3f13caf4ba903f6da7361ab8d270325e06327a26fbfada5ae818003ee10d6
+FileChecksum: MD5: be9d5a60072a750cef51ab0c0baa37ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Category.yaml
+SPDXID: SPDXRef-item2623464
+FileChecksum: SHA1: 11ee808fa93aba3fa907650c30481c0031d68504
+FileChecksum: SHA256: 131e1fd6142f88b93c4c5b6c90d278f008f70805e5104727ffcbcb10c409e342
+FileChecksum: MD5: 8c62d5bf8873536da1b488d62210b578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/_Label.yaml
+SPDXID: SPDXRef-item2623465
+FileChecksum: SHA1: 73e86ea1a7f6d2b1457a97c21c3cb187ef1966e9
+FileChecksum: SHA256: 99eec57d69434c541aacb6ea4cddffee7b41742f6f1b270b9d3f312a54a8713b
+FileChecksum: MD5: 89fc932e78463628be4f120e51c902fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Caption.yaml
+SPDXID: SPDXRef-item2623466
+FileChecksum: SHA1: bbe4908a0355d4d19bf3e48844906d378ed7410d
+FileChecksum: SHA256: 7080f917c2c719990b462e2b82723e244f8d7acf42bd86ddd20b15d7f3c87a49
+FileChecksum: MD5: 49e3b718df9eba9e42949435da75ff44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Keypoints2D.yaml
+SPDXID: SPDXRef-item2623467
+FileChecksum: SHA1: f2852456cb18a46b4dd66b97354511758627a865
+FileChecksum: SHA256: f7ea181a9c15766425ae4c3a8550567b73c7e3fc602241f1421de79b8d8a87a6
+FileChecksum: MD5: c0a5e076004fc762017a1c75669d3bdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Box2D.yaml
+SPDXID: SPDXRef-item2623468
+FileChecksum: SHA1: 7eb2f57f8463b9c84b0af7828ba8d731d334d22a
+FileChecksum: SHA256: 5f45b53cbfa1645c733cda1f767bee8a07cd48889da833e4e6830907ba31b5d6
+FileChecksum: MD5: 6989f402f7eb3e5d9ecbc1680d87107e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/RLE.yaml
+SPDXID: SPDXRef-item2623469
+FileChecksum: SHA1: 80ef891c9be59a7ea33f90b5a4ccca472fb34325
+FileChecksum: SHA256: 9fae2ea18de06efbb3406193fcfa3f3804eb0bcaa0a6f0439cdb14ce6b2454e5
+FileChecksum: MD5: 8cdc113a38d4e3f0701293dde7696feb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/file/InstanceMask.yaml
+SPDXID: SPDXRef-item2623471
+FileChecksum: SHA1: 25149d27e601a41fbd881ab62c2e833ee0d4e96d
+FileChecksum: SHA256: 884f32737065feb46fd56078764cfaf7553a795e131d765ea05275021a2b233d
+FileChecksum: MD5: 6e7a1e808a44f28cd6bbe4c63d826133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/file/RemoteInstanceMask.yaml
+SPDXID: SPDXRef-item2623472
+FileChecksum: SHA1: 761efeda52a6f50b0f04ba2c327555d27bd1a394
+FileChecksum: SHA256: ef26fe897e223d571b323bfc95ffcd28d45569ba2fab83375641aabef07b85e4
+FileChecksum: MD5: e52711f49056c06c3b974e44c6b7ea4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/file/PanopticMask.yaml
+SPDXID: SPDXRef-item2623473
+FileChecksum: SHA1: b2fba93f51d633a7f520f1d65f78f26e02544c2d
+FileChecksum: SHA256: 3dc74f4c644222da005eb1318a6fda805a6757a81cc96f020c7efdd10580a6db
+FileChecksum: MD5: 56f8117326f6c31445cd527bd319f7a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/file/SemanticMask.yaml
+SPDXID: SPDXRef-item2623474
+FileChecksum: SHA1: 4684a200a7e1e9a7d5f29abef64e90296fb4719c
+FileChecksum: SHA256: 31d63a767ce5368311fd3538b3a5ee47bb3006e050a88f2315c17c53be4536e8
+FileChecksum: MD5: 2fe8dec2e72133f9cb2d8c0219416da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/file/RemoteSemanticMask.yaml
+SPDXID: SPDXRef-item2623475
+FileChecksum: SHA1: 8e72298ffb4082d9335e41a8b472209bd0d498ef
+FileChecksum: SHA256: 3c904bdec4943915c16aa2848814a9c20b1c4b27918efe3cab40ebd713e6193a
+FileChecksum: MD5: 75be45fcc3ed409179e8fe8834d520a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Attribute.yaml
+SPDXID: SPDXRef-item2623476
+FileChecksum: SHA1: bd332a623b05fdb43ad0d12f9ad49e04a56dbd70
+FileChecksum: SHA256: 4f63f285533cade56c68c13a30e7102d49751f94c1a639abd43d7d9aa528f8e4
+FileChecksum: MD5: f21ad156f10c40b923fe919a96938ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/MultiPolyline2D.yaml
+SPDXID: SPDXRef-item2623477
+FileChecksum: SHA1: 60bf41f88772800e7a41fdcc6fff2502282203be
+FileChecksum: SHA256: 1b70bd950bce56895f32a02e54d3434e4017fa06e5093018c4ac2b3889f74b9e
+FileChecksum: MD5: 06bf37b1a80f1a9bd4cbe11bab7ce9d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/Sentence.yaml
+SPDXID: SPDXRef-item2623478
+FileChecksum: SHA1: 1002e1ff96b467ec1e3623ccfadf1dd62c28058a
+FileChecksum: SHA256: 985d89b961e5297ae5740f8bf0b29a5a85c7b948376325470a7fcc424739788c
+FileChecksum: MD5: b064621c19aaab39c9a8d2f4641b93d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/tensor/InstanceMask.yaml
+SPDXID: SPDXRef-item2623480
+FileChecksum: SHA1: d5ce1e518c66777321ef58aa6b0d59686174d303
+FileChecksum: SHA256: 8924e8015229030681525ec00fe0d9a20a6e4f209ce689d34ad544ca34a33daf
+FileChecksum: MD5: 1a869e7111fd700e438ece1ee8593e08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/tensor/PanopticMask.yaml
+SPDXID: SPDXRef-item2623481
+FileChecksum: SHA1: e756fd095121bdff40076ef1b679805d5942e58b
+FileChecksum: SHA256: e5bb63364bed9bf268e6743b8f757c6bd19478e557c711f12de50ad17c29fb28
+FileChecksum: MD5: 9347ca66c426538f51b379342c3abc35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/label/tensor/SemanticMask.yaml
+SPDXID: SPDXRef-item2623482
+FileChecksum: SHA1: 0c3fda399459190981ce590a64a171669eb3a4b6
+FileChecksum: SHA256: 8b721942345e01ba63e2a67f31d2529f6cda10dced35f792dff1680c5aa85c2b
+FileChecksum: MD5: f608a6fe3781fded56ef664fbd62e444
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/geometry/Vector2D.yaml
+SPDXID: SPDXRef-item2623484
+FileChecksum: SHA1: 6547d442dbcfdb5d08e7d07d01008f90551cec6b
+FileChecksum: SHA256: d31af9e9d992cd8391a32f68f64a7ddbd74d702a4584739a0f114c150a8854ae
+FileChecksum: MD5: 1a37fc1e112376d66a33eb5ad2374a7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/geometry/Quaternion.yaml
+SPDXID: SPDXRef-item2623485
+FileChecksum: SHA1: e5f1f6f790aea8389453db36e5f21a027bddce0d
+FileChecksum: SHA256: b7e9683ce2b1927ee3b0b9a27a03f51ddfa1a2cdbbfb10d60d38642c93e304a8
+FileChecksum: MD5: 3e0c2af647defb5ed00bc93eab9a8066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/geometry/Keypoint2D.yaml
+SPDXID: SPDXRef-item2623486
+FileChecksum: SHA1: db31faed9dc1ef3109293910f04333e0ee75fc76
+FileChecksum: SHA256: e2a482aa7dbd9167a14f9249a9258e08e9e461af1ce59b27b1db78b3adab235a
+FileChecksum: MD5: 01e60d1381b7f519b72b121996a9aadc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/geometry/PointList2D.yaml
+SPDXID: SPDXRef-item2623487
+FileChecksum: SHA1: 0501d0f1baeb705327fbf5729caeaa6aa42d971c
+FileChecksum: SHA256: 7997b88fd72e00d664adfb1a24eb3c6933ff83e8ed06e2f46fb0deaec1dc7f73
+FileChecksum: MD5: 37fc704fb42077018e77974b6a113fad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/geometry/Vector3D.yaml
+SPDXID: SPDXRef-item2623488
+FileChecksum: SHA1: 2b456e384d4f6ecadce1de24889e45d096159579
+FileChecksum: SHA256: 747edd7d7fb8cdf8fdf4b45e44a47859c603e7bb44e65dc0cbdb1bb1ed6b74bc
+FileChecksum: MD5: 3f56c16abe5ccd3427ab5c911820eece
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/calibration/Extrinsic.yaml
+SPDXID: SPDXRef-item2623490
+FileChecksum: SHA1: 73f1727bedf5808fa28a3aef8c847e4dc9a08c40
+FileChecksum: SHA256: ef9cf150996a7f7136f24579bdd510f1ca7d0e583f4e36c237cdb6ea130ba12c
+FileChecksum: MD5: 6089a2a6617d6b55b1cdde156d15175e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/calibration/Intrinsic.yaml
+SPDXID: SPDXRef-item2623491
+FileChecksum: SHA1: 7fc2b5256ae6830bebaa7ff8f4e86620fc23fd3b
+FileChecksum: SHA256: d6dde717e6ebdddcf76222dc2b9904a6ebc76ddd2445fbbd3a49421bf37c549c
+FileChecksum: MD5: d881f6df04b05dc7330eb677f99597d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/standard/tensor/Image.yaml
+SPDXID: SPDXRef-item2623493
+FileChecksum: SHA1: 9aeaa3a736e09a5c502a1d830e8b0c3f497645b5
+FileChecksum: SHA256: 5a8940f06206744efd580501667985bd4bf1f7a2256e669066eec0325420c054
+FileChecksum: MD5: 09006d2bf25e8e2e7a6e9a26ee01a9e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/README.md
+SPDXID: SPDXRef-item2623494
+FileChecksum: SHA1: d2c9656577b3ecf38b8b59d5d6a882fc29ce66f8
+FileChecksum: SHA256: 86ecb96a716c7d3edf501c60800f6ecfc90048158b2a4a6ed35c86106487960c
+FileChecksum: MD5: 33bd71eb52a67a390f054f1f8b9e804e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/KITTIObject.yaml
+SPDXID: SPDXRef-item2623496
+FileChecksum: SHA1: a1fe38ef48b5d6da944a94d184e8a7ba483c1818
+FileChecksum: SHA256: bed7f41dccecffea04b80fe7f22d75819c3e4069b180900fb2f00467a3a9c9dc
+FileChecksum: MD5: 6815a8bd3fc8abac3a785e5caaa93271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/MNIST.yaml
+SPDXID: SPDXRef-item2623497
+FileChecksum: SHA1: 6ae8f9da3e571023809df342e1b76d4b78e61e5f
+FileChecksum: SHA256: 7b0bf6bb1e03624572e4a8ee92d8280b2b356106b71c9c3cafc69d1a99880ae4
+FileChecksum: MD5: 7ac4ab42543c6fc619949e50475aa53b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/COCO2017.yaml
+SPDXID: SPDXRef-item2623498
+FileChecksum: SHA1: 959c8db8806c9e3e3bcaa45c1f7885c5ff816f78
+FileChecksum: SHA256: c2475bd126d539547a6215eb7a000a9c147fbc10cd55d71d293dbeb0a113d19e
+FileChecksum: MD5: 1b36ff83d2eed407cf5b6a62c83d36c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/BioIDFace.yaml
+SPDXID: SPDXRef-item2623499
+FileChecksum: SHA1: 13a8a46221dd4b3edb768b224a288859c87472f0
+FileChecksum: SHA256: 19e91fa28712d7bf2c4ba9b4cd5bb3d58b1911fe6ed6875a7ac645858373a613
+FileChecksum: MD5: ac1439a9de8b5b3fed13a15ea2e2bd9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/VOC2012Segmentation.yaml
+SPDXID: SPDXRef-item2623500
+FileChecksum: SHA1: bd82cade3bd9a5ff11b44db4a29d17ff423719d4
+FileChecksum: SHA256: 5112354b10989e3dd66195cf0b31c9502049cca0470b4f35e8313dfbaaa41712
+FileChecksum: MD5: c4d4274bef7a416bf9fbc20bfa7a52fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/Argoverse.yaml
+SPDXID: SPDXRef-item2623501
+FileChecksum: SHA1: 1a6b24f311b106403adb10cf489d283969fb4467
+FileChecksum: SHA256: 9869d55c5e5d44eb3d4a1384bf7f26b1c39e1430974d6fea119dbfd2f084f708
+FileChecksum: MD5: 33e986b251fc6f0fbaca26bd5cc45649
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/DownsampledImagenet.yaml
+SPDXID: SPDXRef-item2623502
+FileChecksum: SHA1: 21910d990f72f0cf0157af33477c45fc25c9114e
+FileChecksum: SHA256: 027eca38ca895d00aa2c60e085a39f982136f06a51ffc8e0c99b7ce50edb3435
+FileChecksum: MD5: 9d111bba7982dac5f3c07ed2f6fade87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/nuImages.yaml
+SPDXID: SPDXRef-item2623503
+FileChecksum: SHA1: 6f3dcd24937577282205e2bd2d7d7f165d50bcac
+FileChecksum: SHA256: bea559fdd1287a137c543a59c9e80575b15843cf83279772a2b1168927a2aab2
+FileChecksum: MD5: cc604abff7689aa8f7eebb9b91e7d972
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/DogVsCat.yaml
+SPDXID: SPDXRef-item2623504
+FileChecksum: SHA1: ec5073a1bdf6540d2811708c3b2cca404aea3a91
+FileChecksum: SHA256: 9c6a4941641a5029acc5ea99a3aef43d1da723be2cedb1ad1276b64726a32ee9
+FileChecksum: MD5: 6d196a0c1acaac6af5408496a76dd112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/BDD100K.yaml
+SPDXID: SPDXRef-item2623505
+FileChecksum: SHA1: 7c09ee26473fb5164dbf193bcbd07bab911316fe
+FileChecksum: SHA256: 7821e1c027fb99a506188f2696849e7161a5b553ae7a05c82344ef13f53cd377
+FileChecksum: MD5: 0a5b872a61a7ddc8bfbcc4e2efa4481e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/VOC2012Detection.yaml
+SPDXID: SPDXRef-item2623506
+FileChecksum: SHA1: 8c50c5e95cbff2e6d61c2bcc97bdb18f7567eb21
+FileChecksum: SHA256: 36c6cdb1eab2d5df2e4c83889de656bde677e82af450f8f43afdb4638dab395d
+FileChecksum: MD5: 3b4d4e5fd1e7845e7a14cd89d6c696d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/OxfordIIITPet.yaml
+SPDXID: SPDXRef-item2623507
+FileChecksum: SHA1: 0de376cca2109a63a3ed1802db00c69159b4100e
+FileChecksum: SHA256: 01d8b343280b64b481a8eb52843d339eedc49bc08f43c0575681463526392233
+FileChecksum: MD5: a69ab1f3d10a413043698fcd2388561f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/LeedsSportsPose.yaml
+SPDXID: SPDXRef-item2623508
+FileChecksum: SHA1: 620bb4d2916519b24f60e2c5991a7c4bb710df87
+FileChecksum: SHA256: e10c1c6654d90cd482638de8e2b79733a51e82e7a5f3e9a1654aa88445cba3a6
+FileChecksum: MD5: 40fcdc49033861e5ec643fc4cd47eb5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex-standard/example/nuScenes.yaml
+SPDXID: SPDXRef-item2623509
+FileChecksum: SHA1: 3864d7a0abc273cb8d9271f64ba47dd57090146d
+FileChecksum: SHA256: ba0f2b798c2dd0119fd7db75eac3f3b0615c43871c6b055173f82c8e61bcf20f
+FileChecksum: MD5: 16f202dcb32aedfbf61e6e5137587089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/Makefile
+SPDXID: SPDXRef-item2623512
+FileChecksum: SHA1: 2be856df3072a41f2d96bfb2c33ccf896dd30d82
+FileChecksum: SHA256: e33bf74d59130029ba24168a813112dd923d7044d780ce942db6645d93f56acf
+FileChecksum: MD5: 45ecc4dd568420521f285e291939ecf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/index.rst
+SPDXID: SPDXRef-item2623514
+FileChecksum: SHA1: 19237a0912689b627ed0b48ba54287820b45d068
+FileChecksum: SHA256: 60efbd8aa6b90ef3af1bd823a682c93ed85542941ee4beea6b6f1c6e8b1c34df
+FileChecksum: MD5: e07bcd373317e18e1f00b4395a99611b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/complex_types/enum.rst
+SPDXID: SPDXRef-item2623517
+FileChecksum: SHA1: cb4decedc68f42ed02b9e004749ff671918993f6
+FileChecksum: SHA256: 8ac04cf619d393f7d4ef7d892495d6b2ae89a136234e7b56c61998d394c55275
+FileChecksum: MD5: d939c28285c40fb831af509393fafdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/complex_types/index.rst
+SPDXID: SPDXRef-item2623518
+FileChecksum: SHA1: c8c306c4a13365cd602e697ddb63050b3f2cead0
+FileChecksum: SHA256: ffcd95f28b4355b69aa9158071a9fb465b8fc4d4d520c5417aa610217adfee56
+FileChecksum: MD5: 52364471e72e5430d84744ed6815ac1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/complex_types/array.rst
+SPDXID: SPDXRef-item2623519
+FileChecksum: SHA1: f4b9398051395f8b1cf943bd333933558e1c15c9
+FileChecksum: SHA256: 4ea6d6c974eeb1e955704b9357805114d1fa0f27677a34a68a1d43bbbb347c06
+FileChecksum: MD5: 0c1feb75d12ba0a387bac382b0ce1238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/complex_types/tensor.rst
+SPDXID: SPDXRef-item2623520
+FileChecksum: SHA1: ff85a31532f0f64c2993a65b48d81fe2528cf917
+FileChecksum: SHA256: 8f1c91e302fc63edbc6c77cce8a585453824606c93e96540ef37aa03afc574db
+FileChecksum: MD5: 65f5abc8058b0b330c784e81c1e4b4d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/complex_types/record.rst
+SPDXID: SPDXRef-item2623521
+FileChecksum: SHA1: d5e89b1e62e20c16dd68b138bfc552140ab180fa
+FileChecksum: SHA256: f8914584bdf2518060c7339d5a5aee3d4935d2d61a374e036531356d1803f356
+FileChecksum: MD5: dce17d788bfa015e7efddc22bda0bdcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/basic_syntax.rst
+SPDXID: SPDXRef-item2623522
+FileChecksum: SHA1: 1981e41d918ad03e7c303984858c25107046e5ea
+FileChecksum: SHA256: 4d17af063c756e0545fde2732288be95bc64dcb0ff3406a9bae141205d5613b5
+FileChecksum: MD5: 51ded1215f12ba2837325fb795e9f0bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/template_type.rst
+SPDXID: SPDXRef-item2623523
+FileChecksum: SHA1: d779b19171c159bc0ed76c0d70b7a112af42c3b5
+FileChecksum: SHA256: d8f47c3311c7cd3062c869c41662a3ff2d52ceea30d838e1e0ee32aa8d38cdca
+FileChecksum: MD5: 59ea2a6ca6310b0e5a83c2c15efc39e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/primitive_types.rst
+SPDXID: SPDXRef-item2623524
+FileChecksum: SHA1: c58df80b64e346dea77588103047c28ab5677172
+FileChecksum: SHA256: afea5dd79e3455f2efb2dab80451066ae4323532052dfedaeef4525b6cc8e28c
+FileChecksum: MD5: a7c5f1d021895a0049895e8b8a1f7007
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/schema/type_import.rst
+SPDXID: SPDXRef-item2623525
+FileChecksum: SHA1: 22a6e8e4b91a695df992a56414b4e3a50a1476a6
+FileChecksum: SHA256: a109f97f2c15a170a37c20f3e43c65e9e868148d33673d1abb5c4d09eaf7c8cb
+FileChecksum: MD5: e34d16527d3cac7964c3b3a9a7c62bfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/_static/style.css
+SPDXID: SPDXRef-item2623527
+FileChecksum: SHA1: a063f07dcfec9431735da1bf7cdbe56668f1516a
+FileChecksum: SHA256: d950452b0a5fcaeddd4366da50ba1fd2545f6e6f272a47aaffba351c0a301746
+FileChecksum: MD5: ebf3a0736df6f0649e03d9190fdc7970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/docs/source/conf.py
+SPDXID: SPDXRef-item2623528
+FileChecksum: SHA1: 8ee1ba99bad343fdbe033a5bf2291c9641a1f06e
+FileChecksum: SHA256: 6326a9c15ab5a2bc32cc521612656dbb4b4dd798cbb9a624468af80ee5d4c44f
+FileChecksum: MD5: c0e145c944528052d5179b7a6a5891d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/CONTRIBUTING.md
+SPDXID: SPDXRef-item2623530
+FileChecksum: SHA1: 6c89cd53dbb24ec7f521adba1c2f60e999a89f99
+FileChecksum: SHA256: 4bb34b3e383f372244a0508f3770904014ad428666f5403f096178ef881428d7
+FileChecksum: MD5: ac08cd1dafc3d2bf0cb569cd94b0b320
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/.gitignore
+SPDXID: SPDXRef-item2623534
+FileChecksum: SHA1: b631f2309e68ef3414a77d3005ae3e870a477d07
+FileChecksum: SHA256: 79b6f8054f8ef5e9e78c18174bf57caf29b11410166b9268d6923e87520eb88f
+FileChecksum: MD5: 6482f9d8254f7f75af96c66a09031e65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/.readthedocs.yaml
+SPDXID: SPDXRef-item2623536
+FileChecksum: SHA1: 0f099270cdb6dfe1543fe58a69a133e0feff43a1
+FileChecksum: SHA256: 338eb7f1b9678cb88495efcdca9b25a7b4682cf4bbb1192e142e77f32e2113fb
+FileChecksum: MD5: 6a50b30620391e8f45ce878627a9953d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/README.md
+SPDXID: SPDXRef-item2623537
+FileChecksum: SHA1: 0fb1d3a0cfcee3ed4acec4d891275120b6cd3776
+FileChecksum: SHA256: 7181cb55f24bedeb83530ecc109a575784f564514bd4f77d0b16cb09facc847e
+FileChecksum: MD5: f1392d63f52ada46a95ec2c402e4804b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: Project-OpenBytes-2022-08-08.zip/portex/.markdownlint.json
+SPDXID: SPDXRef-item2623538
+FileChecksum: SHA1: a65f56019690fc47db94ad3efa9ec252ac6c8b47
+FileChecksum: SHA256: c6774b161a1e98759e912f9b5af444978b6d9be78bb9a07436875fd6cf31ec13
+FileChecksum: MD5: bc2aa07348ae8578d20493989c2995db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
