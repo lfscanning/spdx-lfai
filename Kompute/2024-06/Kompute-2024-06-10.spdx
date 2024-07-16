@@ -1,0 +1,3333 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_KomputeProject-2024-06-10.zip_1719886299.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-07-02T02:11:39Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: KomputeProject-2024-06-10.zip
+PackageFileName: KomputeProject-2024-06-10.zip
+SPDXID: SPDXRef-upload1363
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 409b6b1c62a6eaaf00a3129f04edee1ab669c03f
+PackageChecksum: SHA1: c24e9d80fca3fe399a179737336f6fd68aac15a8
+PackageChecksum: SHA256: cf29d42808a208c415d45ddc48c5059a11da583f75d6938852f98f0c6024028b
+PackageChecksum: MD5: 382ee7569dcd79f5b44321d08be72e18
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1363
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/external/bin/xxd.c
+SPDXID: SPDXRef-item9165492
+FileChecksum: SHA1: 785a1cb741413efc0549f89730c8c9013a68f2d2
+FileChecksum: SHA256: 71f166843366cea9b6da155a14ecee92ac7f5ec9117facd552c3e1d348e1aca4
+FileChecksum: MD5: 6887b19dca032a80c8fc4ca78e9eacaf
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-xxd
+FileCopyrightText: <text> (c) 1990-1998 by Juergen Weigert (jnweiger@informatik.uni-erlangen.de) </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/bin2h.cmake
+SPDXID: SPDXRef-item9165142
+FileChecksum: SHA1: 96b15317365dd6d5425d245cf58ca2525c7e7910
+FileChecksum: SHA256: fdaa01279fd9ac7715323b50f7ecb88b7e3c6bdc634862737a1d0085f2e094c0
+FileChecksum: MD5: a5b9781d0ed0b2054afe0615efa49539
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2020 Sivachandran Paramasivam </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/Algorithm.cpp
+SPDXID: SPDXRef-item9165247
+FileChecksum: SHA1: de557e8d6369145734c32c438512a9a705434200
+FileChecksum: SHA256: 5bb273d3a5cae1963e1431882bd38c5c4332db5657b2b6bec740706da808f537
+FileChecksum: MD5: 61c5b5ac5fe6733e5686d21911319686
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/Algorithm.hpp
+SPDXID: SPDXRef-item9165231
+FileChecksum: SHA1: 51bcb9756f15289d3770e3e44403d6dbf1255056
+FileChecksum: SHA256: 7a037891dfdab79c421234ccedf5d4f546430e81078296b27e8f42d402d1b22e
+FileChecksum: MD5: 1f3c02ee95c42785a1906a366233f30b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/benchmark/CMakeLists.txt
+SPDXID: SPDXRef-item9165469
+FileChecksum: SHA1: 3bbc98b72d1eda6718ed97eef9fc9ea5b53c485d
+FileChecksum: SHA256: 25c56aa3470eac30c73c53820af1011f7fc0faaccc096c90f2007dce31316b9a
+FileChecksum: MD5: cbea66ba51f97752b155d7b13255d225
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/CMakeLists.txt
+SPDXID: SPDXRef-item9165455
+FileChecksum: SHA1: 16b0fcc536a2942face836324a3140619a9639d5
+FileChecksum: SHA256: e06436aa5d15732ffa683d6a3c0e3c54abaf7d227ba40c5f274f357b93ff5cfb
+FileChecksum: MD5: 570d4599afdb858a5acb697509eef67a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/CMakeLists.txt
+SPDXID: SPDXRef-item9165244
+FileChecksum: SHA1: 12551d1544883590009402eac05958cf7f5373b8
+FileChecksum: SHA256: f3a208e3d187ba64aad8ab8c5ec87e62b6eed8b9a8ca609a297d422a2e9fc4bb
+FileChecksum: MD5: 525a360ae78ff1cdbd8e5e1688676b35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/CMakeLists.txt
+SPDXID: SPDXRef-item9165454
+FileChecksum: SHA1: b76d4f474e3b27f2700cc832b0a34cc3a812ab8d
+FileChecksum: SHA256: ee81433abd905205d0de23a717957a5dffa10d566394f66b60c7ea80ea83231d
+FileChecksum: MD5: 4093ae9dbb51ee8ba0e56bc3ad98b206
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/benchmark/shaders/CMakeLists.txt
+SPDXID: SPDXRef-item9165468
+FileChecksum: SHA1: 78dccd84ce13fdd68651c233edd4dc0596f92c3f
+FileChecksum: SHA256: 901af0a468f8e4408f64dd17cc62594a5dd109fac4024cac3c4eced6ff46d17c
+FileChecksum: MD5: e7410feb74f6a223acc628997f2c1778
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/glsl/CMakeLists.txt
+SPDXID: SPDXRef-item9165241
+FileChecksum: SHA1: c9ab6af27ef20f962e65ac175f525bb07cf42118
+FileChecksum: SHA256: 5e7c686953d3bb4b54312447f6bdf9b1ec52c8ad0943efeeffb02e61007d91ef
+FileChecksum: MD5: 94a4b141097808489928ca423b32b0e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/CMakeLists.txt
+SPDXID: SPDXRef-item9165245
+FileChecksum: SHA1: 72cb8755420a86e194a6cfc24df58313435a2eba
+FileChecksum: SHA256: a859f94f0a56cf6abf4372e5ba0e18213c6d78882130081d6ee66d556f25e19a
+FileChecksum: MD5: 9071d98f946f8f6d0296a8b5ba0c3227
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/glsl/CMakeLists.txt
+SPDXID: SPDXRef-item9165449
+FileChecksum: SHA1: b10470f84ca830823a9ebcfb4ac5d42b62562cd7
+FileChecksum: SHA256: de05954a45348b49354190d5fd2fc8940f96f66af1e26cace7e0a4f4f8a4069a
+FileChecksum: MD5: f15a6cdbe2c0e067b6d8b4f06940a925
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/CMakeLists.txt
+SPDXID: SPDXRef-item9165482
+FileChecksum: SHA1: dd4c7716e4da4d7f99e16d9c86b906d1d5380cc2
+FileChecksum: SHA256: 29ba25be910d3a010dd78fb910582bf4a9113abc651fe74746ca68271185da2f
+FileChecksum: MD5: 16c3d54c21cb3ef68ffaccb043a65718
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/Core.cpp
+SPDXID: SPDXRef-item9165209
+FileChecksum: SHA1: 6eac159f483842ec0051c9994a2fbe73c333911f
+FileChecksum: SHA256: a7486108062b11ddf550451db22a9ea5b0b6b5a7858bd41b379b749e680a3b46
+FileChecksum: MD5: 13739cd1cc8a16683ca82e09700eee62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/Core.hpp
+SPDXID: SPDXRef-item9165220
+FileChecksum: SHA1: c281cac2226779c5f59f783c812b641127e9f2b8
+FileChecksum: SHA256: f86b3bb9422f9238bc23d915d5253d8d2e31b849a35492edff62d661235824c0
+FileChecksum: MD5: 81f2e4d877f27b29baa7b43ac288d373
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/cpp/KomputeJniNative.cpp
+SPDXID: SPDXRef-item9165278
+FileChecksum: SHA1: dfcc55742858170217be113e19f417c97c261764
+FileChecksum: SHA256: 71bb9efe9a22e75234aacbe71f52c053ad0f93b651324c9b7c445e228a641aed
+FileChecksum: MD5: 6b4befe28cc4e203a9f2201d2e588645
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Google Inc. All Rights Reserved. </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/LICENSE
+SPDXID: SPDXRef-item9165204
+FileChecksum: SHA1: 6912bc3dbfd2b6d2f427a12f094f7c5ea0d43b57
+FileChecksum: SHA256: f84dfb6c4373405448328b47407e77b98f74539b56c531e88297d7530ea84e2f
+FileChecksum: MD5: e450f4c9f8b6f87e50024ce55235ee09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2021 The Institute for Ethical AI & Machine Learning </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/Manager.cpp
+SPDXID: SPDXRef-item9165213
+FileChecksum: SHA1: f0f0f1ec98d199f3610d61febb18bdc44b758802
+FileChecksum: SHA256: 197b253e729b83d8537b93f9b1115334d413991428b0adbca561a47d5d30e1e3
+FileChecksum: MD5: 876bdc249d2712071779f410048887ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/Manager.hpp
+SPDXID: SPDXRef-item9165217
+FileChecksum: SHA1: bb8ac9812e17f59d1cffbe4a445696e2cf3179d1
+FileChecksum: SHA256: e1835e4a85c37b4ac5c81cc227b09dd17fd23be617a979f75bc4e05d0a282996
+FileChecksum: MD5: aa62cc9d7ac27852030cb415f5314cf6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/OpAlgoDispatch.cpp
+SPDXID: SPDXRef-item9165211
+FileChecksum: SHA1: de6519cc53793d562f22d18353505df948c7d4a2
+FileChecksum: SHA256: 93e0e868d49bce3220d55cfd8c277f6818d8301f5b5f06b965acff39421e94cc
+FileChecksum: MD5: 792cb4ba73688e280bba1e4b18d91ff3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpAlgoDispatch.hpp
+SPDXID: SPDXRef-item9165226
+FileChecksum: SHA1: c45148aabedd6294d480905d707fe75720f65b9b
+FileChecksum: SHA256: 6b7289e90bda36d13d3a6f5e7bef553f49b94fa84ac047005635170574241315
+FileChecksum: MD5: d95622e2fb1bf0ba4ecaf6725a0fd25c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpBase.hpp
+SPDXID: SPDXRef-item9165230
+FileChecksum: SHA1: 0374e893912c2fe023655968401fb07eab6ee7d1
+FileChecksum: SHA256: 7abeb1eff4d39c1722dfae4b1955662a0f1f69fe9c1cdad6637ee36b9691c29b
+FileChecksum: MD5: b707c2c0d3b464383ed9439890548278
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/OpMemoryBarrier.cpp
+SPDXID: SPDXRef-item9165212
+FileChecksum: SHA1: 0331a4b066ce36db19903d8d40a7ce9e2d63be99
+FileChecksum: SHA256: ef66cf0a1239f779be9829522c9fa95a2ae2cb13d00823784376f0d16ffd6b37
+FileChecksum: MD5: 4a462a0d1f4b394beb8b5cffffa127d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpMemoryBarrier.hpp
+SPDXID: SPDXRef-item9165227
+FileChecksum: SHA1: 787ebf72934f6507967f28c22bd97fa0891a7a9d
+FileChecksum: SHA256: 66a425b26371c1b763dd74e6d75e73b3d180199de73d9e326e54719d8cc73ddc
+FileChecksum: MD5: 2ffe74ccad0902c8b91fbf82f8f2db2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpMult.hpp
+SPDXID: SPDXRef-item9165229
+FileChecksum: SHA1: 60fba55e18f00dd8647a7e9b8ece500e8c513a6a
+FileChecksum: SHA256: 79ff5d37bfa61d5ebc9de44f4dc4f83a969d0564f6c9691106fb50d9597cec6e
+FileChecksum: MD5: 276e725f750e7f915b06b3ca76f556ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/OpTensorCopy.cpp
+SPDXID: SPDXRef-item9165234
+FileChecksum: SHA1: 5aef4458413a53909293314c50d76df67296df07
+FileChecksum: SHA256: b5a52eafe630f53592e6e6243374856ed3e40d2014aad3b010bc054cec305d1e
+FileChecksum: MD5: eab3151d0e7677a883834cbe977dc5a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpTensorCopy.hpp
+SPDXID: SPDXRef-item9165228
+FileChecksum: SHA1: 8af4df5f185b387c464920dfc9048de681276f35
+FileChecksum: SHA256: a9945b5ba2902b514e1c75c54558222fa89b3d0bad30d416051abd20c264d601
+FileChecksum: MD5: c1292a1475fc182e66a2aba45406fa5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/OpTensorSyncDevice.cpp
+SPDXID: SPDXRef-item9165233
+FileChecksum: SHA1: 4116ae0dfbab050a8cb552a3af36a159b0d0e13a
+FileChecksum: SHA256: a54b607d9384b7270af2e0123c6044a45e194658c6269e04f841cadcd0d3ef4f
+FileChecksum: MD5: f909d9b948304910df54f14e36f15cb4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpTensorSyncDevice.hpp
+SPDXID: SPDXRef-item9165225
+FileChecksum: SHA1: 187247f0e87fd711926a0974f6218efb0a453fa3
+FileChecksum: SHA256: 7862ba36a3e91abd872d988982607b1bd70569411af389b01260e4d951784708
+FileChecksum: MD5: 43bc0402afde05eaefb89502a7a4372f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/OpTensorSyncLocal.cpp
+SPDXID: SPDXRef-item9165210
+FileChecksum: SHA1: dd9b9f06a85c3cc7241a83e46bb3a50aedb7ad2c
+FileChecksum: SHA256: 2b6bb15d2239d7d15d439710d3d9bc21c07efc1d973d47bdd2779cf9d8966f98
+FileChecksum: MD5: 213dc3a6a1ab93685ea9368a73686b65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/operations/OpTensorSyncLocal.hpp
+SPDXID: SPDXRef-item9165224
+FileChecksum: SHA1: e5db187bb66b852db13de93b5c29f464a7364663
+FileChecksum: SHA256: fc15f9168e33fab4105379a6fe3dfe2bfa8c3ca47140fbf14f079c77ac77c635
+FileChecksum: MD5: 57a69020f3c46109c020cba6b0895091
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/Sequence.cpp
+SPDXID: SPDXRef-item9165251
+FileChecksum: SHA1: 5e9234831775136408646fbe583fe22e78696de0
+FileChecksum: SHA256: 171d147fdde4300ba3c2e96ad57c98fa02927ece59d15f57cbdf78e732fa92aa
+FileChecksum: MD5: d72cee7a17a340675ac9e2e27480d937
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/Sequence.hpp
+SPDXID: SPDXRef-item9165218
+FileChecksum: SHA1: 457265017ef597c2e756f0d749794b51deee1807
+FileChecksum: SHA256: 26b5229f8c5f5dc8483ca838c1e10cd186d864a97d22637581173cee8770380f
+FileChecksum: MD5: 35ed0a52f26d4da966732da2e40b3959
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/Tensor.cpp
+SPDXID: SPDXRef-item9165246
+FileChecksum: SHA1: 7f902e4277a5f1d1a4931d1d58cb4860b08bdfff
+FileChecksum: SHA256: 4836d1cf0026ff5dd925b8c8be53bacaabf134eaf3df2a54b210ab993a433a8b
+FileChecksum: MD5: cfbf98a6233b86a7229f483a38372681
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/Tensor.hpp
+SPDXID: SPDXRef-item9165219
+FileChecksum: SHA1: c4dd45eb344d5dd97111d7deb70e1935d6cd4679
+FileChecksum: SHA256: 275fdbd647a027ab99ce40983c556519d5115b39a68e01534a96dcb06d97cc72
+FileChecksum: MD5: 2384c776258723415f094ecbc5a412d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestAsyncOperations.cpp
+SPDXID: SPDXRef-item9165438
+FileChecksum: SHA1: bb5652a18f3dbbe0589deadb523991ad6e8d0af5
+FileChecksum: SHA256: 5838e51cf80297855985c485d387dbc8c036ed862b242aaa819c700b96e38fbd
+FileChecksum: MD5: c460567f82dd2f8a88093bb962ed852f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/benchmark/TestBenchmark.cpp
+SPDXID: SPDXRef-item9165464
+FileChecksum: SHA1: 5d5e9c2bd5ba974e576df699d131004eda039e13
+FileChecksum: SHA256: cde8898395b5bb0e852b39b2dc9e4369b003e4ccbccd6395bbaceae2bcb590df
+FileChecksum: MD5: 9b0f48260114100e53f661e5a0f1b05e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestDestroy.cpp
+SPDXID: SPDXRef-item9165440
+FileChecksum: SHA1: cac52b33d20dffc03962aaf681a8c389457a0bfa
+FileChecksum: SHA256: 2dcf0e24c1a884d7685ba87db1fe1183f33b7abed5b5c26cc0ed7d53266d811b
+FileChecksum: MD5: d029370c9ab27808b86a35ae46aceffd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestLogisticRegression.cpp
+SPDXID: SPDXRef-item9165437
+FileChecksum: SHA1: 89c8a3489e08aaa4670277b306ab02c099ef3479
+FileChecksum: SHA256: e23ece403b763a731775614bc3029fcc8f6b59b6929f37ca8fd57e41dbd01f84
+FileChecksum: MD5: d98a04024be06cbbff8c6bce91565d4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestManager.cpp
+SPDXID: SPDXRef-item9165442
+FileChecksum: SHA1: 757983206fa4467642531623d7d45fa571c218ae
+FileChecksum: SHA256: 9cf0be7eae6d00e4653d0acc996cbc28a6dfe3f4eee1a1835dda509842390630
+FileChecksum: MD5: c6baa0d262c7fb3b6e3b068043483407
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestMultipleAlgoExecutions.cpp
+SPDXID: SPDXRef-item9165444
+FileChecksum: SHA1: 79bd0312a51f18ef08b0a639fd8f5c2b7ccd1707
+FileChecksum: SHA256: 4159757bfc3034684f02c1562670ff90f8c0615c5b42a5e8f76c5572597954b2
+FileChecksum: MD5: f1b7cde5895bb8b4515987e83a794f23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestOpShadersFromStringAndFile.cpp
+SPDXID: SPDXRef-item9165441
+FileChecksum: SHA1: 7a072890949f1d7350ae4632861f81f97811f35b
+FileChecksum: SHA256: 9b88eb2b9b6030308dcf2f34b3437e356188421c5d94a9e98e6d3e0569e3b4a1
+FileChecksum: MD5: e4ca2808ab7c92fcb65c55a4d42809b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestOpTensorCopy.cpp
+SPDXID: SPDXRef-item9165460
+FileChecksum: SHA1: 9a9acad0c616166fcb935d32d0cd6b7723a1a957
+FileChecksum: SHA256: 903ad9aacd812f2e6bcba9dc1407055c80bb3f9ca5ff361d251e2ef09dee90ed
+FileChecksum: MD5: 41d3af9b78b0a61f75d5623cd46facde
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestOpTensorCreate.cpp
+SPDXID: SPDXRef-item9165456
+FileChecksum: SHA1: 2788a2b75e5b34303cfb53e1e330a142b115aa1c
+FileChecksum: SHA256: 58a3123f0653b23ee8ab793c8c76fdc6fc22cccd5bc37ef928cd180450a2aac4
+FileChecksum: MD5: 32600b61b5a1a116665cd1f6d190a36f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestOpTensorSync.cpp
+SPDXID: SPDXRef-item9165459
+FileChecksum: SHA1: 28f560d17be8548a1a5d51f89eb1e541bc0a3a07
+FileChecksum: SHA256: 707b4bf6631880b33d0af115925e011761b07ae2730185176e7c073ed6d4073d
+FileChecksum: MD5: 5c60fd598458cd7f0f99645b2beffa92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestPushConstant.cpp
+SPDXID: SPDXRef-item9165457
+FileChecksum: SHA1: 0b9af3985fa8077a306729717d0399e7eeacaca3
+FileChecksum: SHA256: 4a9d997951889649474ae72788cc4353a2a9f16227fdf2e4a3bd200a7b922905
+FileChecksum: MD5: e5c6faa48ef9145d4a4eaedd288dc277
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestSequence.cpp
+SPDXID: SPDXRef-item9165439
+FileChecksum: SHA1: 02d510afe3d1c8aef488b068f22a361d207169d5
+FileChecksum: SHA256: 165f3d8387ad17e491312b68cbd24135ca4ca5ea4a4e51d3c5fd0811011a0e19
+FileChecksum: MD5: 453aae7dc5d5d95a7fe3908b88b1a762
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestSpecializationConstant.cpp
+SPDXID: SPDXRef-item9165461
+FileChecksum: SHA1: 970b2fce88fcbbc1d216215f56febe35270da652
+FileChecksum: SHA256: 73a67ef2815341f3f874168986a60e40af09c1c2fb88a251a16a267e09794fe6
+FileChecksum: MD5: af7a9e71e07e304078369b97f2c5f34e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestTensor.cpp
+SPDXID: SPDXRef-item9165443
+FileChecksum: SHA1: 28ef64ee32c5b76d8e9931e0e01b8407175c65c3
+FileChecksum: SHA256: 1210ca9d76ba5e21327dd95deed6934e52f48a7849a3feed6e2f07ae6d074ab7
+FileChecksum: MD5: c47a3fc7bb3aaf4ea69a36edf028a18c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/TestWorkgroup.cpp
+SPDXID: SPDXRef-item9165458
+FileChecksum: SHA1: 7dbcfd2ec679d3858625722b5192ee54f22cda1c
+FileChecksum: SHA256: 55dc3ccd2eca93d1770bf81918c5e81132aa32c81dce7e4b630402794c745b47
+FileChecksum: MD5: 6fae9886a7a2deb568152501d26d74af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/benchmark/shaders/Utils.cpp
+SPDXID: SPDXRef-item9165467
+FileChecksum: SHA1: fe4038f84916afa736ef7a184d0c22eede7471ae
+FileChecksum: SHA256: b78908fb4f3b29a7a6ab62e74b1da68c559c15700393632415ddeea2f735c1bc
+FileChecksum: MD5: 658ffde009e543da01b816a63d654374
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/Utils.cpp
+SPDXID: SPDXRef-item9165453
+FileChecksum: SHA1: fe4038f84916afa736ef7a184d0c22eede7471ae
+FileChecksum: SHA256: b78908fb4f3b29a7a6ab62e74b1da68c559c15700393632415ddeea2f735c1bc
+FileChecksum: MD5: 658ffde009e543da01b816a63d654374
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/benchmark/shaders/Utils.hpp
+SPDXID: SPDXRef-item9165466
+FileChecksum: SHA1: 84b8049d5e3063847d5e075a03d28daf6b0d29b4
+FileChecksum: SHA256: d2906a28054c6cd9faa2ad928ec7066aa47c900a6169c21787671306bc8bd3c7
+FileChecksum: MD5: 14be1965442d109fde32f69d0496d71c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/Utils.hpp
+SPDXID: SPDXRef-item9165452
+FileChecksum: SHA1: 84b8049d5e3063847d5e075a03d28daf6b0d29b4
+FileChecksum: SHA256: d2906a28054c6cd9faa2ad928ec7066aa47c900a6169c21787671306bc8bd3c7
+FileChecksum: MD5: 14be1965442d109fde32f69d0496d71c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/scripts/convert_shaders.py
+SPDXID: SPDXRef-item9165477
+FileChecksum: SHA1: 52a2b9421dd8231ca893b4975d299438d91afe81
+FileChecksum: SHA256: 48721d7fa49c3f408cf87935e41055c0d22a0d80f9cdc0774457f059c64b5854
+FileChecksum: MD5: 77f843c5790273d4dade1938820264d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 The Institute for Ethical AI & Machine Learning </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/src/docstrings.hpp
+SPDXID: SPDXRef-item9165117
+FileChecksum: SHA1: 79a662088a134e6fbb8b21c91cfe93b5525175b9
+FileChecksum: SHA256: e1a8b179febaa85fb9eb9c59f9911e1d5c210ee2c54b10fdb21c59916942ea06
+FileChecksum: MD5: 2122ce3b25a5a89352029930bfd1c50c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/src/utils.hpp
+SPDXID: SPDXRef-item9165118
+FileChecksum: SHA1: 527ffffe172b0012ebf9da12d1ef37f7209008c9
+FileChecksum: SHA256: 11f3f3fef7bde1d2b962ce9609e6bc9949d5f46bf80d96a734a40f5f7b86e801
+FileChecksum: MD5: 94cea5166e5c80a03387ccd87c17df5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/src/main.cpp
+SPDXID: SPDXRef-item9165119
+FileChecksum: SHA1: fa38d4e1b0ad1c0a90d4d01a5e56a63d7278d5ad
+FileChecksum: SHA256: 87b70cfb36bbed7c67ba26d6d6516b6ab8e10af5b052e895c9b827b536ddbcd7
+FileChecksum: MD5: 1c637f6f147d8e18e91dbae2f1d61ee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/requirements-dev.txt
+SPDXID: SPDXRef-item9165121
+FileChecksum: SHA1: 533ac637bb7839198112020cc8595ad6b0065b7e
+FileChecksum: SHA256: 09dded591c80ef7477c1e3a781c206b53aca0c2395de2f45ed978d7652dce9ce
+FileChecksum: MD5: b90d56bf256eac84a7b8c546c067c646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/test_array_multiplication.py
+SPDXID: SPDXRef-item9165122
+FileChecksum: SHA1: 54ad053072c4854334cc5baf8c0081bab9c21be5
+FileChecksum: SHA256: 4d50877983e3c8f9daf07096602f44044c25ae915ae0503fd8b21d33206f438c
+FileChecksum: MD5: 465bdc43b36c97915635f8c5f55240f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/test_tensor_types.py
+SPDXID: SPDXRef-item9165123
+FileChecksum: SHA1: 84033ce3d2f0a778af1ca855edc85411d41c1f05
+FileChecksum: SHA256: db57dc94d82e648c1ffa26d980de55e8abdeaf464070abd6e503f58f0e0d4ee1
+FileChecksum: MD5: 237c7d9c82018522214bf18744ae1d59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/__init__.py
+SPDXID: SPDXRef-item9165124
+FileChecksum: SHA1: 71853c6197a6a7f222db0f1978c7cb232b87c5ee
+FileChecksum: SHA256: 75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070
+FileChecksum: MD5: e1c06d85ae7b8b032bef47e42e4c08f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/test_kompute.py
+SPDXID: SPDXRef-item9165125
+FileChecksum: SHA1: 52f615aeee30cefe4aa402e5cba4f59ea9fa239c
+FileChecksum: SHA256: 65262d8fbfebc0645d781549505e8ea74f49413150462d7c1d3d434091a0471b
+FileChecksum: MD5: a989b21f6e7f6f95868aa132926def37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/test_logistic_regression.py
+SPDXID: SPDXRef-item9165126
+FileChecksum: SHA1: b56ba0377589921810d83694c375d3039d95b5a3
+FileChecksum: SHA256: 249a49d4c85a8cf4b6e76d661abde1c7f6fecce4371675a6a49e0be14294c76b
+FileChecksum: MD5: 7c238cb96319d958bc89bb50ecd02413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/test/utils.py
+SPDXID: SPDXRef-item9165127
+FileChecksum: SHA1: 558ee46f4306cb27b4df3f6912b4ccffcae23c3a
+FileChecksum: SHA256: f0a0151d1d231f1fd87185baed049ed8a6427f05c0ff60bf772e0b6c025b57b6
+FileChecksum: MD5: 9ba91b243aea404833c6549343fb113e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/CMakeLists.txt
+SPDXID: SPDXRef-item9165128
+FileChecksum: SHA1: 3b2b85e5a8928dd0313d8dc30ee60dfdeeced56f
+FileChecksum: SHA256: dccf16d208af96c05a16979fec80202a4cfdb7836f61ceb2d1edac37a140ffef
+FileChecksum: MD5: ca2fa2e94d3529dc51ac508d3fc78549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/python/README.md
+SPDXID: SPDXRef-item9165129
+FileChecksum: SHA1: 64a7bfd8f6a380838acbdbc5a6b853ad82acfc10
+FileChecksum: SHA256: bce52f0b75a2d70ab6e2ad2efc2a03e89620a97da98df6add5de450a247b46db
+FileChecksum: MD5: fece8ba6286d0f016f6d7b32d90a3243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.ccls
+SPDXID: SPDXRef-item9165130
+FileChecksum: SHA1: 567a31fedee66474a104c048824b45cf99406bea
+FileChecksum: SHA256: 7abd21475b0c09197e65e27da5e656a298cd5e77154985f0d9a5f9cd3f31a544
+FileChecksum: MD5: dfe7e046d17498ffe3f7a896ae3bb0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9165131
+FileChecksum: SHA1: 838c4db6040a96c361ae83d35a7d1943b8e0e449
+FileChecksum: SHA256: 6ee3dfe667fc9e22062eb9cafbcce1d71ccded5e8b767ca7182ad32cb4b2de72
+FileChecksum: MD5: 1d5bf102b1b78469a57bdf98e5c3af78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Non-profit
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/kompute-config.cmake
+SPDXID: SPDXRef-item9165132
+FileChecksum: SHA1: 4ef44540f061ad1752abf3711efa710b6fb72a0a
+FileChecksum: SHA256: 78d960962d53bd0991c3c5237bbecfbdff167a38aabe48ac12f40d09cef56946
+FileChecksum: MD5: 294953cbd83168d9390300aee9f25ad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/code_coverage.cmake
+SPDXID: SPDXRef-item9165134
+FileChecksum: SHA1: 4288eeb20f9e2a3d23f2ad78cfc90ad248531b31
+FileChecksum: SHA256: fa5ab7b6876c99987f91531b43a6044ada1eaaa2c9b99df2692a0a7fcf1974ad
+FileChecksum: MD5: b1c5a6544341b6cf21b670f029daecb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/set_package_info.cmake
+SPDXID: SPDXRef-item9165135
+FileChecksum: SHA1: d0c078cfe5e073b6148d4f8d3948bdddf42af8be
+FileChecksum: SHA256: 3c3bfdbab91865249193cd5e100105ba2312eb287e9fac1dab650b19ca3709db
+FileChecksum: MD5: 1d18d5cde11ca743f3428d1505c2f360
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/cpack-configs/nsis.cmake
+SPDXID: SPDXRef-item9165137
+FileChecksum: SHA1: a1457b483ff178889167e09f31a9f05624332dbd
+FileChecksum: SHA256: 49830366d9e2ca9ea7ebe674b8fbb560e8f6bf57196842d751ef5c746c7e8bc5
+FileChecksum: MD5: ede5343b49be6824e3db8b647dac229b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/cpack-configs/deb.cmake
+SPDXID: SPDXRef-item9165138
+FileChecksum: SHA1: 94f042055fd8a89a15653a57d0b7985917fe4e68
+FileChecksum: SHA256: 22290930571f27c204810c023be783601fef790d765a0d62659e78845e6cceb3
+FileChecksum: MD5: 6692b2a71e241296d326394fb906f63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/cpack-configs/archive.cmake
+SPDXID: SPDXRef-item9165139
+FileChecksum: SHA1: d760e793d922f802261145db0c929ae3d5cd908c
+FileChecksum: SHA256: 155957126c27633654203dd837a3ac45c607c9af791bf12f61954be77b5d63d5
+FileChecksum: MD5: ba990426502c7cc556e75cd1484f0ece
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/bin_file_to_header.cmake
+SPDXID: SPDXRef-item9165140
+FileChecksum: SHA1: 8353a3c892ebe3247cfbefd5ca816fa53453a8dc
+FileChecksum: SHA256: 9685638e25b001602c76b88e9d41f6d7af2f08f0b391b7d550dd277438f97d4e
+FileChecksum: MD5: 9fc28399caec18985f49b7e1db424477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/vulkan_shader_compiler.cmake
+SPDXID: SPDXRef-item9165141
+FileChecksum: SHA1: bda17bf8581651021f995f11e8ec35d86abd50e6
+FileChecksum: SHA256: f6beb00779f0e91f20254ff1ebea6bc6a069105ac5526acd03f56af94408a7bd
+FileChecksum: MD5: e82ce9b2167dc0d885af673d37f08ff4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/check_vulkan_version.cmake
+SPDXID: SPDXRef-item9165143
+FileChecksum: SHA1: adf18ef71321800cacdcfe1e98d4edd3a311fa0f
+FileChecksum: SHA256: e38b126d64b765d5157e41fc385bb15d8f90b03cf716065d734a90fed6818777
+FileChecksum: MD5: 714b462b10e8e5f3d655e8baf0b69933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/komputeConfig.cmake.in
+SPDXID: SPDXRef-item9165144
+FileChecksum: SHA1: a3c0f38a9eb12ff659e2623bfe3fe742e6693ec1
+FileChecksum: SHA256: 25cdc048eada52b5fabbaeabdb93ec2ddde9df97b067a9d1702b0ca22c47912c
+FileChecksum: MD5: f90000f40a7101b21617d1f1ccd2e6e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/cmake/deprecation_warnings.cmake
+SPDXID: SPDXRef-item9165145
+FileChecksum: SHA1: 78747af9c6a7a20327be365dcf19bd3521a0a658
+FileChecksum: SHA256: 80fa9b4dcf62668154be7f492dafd4e9cf44716be5a9da8d6139b423b300216f
+FileChecksum: MD5: 488fdaa49699cddbecb531747fdedc8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/vcpkg.json.opt
+SPDXID: SPDXRef-item9165146
+FileChecksum: SHA1: a4ffe8e0d8649ad5f6b95b6c395933e468bc7c28
+FileChecksum: SHA256: d1efcc5dea28034f4e22b86029c668c329d720abfeb1574f0b438e811156af5b
+FileChecksum: MD5: 053b7d240bcfafba08e4bb7798e3caaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/Doxyfile.in
+SPDXID: SPDXRef-item9165148
+FileChecksum: SHA1: 8b468bb8335bcd3ce3f586eed8a5981e5f582c9e
+FileChecksum: SHA256: e75638bd67f01e5ed6fc8dbc89a2dcdd6332803052b882ff6f73ddcef3997cb6
+FileChecksum: MD5: 7def7c0766964cf1d4ff1d287476678b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/Makefile
+SPDXID: SPDXRef-item9165149
+FileChecksum: SHA1: 68862891a97494124717a08c1836d78513646022
+FileChecksum: SHA256: 8b6587b859607f200f116e2cb043fc358e1c3a26c326b563bf348453cfc68307
+FileChecksum: MD5: ef4f00c423089323edef1d3cff31a4a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/genindex.rst
+SPDXID: SPDXRef-item9165150
+FileChecksum: SHA1: 85481c715d7f29d94c267b410f44dd5e98a10932
+FileChecksum: SHA256: 54ff5896d005496d18139122bbea7b6aadbd89b6e09bf5fc9f2a3fb114ec9591
+FileChecksum: MD5: 59b1b49867a71939c55cab0b1a7dc83b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/game-engine-godot.rst
+SPDXID: SPDXRef-item9165152
+FileChecksum: SHA1: 5835448acd3085c0886f385509a8c2d1e1729bbc
+FileChecksum: SHA256: e7f6066715c326a3378db7930503b2f7def44a4a8ce8863e530e23751d87e3fc
+FileChecksum: MD5: 5f05efbc36e815b459c1486b871c5bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/matmul-benchmark.rst
+SPDXID: SPDXRef-item9165153
+FileChecksum: SHA1: 3ac343f511664ed2c9a02b205044a7a3c2112042
+FileChecksum: SHA256: 392b5aa43d211f608fbfbd223f5f938fe10dc9eb090e9009516518bd1aba61fd
+FileChecksum: MD5: e24774b60a95b3bb7500d5f78aba541c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/convolutional-net.rst
+SPDXID: SPDXRef-item9165154
+FileChecksum: SHA1: 31ba7bc499df320b6342af0d260b50f0c70beab3
+FileChecksum: SHA256: a56b45c717d7315ddd10f1be4428efbaaa4dc09bf8f281b7741a94a76c16241b
+FileChecksum: MD5: f7b446a23c08ff9a08054615bf1cc454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/ci-tests.rst
+SPDXID: SPDXRef-item9165155
+FileChecksum: SHA1: b8e3c3870f90371da308ae51bd898af8e393d60c
+FileChecksum: SHA256: d6150e4692db5c59043ffea78251e0f3f676885e3b91e2a801e98966c15edb84
+FileChecksum: MD5: e74ddaf554b058fcb170c16e9f9a4e33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/mobile-android.rst
+SPDXID: SPDXRef-item9165156
+FileChecksum: SHA1: 61f638b35f5fcaf6cea7fd774b51926f05f4caab
+FileChecksum: SHA256: 2710079fe40a34164ebd278f3d367b315c0f18f75d740ad2cbef0645bfadef49
+FileChecksum: MD5: 7402f3c03060dee79e40b08707cd6aa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/custom-operations.rst
+SPDXID: SPDXRef-item9165157
+FileChecksum: SHA1: cb4f58308995e65871b9dab4acae33638246ae1a
+FileChecksum: SHA256: ac5a348e7b19fd548467e49e4916cbdb1f91754a7bfb68f99fe93b2383d33ad3
+FileChecksum: MD5: 8493dde3cdc4fb7ffb1d8bb00d5a9118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/python-examples.rst
+SPDXID: SPDXRef-item9165158
+FileChecksum: SHA1: 86d077cd8273e333b3e1fa895432a71256a1c83b
+FileChecksum: SHA256: 763f989e86f93b1df35b50a8938f15ebd51b47d3d1f1880aded45723db47f6d9
+FileChecksum: MD5: 850229dc7fbab175ab39babe588cf432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/memory-management.rst
+SPDXID: SPDXRef-item9165159
+FileChecksum: SHA1: 0e1bd70f11f95a67f60607c99d6d8556b8e56995
+FileChecksum: SHA256: c9a9c622a5f814772bdf10f0f18ded8d3f1fc0fab53b5c4e5f809ebd53ef362b
+FileChecksum: MD5: 3b54a27f8f9a91512d2e8c25320c69bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/build-system.rst
+SPDXID: SPDXRef-item9165160
+FileChecksum: SHA1: 510d6807953bc5ef0319677f918570bd6e8922dc
+FileChecksum: SHA256: 7ef6dd50cfe2f54eb940ad64139e37f12016baaf4246d2eb434981913372dc58
+FileChecksum: MD5: 11d90e6afb7a5f0c08b48156a4656caf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/async-parallel.rst
+SPDXID: SPDXRef-item9165161
+FileChecksum: SHA1: 1fdf7feba98ce59ff5f5cb13e76ef274e784027e
+FileChecksum: SHA256: 5cddb81048e70123ae27d6701999d78262298a7357987e93ac058aba5e35a2a8
+FileChecksum: MD5: 1914bc128e7b7654d91c8865fe2f0ce1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/shaders-to-headers.rst
+SPDXID: SPDXRef-item9165162
+FileChecksum: SHA1: 2c92311ad278add7bfd3a79b5951baa8629a1b9d
+FileChecksum: SHA256: 111533b74320a7897385806f73d3aa53686eda68b0f4b342f2da43b8b26be248
+FileChecksum: MD5: c47d9eba98995dba99cd9a7dfa3f9269
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/community.rst
+SPDXID: SPDXRef-item9165163
+FileChecksum: SHA1: e74ed698d640a3fa6f8cf15c3b1efaeb41ad8959
+FileChecksum: SHA256: 4fe4fdcb98651fc75c242a9a8073f0e4d931986c47062b95339309b8b75f5793
+FileChecksum: MD5: 81806bd8cc45a58959304fad87e972d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/reference.rst
+SPDXID: SPDXRef-item9165164
+FileChecksum: SHA1: 547d94474980effd3310f6876e3382cc8acce9a7
+FileChecksum: SHA256: 204fa270a21df9b7d7044a6f5b53fa62e4f0eb0b2a486127d56e8c10e83abd7c
+FileChecksum: MD5: e2803c0797f2d3d4c795c69f874a89e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/raspberry-pi.rst
+SPDXID: SPDXRef-item9165165
+FileChecksum: SHA1: a1b4b0bef7f6ba82f4145b34da1542da3f702e19
+FileChecksum: SHA256: e03ae02d10532d6910dfa9363e6a27d50317ce8cd4df2811716ea00627c0087d
+FileChecksum: MD5: 89dfb9bb2111d9b8f58640998dde5827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/python-reference.rst
+SPDXID: SPDXRef-item9165166
+FileChecksum: SHA1: 9bf56547b23ea25393941a4b73519471748c478a
+FileChecksum: SHA256: abdb674543f71350770e85bfc5ab6e4573689416f5ee19e5766cb714c57768da
+FileChecksum: MD5: 5e20c2630c05d008792cbf4dc2f80fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/python-package.rst
+SPDXID: SPDXRef-item9165167
+FileChecksum: SHA1: fe1cdbbae08ab29d5dc249d09126a08ccf975d68
+FileChecksum: SHA256: 293792df9c37e407e498ec0c099c7839452d541858d4a9e4c5b0041faeb135f6
+FileChecksum: MD5: 004d84e738ee93c5722db06a6e07f192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/advanced-examples.rst
+SPDXID: SPDXRef-item9165168
+FileChecksum: SHA1: eb9f610ff74e4aa4c62eefee79ea5dffbf6a3fef
+FileChecksum: SHA256: 45b096c27628ac3292afb69d8743bc99886f2de88a3c370de6d51e16ad34e8ab
+FileChecksum: MD5: 2289e941cde9a8cd15b0e9c8b7cd7a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/overview/variable-types.rst
+SPDXID: SPDXRef-item9165169
+FileChecksum: SHA1: ada616651be1dece1c6ebbb30475efc7cf3240e9
+FileChecksum: SHA256: fc2bef4cbd572aa993e410430384a992976a3294dcaae6094439613898b36d27
+FileChecksum: MD5: b611a3e52a4039330c85f1276dd55477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-opmult.jpg
+SPDXID: SPDXRef-item9165171
+FileChecksum: SHA1: 32ab9653aee2ad6b8057eda0506311c3e60fa2c7
+FileChecksum: SHA256: dbca8270ab7612e1e48aa6b34361d5e5c49fc82fd736f3aa0c5176b0e68bec69
+FileChecksum: MD5: 676347dc17de25e0b622dc24aceeb3b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/android-editor.jpg
+SPDXID: SPDXRef-item9165172
+FileChecksum: SHA1: 64d5c64d20bc752ae972760351dfff6dea2f2f71
+FileChecksum: SHA256: 084cfdac716f6ba282fd96f3e32b2c3f3ee5bca8c6d66183d3270e0dc9d76e91
+FileChecksum: MD5: dd6269796ef2095695f5c532b7187b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/binder-python.jpg
+SPDXID: SPDXRef-item9165173
+FileChecksum: SHA1: 4a6d06d4268dffc8019d2f3a127bbe585aed3bc1
+FileChecksum: SHA256: c1b929b6448560d6324c67b18876788a2bf8f0f49d67574221b0ab7cbac422fb
+FileChecksum: MD5: 8fb88833330df15322eec86325741ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture.jpg
+SPDXID: SPDXRef-item9165174
+FileChecksum: SHA1: 801d98d77be68f22bc0303605d7ed79ca280e825
+FileChecksum: SHA256: 4a6113a2547b17b3bea0dcf2df17cb3e4230105055e9c0661a51b937db0a2df5
+FileChecksum: MD5: f93e5e04960546a89b85112d17441941
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-python-video.png
+SPDXID: SPDXRef-item9165175
+FileChecksum: SHA1: 768c7559e2426c8a8ebe174c36175cc07d70f803
+FileChecksum: SHA256: 1139117430ddcb0cb792d73f1e332dafe29f4ba6433d3a1f8c2348ae2f8e4d3d
+FileChecksum: MD5: 814ebd3cb67866d0d8554aa9808e2239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	NMrIDgfee1mÚ4f̘ÁԩS#3<¿ δ´´Hôfxâ;?!7 @ 8?rS F9Bn
+© 7íq»>5N?aÆ)gñòòwY½¾Õk«X³Áþzö¢9eîY<óÜëTÕ4љÊөåij1ٸ¹{î?`tha´±?,åÉg^ÅÊ|^?©<?=üª¿ܖ+7]\¾³¸rÓÅeåËåfqã&1fÌ8?þ 0 0p`??߬Àü?¹9`Ð ÀO>c\¹éòÍòer³D-ãØ`?Ee#9äoOÐwkµ=ޮŖ¶Ül ¨©Wr³µÎInֲ?Ó?ú×TrܓOsИ8ZNr?Å'ƜE{Ü'Wnº¸¸ü?|¹Ü,GmÁ)JI$ɮÃñø ®àG?cøÁ¹0ðù?9¸¶ÒI ×QԼ>M5ô¯YÏ1o¼ÌÀ%WrÐðq </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-manager.jpg
+SPDXID: SPDXRef-item9165176
+FileChecksum: SHA1: e5dace7e3d4a1caa22c36e81eecd4dd182b6bdfc
+FileChecksum: SHA256: 36304243a137b782685ae0a999d4f3bf78fb489191dbd75b2e10c7df259ab2f6
+FileChecksum: MD5: 6912d9ce98d203acbf5867bf630f2f2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/komputer-2.gif
+SPDXID: SPDXRef-item9165177
+FileChecksum: SHA1: 0b473cb370cffdd7a1195a04630f4fe0aacf61ea
+FileChecksum: SHA256: 804d25768a1d7c89571b966e2047021949003d05bf6e948d33d30b792737ea1c
+FileChecksum: MD5: c501ce9182347687585f852c8e8ad55c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-opcreatetensor.jpg
+SPDXID: SPDXRef-item9165178
+FileChecksum: SHA1: decb525f5ca49366ff7bd9ea5b66e1dcf56d8128
+FileChecksum: SHA256: 43063056b758ec8381f678dd81e8dbe96f15f35e22013d91305d0317445ade42
+FileChecksum: MD5: 5bad6b83d43ff6fa69ff9e085585a2f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-algorithm.jpg
+SPDXID: SPDXRef-item9165179
+FileChecksum: SHA1: 904ccccddf7bb596db90eb44409875d951bcdc02
+FileChecksum: SHA256: b379eb23c4393945a9f5fbb8f99f128170a8b6abc2bd9d32473eaf3313dd9f40
+FileChecksum: MD5: 8781ab46aebc351d3d110385bbc736d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-cpp-video.png
+SPDXID: SPDXRef-item9165180
+FileChecksum: SHA1: 7f6dcb09e486ed57d312a2f5ce347cfcf4625dc9
+FileChecksum: SHA256: d8cac418286fe7dcba38e40914b44c22d3fb40382e9e559ef0ae11177a42e7c7
+FileChecksum: MD5: f162af685f26fecbfd5c58a8c7cccdd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © uK{Aq8?ÈårôêÕ?½zõF£?}6KÍ?Hϸ¸8H$?ôéÓ?YYYHOOZ­?Éð¤2"?⚒?.ë&Ëé±?éyÂȔ%ғpö¸ ҳ¥ç/f>SrR¢"¼W'Sr2?/QÞÚ?éI¸֡¾_ԵV||<}CD"R©V«Á`N§J¥L&kýÙÖûÁf?®?©LORޖ?Xó£Á÷{?ÒsOsKϕ_ÎÅÔüô$ á*¦¥Òó ô$>ô<Ç éI \Ù?éÙ6ـô¬@±Ճ_6íAf¿ÁIU?:h?~Ûacm?c%\æãâÒHOæÝõá½=[r HHH@¿~ý?D E?ÝØ쳽ڴ </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute.jpg
+SPDXID: SPDXRef-item9165181
+FileChecksum: SHA1: 59ce11404bbc598ec6d2c1711d2636063ced1c25
+FileChecksum: SHA256: 8e3749189783a25564d43a8f873da392e57e28f00b5a49ce5a12523d9b5dcc8c
+FileChecksum: MD5: dc8450d57873518d2441e871447da0de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute.ico
+SPDXID: SPDXRef-item9165182
+FileChecksum: SHA1: 85755edd2f598681ba463273fc723ed20689fc18
+FileChecksum: SHA256: 68b130bedd505faf9d5389f2401b10d87d06ef76c62cee1a0ec4296ac8b6a3d5
+FileChecksum: MD5: e0b03f95c2da4b7378fcf46c4cefe53e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/binder-cpp.jpg
+SPDXID: SPDXRef-item9165183
+FileChecksum: SHA1: 07768ce7aab9fa234bba0e966ab537cff9a69847
+FileChecksum: SHA256: 5b015df2f75b945b2284c6feca4b0ca758d94ede425c33c4c1afdc70bee8fc21
+FileChecksum: MD5: ad3710067380ea043a5f11f8b28e4fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-operations.jpg
+SPDXID: SPDXRef-item9165184
+FileChecksum: SHA1: 74b2cdd713f059ca5f588d8f7c6cdff7ad0e0c9b
+FileChecksum: SHA256: bc2899c573f6f64f0c56d1b98a88dca2ae0b98652838b413d1842d837e566cd1
+FileChecksum: MD5: e35b292bb2781104e1d1e379f65bc86f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/komputer-logos.gif
+SPDXID: SPDXRef-item9165185
+FileChecksum: SHA1: 5dbde38f07b1020e7505c7c0923b0ba826dd918a
+FileChecksum: SHA256: ac631f6823f428b35038e8244e03928e7e107eac002b5c05506ffb568480ebb1
+FileChecksum: MD5: 86f02f999bbdbf6ad4862b5b92dd1f6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 0«]3KÆC¹dm̉>lºF	{ ëy*¥瀪ÿp¡Òð?~;?ÈÉp¤0?¦¸¬«©;?ó 2ø?³;«Æð»QtðÚ?ÃWkðälֵ¦¨;`øtsÍû??ҙU ?V²?°h&bkØ: ÿ!?á¶î°	s+¥¼?}+«0«;?Òð°Àºw0»?ñ»IûV:yÏv¼?A/?Ñ;À_?¹½Y¢½Ük?;3?ê?C¾i?î[?ôۺÿP¿ÿ0»I?¼Á+¼ÜӅþ["&2?ۋ³ùIÀ,¬k?騺?°?? £Ýk,) Á«??s[»?AÁ?q±?¼ÃE|?p?¿p?²ڻ?¿oUZÀ
+© A?fÔC¤cF9£TN¥4ÂÊ?^%V?áù¨²l#êtcH9!?üYñE!Éuɕã?ª?N@%L±ÔË-?<êÇ<ªô½ ä´->ÝÓÝ!aÀa³ýå%?û1O­1ÏA¦ǆÌo<ä\u??hUÙi?QhÍ1µ/?N´ÁH¨b?FD?i?"A޳ÑAVې?Ù?Û؄Vh%?ú)?9ý¤n¾E]ô¦D´^`
+©	c»5®k`a5k»öúÙÿlßdÝûî|¼+ßǯڥ`îRñ.ï/@ $°©é(? rȡ9<rè,»?'¤°2ôcI¼·¼é<®-6öÖkÉÖÈ[É7ùöËï¡áZtÅã*ìé??iÄ1Ç?#ãn:¨¬ó麤$ԱÈ	ñH-ń4äê+?KÄ?Gt?ѣɭ·?bè* 1L1ùÊ+¸.?r¯úZ:¥5ÑL?@#ç¤3*?m ¡<ëä³O?«J7¿"T&?ÿ]²½!bCk­ֺrí-ºà?ï®6³¯$MË?³Å?ÿZLMT ¯näü3UUÚsUW_õ'mR¬É?_¢B6+?­­Ê^s{<?åT¾KSì4Yâdú.SÖ
+© M­Y?ÛF?©YI(i?gtÚúϝ?Ê?{.×'°Ã?JìTQ	¹ì?Í?v8?(?þsL¸?{üq·?<òY9v?ÿÊ  *ýÃXQ-£ÅòYmÀp³?9[V?çt?fzZ?pPáeB§*MeÆôZN?äê'e(«Gý~?"p{?$0?X?\r,&<l°iIõÏT![T	qË]?Z?,kÝVlEÁ1É}ûýä{!ÿ=xß(§ürV&?$³@4gŸSªè<9ÏqQösÐý]ÑHÿ£ôצêڪ­¦ôê?)Mµ֨rð?Ox a煮Ùg?¥°Z?·=ÞÜt£?q6 Vw Ä(áÍ;ޒÿ?þ<b?N½a[ÿO?ÿ
+©	I ÿU9ނxþÚ}?kª§* ë Ð  û4÷ò42?®O?¤>Q¡Öc@8X¬p88?£Å@¢?Ñ Á¯Ө?¼ ú Zhû?m~ÆЬ4+?ÑÀ4çx·¹³<۳Aë³Ài?C˪!´ºҷáê4?K«X$?'®(¶Ěð?V(¶8¹([¹X¹(+³{?~?Ms?>N;v;>x[º¥ZQ1´;?¸àZë9k!?ºäxO?Ú?k8é_;¹n붙ëµ?a²¹?Ax$HC6º?hºÎ{<°oÿ؛ß(U±·àR·
+© ie-+Zîv×v å?ݼ{½?`^a½¼ùX?a·®Mk|åk×Ü:7·Áµ+\ã_çêW°y.sázÛ& ÷=ppsë×û6ØÁ?pÛ?.ø¢´?1à)¶{×Ã?æxA Wp2{<´ßMZ¸ÚöF?¿?¾oZ?|X×V?°Ãm+q?rcãږÀ°e0n;[Þ27ºDÿqá Ä?v Ìu)ó1¼ØÊWÆr%µÚK®R4½Ã?Y¯À[!3ٶõ.lä?¿ÆÀÒEs#ÌæO?Í	F0,d#3׬Rø§]^eB?º"r)?¢ãȠ,¸%\å6ָ2@!?Eàk?Pg;ïÏHÞHr9Mç9ÚÓJ¦³û\`V빹.
+© D¡?0n[¦BEN?/è?Úäås?®Ð?¯,°mtûétä©¨K/ÎÎEÃܺÌúÔ </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/komputer-godot-4.gif
+SPDXID: SPDXRef-item9165186
+FileChecksum: SHA1: ed0c8ee54a520e1c8e4989159ea154292fe9c198
+FileChecksum: SHA256: 4385dda9e13350b83317f286c8b30f5585eb780d51c48caf7f04e669eb61c102
+FileChecksum: MD5: a4547d21fbb2ebf2a69d3f6f7989d8aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-tensor.jpg
+SPDXID: SPDXRef-item9165187
+FileChecksum: SHA1: 7d59085439201db13a4c70f5fc7bc4583a2070be
+FileChecksum: SHA256: c5b68b5004825a6bee514acba89030f798f1c748d914ae89a1cd6d76b4474b8e
+FileChecksum: MD5: 0bbe1141a494b4d844fbab1fb77a66ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/logistic-regression.jpg
+SPDXID: SPDXRef-item9165188
+FileChecksum: SHA1: afcad89948ce8c7bfe22163a0c7ba052d4d16823
+FileChecksum: SHA256: 0da9e374e3462aee939412b43cda25d079fb7960a88cee0337e8fe278f1ccef6
+FileChecksum: MD5: c9da33bdb5e4be5ddf17cec0b4a83b3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-vulkan-architecture-sequence.jpg
+SPDXID: SPDXRef-item9165189
+FileChecksum: SHA1: 8f5c74abd6f68964d49118ae7c6851330f7722f5
+FileChecksum: SHA256: 9767c70413aa7557ce245088a74bd66862d4027227acf71bd74e5fde32c102e5
+FileChecksum: MD5: eee5e4996eace9e6c2957a5b1f070e18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/android-kompute.jpg
+SPDXID: SPDXRef-item9165190
+FileChecksum: SHA1: 44748fba80589b43f3420b91f297a98aef333a8c
+FileChecksum: SHA256: 19545656868cd4d8af9103f0f0327b14f30f022d08efede632721586056147e8
+FileChecksum: MD5: e03f034e95d2dba1cf8aac54845d6a1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/kompute-architecture.jpg
+SPDXID: SPDXRef-item9165191
+FileChecksum: SHA1: 445afac1a42ca052e9d9b521460fa18baaa3c9e6
+FileChecksum: SHA256: d3fe4d06ac6750ae2b71746f51ef5e7f58e7185434c19cf94a6261ebcd297453
+FileChecksum: MD5: 4b42ea28ba89aa3e1ff8a591cc35158c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/queue-allocation.jpg
+SPDXID: SPDXRef-item9165192
+FileChecksum: SHA1: 12efd47c37ee85c1fcaa059834a6c92449433101
+FileChecksum: SHA256: 38a4a4002a676171bdb15ee8388686df23403b18b3ead491e475cfc0cb4d28a9
+FileChecksum: MD5: 5e35b0e4aec7078d57028be5ed8578c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/images/suspicious.jfif
+SPDXID: SPDXRef-item9165193
+FileChecksum: SHA1: 9cb24230de2a160dd0c790bd865aa9851f363562
+FileChecksum: SHA256: 9e7d99dba75964fb4b4e5b9608ca153de492d734d020ba4255fdaffc359c99e8
+FileChecksum: MD5: 32dd7e6369b2b02ab0a3874d52a4d8ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © pߍkJV÷H­?®rîM?4Q[Á\ÛÛܶ¥uc§?#^| gf㹃1éæµ5+ׁRÞÜ?»¸Âƪ2Ê?ã zÕÐhZ2iVû¤?¯gÜ?] óå©öïêkÈÌñÑÂüº?îQÏ?;½#ԟHÒáÒm|bòÈCÜIÎ?ñ?v­?(¯©RUdç7vÏѩӍ(¨AY ɣ&+3@ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(ɣ&(?­jotÛûlüÏ?2uûñüëӞÕÊi$5 </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/index.rst
+SPDXID: SPDXRef-item9165194
+FileChecksum: SHA1: 22e50dd59d3fec2353cd02ab73693cb7a50ede5a
+FileChecksum: SHA256: 0f26573d140d2da89f415fa3b29b8b967f2a9dd602e2437cdc64d13e2b26349a
+FileChecksum: MD5: ac33b1ea9d8233a6ee56db62133ac863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/make.bat
+SPDXID: SPDXRef-item9165195
+FileChecksum: SHA1: f72c4dc479344275c2644bf578418dde9cba8eb9
+FileChecksum: SHA256: b593cd1da19314a43db9a0854f6f92f2c59217571502da3321f9498c02fa16c8
+FileChecksum: MD5: c0d3dd97c33fb8cd9d395542307fd10c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/CMakeLists.txt
+SPDXID: SPDXRef-item9165196
+FileChecksum: SHA1: e032b354234ed30b85dc4ff54d0435fe8a654987
+FileChecksum: SHA256: 9f4562822d9eadd48549b15c2ba3266cf00c1965d9cbbc856a56759512a57045
+FileChecksum: MD5: a2d2d378aea0f0d6706f525de9b1e8b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/assets/custom.css
+SPDXID: SPDXRef-item9165198
+FileChecksum: SHA1: 8870f3e8a6c7ec6f70a8038b3904e150b367ea6a
+FileChecksum: SHA256: eed84c5f75ba3a62b7f3aa12170772ad738303e2eaaa2301c972f8c072392ac3
+FileChecksum: MD5: 4244825945cf52f6613d41d5ffc6f5f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/assets/gcov.css
+SPDXID: SPDXRef-item9165199
+FileChecksum: SHA1: d4b52ed1b3d09d4e7a6bc42e94a030331d254a50
+FileChecksum: SHA256: 71d20d852dff556cab758e125f41de4cced8490955d1127958c82ca75d7b0086
+FileChecksum: MD5: c6029b9297bcfde339a4e6371f8f12e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docs/conf.py
+SPDXID: SPDXRef-item9165200
+FileChecksum: SHA1: 32b8cf641a653b4913a7ce3191c76e24a4b9dcb5
+FileChecksum: SHA256: e5928f857f6964b8f0a368c40e1ff5eb269c4e5e24fcdefc274022162b8911ae
+FileChecksum: MD5: c72cd3317a2c7178aff074dc7f018dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/GOVERNANCE.md
+SPDXID: SPDXRef-item9165201
+FileChecksum: SHA1: 8fa6e34aa392cc1aa0a6599d1ffaa59ddb3cb7ef
+FileChecksum: SHA256: 4355e45104d5d7bd476656f5d57e0eacf372095a8a3e601040cbcc94ddc21344
+FileChecksum: MD5: 557aa76e8da4b9bfc1809361b941eab7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/Makefile
+SPDXID: SPDXRef-item9165202
+FileChecksum: SHA1: 54c8a8f02d2d33a997b20eaec5da966e8f0c4011
+FileChecksum: SHA256: f1de604f6a4d13e1a2e724cb7a1614c20f326c37eff267afc37959b8aba75b14
+FileChecksum: MD5: 0cb35fc63db1a0ceeeff56ea4051c710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/CNAME
+SPDXID: SPDXRef-item9165203
+FileChecksum: SHA1: 04eaa9929e69dd45dbc5f8d81b9c70d83b4228b0
+FileChecksum: SHA256: 469ee7513196c0034fae49201d7ffc3251c7d3b84fa22abd2382eb51569c2050
+FileChecksum: MD5: 563394dabfb757c39fc86fc9db236e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/MANIFEST.in
+SPDXID: SPDXRef-item9165205
+FileChecksum: SHA1: 811ef4ee66e94b2db52c1d55b837aece3e021ad5
+FileChecksum: SHA256: 7cf8b1ba601bba529591166b91344b33df4ff6fab9acaf4b1456afcf9b286464
+FileChecksum: MD5: d05cc8aeb9b696fc1f6c00cd5c8604c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/CONTRIBUTING.md
+SPDXID: SPDXRef-item9165206
+FileChecksum: SHA1: 6dc139194cc15aa41dae9ac4e70a9506a426f5ea
+FileChecksum: SHA256: ae9ed330a930527174764fc1a26335e1287d08c0cd6d7de76ebf12aa9b43e27a
+FileChecksum: MD5: bb5449309f234115a3fe4fcc8cca1772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/pylintrc
+SPDXID: SPDXRef-item9165207
+FileChecksum: SHA1: 8441942aeef751d4770a106f703afc78f2b40b9f
+FileChecksum: SHA256: 55ffb3401122aed5f54caaabced3064131b64cf66343ab41a6f8daea2ddb0f98
+FileChecksum: MD5: 0bd51bf35752db3da86718f82a7c3054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/Kompute.hpp
+SPDXID: SPDXRef-item9165216
+FileChecksum: SHA1: ab27c633213ea8afc3aca0d29c9d95a39ddffc26
+FileChecksum: SHA256: 2bd1185572a79c2e095b132a061b8265df7f0156fa9d979fbeebb5fe162a0e6f
+FileChecksum: MD5: b5b6567514b1d7c32a2bae93fcb007f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/kompute/logger/Logger.hpp
+SPDXID: SPDXRef-item9165222
+FileChecksum: SHA1: bc29c6aea71617c4bfe0ac94bd0f8e3a968b83cc
+FileChecksum: SHA256: 1c1a5dccaf08af348317cde31231e39ff801a2e22088be27c8959b793967e8c8
+FileChecksum: MD5: 9509f495e7cf316608c1cdb7fb8cb91f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/include/CMakeLists.txt
+SPDXID: SPDXRef-item9165232
+FileChecksum: SHA1: 85bc6b05f8e95301b6dd5051872ccf7ee5106db0
+FileChecksum: SHA256: e0609de52414f97d06a8643eef44720dc0c5c3ae38f419ccbecb4606719e1cb8
+FileChecksum: MD5: 1ec1818ec5c8cb0297cb8aebec3e689d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/hlsl/computeheadless.comp
+SPDXID: SPDXRef-item9165237
+FileChecksum: SHA1: 84c11067f7bf3fe55ec3f34cbbd3dd76906e4dd3
+FileChecksum: SHA256: 8c36f58dc08a43f4cf8b5fcaf2193afdfdb8d79a79d15604514bcb709158239c
+FileChecksum: MD5: a0bcde5c14f2a196c4986d0ce55cee2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright 2020 Google LLC </text>
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/glsl/ShaderOpMult.comp
+SPDXID: SPDXRef-item9165239
+FileChecksum: SHA1: c0ef66c38a6635df4cac25c5cbed9b1128613723
+FileChecksum: SHA256: d2ce070d75741a0d8b3075168611c076b3b215167ad2c9a1d60eed455a00b2d3
+FileChecksum: MD5: f4d8e5186ec9594240a352ee5d0d2430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/glsl/ShaderLogisticRegression.comp
+SPDXID: SPDXRef-item9165240
+FileChecksum: SHA1: 05f7683a5ca74091871cdcdbe62562e56085a438
+FileChecksum: SHA256: 56a31e73a8cc878ed5c1efca8d762013058ce6c2ce417367fbcc3e1688843292
+FileChecksum: MD5: eb369ae89226713fa0f5f2c8f730f9e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/glsl/ShaderOpMult.hpp.in
+SPDXID: SPDXRef-item9165242
+FileChecksum: SHA1: afd867216370d2ed01c70bfba2570c7d1f507697
+FileChecksum: SHA256: 3a01643a9585f3eef9cb150541c1aa702df98f45735dc8a02e9c2e8b4bcccd0d
+FileChecksum: MD5: 5eff1db399160e73a62bd4edc037b9d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/shaders/glsl/ShaderLogisticRegression.hpp.in
+SPDXID: SPDXRef-item9165243
+FileChecksum: SHA1: cc208dff0da6c7889664c1c6d08be31273fb9ddb
+FileChecksum: SHA256: e61311b2fd64ed631eeb6718ab25c1b4c8967b84ebb80096303c67aae4376f04
+FileChecksum: MD5: ec485de6b1342b2f505aa1db91d010da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/logger/CMakeLists.txt
+SPDXID: SPDXRef-item9165249
+FileChecksum: SHA1: 84f53b7d1f8c219c49ab31b9c071388c2587ee3e
+FileChecksum: SHA256: 79979ac0c66dd9a2ef0c51906ad17ebc46315ce3ee4e30fa2183cb4a6fc68b02
+FileChecksum: MD5: c83524ba60698ef99dc965ee86b57955
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/src/logger/Logger.cpp
+SPDXID: SPDXRef-item9165250
+FileChecksum: SHA1: 8b96bb1139feb9fc787b298388b56b89f8bfddb8
+FileChecksum: SHA256: 4fd023dd1a83cbd3431680a883b6304e9019caf93951db179baba558a1da097d
+FileChecksum: MD5: 78260cb4567405a0c6941398ea067e22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.github/workflows/cpp_examples.yml
+SPDXID: SPDXRef-item9165254
+FileChecksum: SHA1: 4b5eb6a762dba99da2cf0479b364f03b10a5cbb5
+FileChecksum: SHA256: 9d22c22e3b93b506f8b706291e0f9192c9b8df481cd2591c10da993163eb959c
+FileChecksum: MD5: da4c9b8e5f0317ddd2721719b2bce2d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.github/workflows/python_tests.yml
+SPDXID: SPDXRef-item9165255
+FileChecksum: SHA1: c0e761e79270c9bed92d64b5ffc96ee043961eff
+FileChecksum: SHA256: 9649580297e791cd6738d2173a0da6d306eb2107e5bf1c11c118b1ed31ba4535
+FileChecksum: MD5: 18b6b5424d6ba22e10633e11fdb5ae54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.github/workflows/cpp_tests.yml
+SPDXID: SPDXRef-item9165256
+FileChecksum: SHA1: 21d48ce93504c414b051cad9831909d15f5c15fd
+FileChecksum: SHA256: 7acf79f2a31e2844a2452ddf05a324d8b991cfc98fdccab250bcdd96c93fc848
+FileChecksum: MD5: d0b70a6a4219b1699a4e9eabd9c0aebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/setup.py
+SPDXID: SPDXRef-item9165257
+FileChecksum: SHA1: 649541265503dd3bfe651e97792eb02838d723f3
+FileChecksum: SHA256: 2119aad8caf10f8b438f5912b26adac2e0eedcd6a118ec91a6aec6c165eac991
+FileChecksum: MD5: 6d8bced04c89199d64119cf257781926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/gradle.properties
+SPDXID: SPDXRef-item9165261
+FileChecksum: SHA1: 1aae2925e8d6e09f613cfc94a308ec2ebde167ed
+FileChecksum: SHA256: 4503d9b552c60bd7ea5c5f80816ac39d206f40685991e673c4eb946593d1985a
+FileChecksum: MD5: 1d130700638e1280c102a621356fae75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item9165264
+FileChecksum: SHA1: f6dd4ece57caca59cae85b36e2675e9b0f0ef4b9
+FileChecksum: SHA256: bfee99b58c31274ccdc4391d03c21a507dcb0ee2adc8387a49c6d5b47f806a4e
+FileChecksum: MD5: c493accd147dc4b884056d76ad7b09d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/.gitignore
+SPDXID: SPDXRef-item9165265
+FileChecksum: SHA1: f1c2fd570083e457d7e8eb0d10bc7299a12682e0
+FileChecksum: SHA256: 602a8d4bb32831727a9562ffa67547e054055081b1c9d0c451b376859448a265
+FileChecksum: MD5: 67cda5f7d612655224eb764a15725970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/gradlew
+SPDXID: SPDXRef-item9165266
+FileChecksum: SHA1: 6409d6256df6b2f9e2142183b4c6408823a10f6a
+FileChecksum: SHA256: ec56c02543666d92d9ac5ae7fcc48f88ce4de0deb8b7f9b39928ca46f68c1b2b
+FileChecksum: MD5: 7f1cd7eb3f75a1dc85cd37753972a6e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/build.gradle
+SPDXID: SPDXRef-item9165267
+FileChecksum: SHA1: 5e57a64c1dadc32623f9741e2866fa0e313d29e6
+FileChecksum: SHA256: 1734d4bf24008344ffc754c8b3f63e569bc64bc7b949e6b28a138892933e85c1
+FileChecksum: MD5: 8479316f6af669d01fe0196b9a7db69c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/README.md
+SPDXID: SPDXRef-item9165268
+FileChecksum: SHA1: 3931add7c31f98742ba5d192c1c5644b48c74558
+FileChecksum: SHA256: 99f1834c1eac94af1180e6bdcbfbbfebc227632c52dfe7dcff443e89f725d564
+FileChecksum: MD5: 403105775892dbd770be416e8e055155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/settings.gradle
+SPDXID: SPDXRef-item9165269
+FileChecksum: SHA1: d39bb8c225ac42624a4c15cbc7e66baaa1889e20
+FileChecksum: SHA256: b5793e2856a60278b0cce0e483c3b849817cedaf139768d76776b7e72de267ae
+FileChecksum: MD5: a1be263b5747e2c23a517ff5332a7613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/gradlew.bat
+SPDXID: SPDXRef-item9165270
+FileChecksum: SHA1: cf68b95a4029e352fe1ee002bb367ac1b686f9ad
+FileChecksum: SHA256: c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62
+FileChecksum: MD5: 375ddea382b6c56a7be2a967a20e0ab5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/cpp/shader/my_shader.comp
+SPDXID: SPDXRef-item9165276
+FileChecksum: SHA1: 6aba84517addb0344b4edb3790fe63e46aaf211f
+FileChecksum: SHA256: 61d949db569dfb05b757b279cc82b7e714ba3b3ec448f7792870226c78069d3a
+FileChecksum: MD5: c93b5f4bd477951f1eb148c2014acd60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/cpp/KomputeModelML.cpp
+SPDXID: SPDXRef-item9165277
+FileChecksum: SHA1: 407abbfa2ab49ce3851accd416e40c94095e9218
+FileChecksum: SHA256: c2844437180b587b7abb2e1c4cbc1cc2ebe40a8812f2bfa4be311a19749a3e64
+FileChecksum: MD5: 4c46c577547f3b11663582bcacb75f02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/cpp/KomputeModelML.hpp
+SPDXID: SPDXRef-item9165279
+FileChecksum: SHA1: 77c3b48659de2b1322da22b72d22d5841e2c569d
+FileChecksum: SHA256: a8803ba39570aa5c076ef5ed2812beb3f2fbb2ce55d7ae99d202b501a7aa3e1b
+FileChecksum: MD5: cbec3d0d40d5a580a29ac872ccebe74b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/cpp/CMakeLists.txt
+SPDXID: SPDXRef-item9165280
+FileChecksum: SHA1: 93c62c40392c180ad899b2738128b3ff8be2a2b9
+FileChecksum: SHA256: 19e5b0f1866d768c9563692703716fca9e0b97f2b834dbd3c9ac69e5a31fc6d6
+FileChecksum: MD5: a9c357e38fe9b1b770ad9ccb524f4a3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/AndroidManifest.xml
+SPDXID: SPDXRef-item9165281
+FileChecksum: SHA1: 126e0c0ab6ca1a60da774062fa4c9aba3dd8f9a8
+FileChecksum: SHA256: 3cd17ed439d4be7f14f018ff12ac1cbae5542f51df5bc08fd4b30e1bbdc1977d
+FileChecksum: MD5: 363d5195521676658eacd85180d372c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+SPDXID: SPDXRef-item9165284
+FileChecksum: SHA1: 429cfcb7c161e5fd60c9f155a6436ba5c78f7af7
+FileChecksum: SHA256: 77c2aa8ab1424e123ee86c4cb7b92e2b9b84bfeccc2cecb0d33df8d6410c939f
+FileChecksum: MD5: 4ad08251ddecfdd6e2a2c53e79b8d8de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/values/kompute_icon_background.xml
+SPDXID: SPDXRef-item9165286
+FileChecksum: SHA1: 3285a85b90c6db836a10f3c234c8ad925bd7ffde
+FileChecksum: SHA256: ba8e9242754e22302a3e116d9830996a42635ca82e681a5a55a6da64fab2b45a
+FileChecksum: MD5: f48d45660d8f6b6d4d12004631864ebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/values/styles.xml
+SPDXID: SPDXRef-item9165287
+FileChecksum: SHA1: c1b2a55119a0122164ccd82b301b84b68b0a696a
+FileChecksum: SHA256: eae69a0ed17e0831fe3fe5fb4e7d4646fcb4145c3fef7aa37a848d08fb2c2a13
+FileChecksum: MD5: 29b4ef1f713d0138e1dad6f8e587bff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/values/strings.xml
+SPDXID: SPDXRef-item9165288
+FileChecksum: SHA1: 307d13d219cc2df4d3c21e7c66f9ebae8e63a97e
+FileChecksum: SHA256: 784736220515b8d4e29aa51b629585675ac4b0f74d410d29d8b99b8177368059
+FileChecksum: MD5: 462ee7d4fbc81c7f93670fcceb67e1e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/values/colors.xml
+SPDXID: SPDXRef-item9165289
+FileChecksum: SHA1: 30a53402cab3745be334d4d4c45b8235405d7dc5
+FileChecksum: SHA256: a3607cc982e5586fdc27a0feaeb59b7affd661d630b34c2bd8531371ce8159f4
+FileChecksum: MD5: 38cf6e35d68dac323a16767a95b6fc6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/values/dimens.xml
+SPDXID: SPDXRef-item9165290
+FileChecksum: SHA1: 4e1904afba59d31e5cd6133f6a4c360fa9a5913f
+FileChecksum: SHA256: cca11cdbc1aaa8ff649c496469963f27150695f16fe0dcc558eacd6e7fc30c69
+FileChecksum: MD5: 77708536bdf75969da02b4a5687d1a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-mdpi/ic_launcher.png
+SPDXID: SPDXRef-item9165292
+FileChecksum: SHA1: ae86c9f2fefeb0a12f9e350975339bc580efd813
+FileChecksum: SHA256: 90f5bc4bf1364152b1943933b6910bafc913e7a813de5c1b0ba4723e33e58975
+FileChecksum: MD5: 5ff8945dee0f56d079db8ce6691aaaeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-hdpi/ic_launcher.png
+SPDXID: SPDXRef-item9165294
+FileChecksum: SHA1: a78f48fe9f9114f315dc79eff29452e93ffd709a
+FileChecksum: SHA256: 820e323f5506dc1dda3fad164e5fa0acd56a8266e4ea441db94e60fd9972d28a
+FileChecksum: MD5: 357539403cded61d96161198a0773ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+SPDXID: SPDXRef-item9165296
+FileChecksum: SHA1: 41dc154e4ffff91ab2b070a4ce0ad15e50571bea
+FileChecksum: SHA256: c6e7620e6c5d9bf8020f7216117d8cb799f7936f232e28732443b1fe79521d6c
+FileChecksum: MD5: 40d69d20dd057b4a331d03f2f3f2667e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-xhdpi/kompute_icon_foreground.png
+SPDXID: SPDXRef-item9165298
+FileChecksum: SHA1: 02af47faf9b05aaaafa66032afd6123df0728092
+FileChecksum: SHA256: dc8575314f5208fa9ce162d4f284cd6d210115c0c39d1bdef032a271b0aac959
+FileChecksum: MD5: 34e21990afc08e73c27640840630be9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-xhdpi/kompute_icon.png
+SPDXID: SPDXRef-item9165299
+FileChecksum: SHA1: 7bfc9d669b1a28177dbc94e8c0096e8a8498ad95
+FileChecksum: SHA256: acbe00fda101fc90e6fff1d1f0ad9b232606d3195911ac189e7f2bf37ba83d7a
+FileChecksum: MD5: 04b108c3219f66165e52735ae5ebf6e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+SPDXID: SPDXRef-item9165300
+FileChecksum: SHA1: cac22ff594b3baf6d111f57405f27b485463a68c
+FileChecksum: SHA256: 552f9a01050827cc24c9bf50569fe8b0a121fb93297106e224986e7a4e9cc747
+FileChecksum: MD5: 93fd2eadf162fd41695cab262540184f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/mipmap-anydpi-v26/kompute_icon.xml
+SPDXID: SPDXRef-item9165302
+FileChecksum: SHA1: bfb8a0a39e9e3353b0b5361e392da01fbf7276fc
+FileChecksum: SHA256: 6545a53e968aa34889eab59d2157b90bc17df334e793b3832f6501fe0eaf9a82
+FileChecksum: MD5: 6ce9c5b316232f94f47a862f2cd82ce8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/layout/activity_kompute_jni.xml
+SPDXID: SPDXRef-item9165304
+FileChecksum: SHA1: 3db4c0660c1de390371d5e2be9f25be08acd2af2
+FileChecksum: SHA256: 702b377b7c9933219f56c10910dddccf010d5e697ca6bab6e3f6f2255b7f9250
+FileChecksum: MD5: 4f2d7647bd2bc68a1f67a9c615d9cea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/res/values-w820dp/dimens.xml
+SPDXID: SPDXRef-item9165306
+FileChecksum: SHA1: 4e7023247eba857b18a09f72c680169b11aff002
+FileChecksum: SHA256: 84726c95be47d72108ff64829270ade6c367476f945e40b9f1930d8e90241b7d
+FileChecksum: MD5: f06a662d076312e2271749c093cf40d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/assets/komputer-2.gif
+SPDXID: SPDXRef-item9165308
+FileChecksum: SHA1: 0b473cb370cffdd7a1195a04630f4fe0aacf61ea
+FileChecksum: SHA256: 804d25768a1d7c89571b966e2047021949003d05bf6e948d33d30b792737ea1c
+FileChecksum: MD5: c501ce9182347687585f852c8e8ad55c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/assets/kompute.jpg
+SPDXID: SPDXRef-item9165309
+FileChecksum: SHA1: 59ce11404bbc598ec6d2c1711d2636063ced1c25
+FileChecksum: SHA256: 8e3749189783a25564d43a8f873da392e57e28f00b5a49ce5a12523d9b5dcc8c
+FileChecksum: MD5: dc8450d57873518d2441e871447da0de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/src/main/java/com/ethicalml/kompute/KomputeJni.kt
+SPDXID: SPDXRef-item9165314
+FileChecksum: SHA1: 437e1ccbbe1a530dbd28b2a906936ffcc9b9a46c
+FileChecksum: SHA256: bcbb77dceea0111ed5b601870d89cd0220ffbd7ad95ba675be8cc8181d2444ff
+FileChecksum: MD5: 2fd2f32624fcb9e83a4cbe3d1ed7035b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/proguard-rules.pro
+SPDXID: SPDXRef-item9165315
+FileChecksum: SHA1: 0764912aa415c95d6fdbd4b787b09abcd2083b44
+FileChecksum: SHA256: a881b3e08892accccb821b6c4b386a9909e4f122ba263babce0d36d40164b6e1
+FileChecksum: MD5: 26344d2c6a0e3633b898f683a63361f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/android/android-simple/app/build.gradle
+SPDXID: SPDXRef-item9165316
+FileChecksum: SHA1: 7502b937831832d481fbc6229d31f01fcc9a4698
+FileChecksum: SHA256: 7af8149b53644cce277481b9d7530d500021daa165f4ea2f2f243153d6d3f616
+FileChecksum: MD5: 5044f5b37b8680fa1ccb7a0d04baaeca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/scripts/DynamicExampleScript.gd
+SPDXID: SPDXRef-item9165320
+FileChecksum: SHA1: d29fc86a743e84c033274cb0172a32327012167d
+FileChecksum: SHA256: 06558db6e780719630b7d30e7f128855d854db8ebab7125f5738d63e08f5eccf
+FileChecksum: MD5: bb110a0531e7592bfcdbb6d8ad738233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/scripts/KomputeNativeLibrary.gdnlib
+SPDXID: SPDXRef-item9165321
+FileChecksum: SHA1: a80ce24fd414c8e29e57be446c7b8837613ee677
+FileChecksum: SHA256: 61675eed6795f6c1957466e8337bf9f97697db28ee67b9a056b4fb084d94fa7b
+FileChecksum: MD5: 152ce2a5e0d62d507a90cd5d65f914f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/scripts/CustomModuleExampleScene.gd
+SPDXID: SPDXRef-item9165322
+FileChecksum: SHA1: 47d870dc2e9daec2006ff2268a4a695f5e46aa70
+FileChecksum: SHA256: 4862dbe8a03058b57234b5c09e70bdfd0a499078e4c864567644163d0357a57e
+FileChecksum: MD5: de5648f093a8f1ea4d00de1681a46d69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/scripts/KomputeNativeClass.gdns
+SPDXID: SPDXRef-item9165323
+FileChecksum: SHA1: 838bdaf5b21d898f8aba6ca5a8c89503338de176
+FileChecksum: SHA256: f66207b5f38a08e35f244ee6135b9c62fc9efd5641893123657790ab6d569353
+FileChecksum: MD5: 3236bfc03e9019af460013ddc4125665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/CustomModuleExampleScene.tscn
+SPDXID: SPDXRef-item9165325
+FileChecksum: SHA1: 66511243978bb6e80f68148fd0c2b104f7e035cf
+FileChecksum: SHA256: ae64a5f0b5435d27f455c7a21a091244916380bda88dad17422c9783fddab161
+FileChecksum: MD5: 10ae9318a99badec2229d455c25237a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/TextFormat.theme
+SPDXID: SPDXRef-item9165326
+FileChecksum: SHA1: 39e06711e61ba804237f7815286a397bcbed2196
+FileChecksum: SHA256: 2ff942bb67086459bbd05e9dbbddf9bd1bad108723f0bc5e00f9487b64fcc679
+FileChecksum: MD5: 540ec4ca2b029f3ba9e39b6314688beb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/icon.png
+SPDXID: SPDXRef-item9165327
+FileChecksum: SHA1: d86d0ea716793fa228216e4155bd88bdbfeef49f
+FileChecksum: SHA256: b79442accccae75492d664f78bdc562c62748c27a882d117403ef94915671be8
+FileChecksum: MD5: f66065d06c2ce9fb85e0bda7dd1312a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/default_env.tres
+SPDXID: SPDXRef-item9165328
+FileChecksum: SHA1: 804253f52665c687d66b4a24b39f1c3286967c9d
+FileChecksum: SHA256: 3a1fe35a97723377d5cae0e17fcbd055f5e32a59eacc6216771d627afc6eb7a7
+FileChecksum: MD5: 756de160834ef7cc033c2a79cd80f338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/roboto.ttf
+SPDXID: SPDXRef-item9165329
+FileChecksum: SHA1: 096c9245b6a192d1403a82848e104a65f578a8ec
+FileChecksum: SHA256: 017c0be9aaa6d0359737e1fa762ad304c0e0107927faff5a6c1f415c7f5244ed
+FileChecksum: MD5: 11eabca2251325cfc5589c9c6fb57b46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/icon.png.import
+SPDXID: SPDXRef-item9165330
+FileChecksum: SHA1: 3a52af50325602240aff9f2ad884f8aee881a0ac
+FileChecksum: SHA256: ad3251cfa5846a48b953c4324b656c8d25fe43618dfd0d842698f7d041112d1a
+FileChecksum: MD5: 763bcde9eef3b1d4235b68c5114c6eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_resources/assets/DynamicExampleScene.tscn
+SPDXID: SPDXRef-item9165331
+FileChecksum: SHA1: f130e5936e6daba904fc7971bc91e27c6e5ee00c
+FileChecksum: SHA256: 556cd463f14dcbfcb6a4b711e2de530184055b083566d47e6961626611f12f75
+FileChecksum: MD5: 2461de6e060e6cbf57ebb71315bb8add
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/.gdignore
+SPDXID: SPDXRef-item9165333
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/.gitignore
+SPDXID: SPDXRef-item9165334
+FileChecksum: SHA1: 4b07499f41bd8185b78088705a52e6f16b6f7848
+FileChecksum: SHA256: 82de2900d1ea28c175d4a33a6f3660fc882c408c31f462900973f50a51dda233
+FileChecksum: MD5: 003101abcb538cf440271304f286d87d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/README.md
+SPDXID: SPDXRef-item9165335
+FileChecksum: SHA1: fb8f5c3faad684536645d99f582774f3f95e3430
+FileChecksum: SHA256: 8c8c39a6063f95a63db795a48b546009eeb7f6bde7dc7022a4528214f99ad43c
+FileChecksum: MD5: 011ba22ef84963b4ea1b8cf83cdaab2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/register_types.h
+SPDXID: SPDXRef-item9165337
+FileChecksum: SHA1: 173359eb84f6f97efb4306723614a2e4a6d7644c
+FileChecksum: SHA256: a6cf5519004070f431ae8e66fb2034e2e0480c81cded20c74d9f33057425f28a
+FileChecksum: MD5: cf575b96a09a1b7f0b318c3f5ca4febe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/config.py
+SPDXID: SPDXRef-item9165338
+FileChecksum: SHA1: 5033b0d35aaec143190463aea28bdfd6b6243eea
+FileChecksum: SHA256: 5f174054eb0f382af05bc30389a71b4ebbf3a624681b3f433f1b875d8366f48b
+FileChecksum: MD5: 8e44dd7ea0640aca2efe5d5d008f32ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/SCsub
+SPDXID: SPDXRef-item9165339
+FileChecksum: SHA1: 90191540ca33c377c1f7dfe2d08546c835c3ccc3
+FileChecksum: SHA256: 4fbb385d562500819bc65d4727ddae686156048ebf0af4c6a9eb3c4154359088
+FileChecksum: MD5: fa51293e08aaa768c4da3ab80658915a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/KomputeModelMLNode.h
+SPDXID: SPDXRef-item9165340
+FileChecksum: SHA1: 0a5d99987fcd7c849de6ed13123b1bae77a8878b
+FileChecksum: SHA256: 7183a2f9954a686a85e00b6283a797714bf78b89ab1ded3f4622b80663b948d2
+FileChecksum: MD5: 4314f609a71474ac4e6a336ed17e23b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/include/.gitignore
+SPDXID: SPDXRef-item9165342
+FileChecksum: SHA1: 6cfed30448db7912274a4c9ce389e3d042f0e40d
+FileChecksum: SHA256: 44a49e5fccb0ad95c13b7045aea0d310996a641a0a64d07147fd4638431e24ed
+FileChecksum: MD5: 4b254217ed3fd88d2aa89d9821afe810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/KomputeModelMLNode.cpp
+SPDXID: SPDXRef-item9165343
+FileChecksum: SHA1: e87152bd4f6e880912dc140a05bfc650e70d2241
+FileChecksum: SHA256: 4231046bb073b8686fef4d98bdc90f51228d0994f7d96c3dd6130314bd74f3a9
+FileChecksum: MD5: c04bac603deaa5d4108ccbcadb7f4063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/custom_module/kompute_model_ml/register_types.cpp
+SPDXID: SPDXRef-item9165344
+FileChecksum: SHA1: 66f8831286de78f638e624258c62cea327341187
+FileChecksum: SHA256: 48cdb82b01698885d0eb9a76e78b3691b644236457332093f663b36eb89c551b
+FileChecksum: MD5: bec662e2c221b2aa4c790ab801534975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/godot_engine/.gdignore
+SPDXID: SPDXRef-item9165346
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/.gitignore
+SPDXID: SPDXRef-item9165347
+FileChecksum: SHA1: 80cd75be2323602c29a8f1d3c66c763dd59901d3
+FileChecksum: SHA256: 058e780fa6ad1c127df8434ba119216693e204f813ecb5de017c66c9a80abf91
+FileChecksum: MD5: 221bfc95e13caf14e5df6422645b8946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/README.md
+SPDXID: SPDXRef-item9165348
+FileChecksum: SHA1: 2f30d6b6ed4f90f81b4b1165d6a9fcc3aff3c25d
+FileChecksum: SHA256: 8ad5f0b697920fd176edc8a648353ea061a75c86dfe5da031f8a146eac88f0f5
+FileChecksum: MD5: e71a57b1dca35889cada1c8c0b85a02e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/project.godot
+SPDXID: SPDXRef-item9165349
+FileChecksum: SHA1: 80be65aecff27bbe66acecdb65acce1188088653
+FileChecksum: SHA256: 88b0736363100e922a10002982ff34f52b9cfa831da8b72e93b7dd30f3db120d
+FileChecksum: MD5: bd144ff6dc88f62f4d2eac0978895e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/src/KomputeModelML.cpp
+SPDXID: SPDXRef-item9165352
+FileChecksum: SHA1: f9e7b4e2edbe1d34640dc5879b910a44669feadb
+FileChecksum: SHA256: f49247d9f28a04cbabdabc2459fef0df41924d830a37c91d67aafdd5da8249bb
+FileChecksum: MD5: 58e15fb6eac1ffec2bb0910695248eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/src/.gdignore
+SPDXID: SPDXRef-item9165353
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/src/KomputeModelML.hpp
+SPDXID: SPDXRef-item9165354
+FileChecksum: SHA1: 887ce42de0824045484b6a2c57e3a9a281dfc85d
+FileChecksum: SHA256: 8abe7faad94cc66e7fca1a231c0288e1249d097d85a648458eb0373c9380faf9
+FileChecksum: MD5: 7053b10ade713332e4732efdf9199027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/src/KomputeGdNative.cpp
+SPDXID: SPDXRef-item9165355
+FileChecksum: SHA1: 1b806e0ac7201bc602054b8b75df379ebdec0d49
+FileChecksum: SHA256: a63b15c087ebc5ff73fc1de35b2581a491815759bcafb9b459be91513074984b
+FileChecksum: MD5: 7f3a1df0011aeea6a403b7d45fbaa83c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/.gdignore
+SPDXID: SPDXRef-item9165356
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/.gitignore
+SPDXID: SPDXRef-item9165357
+FileChecksum: SHA1: dd1787832dd35c6e00ca5e7cfafa6178fbe2c037
+FileChecksum: SHA256: d912c574f0a4af2a1ea6f6c42de7f4c41e1673352c643d8c1acba200c8d563ac
+FileChecksum: MD5: d817a4a162d269b2111737e1281b1a93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/CMakeLists.txt
+SPDXID: SPDXRef-item9165358
+FileChecksum: SHA1: 911f6279097bf6fe60ec38d3f9dc2594ed9c6cf6
+FileChecksum: SHA256: 76f4dca1e7a79af083ec02f3b230cf67f6db13719fdce2fae6310a405c0157ae
+FileChecksum: MD5: b1f233e757b5b59cf84ca71eaeeedd13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_logistic_regression/gdnative_shared/README.md
+SPDXID: SPDXRef-item9165359
+FileChecksum: SHA1: 1aff7bb9733028ed417d341772ae971748c5869c
+FileChecksum: SHA256: e8b683484191fd5650ea82016ffdb3a9b56e6a56db155bfe529c2dda43a0e6de
+FileChecksum: MD5: 2835a8027e703855473b90024898746e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/array_multiplication/shader/my_shader.comp
+SPDXID: SPDXRef-item9165362
+FileChecksum: SHA1: d2fa8f8632a86dc87c975a6a0d6568e66c83ad69
+FileChecksum: SHA256: 47203327db4677a1da92bf8aedcec291f445d7488bf69c6cc002175a01c5019e
+FileChecksum: MD5: c02a41ba6149c88e2aa5064b882ad2ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/array_multiplication/src/main.cpp
+SPDXID: SPDXRef-item9165364
+FileChecksum: SHA1: 04f41bef65436dffc4eb94bcf594a6ff22685c41
+FileChecksum: SHA256: d0cfeb7f48e82693e416fe64c472f8b071be4464be5b142cbccb6bf715dfb53c
+FileChecksum: MD5: 3c7f01c2423f35ed0b7d3fe83a7f2592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/array_multiplication/CMakeLists.txt
+SPDXID: SPDXRef-item9165365
+FileChecksum: SHA1: 4d552ee8d16e464b44fd2fcbef28cef52a8b9df9
+FileChecksum: SHA256: d88f0eeeba9d703385c3f49dd59feeb74195cf3ef4b31db70316ea24e84afdc7
+FileChecksum: MD5: 826cb439168b096aee266a948b601395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/array_multiplication/README.md
+SPDXID: SPDXRef-item9165366
+FileChecksum: SHA1: 20221271298704df71194d2a35e84d665ee9224c
+FileChecksum: SHA256: 8201ea237d32465f8804a379248c751b3e40481571212740ab3314319f02935a
+FileChecksum: MD5: 4655e63a29e785aa565f52181d517301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/.gitignore
+SPDXID: SPDXRef-item9165367
+FileChecksum: SHA1: 330ae339816f42a124f7bde615e3741f12a03260
+FileChecksum: SHA256: 683ceb3c3318f14023d95bff252deee2cb8ad1d4ec1dfe24e2384954515457c0
+FileChecksum: MD5: 7da128e7e094bf1496c0f177851d8270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/out.png
+SPDXID: SPDXRef-item9165369
+FileChecksum: SHA1: e0b964c30ddaa48765f3549b4519c7ab78a67335
+FileChecksum: SHA256: dc19307318f6897261fc5d9cbbe358da0e0c08f3b9b8642baace9ed092d6f03f
+FileChecksum: MD5: 2bee9eb98402699ed145caf1c341b25e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/sh_common.py
+SPDXID: SPDXRef-item9165370
+FileChecksum: SHA1: cb178abc08c15214b0ab0a870b6a62fb8a15d7da
+FileChecksum: SHA256: 8f505685db7164ae77b9733b628b0cbd945f574f8a3cdb05dc12a6f47f04399b
+FileChecksum: MD5: bbac6e99c479ada039352c0f8182ce2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/.gitignore
+SPDXID: SPDXRef-item9165371
+FileChecksum: SHA1: b61006b9a2f9792b3ab44a3432de3f0a848d4512
+FileChecksum: SHA256: d4ea87894d0038f1c20eb10863843e8485c5a1465575fafc789a0deb3c6974b8
+FileChecksum: MD5: 969f306df0fc159e13abaf5e06e515b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/w2wbinit.png
+SPDXID: SPDXRef-item9165372
+FileChecksum: SHA1: 210fa9e29107cce724d1b4bcbb33786eb0661172
+FileChecksum: SHA256: 281837af389f9af81f5fc940e8ce90f63c1914389a611970558d60ecd5769827
+FileChecksum: MD5: b966bf4d22ebc58b07a3d10fa217bb47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/README.md
+SPDXID: SPDXRef-item9165373
+FileChecksum: SHA1: 428a91c974deeee72b0e500cf006b32564df2a8e
+FileChecksum: SHA256: 5451c8660f4e092eaa145c9922b0a417e1bbdda0cd7aa47347c43b9ca565f4cd
+FileChecksum: MD5: 0fe04028e5d049f3d6f74a3bc95ab177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/sh_conv.py
+SPDXID: SPDXRef-item9165374
+FileChecksum: SHA1: 7cd7c9cd02f5f616cee10a36d5d4c6935d3c03c2
+FileChecksum: SHA256: 9075548f6e78313f2346ca66b7953e1937238f54a6a14a8854f4a76dc37bb313
+FileChecksum: MD5: 36275e8c4e136c94655b6450e5b5d9fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/import_vgg7.py
+SPDXID: SPDXRef-item9165375
+FileChecksum: SHA1: 3bf37523368ec8d616c3c3db937c8e824a672674
+FileChecksum: SHA256: 6bdc5dd402545c5cc663445a6f53874b17cf74c5508d4db3a4e70145e6440bd4
+FileChecksum: MD5: 9189ba57fd24f00f9fb03587cf29a2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/neural_network_vgg7/run_vgg7.py
+SPDXID: SPDXRef-item9165376
+FileChecksum: SHA1: 74172e6d35aadb2f23925c997338e04dfdb661a3
+FileChecksum: SHA256: 352f7b2d26327e73a6462db6329351112ab87fccfbe3614ae99858b9d0c4fb14
+FileChecksum: MD5: 1acc5f5e09834cc85b9fee0932d933bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/pi4_mesa_build/README.md
+SPDXID: SPDXRef-item9165378
+FileChecksum: SHA1: 3f5d809f84a56bb5e736a76341fe18ce2613e605
+FileChecksum: SHA256: a1c0f76e5cc091c8ff96ba465198f918f152ef65724ec1a0fc52566675b1a10e
+FileChecksum: MD5: 68903a378bc4fc4f5c8a39cd024fbd10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/scripts/DynamicExampleScript.gd
+SPDXID: SPDXRef-item9165382
+FileChecksum: SHA1: a8c2f8f5fd64b48addc170d5c13e90acf2ae5eb0
+FileChecksum: SHA256: 265f297945bbfb4ca792ab6589ccc33a4c6f905aaaf084a01fd8f3fb07bde714
+FileChecksum: MD5: 17c3ea4b54726a7e1a7c8c277543663a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/scripts/KomputeNativeLibrary.gdnlib
+SPDXID: SPDXRef-item9165383
+FileChecksum: SHA1: a80ce24fd414c8e29e57be446c7b8837613ee677
+FileChecksum: SHA256: 61675eed6795f6c1957466e8337bf9f97697db28ee67b9a056b4fb084d94fa7b
+FileChecksum: MD5: 152ce2a5e0d62d507a90cd5d65f914f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/scripts/CustomModuleExampleScene.gd
+SPDXID: SPDXRef-item9165384
+FileChecksum: SHA1: bc112eab0fd89dcfa227d936221d9d94d6777b85
+FileChecksum: SHA256: 2a1e76638eed96d0041275df4c283ba97cd6af83e6bd06feb5411abf19f813bc
+FileChecksum: MD5: b86c3524d25b2e671f64fb29a4c1f5c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/scripts/KomputeNativeClass.gdns
+SPDXID: SPDXRef-item9165385
+FileChecksum: SHA1: a7a4dbdf8b8640ecc9df45b96a03cecbb6c96f6c
+FileChecksum: SHA256: 4e17f83fde136ac324558383526c82979523b76e6b1a7769c17c49b45ff20933
+FileChecksum: MD5: 9ce782c7070d4c7d1dd4f9409a69ce4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/assets/CustomModuleExampleScene.tscn
+SPDXID: SPDXRef-item9165387
+FileChecksum: SHA1: d3ed40676f063c8a34171da8e67982360ac4eac5
+FileChecksum: SHA256: 7b27528449077e557ab86e56812f3a19c620e035323dd6f560508be075aec359
+FileChecksum: MD5: 41235c337cc5670dd81f350366ca546f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/assets/icon.png
+SPDXID: SPDXRef-item9165388
+FileChecksum: SHA1: d86d0ea716793fa228216e4155bd88bdbfeef49f
+FileChecksum: SHA256: b79442accccae75492d664f78bdc562c62748c27a882d117403ef94915671be8
+FileChecksum: MD5: f66065d06c2ce9fb85e0bda7dd1312a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/assets/default_env.tres
+SPDXID: SPDXRef-item9165389
+FileChecksum: SHA1: 804253f52665c687d66b4a24b39f1c3286967c9d
+FileChecksum: SHA256: 3a1fe35a97723377d5cae0e17fcbd055f5e32a59eacc6216771d627afc6eb7a7
+FileChecksum: MD5: 756de160834ef7cc033c2a79cd80f338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/assets/icon.png.import
+SPDXID: SPDXRef-item9165390
+FileChecksum: SHA1: 3a52af50325602240aff9f2ad884f8aee881a0ac
+FileChecksum: SHA256: ad3251cfa5846a48b953c4324b656c8d25fe43618dfd0d842698f7d041112d1a
+FileChecksum: MD5: 763bcde9eef3b1d4235b68c5114c6eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_resources/assets/DynamicExampleScene.tscn
+SPDXID: SPDXRef-item9165391
+FileChecksum: SHA1: e807cb2c2f51b5188a74e35062460d5faefb223c
+FileChecksum: SHA256: d65a5097088bc10cda9ff490142c3fb0373b97e7eddeb749afe23246f3401e4f
+FileChecksum: MD5: 6a2d19d48bb13332c96b692aa287020c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/.gdignore
+SPDXID: SPDXRef-item9165393
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/.gitignore
+SPDXID: SPDXRef-item9165394
+FileChecksum: SHA1: 4b07499f41bd8185b78088705a52e6f16b6f7848
+FileChecksum: SHA256: 82de2900d1ea28c175d4a33a6f3660fc882c408c31f462900973f50a51dda233
+FileChecksum: MD5: 003101abcb538cf440271304f286d87d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/README.md
+SPDXID: SPDXRef-item9165395
+FileChecksum: SHA1: f16dbf7a625d1b2073160ee8e35b67707f59c9b7
+FileChecksum: SHA256: 7c2835def426bf4b98ca76b5ad89ea3ce724d9b8365469205bf8e21ca37bbf21
+FileChecksum: MD5: 5a04e1c993c407b16f940610893860e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/register_types.h
+SPDXID: SPDXRef-item9165397
+FileChecksum: SHA1: 9682b817da530e87d4f6d939ead9acc75cf41a93
+FileChecksum: SHA256: bd216271321ca857a331977eeff20cc0d19c87da270a824e89d082022085d299
+FileChecksum: MD5: c976f73aa6a8675a04b0cce6b93080d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/config.py
+SPDXID: SPDXRef-item9165398
+FileChecksum: SHA1: 5033b0d35aaec143190463aea28bdfd6b6243eea
+FileChecksum: SHA256: 5f174054eb0f382af05bc30389a71b4ebbf3a624681b3f433f1b875d8366f48b
+FileChecksum: MD5: 8e44dd7ea0640aca2efe5d5d008f32ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/SCsub
+SPDXID: SPDXRef-item9165399
+FileChecksum: SHA1: 90191540ca33c377c1f7dfe2d08546c835c3ccc3
+FileChecksum: SHA256: 4fbb385d562500819bc65d4727ddae686156048ebf0af4c6a9eb3c4154359088
+FileChecksum: MD5: fa51293e08aaa768c4da3ab80658915a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/KomputeSummatorNode.cpp
+SPDXID: SPDXRef-item9165400
+FileChecksum: SHA1: 64ffbdc39cfac95acc36b541e4417e94183b249d
+FileChecksum: SHA256: d54a95ea3ffc1cdb39d231a79b5c1eb9a7d30999627563306a6a65f0f93f08a1
+FileChecksum: MD5: 067299d6530bad33f9de0f97bab383b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/include/.gitignore
+SPDXID: SPDXRef-item9165402
+FileChecksum: SHA1: 924391e071352adcecf807df12554022f774694f
+FileChecksum: SHA256: 6e2e0dcde309e96712d93d18ef2c4e0ee21693de3fb1593289589365151bd1fc
+FileChecksum: MD5: 4da49b375f6ee6107d984a035f771e13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/register_types.cpp
+SPDXID: SPDXRef-item9165403
+FileChecksum: SHA1: 93190ee2b9d38f4e291791679c43fd5254737edb
+FileChecksum: SHA256: b3d699c6c8b7d11b3250459b2fda30aa306b5e47f629de64a0e43750cb048aa6
+FileChecksum: MD5: 59700df9d6f4d4b0e12f6236a9c886b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/custom_module/kompute_summator/KomputeSummatorNode.h
+SPDXID: SPDXRef-item9165404
+FileChecksum: SHA1: 7a4788332330237e216799ef71c8489f2bb6465b
+FileChecksum: SHA256: 3ae6ba3dabac5b7e1b9341eb3d70cc0ddbbe020d2eeb9ae4e2ef8d24d66b0603
+FileChecksum: MD5: a848bf076c23df154a0f1d81f444265c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/godot_engine/.gdignore
+SPDXID: SPDXRef-item9165406
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/.gitignore
+SPDXID: SPDXRef-item9165407
+FileChecksum: SHA1: 80cd75be2323602c29a8f1d3c66c763dd59901d3
+FileChecksum: SHA256: 058e780fa6ad1c127df8434ba119216693e204f813ecb5de017c66c9a80abf91
+FileChecksum: MD5: 221bfc95e13caf14e5df6422645b8946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/README.md
+SPDXID: SPDXRef-item9165408
+FileChecksum: SHA1: 58f685b2771a91a07c7f59354e57a6c91eaa5d27
+FileChecksum: SHA256: 27fe356460de6f3fcd61f69620f9ab7a7a324c9e53085ec3ee9703e9730a18fb
+FileChecksum: MD5: 64b404842481fa53a52ddd354856e1f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/project.godot
+SPDXID: SPDXRef-item9165409
+FileChecksum: SHA1: 7c4bb4d433118a959e3e61fd4d1617270f44dc34
+FileChecksum: SHA256: b39652c5a5a951b9935a0fa71297a168a13033a37be193d0032277461f324409
+FileChecksum: MD5: 3cd327893eaec97bfe5651904968ebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/src/.gdignore
+SPDXID: SPDXRef-item9165412
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/src/KomputeSummator.hpp
+SPDXID: SPDXRef-item9165413
+FileChecksum: SHA1: 89d9c7e3b1c87ab39e8c365fa57e91925f059fb8
+FileChecksum: SHA256: e72d87202acb4a3e914be031a69e52bd2d455af3aa5d919facbf28eaba7cfd50
+FileChecksum: MD5: 236a3778dbb64073fe31774b0b00cb6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/src/KomputeSummator.cpp
+SPDXID: SPDXRef-item9165414
+FileChecksum: SHA1: c20c1ee2f0fcae027d8660788d65466bee911d22
+FileChecksum: SHA256: 05069144b4ac3d829f89e26995a7efb82b6c27fad89468a0fdf0bb00aaeffeed
+FileChecksum: MD5: 13f64faca8ba56ce313908d25fdd138e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/src/KomputeGdNative.cpp
+SPDXID: SPDXRef-item9165415
+FileChecksum: SHA1: aebff618a20235e7924d252cd9601b9ce4f8b46f
+FileChecksum: SHA256: 90c3be3c7041e2c02374daab0e6d78e93532c2c5092378c0de9c0b215762314c
+FileChecksum: MD5: 1e6f7b508bfa07d3e3586d3fef9b5ecd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/.gdignore
+SPDXID: SPDXRef-item9165416
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/.gitignore
+SPDXID: SPDXRef-item9165417
+FileChecksum: SHA1: dd1787832dd35c6e00ca5e7cfafa6178fbe2c037
+FileChecksum: SHA256: d912c574f0a4af2a1ea6f6c42de7f4c41e1673352c643d8c1acba200c8d563ac
+FileChecksum: MD5: d817a4a162d269b2111737e1281b1a93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/CMakeLists.txt
+SPDXID: SPDXRef-item9165418
+FileChecksum: SHA1: 41905c76485b53e2c0b9e816573093deabc5704b
+FileChecksum: SHA256: 24ef51385378b80825ce95ccd7b26824749e45662eb9afea36cb4ffd4dc20ad5
+FileChecksum: MD5: e87972da3e3e7d139ff533fea947f2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/godot_examples/gdnative_shared/README.md
+SPDXID: SPDXRef-item9165419
+FileChecksum: SHA1: 7df2f8c88e84b7ae9a80626570498cfa85146f52
+FileChecksum: SHA256: 3166dfb19a57c8583c430283638d0a69dd29c58a07787fbdbcad277a78a52cd0
+FileChecksum: MD5: 839f7c4506d3a48ab54bc884afc4125b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/logistic_regression/shader/my_shader.comp
+SPDXID: SPDXRef-item9165422
+FileChecksum: SHA1: 66df5fb3e77770fc11fd2c953dcb1784ee83258d
+FileChecksum: SHA256: 9a239329d1a352985fc45a56ff44eb6b395ea64a26278fb4d80aadd13918a904
+FileChecksum: MD5: c5de3446ee5d5facad3f7331fb77a9bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/logistic_regression/src/main.cpp
+SPDXID: SPDXRef-item9165424
+FileChecksum: SHA1: 8d1a56f2f1f8be7876aba20cf8d0cc0c595f7421
+FileChecksum: SHA256: d04a2fe812fa7ddf5de00a081586e396946a8292873ddfc582519f92c8c80aa4
+FileChecksum: MD5: ae8772d3fdae47baddcfdbb4185a7589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/logistic_regression/CMakeLists.txt
+SPDXID: SPDXRef-item9165425
+FileChecksum: SHA1: 195c17f4fd25be6b0e396a7598b91952927823dc
+FileChecksum: SHA256: 619d5193933e712f006c5618dbe7ae1cf44d254c2eac7b46a71981ec23cf792c
+FileChecksum: MD5: 3b632bd41a94fa9db44ab6ef75386bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/logistic_regression/README.md
+SPDXID: SPDXRef-item9165426
+FileChecksum: SHA1: 276391ac663d2a112f9102f52b318c6baa7b895a
+FileChecksum: SHA256: 8957e127ca107996dc9c5e69711ed97f0a20d79f4165c1f5623de2386cf7b7c4
+FileChecksum: MD5: b6cd05827c16960db87b95f08874a74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/imp2_tiled.py
+SPDXID: SPDXRef-item9165428
+FileChecksum: SHA1: a25d6efa8e02c19c1eb0f8ad6f12d6604f3dbc52
+FileChecksum: SHA256: 9ea8802b98e8ababac09c1c8c59c82d900b444f35041a21d7dbcf8851ac690b1
+FileChecksum: MD5: 43aceb5dfae28bde8dbadb21588f6387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/first_example.py
+SPDXID: SPDXRef-item9165429
+FileChecksum: SHA1: 7e9823fc411ca0d0dc3e8e48516164f72b5f0530
+FileChecksum: SHA256: 30cfed77e2dbac6b8a70c7a3bd3139d1291f883c8d54e32da895831f396874c1
+FileChecksum: MD5: 143a6b4b885cf3f52363d385e019f331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/imp3_better_tiling.py
+SPDXID: SPDXRef-item9165430
+FileChecksum: SHA1: 9e07da5349ea0530803851eaf6e8eb9696d1cb32
+FileChecksum: SHA256: 2c5e3f9fa4f1879dc6206fd1e6232f51faa8839afa9654ac5cf04a62b0ed8af0
+FileChecksum: MD5: 4af9afb40a58d180225d93c59788eca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/matmul_plot.py
+SPDXID: SPDXRef-item9165431
+FileChecksum: SHA1: 0f6c4dc09d394549f569f1dc027b182fd939ebfa
+FileChecksum: SHA256: 35d5472b6c692ccc65ad800ec4f08cfae02db690187446d5cd1af88537bd1209
+FileChecksum: MD5: e2fa97899ca1ffc0bbc0420dac484704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/README.md
+SPDXID: SPDXRef-item9165432
+FileChecksum: SHA1: c15b3b1f105a8a788f9602335cad2af9ee7f210e
+FileChecksum: SHA256: 01f38a8e3ddad5d726f0cf2829f65c6904da14797451fd56f6750b581c50a704
+FileChecksum: MD5: f4903cd00a1baa8246c9c0bdb7e24378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/imp1_naive.py
+SPDXID: SPDXRef-item9165433
+FileChecksum: SHA1: 43ddf8c058a5de9a03bc6926b08b66d18e95e352
+FileChecksum: SHA256: 370dbd96d43572d1803d941b092379491532941db477e5a950b3e4bcdb8bdf44
+FileChecksum: MD5: eef468604b73460977e35e6c4813aa30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/examples/python_naive_matmul/benchmark.py
+SPDXID: SPDXRef-item9165434
+FileChecksum: SHA1: ae68a0f6a3764b86ba6395f1dc4e81f8e20b5408
+FileChecksum: SHA256: 5ba5e8888a40b620f4d715dc7f2719c49942cd0875d2c9afbf370c5300ef91b2
+FileChecksum: MD5: 8872e300184a48f641595e10c8044617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.gitignore
+SPDXID: SPDXRef-item9165435
+FileChecksum: SHA1: 24af182c284c8b21e4ff3a1754eb17f9e95e865f
+FileChecksum: SHA256: 5ffe8cab20d93e4ef7785fe0ae038ae9b167f1b1244809cb7f6fa95bf13b5d60
+FileChecksum: MD5: a1f0afd4a1c9056da75f913ab463050a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/glsl/test_shader.comp
+SPDXID: SPDXRef-item9165447
+FileChecksum: SHA1: aabb7ff9a06570cf6d172606164a0fec41eaea2b
+FileChecksum: SHA256: c927d873a69a96eb6f2f63e2727ab11b7cf6c114aedb62c3859de71c79633000
+FileChecksum: MD5: 970fa45e513a26cdf80f2776c6e2bd58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/glsl/test_op_custom_shader.comp
+SPDXID: SPDXRef-item9165448
+FileChecksum: SHA1: 7fb07a850b964bee0075f8efc95266582626982c
+FileChecksum: SHA256: cc710899b135845e52fb13542907f1ea7659e7eb5a09ba926bfe1f63bb5f0ad5
+FileChecksum: MD5: a2bad7cf254f080a73ef2607d1f88bb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/glsl/test_workgroup_shader.comp
+SPDXID: SPDXRef-item9165450
+FileChecksum: SHA1: d66f360afd435dd818d6ab0e592173857e02b5d1
+FileChecksum: SHA256: 35337a39de9dc87aa7bd9366be046d552001e17609a0540c4ffb7fa51954c9b5
+FileChecksum: MD5: 0c4e5ba1f40ae8b45e18c2a7c5739b06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/test/shaders/glsl/test_logistic_regression_shader.comp
+SPDXID: SPDXRef-item9165451
+FileChecksum: SHA1: 66df5fb3e77770fc11fd2c953dcb1784ee83258d
+FileChecksum: SHA256: 9a239329d1a352985fc45a56ff44eb6b395ea64a26278fb4d80aadd13918a904
+FileChecksum: MD5: c5de3446ee5d5facad3f7331fb77a9bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/CHANGELOG.md
+SPDXID: SPDXRef-item9165462
+FileChecksum: SHA1: 8fa5e2cfb497a6d65fd04409df6a8483a63bbd0c
+FileChecksum: SHA256: 61d6ddee63d27c4ce6f3b3d88cd0a1d47cdc883b4e99264e1aedb956c912ee7e
+FileChecksum: MD5: 9192e8ca280395c30ef8adb6c7f308e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/Dockerfile
+SPDXID: SPDXRef-item9165470
+FileChecksum: SHA1: 2ed3c6018b9eafa7d0813a24e3be1b49d1931c15
+FileChecksum: SHA256: dde0c0ef5c14fd56ed461390011c966ee089a8ef88ecfae5cd97c7baac38e037
+FileChecksum: MD5: 05bae1a3624edc63c61de8b35832f19b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docker-builders/Makefile
+SPDXID: SPDXRef-item9165472
+FileChecksum: SHA1: 0699d2b4302b081494446bb3cb525e3e3894c9ec
+FileChecksum: SHA256: 24701b53892695077df73063b358c73fe3ac1ade895d7d9d78222c852a6ca696
+FileChecksum: MD5: 22cef793f8ae36d3dd73842515c74cdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docker-builders/VulkanSDK.Dockerfile
+SPDXID: SPDXRef-item9165473
+FileChecksum: SHA1: 900fec4f38d412713ac1add437c944ef998c9283
+FileChecksum: SHA256: f5fb67ea35356f6a29432b3df1e5ef790a6be1e129f10b7fd028ff9666f3c090
+FileChecksum: MD5: fbba5f9c4ca955b224e37af7a77389b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docker-builders/KomputeBuilder.Dockerfile
+SPDXID: SPDXRef-item9165474
+FileChecksum: SHA1: 8cefe5de19a1610be27b40df06200ff7c0f8d50c
+FileChecksum: SHA256: 3005706158427b96a1ad280d9b1be0fc66df283a1ba32ce67d1420fb746517fd
+FileChecksum: MD5: 2520cd11a3469d3260820f6b17c178f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/docker-builders/Swiftshader.Dockerfile
+SPDXID: SPDXRef-item9165475
+FileChecksum: SHA1: 9cf0cec6ad1a5c5bbd9eeca7b3c33aa556869965
+FileChecksum: SHA256: 8c6aae9a4db8dc78757f9d9fedc532e6a546da54bb5a2bb545621bca24d5ec5b
+FileChecksum: MD5: 2d430682e7b8342863a31cacb6b3d75a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/scripts/build_release_windows.sh
+SPDXID: SPDXRef-item9165478
+FileChecksum: SHA1: 9aed38ae6f9f5c1e3a61d434c9c8448c7ec6cf6b
+FileChecksum: SHA256: 74bcba0795f573e7c140669ce65da2e1de6aecfc253b5928513b81b59903a926
+FileChecksum: MD5: e8f1cf4974a853953dd7ae2a6dd62cfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/scripts/push_folder_to_branch.sh
+SPDXID: SPDXRef-item9165479
+FileChecksum: SHA1: eefe61d2a2626da36e0809f0b14dabae3fd21308
+FileChecksum: SHA256: 1bab26a1dae9e4cf793316af6edd7158699c055f60e40dfe672cfbe1ead14a61
+FileChecksum: MD5: 2c87e3cc569660e7c5465d85631cbc24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/scripts/requirements.txt
+SPDXID: SPDXRef-item9165480
+FileChecksum: SHA1: 0560e53be0a6867d9b2b5294c970dedd15d62ac3
+FileChecksum: SHA256: 88832c657e968e1e84f63c9e55ec9b5163c38b2366d6095d090fb980ce039417
+FileChecksum: MD5: d792f166e5e40292c332d87f686fd63d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/scripts/build_release_linux.sh
+SPDXID: SPDXRef-item9165481
+FileChecksum: SHA1: 4fce4a7d0a600979e17fd37a87511eeab7280b1a
+FileChecksum: SHA256: 1db4638fe65332478ecd20e0d9d547de0edfb258308e15666cb9adec1c039ae7
+FileChecksum: MD5: 3766dc4413e786ccd23cdf985762c69b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.clang-format
+SPDXID: SPDXRef-item9165483
+FileChecksum: SHA1: eb2eaf6afb457dc544333c4df50f8bc382ab9792
+FileChecksum: SHA256: 65d3d2fc6da083af681f43663ef2ee6953a5bdf697fd78a312ef953dea4ba626
+FileChecksum: MD5: 436738d0cb9d761d201e1c567e0d7a0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/README.md
+SPDXID: SPDXRef-item9165484
+FileChecksum: SHA1: 5b2de47976810d6f5036958a8ddc1b21fdff7e8a
+FileChecksum: SHA256: 8c9fff7d51ed6e17d6986fa26a62619cea370873d270bb15528f78902c6aec5f
+FileChecksum: MD5: 3a01fe95f885c9193489ff569d1e4b4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Apache-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/SECURITY.md
+SPDXID: SPDXRef-item9165485
+FileChecksum: SHA1: 84446d7e645965238d3a78eff658fd52718ab3ea
+FileChecksum: SHA256: 7b825958204595539fc51bfe993e7738e811cd51b396dd747368286dc93dd4b6
+FileChecksum: MD5: 3b19cb51b1009ced61e7ac5d86de31f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/config/FindSphinx.cmake
+SPDXID: SPDXRef-item9165487
+FileChecksum: SHA1: 19740564a9101f9918f7d5f496316f7ccd30c549
+FileChecksum: SHA256: 0712204531809d0fee949bc6213999aa7b3bc3c41afcae2971ff6b874621405a
+FileChecksum: MD5: 4f83eb7d87a82b6bdd9e32837f12f8ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/.dockerignore
+SPDXID: SPDXRef-item9165488
+FileChecksum: SHA1: f40c77b1f92c662b559f9e0776b54ad5ace0c4f2
+FileChecksum: SHA256: 286dd190837fcd15b29c74250d41fd495cee65dcbbc044d7a769a87966318b5d
+FileChecksum: MD5: b99f336de564a8c151ac122b3129ac1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: KomputeProject-2024-06-10.zip/kompute/VERSION
+SPDXID: SPDXRef-item9165489
+FileChecksum: SHA1: 37225f3c32e2ab81f86c267168ca0b1e851b1408
+FileChecksum: SHA256: 9d8c94f1ad3ea96b1e2ac4914fda4cb93c76b4a3e0d8cc6dd8976d6c0b227d15
+FileChecksum: MD5: a0bac045a17408ab7363d83a91e1181e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Non-profit
+LicenseName: Non-profit
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-xxd
+LicenseName: xxd
+ExtractedText: <text> * (c) 1990-1998 by Juergen Weigert (jnweiger@informatik.uni-erlangen.de)
+*
+* Small changes made afterwards by Bram Moolenaar et al.
+*
+* Distribute freely and credit me,
+* make money and share with me,
+* lose money and don't ask me. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
